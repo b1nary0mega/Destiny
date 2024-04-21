@@ -1,8 +1,7 @@
-title:b1nary's Brave Weapons Wishlist - TEST
+title:Brave Weapons Test
 
 // The Mountaintop - PVE: The Mountaintop [TEST] (god-pve)
 //notes: Masterwork: Velocity
 Tier: S
 DPS: Auto-loading with Recombination tags:god-pve
-dimwishlist:item=568611922&perks=1478423395,3301904089,3300816228,469285294
-
+dimwishlist:item=568611922&perks=3523296417,469285294
