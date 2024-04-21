@@ -1,0 +1,91 @@
+title:b1nary's Brave Weapons Wishlist
+
+// The Mountaintop - PVE: The Mountaintop (god-pve)
+//notes: Masterwork: Velocity
+Tier: S
+DPS: Auto-loading with Recombination tags:god-pve
+dimwishlist:item=568611922&perks=3525010810,3301904089,3300816228,469285294
+dimwishlist:item=568611922&perks=3525010810,3301904089,3300816228,4104185692
+dimwishlist:item=568611922&perks=3525010810,3301904089,3523296417,469285294
+dimwishlist:item=568611922&perks=3525010810,3301904089,3523296417,4104185692
+
+
+// Edge Transit - PVE: Edge Transit (god-pve)
+//notes: Masterwork: Velocity (1), Handling (2)
+Tier: S tags:god-pve
+dimwishlist:item=568611923&perks=3525010810,3301904089,968510818,3078487919
+dimwishlist:item=568611923&perks=3525010810,3301904089,3751912585,3078487919
+
+
+// The Recluse - PVE: The Recluse - Void Build (god-pve)
+//notes: Masterwork: Range (1), Stability (2)
+Tier: A
+ tags:god-pve
+dimwishlist:item=1050806815&perks=1482024992,3230963543,776531651,2109543898
+dimwishlist:item=1050806815&perks=1482024992,3230963543,776531651,2048641572
+
+
+// The Recluse - PVE: The Recluse - Ad Clear (god-pve)
+//notes: Masterwork: Range (1), Stability (2)
+Tier: A
+ tags:god-pve
+dimwishlist:item=1050806815&perks=1482024992,3230963543,3828510309,4104185692
+dimwishlist:item=1050806815&perks=1482024992,3230963543,3828510309,3708227201
+dimwishlist:item=1050806815&perks=1482024992,3230963543,4071163871,4104185692
+dimwishlist:item=1050806815&perks=1482024992,3230963543,4071163871,3708227201
+
+
+// Hung Jury SR4 - PVE: Hung Jury (god-pve)
+//notes: Masterwork: Reload Speed
+Tier: A tags:god-pve
+dimwishlist:item=1453235079&perks=1840239774,106909392,3891536761,3824105627
+dimwishlist:item=1453235079&perks=1840239774,106909392,3891536761,555281244
+dimwishlist:item=1453235079&perks=1840239774,106909392,3828510309,3824105627
+dimwishlist:item=1453235079&perks=1840239774,106909392,3828510309,555281244
+
+
+// Falling Guillotine - PVE: Falling Guillotine (god-pve)
+//notes: Masterwork: Impact
+Tier: A tags:god-pve
+dimwishlist:item=1815105249&perks=3666208348,269888150,4104185692,3708227201
+dimwishlist:item=1815105249&perks=3666208348,269888150,4104185692,3078487919
+dimwishlist:item=1815105249&perks=3666208348,269888150,1749209109,3708227201
+dimwishlist:item=1815105249&perks=3666208348,269888150,1749209109,3078487919
+
+
+// Falling Guillotine ()
+dimwishlist:item=1815105249&perks=
+
+
+// Elsie's Rifle - PVP: Elsie's Rifle (god-pvp)
+//notes: Masterwork: Range
+Tier: A
+Better Alternative: The Messenger tags:god-pvp
+dimwishlist:item=2372514509&perks=3250034553,1885400500,2387244414,3047969693
+dimwishlist:item=2372514509&perks=3250034553,1885400500,2387244414,1015611457
+dimwishlist:item=2372514509&perks=3250034553,1885400500,3619207468,3047969693
+dimwishlist:item=2372514509&perks=3250034553,1885400500,3619207468,1015611457
+
+
+// Midnight Coup - PVE: Midnight Coup (god-pve)
+//notes: Masterwork: Range (1), Handling(2)
+Tier: S tags:god-pve
+dimwishlist:item=2763843898&perks=3250034553,106909392,3824105627,4049631843
+dimwishlist:item=2763843898&perks=3250034553,106909392,3824105627,4104185692
+dimwishlist:item=2763843898&perks=3250034553,106909392,3038247973,4049631843
+dimwishlist:item=2763843898&perks=3250034553,106909392,3038247973,4104185692
+
+
+// Succession - PVE: Succession (god-pve)
+//notes: Masterwork: Handling
+Tier: S tags:god-pve
+dimwishlist:item=3612338554&perks=1840239774,2420895100,1523832109,469285294
+dimwishlist:item=3612338554&perks=1840239774,2420895100,1523832109,1546637391
+
+
+// Succession - PVP: Succession (god-pvp)
+//notes: Masterwork: Handling
+Tier: S tags:god-pvp
+dimwishlist:item=3612338554&perks=1840239774,3142289711,588594999,957782887
+
+
