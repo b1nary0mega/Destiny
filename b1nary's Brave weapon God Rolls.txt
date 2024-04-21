@@ -1,4 +1,4 @@
-title:Brave Weapons
+title:b1nary's Brave weapon God Rolls
 
 // The Mountaintop - PVE: The Mountaintop (god-pve)
 //notes: Masterwork: Velocity
