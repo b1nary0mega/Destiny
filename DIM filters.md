@@ -1,0 +1,5 @@
+- Current character's inventory: `is:inleftchar is:equipment not:equipped`
+- Sub-60 base, non-exotic armor: `is:armor basestat:total:<60 not:exotic not:maxpower not:classitem`
+- Non-max power blues: `is:equipment is:blue not:maxpower`
+- Max power armour for a character: `is:titan is:maxpower`
+- Full Character Weapon Loadout: `is:inleftchar is:weapon not:inpostmaster`
