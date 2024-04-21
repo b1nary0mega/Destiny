@@ -1,5 +1,5 @@
 # Cleaning Up
-- Non-wishlist items from Season 23, not used in a loadout: `-is:wishlist season:23 -is:inloadout`
+- Non-wishlist items from Season 23, not used in a loadout: `-is:wishlist season:23 -is:inloadout -is:crafted`
 - Sub-60 base, non-exotic armor: `is:armor basestat:total:<60 not:exotic not:maxpower not:classitem`
 
 # Unsorted
