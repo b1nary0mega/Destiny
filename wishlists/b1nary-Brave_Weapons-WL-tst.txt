@@ -1,4 +1,4 @@
-title:b1nary's Brave Weapons Wishlist
+title:b1nary's Brave Weapons Wishlist - TEST
 
 // The Mountaintop - PVE: The Mountaintop [TEST] (god-pve)
 //notes: Masterwork: Velocity
