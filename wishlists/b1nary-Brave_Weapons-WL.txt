@@ -14,7 +14,7 @@ dimwishlist:item=568611922&perks=3525010810,3301904089,3523296417,4104185692
 //notes: Masterwork: Velocity
 Tier: S
 DPS: Auto-loading with Recombination tags:god-pve
-dimwishlist:item=568611922&perks=1478423395,3301904089,3523296417,469285294
+dimwishlist:item=568611922&perks=1478423395,3301904089,3300816228,469285294
 
 
 // Edge Transit - PVE: Edge Transit (god-pve)
