@@ -1,6 +1,6 @@
 {
     "description": "Brave Weapon God rolls, primarily focused on PVE.",
-    "name": "Brave_Weapons-PKG.json",
+    "name": "Brave_Weapons-PKG",
     "data": [
         {
             "description": "Masterwork: Range (1), Handling(2)\nTier: S",
@@ -27,9 +27,9 @@
             ]
         },
         {
-            "description": "Masterwork: Reload Speed\nTier: A",
+            "description": "Masterwork: Reload Speed\nTier: A\nRecommended Loadout: Hung Jury SR4, Cartesian Coordinate, Gjallarhorn.",
             "hash": 1453235079,
-            "name": "PVE: Hung Jury",
+            "name": "PVE: Hung Jury (GMs)",
             "plugs": [
                 [
                     1840239774
@@ -38,22 +38,22 @@
                     106909392
                 ],
                 [
-                    3891536761,
-                    3828510309
+                    3891536761
                 ],
                 [
-                    3824105627,
+                    3038247973,
                     555281244
                 ]
             ],
             "tags": [
-                "GodPVE"
+                "GodPVE",
+                "PVE"
             ]
         },
         {
-            "description": "Masterwork: Velocity\nTier: S\nDPS: Auto-loading with Recombination",
+            "description": "Masterwork: Velocity\nTier: S\nRecommended Loadout: The Mountaintop, Sunshot, Apex Predator.",
             "hash": 568611922,
-            "name": "PVE: The Mountaintop",
+            "name": "PVE: The Mountaintop (General)",
             "plugs": [
                 [
                     3525010810
@@ -71,11 +71,12 @@
                 ]
             ],
             "tags": [
-                "GodPVE"
+                "GodPVE",
+                "PVE"
             ]
         },
         {
-            "description": "Masterwork: Velocity (1), Handling (2)\nTier: S",
+            "description": "Masterwork: Velocity (1), Handling (2)\nTier: S\nRecommended Loadout: The Mountaintop, Sunshot, Edge Transit.",
             "hash": 568611923,
             "name": "PVE: Edge Transit",
             "plugs": [
@@ -94,13 +95,14 @@
                 ]
             ],
             "tags": [
-                "GodPVE"
+                "GodPVE",
+                "PVE"
             ]
         },
         {
-            "description": "Masterwork: Range (1), Stability (2)\nTier: A\n",
+            "description": "Masterwork: Range (1), Stability (2)\nTier: A\nRecommended Loadout: Scatter Signal or Tusk of the Boar, The Recluse, Commemoration.",
             "hash": 1050806815,
-            "name": "PVE: The Recluse - Void Build",
+            "name": "PVE: The Recluse (Void Build)",
             "plugs": [
                 [
                     1482024992
@@ -117,13 +119,14 @@
                 ]
             ],
             "tags": [
-                "GodPVE"
+                "GodPVE",
+                "PVE"
             ]
         },
         {
-            "description": "Masterwork: Range (1), Stability (2)\nTier: A\n",
+            "description": "Masterwork: Range (1), Stability (2)\nTier: A\nRecommended Loadout: Scatter Signal, The Recluse, Apex Predator.",
             "hash": 1050806815,
-            "name": "PVE: The Recluse - Ad Clear",
+            "name": "PVE: The Recluse (Ad Clear)",
             "plugs": [
                 [
                     1482024992
@@ -141,13 +144,14 @@
                 ]
             ],
             "tags": [
-                "GodPVE"
+                "GodPVE",
+                "PVE"
             ]
         },
         {
-            "description": "Masterwork: Impact\nTier: A",
+            "description": "Masterwork: Impact\nTier: A\nRecommended Loadout: Riptide, Sunshot, Falling Guillotine.",
             "hash": 1815105249,
-            "name": "PVE: Falling Guillotine",
+            "name": "PVE: Falling Guillotine (Utility)",
             "plugs": [
                 [
                     3666208348
@@ -160,16 +164,16 @@
                     1749209109
                 ],
                 [
-                    3708227201,
-                    3078487919
+                    2077819806
                 ]
             ],
             "tags": [
+                "PVE",
                 "GodPVE"
             ]
         },
         {
-            "description": "Masterwork: Range\nTier: A\nBetter Alternative: The Messenger",
+            "description": "Masterwork: Stability\nTier: A\nBetter Alternative: The Messenger",
             "hash": 2372514509,
             "name": "PVP: Elsie's Rifle",
             "plugs": [
@@ -189,11 +193,12 @@
                 ]
             ],
             "tags": [
-                "GodPVP"
+                "GodPVP",
+                "PVP"
             ]
         },
         {
-            "description": "Masterwork: Handling\nTier: S",
+            "description": "Masterwork: Handling\nTier: S\nRecommended Loadout: Succession, Sunshot, Apex Predator.",
             "hash": 3612338554,
             "name": "PVE: Succession",
             "plugs": [
@@ -207,12 +212,12 @@
                     1523832109
                 ],
                 [
-                    469285294,
-                    1546637391
+                    469285294
                 ]
             ],
             "tags": [
-                "GodPVE"
+                "GodPVE",
+                "PVE"
             ]
         },
         {
@@ -234,7 +239,214 @@
                 ]
             ],
             "tags": [
+                "GodPVP",
+                "PVP"
+            ]
+        },
+        {
+            "description": "Masterwork: Velocity\nTier: S\nRecommended Loadout: The Mountaintop, Merciless, Apex Predator.",
+            "hash": 568611922,
+            "name": "PVE: The Mountaintop (DPS)",
+            "plugs": [
+                [
+                    3525010810
+                ],
+                [
+                    3301904089
+                ],
+                [
+                    3300816228
+                ],
+                [
+                    469285294
+                ]
+            ],
+            "tags": [
+                "GodPVE",
+                "PVE"
+            ]
+        },
+        {
+            "description": "Masterwork: Velocity\nTier: A\n",
+            "hash": 568611922,
+            "name": "PVP: The Mountaintop",
+            "plugs": [
+                [
+                    1478423395
+                ],
+                [
+                    2822142346
+                ],
+                [
+                    951095735
+                ],
+                [
+                    438098033,
+                    1546637391
+                ]
+            ],
+            "tags": [
+                "GodPVP",
+                "PVP"
+            ]
+        },
+        {
+            "description": "Masterwork: Range\nTier: A",
+            "hash": 1050806815,
+            "name": "PVP: The Recluse (Ad Clear)",
+            "plugs": [
+                [
+                    3250034553
+                ],
+                [
+                    1885400500
+                ],
+                [
+                    1359896290
+                ],
+                [
+                    2109543898,
+                    1890422124
+                ]
+            ],
+            "tags": [
+                "PVP",
                 "GodPVP"
+            ]
+        },
+        {
+            "description": "Masterwork: Reload Speed\nTier: A\nRecommended Loadout: Hung Jury SR4, Forbearance, Gjallarhorn.",
+            "hash": 1453235079,
+            "name": "PVE: Hung Jury (Ads)",
+            "plugs": [
+                [
+                    1840239774
+                ],
+                [
+                    106909392
+                ],
+                [
+                    3891536761
+                ],
+                [
+                    3824105627,
+                    3038247973
+                ]
+            ],
+            "tags": [
+                "GodPVE",
+                "PVE"
+            ]
+        },
+        {
+            "description": "Masterwork: Stability\nTier: A",
+            "hash": 1453235079,
+            "name": "PVP: Hung Jury",
+            "plugs": [
+                [
+                    1840239774
+                ],
+                [
+                    3177308360
+                ],
+                [
+                    247725512
+                ],
+                [
+                    2551157718,
+                    3751912585
+                ]
+            ],
+            "tags": [
+                "PVP",
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "Masterwork: Velocity\nTier: B",
+            "hash": 568611923,
+            "name": "PVP: Edge Transit",
+            "plugs": [
+                [
+                    1478423395
+                ],
+                [
+                    2822142346
+                ],
+                [
+                    951095735
+                ],
+                [
+                    3194351027
+                ]
+            ],
+            "tags": [
+                "GodPVP",
+                "PVP"
+            ]
+        },
+        {
+            "description": "Masterwork: Velocity (1), Handling (2)\nTier: S\nRecommended Loadout: The Mountaintop, Sunshot, Edge Transit.",
+            "hash": 568611923,
+            "name": "PVE: Edge Transit",
+            "plugs": [
+                [
+                    968510818
+                ],
+                [
+                    3078487919
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "Masterwork: Impact\nTier: A\nRecommended Loadout: Witherhoard, Zaouli’s Bane, Falling Guillotine.",
+            "hash": 1815105249,
+            "name": "PVE: Falling Guillotine (DPS)",
+            "plugs": [
+                [
+                    3666208348
+                ],
+                [
+                    269888150
+                ],
+                [
+                    4104185692,
+                    1749209109
+                ],
+                [
+                    3708227201,
+                    3078487919
+                ]
+            ],
+            "tags": [
+                "PVE",
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Masterwork: Impact\nTier: B\n",
+            "hash": 1815105249,
+            "name": "PVP: Falling Guillotine",
+            "plugs": [
+                [
+                    436053704
+                ],
+                [
+                    269888150
+                ],
+                [
+                    1546637391
+                ],
+                [
+                    2077819806
+                ]
+            ],
+            "tags": [
+                "GodPVP",
+                "PVP"
             ]
         }
     ]
