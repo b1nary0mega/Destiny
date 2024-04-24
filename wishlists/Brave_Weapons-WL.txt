@@ -1,6 +1,14 @@
 title:Brave Weapons PKG
 description:Brave Weapon God rolls, primarily focused on PVE.
 
+// Forbearance - PVE: Forebearance (god-pve,pve)
+//notes: Masterwork: Handling (1), Reload (2)
+Tier: S
+ tags:god-pve,pve
+dimwishlist:item=568611921&perks=3525010810,2822142346,3523296417,2396489472
+dimwishlist:item=568611921&perks=3525010810,2822142346,3523296417,4049631843
+
+
 // The Mountaintop - PVE: The Mountaintop (General) (god-pve,pve)
 //notes: Masterwork: Velocity
 Tier: S
@@ -120,6 +128,28 @@ Tier: B
 dimwishlist:item=1815105249&perks=436053704,269888150,1546637391,2077819806
 
 
+// Hammerhead - PVE - Hammerhead (god-pve,pve)
+//notes: Masterwork: Handling
+Tier: S
+Recommended Loadout: The Mountaintop, Sunshot, Hammerhead. tags:god-pve,pve
+dimwishlist:item=1896309757&perks=1840239774,1087426260,3425386926,557221067
+dimwishlist:item=1896309757&perks=1840239774,1087426260,3418782618,557221067
+dimwishlist:item=1896309757&perks=1840239774,3230963543,3425386926,557221067
+dimwishlist:item=1896309757&perks=1840239774,3230963543,3418782618,557221067
+dimwishlist:item=1896309757&perks=1482024992,1087426260,3425386926,557221067
+dimwishlist:item=1896309757&perks=1482024992,1087426260,3418782618,557221067
+dimwishlist:item=1896309757&perks=1482024992,3230963543,3425386926,557221067
+dimwishlist:item=1896309757&perks=1482024992,3230963543,3418782618,557221067
+
+
+// Hammerhead - PVP - Hammerhead (god-pvp,pvp)
+//notes: Masterwork: Stability
+Tier: S
+Recommended Loadout: The Mountaintop, Sunshot, Hammerhead. tags:god-pvp,pvp
+dimwishlist:item=1896309757&perks=3250034553,1885400500,1870851715,1890422124
+dimwishlist:item=1896309757&perks=3250034553,1885400500,3425386926,1890422124
+
+
 // Elsie's Rifle - PVP: Elsie's Rifle (god-pvp,pvp)
 //notes: Masterwork: Stability
 Tier: A
@@ -150,4 +180,5 @@ dimwishlist:item=3612338554&perks=1840239774,2420895100,1523832109,469285294
 //notes: Masterwork: Handling
 Tier: S tags:god-pvp,pvp
 dimwishlist:item=3612338554&perks=1840239774,3142289711,588594999,957782887
+
 
