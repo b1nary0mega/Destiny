@@ -448,6 +448,80 @@
                 "GodPVP",
                 "PVP"
             ]
+        },
+        {
+            "description": "Masterwork: Handling\nTier: S\nRecommended Loadout: The Mountaintop, Sunshot, Hammerhead.",
+            "hash": 1896309757,
+            "name": "PVE - Hammerhead",
+            "plugs": [
+                [
+                    1840239774,
+                    1482024992
+                ],
+                [
+                    1087426260,
+                    3230963543
+                ],
+                [
+                    3425386926,
+                    3418782618
+                ],
+                [
+                    557221067
+                ]
+            ],
+            "tags": [
+                "GodPVE",
+                "PVE"
+            ]
+        },
+        {
+            "description": "Masterwork: Stability\nTier: S\nRecommended Loadout: The Mountaintop, Sunshot, Hammerhead.",
+            "hash": 1896309757,
+            "name": "PVP - Hammerhead",
+            "plugs": [
+                [
+                    3250034553
+                ],
+                [
+                    1885400500
+                ],
+                [
+                    1870851715,
+                    3425386926
+                ],
+                [
+                    1890422124
+                ]
+            ],
+            "tags": [
+                "GodPVP",
+                "PVP"
+            ]
+        },
+        {
+            "description": "Masterwork: Handling (1), Reload (2)\nTier: S\n",
+            "hash": 568611921,
+            "name": "PVE: Forebearance",
+            "plugs": [
+                [
+                    3525010810
+                ],
+                [
+                    2822142346
+                ],
+                [
+                    3523296417
+                ],
+                [
+                    2396489472,
+                    4049631843
+                ]
+            ],
+            "tags": [
+                "GodPVE",
+                "PVE"
+            ]
         }
     ]
 }
