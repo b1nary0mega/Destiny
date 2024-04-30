@@ -1,5 +1,5 @@
 title:Brave Weapons PKG
-description:Brave Weapon God rolls, primarily focused on PVE.
+description:Brave Weapon God rolls based on blueberries.gg
 
 // Forbearance - PVE: Forebearance (god-pve,pve)
 //notes: Masterwork: Handling (1), Reload (2)
@@ -150,6 +150,42 @@ dimwishlist:item=1896309757&perks=3250034553,1885400500,1870851715,1890422124
 dimwishlist:item=1896309757&perks=3250034553,1885400500,3425386926,1890422124
 
 
+// Blast Furnace - PVE: Blast Furnace (god-pve,pve)
+//notes: Tier: B
+Masterwork: handling
+
+https://www.blueberries.gg/weapons/blast-furnace-god-rolls/ tags:god-pve,pve
+dimwishlist:item=2372514508&perks=1840239774,1087426260,3891536761,2109543898
+dimwishlist:item=2372514508&perks=1840239774,1087426260,3891536761,4049631843
+
+
+// Blast Furnace - PVP: Blast Furnace (3v3) (god-pvp,pvp)
+//notes: Masterwork: Stability (1), Handling (2)
+Tier: A
+https://www.blueberries.gg/weapons/blast-furnace-god-rolls/ tags:god-pvp,pvp
+dimwishlist:item=2372514508&perks=839105230,3142289711,2387244414,247725512
+dimwishlist:item=2372514508&perks=839105230,3142289711,460017080,247725512
+
+
+// Blast Furnace - PVP: Blast Furnace (6v6) (god-pvp,pvp)
+//notes: Masterwork: Stability (1), Handling (2)
+Tier: A
+https://www.blueberries.gg/weapons/blast-furnace-god-rolls/ tags:god-pvp,pvp
+dimwishlist:item=2372514508&perks=839105230,3142289711,2387244414,1015611457
+dimwishlist:item=2372514508&perks=839105230,3142289711,2387244414,3425386926
+dimwishlist:item=2372514508&perks=839105230,3142289711,1428297954,1015611457
+dimwishlist:item=2372514508&perks=839105230,3142289711,1428297954,3425386926
+
+
+// Blast Furnace - PVE: Blast Furnace (pve)
+//notes: Tier: B
+Masterwork: handling
+
+https://www.blueberries.gg/weapons/blast-furnace-god-rolls/ tags:pve
+dimwishlist:item=2372514508&perks=1840239774,1087426260,3700496672,2109543898
+dimwishlist:item=2372514508&perks=1840239774,1087426260,3700496672,4049631843
+
+
 // Elsie's Rifle - PVP: Elsie's Rifle (god-pvp,pvp)
 //notes: Masterwork: Stability
 Tier: A
@@ -167,6 +203,34 @@ dimwishlist:item=2763843898&perks=3250034553,106909392,3824105627,4049631843
 dimwishlist:item=2763843898&perks=3250034553,106909392,3824105627,4104185692
 dimwishlist:item=2763843898&perks=3250034553,106909392,3038247973,4049631843
 dimwishlist:item=2763843898&perks=3250034553,106909392,3038247973,4104185692
+
+
+// Luna's Howl - PVE: Luna's Howl (ADS) (god-pve,pve)
+//notes: Masterwork: Reload Speed
+Tier: B
+https://www.blueberries.gg/weapons/lunas-howl-god-rolls/ tags:god-pve,pve
+dimwishlist:item=2763843899&perks=1840239774,3230963543,3017780555,4293542123
+dimwishlist:item=2763843899&perks=1840239774,3230963543,3017780555,2109543898
+dimwishlist:item=2763843899&perks=1840239774,3230963543,3828510309,4293542123
+dimwishlist:item=2763843899&perks=1840239774,3230963543,3828510309,2109543898
+
+
+// Luna's Howl - PVP: Luna's Howl (3v3) (god-pvp,pvp)
+//notes: Masterwork: Reload Speed
+Tier: A
+https://www.blueberries.gg/weapons/lunas-howl-god-rolls/ tags:god-pvp,pvp
+dimwishlist:item=2763843899&perks=3250034553,1885400500,699525795,47981717
+dimwishlist:item=2763843899&perks=3250034553,1885400500,3161816588,47981717
+
+
+// Luna's Howl - PVP: Luna's Howl (6v6) (god-pvp,pvp)
+//notes: Masterwork: Reload Speed
+Tier: A
+https://www.blueberries.gg/weapons/lunas-howl-god-rolls/ tags:god-pvp,pvp
+dimwishlist:item=2763843899&perks=3250034553,1885400500,1195158366,2720533289
+dimwishlist:item=2763843899&perks=3250034553,1885400500,1195158366,1015611457
+dimwishlist:item=2763843899&perks=3250034553,1885400500,699525795,2720533289
+dimwishlist:item=2763843899&perks=3250034553,1885400500,699525795,1015611457
 
 
 // Succession - PVE: Succession (god-pve,pve)
