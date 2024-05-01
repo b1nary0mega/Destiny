@@ -692,6 +692,28 @@
                 "GodPVP",
                 "PVP"
             ]
+        },
+        {
+            "description": "Masterwork: Handling\n",
+            "hash": 568611923,
+            "name": "PVE: Edge Transit (Aztecross)",
+            "plugs": [
+                [
+                    3809316345
+                ],
+                [
+                    1771897777
+                ],
+                [
+                    3751912585
+                ],
+                [
+                    3078487919
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
         }
     ]
 }
