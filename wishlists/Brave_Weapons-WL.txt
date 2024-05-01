@@ -1,5 +1,5 @@
 title:Brave Weapons PKG
-description:Brave Weapon God rolls based on blueberries.gg
+description:Brave Weapon God rolls, primarily focused on PVE.
 
 // Forbearance - PVE: Forebearance (god-pve,pve)
 //notes: Masterwork: Handling (1), Reload (2)
@@ -53,6 +53,12 @@ dimwishlist:item=568611923&perks=1478423395,2822142346,951095735,3194351027
 Tier: S
 Recommended Loadout: The Mountaintop, Sunshot, Edge Transit. tags:pve
 dimwishlist:item=568611923&perks=968510818,3078487919
+
+
+// Edge Transit - PVE: Edge Transit (Aztecross) (pve)
+//notes: Masterwork: Handling
+ tags:pve
+dimwishlist:item=568611923&perks=3809316345,1771897777,3751912585,3078487919
 
 
 // The Recluse - PVE: The Recluse (Void Build) (god-pve,pve)
