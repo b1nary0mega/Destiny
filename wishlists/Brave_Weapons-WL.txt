@@ -1,5 +1,5 @@
 title:Brave Weapons PKG
-description:Brave Weapon God rolls.
+description:Brave Weapon God rolls, primarily focused on PVE.
 
 // Forbearance - PVE: Forebearance (god-pve)
 //notes: Masterwork: Handling (1), Reload (2)
@@ -446,7 +446,7 @@ dimwishlist:item=2763843898&perks=1840239774,1087426260,3038247973,4049631843
 dimwishlist:item=2763843898&perks=1840239774,1087426260,3038247973,4104185692
 
 
-// Midnight Coup - PVE: Midnight Coup (god-pvp)
+// Midnight Coup - PVP: Midnight Coup (god-pvp)
 //notes: Masterwork: Range
 Tier: B tags:god-pvp
 dimwishlist:item=2763843898&perks=1482024992,3142289711,3038247973,2387244414
@@ -459,10 +459,13 @@ dimwishlist:item=2763843898&perks=1482024992,3142289711,588594999,47981717
 //notes: Masterwork: Handling
 Tier: S
 Recommended Loadout: Midnight Coup, Forbearance, or any Fusion Rifle, Gjallarhorn. tags:pve
-dimwishlist:item=2763843898&perks=
+dimwishlist:item=2763843898&perks=3824105627,4049631843
+dimwishlist:item=2763843898&perks=3824105627,4104185692
+dimwishlist:item=2763843898&perks=3038247973,4049631843
+dimwishlist:item=2763843898&perks=3038247973,4104185692
 
 
-// Midnight Coup - PVE: Midnight Coup (pvp)
+// Midnight Coup - PVP: Midnight Coup (pvp)
 //notes: Masterwork: Range
 Tier: B tags:pvp
 dimwishlist:item=2763843898&perks=3038247973,2387244414
