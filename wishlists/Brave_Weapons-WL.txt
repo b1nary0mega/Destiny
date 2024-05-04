@@ -1,58 +1,104 @@
 title:Brave Weapons PKG
-description:Brave Weapon God rolls, primarily focused on PVE.
+description:Brave Weapon God rolls.
 
-// Forbearance - PVE: Forebearance (god-pve,pve)
+// Forbearance - PVE: Forebearance (god-pve)
 //notes: Masterwork: Handling (1), Reload (2)
 Tier: S
- tags:god-pve,pve
+ tags:god-pve
 dimwishlist:item=568611921&perks=3525010810,2822142346,3523296417,2396489472
 dimwishlist:item=568611921&perks=3525010810,2822142346,3523296417,4049631843
+dimwishlist:item=568611921&perks=3525010810,2822142346,2010801679,2396489472
+dimwishlist:item=568611921&perks=3525010810,2822142346,2010801679,4049631843
 
 
-// The Mountaintop - PVE: The Mountaintop (General) (god-pve,pve)
+// Forbearance - PVP: Forebearance (god-pvp)
+//notes: Masterwork: Handling
+Tier: C
+ tags:god-pvp
+dimwishlist:item=568611921&perks=3525010810,2822142346,1683379515,2610012052
+dimwishlist:item=568611921&perks=3525010810,2822142346,3436462433,2610012052
+
+
+// Forbearance - PVE: Forebearance (pve)
+//notes: Masterwork: Handling (1), Reload (2)
+Tier: S
+ tags:pve
+dimwishlist:item=568611921&perks=3523296417,2396489472
+dimwishlist:item=568611921&perks=3523296417,4049631843
+dimwishlist:item=568611921&perks=2010801679,2396489472
+dimwishlist:item=568611921&perks=2010801679,4049631843
+
+
+// Forbearance - PVP: Forebearance (pvp)
+//notes: Masterwork: Handling
+Tier: C
+ tags:pvp
+dimwishlist:item=568611921&perks=1683379515,2610012052
+dimwishlist:item=568611921&perks=3436462433,2610012052
+
+
+// The Mountaintop - PVE: The Mountaintop (General) (god-pve)
 //notes: Masterwork: Velocity
 Tier: S
-Recommended Loadout: The Mountaintop, Sunshot, Apex Predator. tags:god-pve,pve
+Recommended Loadout: The Mountaintop, Sunshot, Apex Predator. tags:god-pve
 dimwishlist:item=568611922&perks=3525010810,3301904089,3300816228,469285294
 dimwishlist:item=568611922&perks=3525010810,3301904089,3300816228,4104185692
 dimwishlist:item=568611922&perks=3525010810,3301904089,3523296417,469285294
 dimwishlist:item=568611922&perks=3525010810,3301904089,3523296417,4104185692
 
 
-// The Mountaintop - PVE: The Mountaintop (DPS) (god-pve,pve)
+// The Mountaintop - PVE: The Mountaintop (DPS) (god-pve)
 //notes: Masterwork: Velocity
 Tier: S
-Recommended Loadout: The Mountaintop, Merciless, Apex Predator. tags:god-pve,pve
+Recommended Loadout: The Mountaintop, Merciless, Apex Predator. tags:god-pve
 dimwishlist:item=568611922&perks=3525010810,3301904089,3300816228,469285294
 
 
-// The Mountaintop - PVP: The Mountaintop (god-pvp,pvp)
+// The Mountaintop - PVP: The Mountaintop (god-pvp)
 //notes: Masterwork: Velocity
 Tier: A
- tags:god-pvp,pvp
+ tags:god-pvp
 dimwishlist:item=568611922&perks=1478423395,2822142346,951095735,438098033
 dimwishlist:item=568611922&perks=1478423395,2822142346,951095735,1546637391
 
 
-// Edge Transit - PVE: Edge Transit (god-pve,pve)
+// The Mountaintop - PVE: The Mountaintop (General) (pve)
+//notes: Masterwork: Velocity
+Tier: S
+Recommended Loadout: The Mountaintop, Sunshot, Apex Predator. tags:pve
+dimwishlist:item=568611922&perks=3300816228,469285294
+dimwishlist:item=568611922&perks=3300816228,4104185692
+dimwishlist:item=568611922&perks=3523296417,469285294
+dimwishlist:item=568611922&perks=3523296417,4104185692
+
+
+// The Mountaintop - PVE: The Mountaintop (DPS) (pve)
+//notes: Masterwork: Velocity
+Tier: S
+Recommended Loadout: The Mountaintop, Merciless, Apex Predator. tags:pve
+dimwishlist:item=568611922&perks=3300816228,469285294
+
+
+// The Mountaintop - PVP: The Mountaintop (pvp)
+//notes: Masterwork: Velocity
+Tier: A
+ tags:pvp
+dimwishlist:item=568611922&perks=951095735,438098033
+dimwishlist:item=568611922&perks=951095735,1546637391
+
+
+// Edge Transit - PVE: Edge Transit (god-pve)
 //notes: Masterwork: Velocity (1), Handling (2)
 Tier: S
-Recommended Loadout: The Mountaintop, Sunshot, Edge Transit. tags:god-pve,pve
+Recommended Loadout: The Mountaintop, Sunshot, Edge Transit. tags:god-pve
 dimwishlist:item=568611923&perks=3525010810,3301904089,968510818,3078487919
 dimwishlist:item=568611923&perks=3525010810,3301904089,3751912585,3078487919
 
 
-// Edge Transit - PVP: Edge Transit (god-pvp,pvp)
+// Edge Transit - PVP: Edge Transit (god-pvp)
 //notes: Masterwork: Velocity
-Tier: B tags:god-pvp,pvp
+Tier: B tags:god-pvp
 dimwishlist:item=568611923&perks=1478423395,2822142346,951095735,3194351027
-
-
-// Edge Transit - PVE: Edge Transit (pve)
-//notes: Masterwork: Velocity (1), Handling (2)
-Tier: S
-Recommended Loadout: The Mountaintop, Sunshot, Edge Transit. tags:pve
-dimwishlist:item=568611923&perks=968510818,3078487919
 
 
 // Edge Transit - PVE: Edge Transit (Aztecross) (pve)
@@ -61,194 +107,459 @@ dimwishlist:item=568611923&perks=968510818,3078487919
 dimwishlist:item=568611923&perks=3809316345,1771897777,3751912585,3078487919
 
 
-// The Recluse - PVE: The Recluse (Void Build) (god-pve,pve)
+// Edge Transit - PVE: Edge Transit (pve)
+//notes: Masterwork: Velocity (1), Handling (2)
+Tier: S
+Recommended Loadout: The Mountaintop, Sunshot, Edge Transit. tags:pve
+dimwishlist:item=568611923&perks=968510818,3078487919
+dimwishlist:item=568611923&perks=3751912585,3078487919
+
+
+// Edge Transit - PVP: Edge Transit (pvp)
+//notes: Masterwork: Velocity
+Tier: B tags:pvp
+dimwishlist:item=568611923&perks=951095735,3194351027
+
+
+// The Recluse - PVE: The Recluse (Void Build) (god-pve)
 //notes: Masterwork: Range (1), Stability (2)
 Tier: A
-Recommended Loadout: Scatter Signal or Tusk of the Boar, The Recluse, Commemoration. tags:god-pve,pve
+Recommended Loadout: Scatter Signal or Tusk of the Boar, The Recluse, Commemoration. tags:god-pve
 dimwishlist:item=1050806815&perks=1482024992,3230963543,776531651,2109543898
 dimwishlist:item=1050806815&perks=1482024992,3230963543,776531651,2048641572
 
 
-// The Recluse - PVE: The Recluse (Ad Clear) (god-pve,pve)
+// The Recluse - PVE: The Recluse (Ad Clear) (god-pve)
 //notes: Masterwork: Range (1), Stability (2)
 Tier: A
-Recommended Loadout: Scatter Signal, The Recluse, Apex Predator. tags:god-pve,pve
-dimwishlist:item=1050806815&perks=1482024992,3230963543,3828510309,4104185692
-dimwishlist:item=1050806815&perks=1482024992,3230963543,3828510309,3708227201
+Recommended Loadout: Scatter Signal, The Recluse, Apex Predator. tags:god-pve
+dimwishlist:item=1050806815&perks=1482024992,3230963543,776531651,4104185692
+dimwishlist:item=1050806815&perks=1482024992,3230963543,776531651,3708227201
 dimwishlist:item=1050806815&perks=1482024992,3230963543,4071163871,4104185692
 dimwishlist:item=1050806815&perks=1482024992,3230963543,4071163871,3708227201
 
 
-// The Recluse - PVP: The Recluse (Ad Clear) (pvp,god-pvp)
+// The Recluse - PVP: The Recluse (god-pvp)
 //notes: Masterwork: Range
-Tier: A tags:pvp,god-pvp
-dimwishlist:item=1050806815&perks=3250034553,1885400500,1359896290,2109543898
+Tier: A tags:god-pvp
+dimwishlist:item=1050806815&perks=3250034553,1885400500,1359896290,3081867624
 dimwishlist:item=1050806815&perks=3250034553,1885400500,1359896290,1890422124
 
 
-// Hung Jury SR4 - PVE: Hung Jury (GMs) (god-pve,pve)
+// The Recluse - PVE: The Recluse (Void Build) (pve)
+//notes: Masterwork: Range (1), Stability (2)
+Tier: A
+Recommended Loadout: Scatter Signal or Tusk of the Boar, The Recluse, Commemoration. tags:pve
+dimwishlist:item=1050806815&perks=776531651,2109543898
+dimwishlist:item=1050806815&perks=776531651,2048641572
+
+
+// The Recluse - PVE: The Recluse (Ad Clear) (pve)
+//notes: Masterwork: Range (1), Stability (2)
+Tier: A
+Recommended Loadout: Scatter Signal, The Recluse, Apex Predator. tags:pve
+dimwishlist:item=1050806815&perks=776531651,4104185692
+dimwishlist:item=1050806815&perks=776531651,3708227201
+dimwishlist:item=1050806815&perks=4071163871,4104185692
+dimwishlist:item=1050806815&perks=4071163871,3708227201
+
+
+// The Recluse - PVP: The Recluse (pvp)
+//notes: Masterwork: Range
+Tier: A tags:pvp
+dimwishlist:item=1050806815&perks=1359896290,3081867624
+dimwishlist:item=1050806815&perks=1359896290,1890422124
+
+
+// Hung Jury SR4 - PVE: Hung Jury (GMs) (god-pve)
 //notes: Masterwork: Reload Speed
 Tier: A
-Recommended Loadout: Hung Jury SR4, Cartesian Coordinate, Gjallarhorn. tags:god-pve,pve
+Recommended Loadout: Hung Jury SR4, Cartesian Coordinate, Gjallarhorn. tags:god-pve
 dimwishlist:item=1453235079&perks=1840239774,106909392,3891536761,3038247973
-dimwishlist:item=1453235079&perks=1840239774,106909392,3891536761,555281244
+dimwishlist:item=1453235079&perks=1840239774,106909392,3891536761,4049631843
 
 
-// Hung Jury SR4 - PVE: Hung Jury (Ads) (god-pve,pve)
+// Hung Jury SR4 - PVE: Hung Jury (Ads) (god-pve)
 //notes: Masterwork: Reload Speed
 Tier: A
-Recommended Loadout: Hung Jury SR4, Forbearance, Gjallarhorn. tags:god-pve,pve
+Recommended Loadout: Hung Jury SR4, Forbearance, Gjallarhorn. tags:god-pve
 dimwishlist:item=1453235079&perks=1840239774,106909392,3891536761,3824105627
 dimwishlist:item=1453235079&perks=1840239774,106909392,3891536761,3038247973
 
 
-// Hung Jury SR4 - PVP: Hung Jury (pvp,god-pvp)
-//notes: Masterwork: Stability
-Tier: A tags:pvp,god-pvp
+// Hung Jury SR4 - PVP: Hung Jury (god-pvp)
+//notes: Masterwork: Stability (1), Handling (2)
+Tier: A tags:god-pvp
 dimwishlist:item=1453235079&perks=1840239774,3177308360,247725512,2551157718
 dimwishlist:item=1453235079&perks=1840239774,3177308360,247725512,3751912585
 
 
-// Falling Guillotine - PVE: Falling Guillotine (Utility) (pve,god-pve)
+// Hung Jury SR4 - PVE: Hung Jury (GMs) (pve)
+//notes: Masterwork: Reload Speed
+Tier: A
+Recommended Loadout: Hung Jury SR4, Cartesian Coordinate, Gjallarhorn. tags:pve
+dimwishlist:item=1453235079&perks=3891536761,3038247973
+dimwishlist:item=1453235079&perks=3891536761,4049631843
+
+
+// Hung Jury SR4 - PVE: Hung Jury (Ads) (pve)
+//notes: Masterwork: Reload Speed
+Tier: A
+Recommended Loadout: Hung Jury SR4, Forbearance, Gjallarhorn. tags:pve
+dimwishlist:item=1453235079&perks=3891536761,3824105627
+dimwishlist:item=1453235079&perks=3891536761,3038247973
+
+
+// Hung Jury SR4 - PVP: Hung Jury (pvp)
+//notes: Masterwork: Stability (1), Handling (2)
+Tier: A tags:pvp
+dimwishlist:item=1453235079&perks=247725512,2551157718
+dimwishlist:item=1453235079&perks=247725512,3751912585
+
+
+// Falling Guillotine - PVE: Falling Guillotine (Utility) (god-pve)
 //notes: Masterwork: Impact
 Tier: A
-Recommended Loadout: Riptide, Sunshot, Falling Guillotine. tags:pve,god-pve
+Recommended Loadout: Riptide, Sunshot, Falling Guillotine. tags:god-pve
 dimwishlist:item=1815105249&perks=3666208348,269888150,4104185692,2077819806
 dimwishlist:item=1815105249&perks=3666208348,269888150,1749209109,2077819806
+dimwishlist:item=1815105249&perks=3666208348,269888150,1546637391,2077819806
 
 
-// Falling Guillotine - PVE: Falling Guillotine (DPS) (pve,god-pve)
+// Falling Guillotine - PVE: Falling Guillotine (DPS) (god-pve)
 //notes: Masterwork: Impact
 Tier: A
-Recommended Loadout: Witherhoard, Zaouli’s Bane, Falling Guillotine. tags:pve,god-pve
+Recommended Loadout: Witherhoard, Zaouli’s Bane, Falling Guillotine. tags:god-pve
 dimwishlist:item=1815105249&perks=3666208348,269888150,4104185692,3708227201
-dimwishlist:item=1815105249&perks=3666208348,269888150,4104185692,3078487919
+dimwishlist:item=1815105249&perks=3666208348,269888150,4104185692,3913600130
 dimwishlist:item=1815105249&perks=3666208348,269888150,1749209109,3708227201
-dimwishlist:item=1815105249&perks=3666208348,269888150,1749209109,3078487919
+dimwishlist:item=1815105249&perks=3666208348,269888150,1749209109,3913600130
+dimwishlist:item=1815105249&perks=3666208348,269888150,1546637391,3708227201
+dimwishlist:item=1815105249&perks=3666208348,269888150,1546637391,3913600130
 
 
-// Falling Guillotine - PVP: Falling Guillotine (god-pvp,pvp)
+// Falling Guillotine - PVP: Falling Guillotine (god-pvp)
 //notes: Masterwork: Impact
 Tier: B
- tags:god-pvp,pvp
+ tags:god-pvp
 dimwishlist:item=1815105249&perks=436053704,269888150,1546637391,2077819806
 
 
-// Hammerhead - PVE - Hammerhead (god-pve,pve)
+// Falling Guillotine - PVE: Falling Guillotine (Utility) (pve)
+//notes: Masterwork: Impact
+Tier: A
+Recommended Loadout: Riptide, Sunshot, Falling Guillotine. tags:pve
+dimwishlist:item=1815105249&perks=4104185692,2077819806
+dimwishlist:item=1815105249&perks=1749209109,2077819806
+dimwishlist:item=1815105249&perks=1546637391,2077819806
+
+
+// Falling Guillotine - PVE: Falling Guillotine (DPS) (pve)
+//notes: Masterwork: Impact
+Tier: A
+Recommended Loadout: Witherhoard, Zaouli’s Bane, Falling Guillotine. tags:pve
+dimwishlist:item=1815105249&perks=4104185692,3708227201
+dimwishlist:item=1815105249&perks=4104185692,3913600130
+dimwishlist:item=1815105249&perks=1749209109,3708227201
+dimwishlist:item=1815105249&perks=1749209109,3913600130
+dimwishlist:item=1815105249&perks=1546637391,3708227201
+dimwishlist:item=1815105249&perks=1546637391,3913600130
+
+
+// Falling Guillotine - PVE: Falling Guillotine (Utility) (pve)
+//notes: Masterwork: Impact
+Tier: A
+Recommended Loadout: Riptide, Sunshot, Falling Guillotine. tags:pve
+dimwishlist:item=1815105249&perks=4104185692,2077819806
+dimwishlist:item=1815105249&perks=1749209109,2077819806
+dimwishlist:item=1815105249&perks=1546637391,2077819806
+
+
+// Falling Guillotine - PVP: Falling Guillotine (pvp)
+//notes: Masterwork: Impact
+Tier: B
+ tags:pvp
+dimwishlist:item=1815105249&perks=1546637391,2077819806
+
+
+// Hammerhead - PVE - Hammerhead (god-pve)
 //notes: Masterwork: Handling
 Tier: S
-Recommended Loadout: The Mountaintop, Sunshot, Hammerhead. tags:god-pve,pve
-dimwishlist:item=1896309757&perks=1840239774,1087426260,3425386926,557221067
-dimwishlist:item=1896309757&perks=1840239774,1087426260,3418782618,557221067
-dimwishlist:item=1896309757&perks=1840239774,3230963543,3425386926,557221067
-dimwishlist:item=1896309757&perks=1840239774,3230963543,3418782618,557221067
-dimwishlist:item=1896309757&perks=1482024992,1087426260,3425386926,557221067
-dimwishlist:item=1896309757&perks=1482024992,1087426260,3418782618,557221067
-dimwishlist:item=1896309757&perks=1482024992,3230963543,3425386926,557221067
-dimwishlist:item=1896309757&perks=1482024992,3230963543,3418782618,557221067
+Recommended Loadout: The Mountaintop, Sunshot, Hammerhead. tags:god-pve
+dimwishlist:item=1896309757&perks=839105230,1087426260,3425386926,557221067
+dimwishlist:item=1896309757&perks=839105230,1087426260,3425386926,95528736
+dimwishlist:item=1896309757&perks=839105230,1087426260,3418782618,557221067
+dimwishlist:item=1896309757&perks=839105230,1087426260,3418782618,95528736
+dimwishlist:item=1896309757&perks=839105230,2420895100,3425386926,557221067
+dimwishlist:item=1896309757&perks=839105230,2420895100,3425386926,95528736
+dimwishlist:item=1896309757&perks=839105230,2420895100,3418782618,557221067
+dimwishlist:item=1896309757&perks=839105230,2420895100,3418782618,95528736
 
 
-// Hammerhead - PVP - Hammerhead (god-pvp,pvp)
+// Hammerhead - PVP - Hammerhead (god-pvp)
 //notes: Masterwork: Stability
 Tier: S
-Recommended Loadout: The Mountaintop, Sunshot, Hammerhead. tags:god-pvp,pvp
-dimwishlist:item=1896309757&perks=3250034553,1885400500,1870851715,1890422124
-dimwishlist:item=1896309757&perks=3250034553,1885400500,3425386926,1890422124
+Recommended Loadout: The Mountaintop, Sunshot, Hammerhead. tags:god-pvp
+dimwishlist:item=1896309757&perks=839105230,1885400500,3425386926,1890422124
+dimwishlist:item=1896309757&perks=839105230,1885400500,1870851715,1890422124
 
 
-// Blast Furnace - PVE: Blast Furnace (god-pve,pve)
-//notes: Tier: B
-Masterwork: handling
+// Hammerhead - PVE - Hammerhead (pve)
+//notes: Masterwork: Handling
+Tier: S
+Recommended Loadout: The Mountaintop, Sunshot, Hammerhead. tags:pve
+dimwishlist:item=1896309757&perks=3425386926,557221067
+dimwishlist:item=1896309757&perks=3425386926,95528736
+dimwishlist:item=1896309757&perks=3418782618,557221067
+dimwishlist:item=1896309757&perks=3418782618,95528736
 
-https://www.blueberries.gg/weapons/blast-furnace-god-rolls/ tags:god-pve,pve
-dimwishlist:item=2372514508&perks=1840239774,1087426260,3891536761,2109543898
-dimwishlist:item=2372514508&perks=1840239774,1087426260,3891536761,4049631843
+
+// Hammerhead - PVP - Hammerhead (pvp)
+//notes: Masterwork: Stability
+Tier: S
+Recommended Loadout: The Mountaintop, Sunshot, Hammerhead. tags:pvp
+dimwishlist:item=1896309757&perks=3425386926,1890422124
+dimwishlist:item=1896309757&perks=1870851715,1890422124
 
 
-// Blast Furnace - PVP: Blast Furnace (3v3) (god-pvp,pvp)
+// Blast Furnace - PVP: Blast Furnace (3v3) (god-pvp)
 //notes: Masterwork: Stability (1), Handling (2)
 Tier: A
-https://www.blueberries.gg/weapons/blast-furnace-god-rolls/ tags:god-pvp,pvp
+https://www.blueberries.gg/weapons/blast-furnace-god-rolls/ tags:god-pvp
 dimwishlist:item=2372514508&perks=839105230,3142289711,2387244414,247725512
 dimwishlist:item=2372514508&perks=839105230,3142289711,460017080,247725512
 
 
-// Blast Furnace - PVP: Blast Furnace (6v6) (god-pvp,pvp)
+// Blast Furnace - PVP: Blast Furnace (6v6) (god-pvp)
 //notes: Masterwork: Stability (1), Handling (2)
 Tier: A
-https://www.blueberries.gg/weapons/blast-furnace-god-rolls/ tags:god-pvp,pvp
+https://www.blueberries.gg/weapons/blast-furnace-god-rolls/ tags:god-pvp
 dimwishlist:item=2372514508&perks=839105230,3142289711,2387244414,1015611457
 dimwishlist:item=2372514508&perks=839105230,3142289711,2387244414,3425386926
 dimwishlist:item=2372514508&perks=839105230,3142289711,1428297954,1015611457
 dimwishlist:item=2372514508&perks=839105230,3142289711,1428297954,3425386926
 
 
-// Blast Furnace - PVE: Blast Furnace (pve)
+// Blast Furnace - PVE: Blast Furnace (Ads) (god-pve)
 //notes: Tier: B
 Masterwork: handling
 
-https://www.blueberries.gg/weapons/blast-furnace-god-rolls/ tags:pve
+https://www.blueberries.gg/weapons/blast-furnace-god-rolls/ tags:god-pve
+dimwishlist:item=2372514508&perks=1840239774,1087426260,3891536761,2109543898
+dimwishlist:item=2372514508&perks=1840239774,1087426260,3891536761,4049631843
 dimwishlist:item=2372514508&perks=1840239774,1087426260,3700496672,2109543898
 dimwishlist:item=2372514508&perks=1840239774,1087426260,3700496672,4049631843
 
 
-// Elsie's Rifle - PVP: Elsie's Rifle (god-pvp,pvp)
-//notes: Masterwork: Stability
+// Blast Furnace - PVE: Blast Furnace (Ads) (pve)
+//notes: Tier: B
+Masterwork: handling
+
+https://www.blueberries.gg/weapons/blast-furnace-god-rolls/ tags:pve
+dimwishlist:item=2372514508&perks=3891536761,2109543898
+dimwishlist:item=2372514508&perks=3891536761,4049631843
+dimwishlist:item=2372514508&perks=3700496672,2109543898
+dimwishlist:item=2372514508&perks=3700496672,4049631843
+
+
+// Blast Furnace - PVP: Blast Furnace (3v3) (pvp)
+//notes: Masterwork: Stability (1), Handling (2)
 Tier: A
-Better Alternative: The Messenger tags:god-pvp,pvp
-dimwishlist:item=2372514509&perks=3250034553,1885400500,2387244414,3047969693
-dimwishlist:item=2372514509&perks=3250034553,1885400500,2387244414,1015611457
-dimwishlist:item=2372514509&perks=3250034553,1885400500,3619207468,3047969693
-dimwishlist:item=2372514509&perks=3250034553,1885400500,3619207468,1015611457
+https://www.blueberries.gg/weapons/blast-furnace-god-rolls/ tags:pvp
+dimwishlist:item=2372514508&perks=2387244414,247725512
+dimwishlist:item=2372514508&perks=460017080,247725512
+
+
+// Blast Furnace - PVP: Blast Furnace (6v6) (pvp)
+//notes: Masterwork: Stability (1), Handling (2)
+Tier: A
+https://www.blueberries.gg/weapons/blast-furnace-god-rolls/ tags:pvp
+dimwishlist:item=2372514508&perks=2387244414,1015611457
+dimwishlist:item=2372514508&perks=2387244414,3425386926
+dimwishlist:item=2372514508&perks=1428297954,1015611457
+dimwishlist:item=2372514508&perks=1428297954,3425386926
+
+
+// Elsie's Rifle - PVE: Elsie's Rifle (GMs) (god-pve)
+//notes: Masterwork: Reload
+Tier: A
+Recommended Loadout: Forerunner, Elsie’s Rifle, Apex Predator tags:god-pve
+dimwishlist:item=2372514509&perks=1840239774,1087426260,3418782618,4104185692
+
+
+// Elsie's Rifle - PVE: Elsie's Rifle (Ads) (god-pve)
+//notes: Masterwork: Reload
+Tier: A
+Recommended Loadout: Any Special ammo weapon, Elsie’s Rifle, Deterministic Chaos. tags:god-pve
+dimwishlist:item=2372514509&perks=1840239774,1087426260,776531651,2109543898
+dimwishlist:item=2372514509&perks=1840239774,1087426260,776531651,2048641572
+dimwishlist:item=2372514509&perks=1840239774,1087426260,2779035018,2109543898
+dimwishlist:item=2372514509&perks=1840239774,1087426260,2779035018,2048641572
+
+
+// Elsie's Rifle - PVP: Elsie's Rifle (god-pvp)
+//notes: Masterwork: Range
+Tier: S tags:god-pvp
+dimwishlist:item=2372514509&perks=839105230,1885400500,2387244414,460017080
+dimwishlist:item=2372514509&perks=839105230,1885400500,2387244414,3047969693
+dimwishlist:item=2372514509&perks=839105230,1885400500,2387244414,1015611457
+dimwishlist:item=2372514509&perks=839105230,1885400500,3619207468,460017080
+dimwishlist:item=2372514509&perks=839105230,1885400500,3619207468,3047969693
+dimwishlist:item=2372514509&perks=839105230,1885400500,3619207468,1015611457
+
+
+// Elsie's Rifle - PVE: Elsie's Rifle (GMs) (pve)
+//notes: Masterwork: Reload
+Tier: A
+Recommended Loadout: Forerunner, Elsie’s Rifle, Apex Predator tags:pve
+dimwishlist:item=2372514509&perks=3418782618,4104185692
+
+
+// Elsie's Rifle - PVE: Elsie's Rifle (Ads) (pve)
+//notes: Masterwork: Reload
+Tier: A
+Recommended Loadout: Any Special ammo weapon, Elsie’s Rifle, Deterministic Chaos. tags:pve
+dimwishlist:item=2372514509&perks=776531651,2109543898
+dimwishlist:item=2372514509&perks=776531651,2048641572
+dimwishlist:item=2372514509&perks=2779035018,2109543898
+dimwishlist:item=2372514509&perks=2779035018,2048641572
+
+
+// Elsie's Rifle - PVP: Elsie's Rifle (pvp)
+//notes: Masterwork: Range
+Tier: S tags:pvp
+dimwishlist:item=2372514509&perks=2387244414,460017080
+dimwishlist:item=2372514509&perks=2387244414,3047969693
+dimwishlist:item=2372514509&perks=2387244414,1015611457
+dimwishlist:item=2372514509&perks=3619207468,460017080
+dimwishlist:item=2372514509&perks=3619207468,3047969693
+dimwishlist:item=2372514509&perks=3619207468,1015611457
 
 
 // Midnight Coup - PVE: Midnight Coup (god-pve)
-//notes: Masterwork: Range (1), Handling(2)
-Tier: S tags:god-pve
-dimwishlist:item=2763843898&perks=3250034553,106909392,3824105627,4049631843
-dimwishlist:item=2763843898&perks=3250034553,106909392,3824105627,4104185692
-dimwishlist:item=2763843898&perks=3250034553,106909392,3038247973,4049631843
-dimwishlist:item=2763843898&perks=3250034553,106909392,3038247973,4104185692
+//notes: Masterwork: Handling
+Tier: S
+Recommended Loadout: Midnight Coup, Forbearance, or any Fusion Rifle, Gjallarhorn. tags:god-pve
+dimwishlist:item=2763843898&perks=1840239774,1087426260,3824105627,4049631843
+dimwishlist:item=2763843898&perks=1840239774,1087426260,3824105627,4104185692
+dimwishlist:item=2763843898&perks=1840239774,1087426260,3038247973,4049631843
+dimwishlist:item=2763843898&perks=1840239774,1087426260,3038247973,4104185692
 
 
-// Luna's Howl - PVE: Luna's Howl (ADS) (god-pve,pve)
+// Midnight Coup - PVE: Midnight Coup (god-pvp)
+//notes: Masterwork: Range
+Tier: B tags:god-pvp
+dimwishlist:item=2763843898&perks=1482024992,3142289711,3038247973,2387244414
+dimwishlist:item=2763843898&perks=1482024992,3142289711,3038247973,47981717
+dimwishlist:item=2763843898&perks=1482024992,3142289711,588594999,2387244414
+dimwishlist:item=2763843898&perks=1482024992,3142289711,588594999,47981717
+
+
+// Midnight Coup - PVE: Midnight Coup (pve)
+//notes: Masterwork: Handling
+Tier: S
+Recommended Loadout: Midnight Coup, Forbearance, or any Fusion Rifle, Gjallarhorn. tags:pve
+dimwishlist:item=2763843898&perks=
+
+
+// Midnight Coup - PVE: Midnight Coup (pvp)
+//notes: Masterwork: Range
+Tier: B tags:pvp
+dimwishlist:item=2763843898&perks=3038247973,2387244414
+dimwishlist:item=2763843898&perks=3038247973,47981717
+dimwishlist:item=2763843898&perks=588594999,2387244414
+dimwishlist:item=2763843898&perks=588594999,47981717
+
+
+// Luna's Howl - PVE: Luna's Howl (ADS) (god-pve)
 //notes: Masterwork: Reload Speed
 Tier: B
-https://www.blueberries.gg/weapons/lunas-howl-god-rolls/ tags:god-pve,pve
+https://www.blueberries.gg/weapons/lunas-howl-god-rolls/ tags:god-pve
 dimwishlist:item=2763843899&perks=1840239774,3230963543,3017780555,4293542123
 dimwishlist:item=2763843899&perks=1840239774,3230963543,3017780555,2109543898
 dimwishlist:item=2763843899&perks=1840239774,3230963543,3828510309,4293542123
 dimwishlist:item=2763843899&perks=1840239774,3230963543,3828510309,2109543898
 
 
-// Luna's Howl - PVP: Luna's Howl (3v3) (god-pvp,pvp)
+// Luna's Howl - PVP: Luna's Howl (6v6) (god-pvp)
 //notes: Masterwork: Reload Speed
 Tier: A
-https://www.blueberries.gg/weapons/lunas-howl-god-rolls/ tags:god-pvp,pvp
-dimwishlist:item=2763843899&perks=3250034553,1885400500,699525795,47981717
-dimwishlist:item=2763843899&perks=3250034553,1885400500,3161816588,47981717
-
-
-// Luna's Howl - PVP: Luna's Howl (6v6) (god-pvp,pvp)
-//notes: Masterwork: Reload Speed
-Tier: A
-https://www.blueberries.gg/weapons/lunas-howl-god-rolls/ tags:god-pvp,pvp
+https://www.blueberries.gg/weapons/lunas-howl-god-rolls/ tags:god-pvp
 dimwishlist:item=2763843899&perks=3250034553,1885400500,1195158366,2720533289
 dimwishlist:item=2763843899&perks=3250034553,1885400500,1195158366,1015611457
 dimwishlist:item=2763843899&perks=3250034553,1885400500,699525795,2720533289
 dimwishlist:item=2763843899&perks=3250034553,1885400500,699525795,1015611457
 
 
-// Succession - PVE: Succession (god-pve,pve)
+// Luna's Howl - PVP: Luna's Howl (3v3) (god-pvp)
+//notes: Masterwork: Range
+Tier: A
+https://www.blueberries.gg/weapons/lunas-howl-god-rolls/ tags:god-pvp
+dimwishlist:item=2763843899&perks=3250034553,1885400500,699525795,47981717
+dimwishlist:item=2763843899&perks=3250034553,1885400500,699525795,555281244
+dimwishlist:item=2763843899&perks=3250034553,1885400500,3161816588,47981717
+dimwishlist:item=2763843899&perks=3250034553,1885400500,3161816588,555281244
+
+
+// Luna's Howl - PVE: Luna's Howl (ADS) (pve)
+//notes: Masterwork: Reload Speed
+Tier: B
+https://www.blueberries.gg/weapons/lunas-howl-god-rolls/ tags:pve
+dimwishlist:item=2763843899&perks=3017780555,4293542123
+dimwishlist:item=2763843899&perks=3017780555,2109543898
+dimwishlist:item=2763843899&perks=3828510309,4293542123
+dimwishlist:item=2763843899&perks=3828510309,2109543898
+
+
+// Luna's Howl - PVP: Luna's Howl (3v3) (pvp)
+//notes: Masterwork: Range
+Tier: A
+https://www.blueberries.gg/weapons/lunas-howl-god-rolls/ tags:pvp
+dimwishlist:item=2763843899&perks=699525795,47981717
+dimwishlist:item=2763843899&perks=699525795,555281244
+dimwishlist:item=2763843899&perks=3161816588,47981717
+dimwishlist:item=2763843899&perks=3161816588,555281244
+
+
+// Luna's Howl - PVP: Luna's Howl (6v6) (pvp)
+//notes: Masterwork: Reload Speed
+Tier: A
+https://www.blueberries.gg/weapons/lunas-howl-god-rolls/ tags:pvp
+dimwishlist:item=2763843899&perks=1195158366,2720533289
+dimwishlist:item=2763843899&perks=1195158366,1015611457
+dimwishlist:item=2763843899&perks=699525795,2720533289
+dimwishlist:item=2763843899&perks=699525795,1015611457
+
+
+// Succession - PVE: Succession (god-pve)
 //notes: Masterwork: Handling
 Tier: S
-Recommended Loadout: Succession, Sunshot, Apex Predator. tags:god-pve,pve
+Recommended Loadout: Succession, Sunshot, Apex Predator. tags:god-pve
 dimwishlist:item=3612338554&perks=1840239774,2420895100,1523832109,469285294
+dimwishlist:item=3612338554&perks=1840239774,2420895100,1523832109,1771339417
+dimwishlist:item=3612338554&perks=1840239774,2420895100,1556840489,469285294
+dimwishlist:item=3612338554&perks=1840239774,2420895100,1556840489,1771339417
 
 
-// Succession - PVP: Succession (god-pvp,pvp)
+// Succession - PVP: Succession (god-pvp)
 //notes: Masterwork: Handling
-Tier: S tags:god-pvp,pvp
+Tier: S tags:god-pvp
 dimwishlist:item=3612338554&perks=1840239774,3142289711,588594999,957782887
+
+
+// Succession - PVE: Succession (pve)
+//notes: Masterwork: Handling
+Tier: S
+Recommended Loadout: Succession, Sunshot, Apex Predator. tags:pve
+dimwishlist:item=3612338554&perks=1523832109,469285294
+dimwishlist:item=3612338554&perks=1523832109,1771339417
+dimwishlist:item=3612338554&perks=1556840489,469285294
+dimwishlist:item=3612338554&perks=1556840489,1771339417
+
+
+// Succession - PVP: Succession (pvp)
+//notes: Masterwork: Handling
+Tier: S tags:pvp
+dimwishlist:item=3612338554&perks=588594999,957782887
 
 
