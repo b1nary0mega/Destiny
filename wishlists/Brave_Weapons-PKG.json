@@ -1,17 +1,17 @@
 {
-    "description": "Brave Weapon God rolls based on blueberries.gg",
+    "description": "Brave Weapon God rolls.",
     "name": "Brave Weapons PKG",
     "data": [
         {
-            "description": "Masterwork: Range (1), Handling(2)\nTier: S",
+            "description": "Masterwork: Handling\nTier: S\nRecommended Loadout: Midnight Coup, Forbearance, or any Fusion Rifle, Gjallarhorn.",
             "hash": 2763843898,
             "name": "PVE: Midnight Coup",
             "plugs": [
                 [
-                    3250034553
+                    1840239774
                 ],
                 [
-                    106909392
+                    1087426260
                 ],
                 [
                     3824105627,
@@ -42,12 +42,11 @@
                 ],
                 [
                     3038247973,
-                    555281244
+                    4049631843
                 ]
             ],
             "tags": [
-                "GodPVE",
-                "PVE"
+                "GodPVE"
             ]
         },
         {
@@ -71,8 +70,7 @@
                 ]
             ],
             "tags": [
-                "GodPVE",
-                "PVE"
+                "GodPVE"
             ]
         },
         {
@@ -95,8 +93,7 @@
                 ]
             ],
             "tags": [
-                "GodPVE",
-                "PVE"
+                "GodPVE"
             ]
         },
         {
@@ -119,8 +116,7 @@
                 ]
             ],
             "tags": [
-                "GodPVE",
-                "PVE"
+                "GodPVE"
             ]
         },
         {
@@ -135,7 +131,7 @@
                     3230963543
                 ],
                 [
-                    3828510309,
+                    776531651,
                     4071163871
                 ],
                 [
@@ -144,8 +140,7 @@
                 ]
             ],
             "tags": [
-                "GodPVE",
-                "PVE"
+                "GodPVE"
             ]
         },
         {
@@ -161,40 +156,37 @@
                 ],
                 [
                     4104185692,
-                    1749209109
+                    1749209109,
+                    1546637391
                 ],
                 [
                     2077819806
                 ]
             ],
             "tags": [
-                "PVE",
                 "GodPVE"
             ]
         },
         {
-            "description": "Masterwork: Stability\nTier: A\nBetter Alternative: The Messenger",
+            "description": "Masterwork: Reload\nTier: A\nRecommended Loadout: Forerunner, Elsie’s Rifle, Apex Predator",
             "hash": 2372514509,
-            "name": "PVP: Elsie's Rifle",
+            "name": "PVE: Elsie's Rifle (GMs)",
             "plugs": [
                 [
-                    3250034553
+                    1840239774
                 ],
                 [
-                    1885400500
+                    1087426260
                 ],
                 [
-                    2387244414,
-                    3619207468
+                    3418782618
                 ],
                 [
-                    3047969693,
-                    1015611457
+                    4104185692
                 ]
             ],
             "tags": [
-                "GodPVP",
-                "PVP"
+                "GodPVE"
             ]
         },
         {
@@ -209,15 +201,16 @@
                     2420895100
                 ],
                 [
-                    1523832109
+                    1523832109,
+                    1556840489
                 ],
                 [
-                    469285294
+                    469285294,
+                    1771339417
                 ]
             ],
             "tags": [
-                "GodPVE",
-                "PVE"
+                "GodPVE"
             ]
         },
         {
@@ -239,8 +232,7 @@
                 ]
             ],
             "tags": [
-                "GodPVP",
-                "PVP"
+                "GodPVP"
             ]
         },
         {
@@ -262,8 +254,7 @@
                 ]
             ],
             "tags": [
-                "GodPVE",
-                "PVE"
+                "GodPVE"
             ]
         },
         {
@@ -286,14 +277,13 @@
                 ]
             ],
             "tags": [
-                "GodPVP",
-                "PVP"
+                "GodPVP"
             ]
         },
         {
             "description": "Masterwork: Range\nTier: A",
             "hash": 1050806815,
-            "name": "PVP: The Recluse (Ad Clear)",
+            "name": "PVP: The Recluse",
             "plugs": [
                 [
                     3250034553
@@ -305,12 +295,11 @@
                     1359896290
                 ],
                 [
-                    2109543898,
+                    3081867624,
                     1890422124
                 ]
             ],
             "tags": [
-                "PVP",
                 "GodPVP"
             ]
         },
@@ -334,12 +323,11 @@
                 ]
             ],
             "tags": [
-                "GodPVE",
-                "PVE"
+                "GodPVE"
             ]
         },
         {
-            "description": "Masterwork: Stability\nTier: A",
+            "description": "Masterwork: Stability (1), Handling (2)\nTier: A",
             "hash": 1453235079,
             "name": "PVP: Hung Jury",
             "plugs": [
@@ -358,7 +346,6 @@
                 ]
             ],
             "tags": [
-                "PVP",
                 "GodPVP"
             ]
         },
@@ -381,24 +368,7 @@
                 ]
             ],
             "tags": [
-                "GodPVP",
-                "PVP"
-            ]
-        },
-        {
-            "description": "Masterwork: Velocity (1), Handling (2)\nTier: S\nRecommended Loadout: The Mountaintop, Sunshot, Edge Transit.",
-            "hash": 568611923,
-            "name": "PVE: Edge Transit",
-            "plugs": [
-                [
-                    968510818
-                ],
-                [
-                    3078487919
-                ]
-            ],
-            "tags": [
-                "PVE"
+                "GodPVP"
             ]
         },
         {
@@ -414,15 +384,15 @@
                 ],
                 [
                     4104185692,
-                    1749209109
+                    1749209109,
+                    1546637391
                 ],
                 [
                     3708227201,
-                    3078487919
+                    3913600130
                 ]
             ],
             "tags": [
-                "PVE",
                 "GodPVE"
             ]
         },
@@ -445,8 +415,7 @@
                 ]
             ],
             "tags": [
-                "GodPVP",
-                "PVP"
+                "GodPVP"
             ]
         },
         {
@@ -455,24 +424,23 @@
             "name": "PVE - Hammerhead",
             "plugs": [
                 [
-                    1840239774,
-                    1482024992
+                    839105230
                 ],
                 [
                     1087426260,
-                    3230963543
+                    2420895100
                 ],
                 [
                     3425386926,
                     3418782618
                 ],
                 [
-                    557221067
+                    557221067,
+                    95528736
                 ]
             ],
             "tags": [
-                "GodPVE",
-                "PVE"
+                "GodPVE"
             ]
         },
         {
@@ -481,22 +449,21 @@
             "name": "PVP - Hammerhead",
             "plugs": [
                 [
-                    3250034553
+                    839105230
                 ],
                 [
                     1885400500
                 ],
                 [
-                    1870851715,
-                    3425386926
+                    3425386926,
+                    1870851715
                 ],
                 [
                     1890422124
                 ]
             ],
             "tags": [
-                "GodPVP",
-                "PVP"
+                "GodPVP"
             ]
         },
         {
@@ -511,7 +478,8 @@
                     2822142346
                 ],
                 [
-                    3523296417
+                    3523296417,
+                    2010801679
                 ],
                 [
                     2396489472,
@@ -519,55 +487,7 @@
                 ]
             ],
             "tags": [
-                "GodPVE",
-                "PVE"
-            ]
-        },
-        {
-            "description": "Tier: B\nMasterwork: handling\n\nhttps://www.blueberries.gg/weapons/blast-furnace-god-rolls/",
-            "hash": 2372514508,
-            "name": "PVE: Blast Furnace",
-            "plugs": [
-                [
-                    1840239774
-                ],
-                [
-                    1087426260
-                ],
-                [
-                    3891536761
-                ],
-                [
-                    2109543898,
-                    4049631843
-                ]
-            ],
-            "tags": [
-                "GodPVE",
-                "PVE"
-            ]
-        },
-        {
-            "description": "Tier: B\nMasterwork: handling\n\nhttps://www.blueberries.gg/weapons/blast-furnace-god-rolls/",
-            "hash": 2372514508,
-            "name": "PVE: Blast Furnace",
-            "plugs": [
-                [
-                    1840239774
-                ],
-                [
-                    1087426260
-                ],
-                [
-                    3700496672
-                ],
-                [
-                    2109543898,
-                    4049631843
-                ]
-            ],
-            "tags": [
-                "PVE"
+                "GodPVE"
             ]
         },
         {
@@ -590,8 +510,7 @@
                 ]
             ],
             "tags": [
-                "GodPVP",
-                "PVP"
+                "GodPVP"
             ]
         },
         {
@@ -615,8 +534,7 @@
                 ]
             ],
             "tags": [
-                "GodPVP",
-                "PVP"
+                "GodPVP"
             ]
         },
         {
@@ -640,32 +558,7 @@
                 ]
             ],
             "tags": [
-                "GodPVE",
-                "PVE"
-            ]
-        },
-        {
-            "description": "Masterwork: Reload Speed\nTier: A\nhttps://www.blueberries.gg/weapons/lunas-howl-god-rolls/",
-            "hash": 2763843899,
-            "name": "PVP: Luna's Howl (3v3)",
-            "plugs": [
-                [
-                    3250034553
-                ],
-                [
-                    1885400500
-                ],
-                [
-                    699525795,
-                    3161816588
-                ],
-                [
-                    47981717
-                ]
-            ],
-            "tags": [
-                "GodPVP",
-                "PVP"
+                "GodPVE"
             ]
         },
         {
@@ -689,8 +582,7 @@
                 ]
             ],
             "tags": [
-                "GodPVP",
-                "PVP"
+                "GodPVP"
             ]
         },
         {
@@ -713,6 +605,699 @@
             ],
             "tags": [
                 "PVE"
+            ]
+        },
+        {
+            "description": "Masterwork: Reload Speed\nTier: B\nhttps://www.blueberries.gg/weapons/lunas-howl-god-rolls/",
+            "hash": 2763843899,
+            "name": "PVE: Luna's Howl (ADS)",
+            "plugs": [
+                [
+                    3017780555,
+                    3828510309
+                ],
+                [
+                    4293542123,
+                    2109543898
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "Masterwork: Range\nTier: A\nhttps://www.blueberries.gg/weapons/lunas-howl-god-rolls/",
+            "hash": 2763843899,
+            "name": "PVP: Luna's Howl (3v3)",
+            "plugs": [
+                [
+                    3250034553
+                ],
+                [
+                    1885400500
+                ],
+                [
+                    699525795,
+                    3161816588
+                ],
+                [
+                    47981717,
+                    555281244
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "Masterwork: Range\nTier: A\nhttps://www.blueberries.gg/weapons/lunas-howl-god-rolls/",
+            "hash": 2763843899,
+            "name": "PVP: Luna's Howl (3v3)",
+            "plugs": [
+                [
+                    699525795,
+                    3161816588
+                ],
+                [
+                    47981717,
+                    555281244
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "Masterwork: Reload Speed\nTier: A\nhttps://www.blueberries.gg/weapons/lunas-howl-god-rolls/",
+            "hash": 2763843899,
+            "name": "PVP: Luna's Howl (6v6)",
+            "plugs": [
+                [
+                    1195158366,
+                    699525795
+                ],
+                [
+                    2720533289,
+                    1015611457
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "Tier: B\nMasterwork: handling\n\nhttps://www.blueberries.gg/weapons/blast-furnace-god-rolls/",
+            "hash": 2372514508,
+            "name": "PVE: Blast Furnace (Ads)",
+            "plugs": [
+                [
+                    1840239774
+                ],
+                [
+                    1087426260
+                ],
+                [
+                    3891536761,
+                    3700496672
+                ],
+                [
+                    2109543898,
+                    4049631843
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Tier: B\nMasterwork: handling\n\nhttps://www.blueberries.gg/weapons/blast-furnace-god-rolls/",
+            "hash": 2372514508,
+            "name": "PVE: Blast Furnace (Ads)",
+            "plugs": [
+                [
+                    3891536761,
+                    3700496672
+                ],
+                [
+                    2109543898,
+                    4049631843
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "Masterwork: Stability (1), Handling (2)\nTier: A\nhttps://www.blueberries.gg/weapons/blast-furnace-god-rolls/",
+            "hash": 2372514508,
+            "name": "PVP: Blast Furnace (3v3)",
+            "plugs": [
+                [
+                    2387244414,
+                    460017080
+                ],
+                [
+                    247725512
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "Masterwork: Stability (1), Handling (2)\nTier: A\nhttps://www.blueberries.gg/weapons/blast-furnace-god-rolls/",
+            "hash": 2372514508,
+            "name": "PVP: Blast Furnace (6v6)",
+            "plugs": [
+                [
+                    2387244414,
+                    1428297954
+                ],
+                [
+                    1015611457,
+                    3425386926
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "Masterwork: Handling (1), Reload (2)\nTier: S\n",
+            "hash": 568611921,
+            "name": "PVE: Forebearance",
+            "plugs": [
+                [
+                    3523296417,
+                    2010801679
+                ],
+                [
+                    2396489472,
+                    4049631843
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "Masterwork: Handling\nTier: C\n",
+            "hash": 568611921,
+            "name": "PVP: Forebearance",
+            "plugs": [
+                [
+                    3525010810
+                ],
+                [
+                    2822142346
+                ],
+                [
+                    1683379515,
+                    3436462433
+                ],
+                [
+                    2610012052
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "Masterwork: Handling\nTier: C\n",
+            "hash": 568611921,
+            "name": "PVP: Forebearance",
+            "plugs": [
+                [
+                    1683379515,
+                    3436462433
+                ],
+                [
+                    2610012052
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "Masterwork: Handling\nTier: S\nRecommended Loadout: The Mountaintop, Sunshot, Hammerhead.",
+            "hash": 1896309757,
+            "name": "PVE - Hammerhead",
+            "plugs": [
+                [
+                    3425386926,
+                    3418782618
+                ],
+                [
+                    557221067,
+                    95528736
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "Masterwork: Stability\nTier: S\nRecommended Loadout: The Mountaintop, Sunshot, Hammerhead.",
+            "hash": 1896309757,
+            "name": "PVP - Hammerhead",
+            "plugs": [
+                [
+                    3425386926,
+                    1870851715
+                ],
+                [
+                    1890422124
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "Masterwork: Handling\nTier: S\nRecommended Loadout: Midnight Coup, Forbearance, or any Fusion Rifle, Gjallarhorn.",
+            "hash": 2763843898,
+            "name": "PVE: Midnight Coup",
+            "plugs": [],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "Masterwork: Range\nTier: B",
+            "hash": 2763843898,
+            "name": "PVE: Midnight Coup",
+            "plugs": [
+                [
+                    1482024992
+                ],
+                [
+                    3142289711
+                ],
+                [
+                    3038247973,
+                    588594999
+                ],
+                [
+                    2387244414,
+                    47981717
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "Masterwork: Range\nTier: B",
+            "hash": 2763843898,
+            "name": "PVE: Midnight Coup",
+            "plugs": [
+                [
+                    3038247973,
+                    588594999
+                ],
+                [
+                    2387244414,
+                    47981717
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "Masterwork: Velocity\nTier: S\nRecommended Loadout: The Mountaintop, Sunshot, Apex Predator.",
+            "hash": 568611922,
+            "name": "PVE: The Mountaintop (General)",
+            "plugs": [
+                [
+                    3300816228,
+                    3523296417
+                ],
+                [
+                    469285294,
+                    4104185692
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "Masterwork: Velocity\nTier: S\nRecommended Loadout: The Mountaintop, Merciless, Apex Predator.",
+            "hash": 568611922,
+            "name": "PVE: The Mountaintop (DPS)",
+            "plugs": [
+                [
+                    3300816228
+                ],
+                [
+                    469285294
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "Masterwork: Velocity\nTier: A\n",
+            "hash": 568611922,
+            "name": "PVP: The Mountaintop",
+            "plugs": [
+                [
+                    951095735
+                ],
+                [
+                    438098033,
+                    1546637391
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "Masterwork: Range (1), Stability (2)\nTier: A\nRecommended Loadout: Scatter Signal or Tusk of the Boar, The Recluse, Commemoration.",
+            "hash": 1050806815,
+            "name": "PVE: The Recluse (Void Build)",
+            "plugs": [
+                [
+                    776531651
+                ],
+                [
+                    2109543898,
+                    2048641572
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "Masterwork: Range (1), Stability (2)\nTier: A\nRecommended Loadout: Scatter Signal, The Recluse, Apex Predator.",
+            "hash": 1050806815,
+            "name": "PVE: The Recluse (Ad Clear)",
+            "plugs": [
+                [
+                    776531651,
+                    4071163871
+                ],
+                [
+                    4104185692,
+                    3708227201
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "Masterwork: Range\nTier: A",
+            "hash": 1050806815,
+            "name": "PVP: The Recluse",
+            "plugs": [
+                [
+                    1359896290
+                ],
+                [
+                    3081867624,
+                    1890422124
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "Masterwork: Reload\nTier: A\nRecommended Loadout: Any Special ammo weapon, Elsie’s Rifle, Deterministic Chaos.",
+            "hash": 2372514509,
+            "name": "PVE: Elsie's Rifle (Ads)",
+            "plugs": [
+                [
+                    1840239774
+                ],
+                [
+                    1087426260
+                ],
+                [
+                    776531651,
+                    2779035018
+                ],
+                [
+                    2109543898,
+                    2048641572
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Masterwork: Reload\nTier: A\nRecommended Loadout: Forerunner, Elsie’s Rifle, Apex Predator",
+            "hash": 2372514509,
+            "name": "PVE: Elsie's Rifle (GMs)",
+            "plugs": [
+                [
+                    3418782618
+                ],
+                [
+                    4104185692
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "Masterwork: Reload\nTier: A\nRecommended Loadout: Any Special ammo weapon, Elsie’s Rifle, Deterministic Chaos.",
+            "hash": 2372514509,
+            "name": "PVE: Elsie's Rifle (Ads)",
+            "plugs": [
+                [
+                    776531651,
+                    2779035018
+                ],
+                [
+                    2109543898,
+                    2048641572
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "Masterwork: Range\nTier: S",
+            "hash": 2372514509,
+            "name": "PVP: Elsie's Rifle",
+            "plugs": [
+                [
+                    2387244414,
+                    3619207468
+                ],
+                [
+                    460017080,
+                    3047969693,
+                    1015611457
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "Masterwork: Range\nTier: S",
+            "hash": 2372514509,
+            "name": "PVP: Elsie's Rifle",
+            "plugs": [
+                [
+                    839105230
+                ],
+                [
+                    1885400500
+                ],
+                [
+                    2387244414,
+                    3619207468
+                ],
+                [
+                    460017080,
+                    3047969693,
+                    1015611457
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "Masterwork: Reload Speed\nTier: A\nRecommended Loadout: Hung Jury SR4, Cartesian Coordinate, Gjallarhorn.",
+            "hash": 1453235079,
+            "name": "PVE: Hung Jury (GMs)",
+            "plugs": [
+                [
+                    3891536761
+                ],
+                [
+                    3038247973,
+                    4049631843
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "Masterwork: Reload Speed\nTier: A\nRecommended Loadout: Hung Jury SR4, Forbearance, Gjallarhorn.",
+            "hash": 1453235079,
+            "name": "PVE: Hung Jury (Ads)",
+            "plugs": [
+                [
+                    3891536761
+                ],
+                [
+                    3824105627,
+                    3038247973
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "Masterwork: Stability (1), Handling (2)\nTier: A",
+            "hash": 1453235079,
+            "name": "PVP: Hung Jury",
+            "plugs": [
+                [
+                    247725512
+                ],
+                [
+                    2551157718,
+                    3751912585
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "Masterwork: Velocity (1), Handling (2)\nTier: S\nRecommended Loadout: The Mountaintop, Sunshot, Edge Transit.",
+            "hash": 568611923,
+            "name": "PVE: Edge Transit",
+            "plugs": [
+                [
+                    968510818,
+                    3751912585
+                ],
+                [
+                    3078487919
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "Masterwork: Velocity\nTier: B",
+            "hash": 568611923,
+            "name": "PVP: Edge Transit",
+            "plugs": [
+                [
+                    951095735
+                ],
+                [
+                    3194351027
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "Masterwork: Handling\nTier: S\nRecommended Loadout: Succession, Sunshot, Apex Predator.",
+            "hash": 3612338554,
+            "name": "PVE: Succession",
+            "plugs": [
+                [
+                    1523832109,
+                    1556840489
+                ],
+                [
+                    469285294,
+                    1771339417
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "Masterwork: Handling\nTier: S",
+            "hash": 3612338554,
+            "name": "PVP: Succession",
+            "plugs": [
+                [
+                    588594999
+                ],
+                [
+                    957782887
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "Masterwork: Impact\nTier: A\nRecommended Loadout: Riptide, Sunshot, Falling Guillotine.",
+            "hash": 1815105249,
+            "name": "PVE: Falling Guillotine (Utility)",
+            "plugs": [
+                [
+                    4104185692,
+                    1749209109,
+                    1546637391
+                ],
+                [
+                    2077819806
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "Masterwork: Impact\nTier: A\nRecommended Loadout: Witherhoard, Zaouli’s Bane, Falling Guillotine.",
+            "hash": 1815105249,
+            "name": "PVE: Falling Guillotine (DPS)",
+            "plugs": [
+                [
+                    4104185692,
+                    1749209109,
+                    1546637391
+                ],
+                [
+                    3708227201,
+                    3913600130
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "Masterwork: Impact\nTier: A\nRecommended Loadout: Riptide, Sunshot, Falling Guillotine.",
+            "hash": 1815105249,
+            "name": "PVE: Falling Guillotine (Utility)",
+            "plugs": [
+                [
+                    4104185692,
+                    1749209109,
+                    1546637391
+                ],
+                [
+                    2077819806
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "Masterwork: Impact\nTier: B\n",
+            "hash": 1815105249,
+            "name": "PVP: Falling Guillotine",
+            "plugs": [
+                [
+                    1546637391
+                ],
+                [
+                    2077819806
+                ]
+            ],
+            "tags": [
+                "PVP"
             ]
         }
     ]
