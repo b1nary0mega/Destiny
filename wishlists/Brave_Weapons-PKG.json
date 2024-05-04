@@ -1,6 +1,6 @@
 {
     "description": "Brave Weapon God rolls.",
-    "name": "Brave Weapons PKG",
+    "name": "Brave Weapon PKG",
     "data": [
         {
             "description": "Masterwork: Handling\nTier: S\nRecommended Loadout: Midnight Coup, Forbearance, or any Fusion Rifle, Gjallarhorn.",
@@ -856,18 +856,9 @@
             ]
         },
         {
-            "description": "Masterwork: Handling\nTier: S\nRecommended Loadout: Midnight Coup, Forbearance, or any Fusion Rifle, Gjallarhorn.",
-            "hash": 2763843898,
-            "name": "PVE: Midnight Coup",
-            "plugs": [],
-            "tags": [
-                "PVE"
-            ]
-        },
-        {
             "description": "Masterwork: Range\nTier: B",
             "hash": 2763843898,
-            "name": "PVE: Midnight Coup",
+            "name": "PVP: Midnight Coup",
             "plugs": [
                 [
                     1482024992
@@ -886,24 +877,6 @@
             ],
             "tags": [
                 "GodPVP"
-            ]
-        },
-        {
-            "description": "Masterwork: Range\nTier: B",
-            "hash": 2763843898,
-            "name": "PVE: Midnight Coup",
-            "plugs": [
-                [
-                    3038247973,
-                    588594999
-                ],
-                [
-                    2387244414,
-                    47981717
-                ]
-            ],
-            "tags": [
-                "PVP"
             ]
         },
         {
@@ -1294,6 +1267,42 @@
                 ],
                 [
                     2077819806
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "Masterwork: Handling\nTier: S\nRecommended Loadout: Midnight Coup, Forbearance, or any Fusion Rifle, Gjallarhorn.",
+            "hash": 2763843898,
+            "name": "PVE: Midnight Coup",
+            "plugs": [
+                [
+                    3824105627,
+                    3038247973
+                ],
+                [
+                    4049631843,
+                    4104185692
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "Masterwork: Range\nTier: B",
+            "hash": 2763843898,
+            "name": "PVP: Midnight Coup",
+            "plugs": [
+                [
+                    3038247973,
+                    588594999
+                ],
+                [
+                    2387244414,
+                    47981717
                 ]
             ],
             "tags": [
