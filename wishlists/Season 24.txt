@@ -533,6 +533,38 @@ dimwishlist:item=1801007332&perks=2682205016,1683379515
 dimwishlist:item=1801007332&perks=2682205016,2216471363
 
 
+// Breachlight - PVE Grenade Build (pve)
+//notes: PVE Grenade Build tags:pve
+dimwishlist:item=2328923181&perks=3523296417,11612903
+dimwishlist:item=2328923181&perks=3523296417,2422968039
+dimwishlist:item=2328923181&perks=1906147653,11612903
+dimwishlist:item=2328923181&perks=1906147653,2422968039
+
+
+// Breachlight - PVE Melee Build (pve)
+//notes: PVE Melee Build tags:pve
+dimwishlist:item=2328923181&perks=691659142,4082225868
+dimwishlist:item=2328923181&perks=691659142,1161469972
+dimwishlist:item=2328923181&perks=536173722,4082225868
+dimwishlist:item=2328923181&perks=536173722,1161469972
+
+
+// Breachlight - PVE Strand Build (pve)
+//notes: PVE Strand Build tags:pve
+dimwishlist:item=2328923181&perks=923806249,831391274
+dimwishlist:item=2328923181&perks=923806249,102912326
+dimwishlist:item=2328923181&perks=3422796781,831391274
+dimwishlist:item=2328923181&perks=3422796781,102912326
+
+
+// Breachlight - PVP (pvp)
+//notes: PVP tags:pvp
+dimwishlist:item=2328923181&perks=4071163871,1546637391
+dimwishlist:item=2328923181&perks=4071163871,3418165135
+dimwishlist:item=2328923181&perks=494941759,1546637391
+dimwishlist:item=2328923181&perks=494941759,3418165135
+
+
 // Someday - PVE (god-pve,pve)
 //notes: PVE; MW Handing; Someday, like most shotguns, benefits from handling, range, and fire rate improvements. Barrel Shroud and Assault Mag help with that with no negative side effects. The new trait Threat Remover is an improved version of Threat Detector that activates when you shoot an enemy and connect every pellet. We chose Recombination for the huge burst damage boost it provides, but you can opt for Vorpal Weapon or Cascade Point in Column 4 instead. tags:god-pve,pve
 dimwishlist:item=3232203524&perks=1300023272,791862061,1126264488,469285294
