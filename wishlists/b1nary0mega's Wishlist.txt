@@ -1,0 +1,1551 @@
+title:b1nary0mega's Wishlist
+description:personal favorites, blueberries, shacknews, and some oddballs. 
+
+// Rufus's Fury - PVE (god-pve,pve)
+//notes: Tier S; Even with the introduction of additional strand Auto Rifles into the game, Rufus's Fury remains at the top of the pack with an outstanding perk pool, impressive stability, and versatility in both PvE and PvP. tags:god-pve,pve
+dimwishlist:item=484515708&perks=3523296417,365154968
+dimwishlist:item=484515708&perks=3523296417,831391274
+dimwishlist:item=484515708&perks=3523296417,2939589096
+dimwishlist:item=484515708&perks=3523296417,102912326
+dimwishlist:item=484515708&perks=1906147653,365154968
+dimwishlist:item=484515708&perks=1906147653,831391274
+dimwishlist:item=484515708&perks=1906147653,2939589096
+dimwishlist:item=484515708&perks=1906147653,102912326
+dimwishlist:item=484515708&perks=1523832109,365154968
+dimwishlist:item=484515708&perks=1523832109,831391274
+dimwishlist:item=484515708&perks=1523832109,2939589096
+dimwishlist:item=484515708&perks=1523832109,102912326
+dimwishlist:item=484515708&perks=461595545,365154968
+dimwishlist:item=484515708&perks=461595545,831391274
+dimwishlist:item=484515708&perks=461595545,2939589096
+dimwishlist:item=484515708&perks=461595545,102912326
+
+
+// Rufus's Fury - PVP (god-pvp,pvp)
+//notes: Tier S; Even with the introduction of additional strand Auto Rifles into the game, Rufus's Fury remains at the top of the pack with an outstanding perk pool, impressive stability, and versatility in both PvE and PvP. tags:god-pvp,pvp
+dimwishlist:item=484515708&perks=1523832109,1890422124
+dimwishlist:item=484515708&perks=1523832109,1523649716
+dimwishlist:item=484515708&perks=461595545,1890422124
+dimwishlist:item=484515708&perks=461595545,1523649716
+
+
+// Bold Endings - PVE (god-pve,pve)
+//notes: PVE; MW: Handing or Speed; Similar to Aggressive Frame Hand Cannons, Heavy Bursts suffer from low base stability and handling, so best to bump that up using Fluted Barrel. Polygonal Rifling is a decent 2nd pick for more stability at the cost of no extra handling. Tactical Mag increases mag size, reload speed, and stability, so it’s a no brainer for a weapon like this. For Perk 1, not a lot exists for PvE, but what we do have is rather solid. Headstone is a staple of Stasis builds, and thankfully rolls here. Unfortunately, that means it clashes with Rapid-Hit, but either of these will suit you well based on the build. Perk 2 fares a little better, offering a bevy of damage boosting or AoE perks. Demolitionist can activate from Headstone’s crystals and Collective Action provides a 20% damage boost after collecting any elemental pick-up! tags:god-pve,pve
+dimwishlist:item=496728945&perks=1840239774,106909392,124408337,3523296417
+dimwishlist:item=496728945&perks=1840239774,106909392,124408337,3324494224
+dimwishlist:item=496728945&perks=1840239774,106909392,124408337,1906147653
+dimwishlist:item=496728945&perks=1840239774,106909392,124408337,2562668800
+dimwishlist:item=496728945&perks=1840239774,106909392,1171887445,3523296417
+dimwishlist:item=496728945&perks=1840239774,106909392,1171887445,3324494224
+dimwishlist:item=496728945&perks=1840239774,106909392,1171887445,1906147653
+dimwishlist:item=496728945&perks=1840239774,106909392,1171887445,2562668800
+dimwishlist:item=496728945&perks=1840239774,106909392,247725512,3523296417
+dimwishlist:item=496728945&perks=1840239774,106909392,247725512,3324494224
+dimwishlist:item=496728945&perks=1840239774,106909392,247725512,1906147653
+dimwishlist:item=496728945&perks=1840239774,106909392,247725512,2562668800
+dimwishlist:item=496728945&perks=1840239774,106909392,2938480696,3523296417
+dimwishlist:item=496728945&perks=1840239774,106909392,2938480696,3324494224
+dimwishlist:item=496728945&perks=1840239774,106909392,2938480696,1906147653
+dimwishlist:item=496728945&perks=1840239774,106909392,2938480696,2562668800
+dimwishlist:item=496728945&perks=1392496348,106909392,124408337,3523296417
+dimwishlist:item=496728945&perks=1392496348,106909392,124408337,3324494224
+dimwishlist:item=496728945&perks=1392496348,106909392,124408337,1906147653
+dimwishlist:item=496728945&perks=1392496348,106909392,124408337,2562668800
+dimwishlist:item=496728945&perks=1392496348,106909392,1171887445,3523296417
+dimwishlist:item=496728945&perks=1392496348,106909392,1171887445,3324494224
+dimwishlist:item=496728945&perks=1392496348,106909392,1171887445,1906147653
+dimwishlist:item=496728945&perks=1392496348,106909392,1171887445,2562668800
+dimwishlist:item=496728945&perks=1392496348,106909392,247725512,3523296417
+dimwishlist:item=496728945&perks=1392496348,106909392,247725512,3324494224
+dimwishlist:item=496728945&perks=1392496348,106909392,247725512,1906147653
+dimwishlist:item=496728945&perks=1392496348,106909392,247725512,2562668800
+dimwishlist:item=496728945&perks=1392496348,106909392,2938480696,3523296417
+dimwishlist:item=496728945&perks=1392496348,106909392,2938480696,3324494224
+dimwishlist:item=496728945&perks=1392496348,106909392,2938480696,1906147653
+dimwishlist:item=496728945&perks=1392496348,106909392,2938480696,2562668800
+
+
+// Bold Endings - PVP (god-pvp,pvp)
+//notes: PVP; MW Stability or Range; In PvP, Bold Endings is going to need all of the range and stability it can get to compete with the other top-tier hand cannons. To that end, Smallbore is the best barrel, but arguments can be made for Hammer-Forged Rifling or Chambered Compensator. Accurized Rounds is your best magazine as Ricochet Rounds aren’t available here. Steady Rounds could be a solid second pick if you go with Hammer-Forged Rifling. Perk 1 has Rapid-Hit or To the Pain, both of which are excellent stat boosting perks. Rapid-Hit will help keep your follow up shots on target, but To the Pain boosts aim assist and handling for taking damage, so up to you what feels right. Perk 2 has the aforementioned damage boosting perks, but also rolls with Eye of the Storm for a solid dueling experience, especially with To the Pain. Desperate Measures is probably the best damage boosting perk as it doesn’t require a Stasis ability kill to get max effectiveness. tags:god-pvp,pvp
+dimwishlist:item=496728945&perks=1482024992,3142289711,247725512,699525795
+dimwishlist:item=496728945&perks=1482024992,3142289711,247725512,2109543898
+dimwishlist:item=496728945&perks=1482024992,3142289711,247725512,3719974635
+dimwishlist:item=496728945&perks=1482024992,3142289711,247725512,2799030358
+dimwishlist:item=496728945&perks=1482024992,3142289711,3938834702,699525795
+dimwishlist:item=496728945&perks=1482024992,3142289711,3938834702,2109543898
+dimwishlist:item=496728945&perks=1482024992,3142289711,3938834702,3719974635
+dimwishlist:item=496728945&perks=1482024992,3142289711,3938834702,2799030358
+dimwishlist:item=496728945&perks=1482024992,3142289711,2938480696,699525795
+dimwishlist:item=496728945&perks=1482024992,3142289711,2938480696,2109543898
+dimwishlist:item=496728945&perks=1482024992,3142289711,2938480696,3719974635
+dimwishlist:item=496728945&perks=1482024992,3142289711,2938480696,2799030358
+dimwishlist:item=496728945&perks=1482024992,3142289711,3416609154,699525795
+dimwishlist:item=496728945&perks=1482024992,3142289711,3416609154,2109543898
+dimwishlist:item=496728945&perks=1482024992,3142289711,3416609154,3719974635
+dimwishlist:item=496728945&perks=1482024992,3142289711,3416609154,2799030358
+
+
+// Bold Endings - PVE Demi-God (pve)
+//notes: PVE; MW: Handing or Speed; Similar to Aggressive Frame Hand Cannons, Heavy Bursts suffer from low base stability and handling, so best to bump that up using Fluted Barrel. Polygonal Rifling is a decent 2nd pick for more stability at the cost of no extra handling. Tactical Mag increases mag size, reload speed, and stability, so it’s a no brainer for a weapon like this. For Perk 1, not a lot exists for PvE, but what we do have is rather solid. Headstone is a staple of Stasis builds, and thankfully rolls here. Unfortunately, that means it clashes with Rapid-Hit, but either of these will suit you well based on the build. Perk 2 fares a little better, offering a bevy of damage boosting or AoE perks. Demolitionist can activate from Headstone’s crystals and Collective Action provides a 20% damage boost after collecting any elemental pick-up! tags:pve
+dimwishlist:item=496728945&perks=124408337,3523296417
+dimwishlist:item=496728945&perks=124408337,3324494224
+dimwishlist:item=496728945&perks=124408337,1906147653
+dimwishlist:item=496728945&perks=124408337,2562668800
+dimwishlist:item=496728945&perks=1171887445,3523296417
+dimwishlist:item=496728945&perks=1171887445,3324494224
+dimwishlist:item=496728945&perks=1171887445,1906147653
+dimwishlist:item=496728945&perks=1171887445,2562668800
+dimwishlist:item=496728945&perks=247725512,3523296417
+dimwishlist:item=496728945&perks=247725512,3324494224
+dimwishlist:item=496728945&perks=247725512,1906147653
+dimwishlist:item=496728945&perks=247725512,2562668800
+dimwishlist:item=496728945&perks=2938480696,3523296417
+dimwishlist:item=496728945&perks=2938480696,3324494224
+dimwishlist:item=496728945&perks=2938480696,1906147653
+dimwishlist:item=496728945&perks=2938480696,2562668800
+
+
+// Bold Endings - PVP Demi-God (pvp)
+//notes: PVP; MW Stability or Range; In PvP, Bold Endings is going to need all of the range and stability it can get to compete with the other top-tier hand cannons. To that end, Smallbore is the best barrel, but arguments can be made for Hammer-Forged Rifling or Chambered Compensator. Accurized Rounds is your best magazine as Ricochet Rounds aren’t available here. Steady Rounds could be a solid second pick if you go with Hammer-Forged Rifling. Perk 1 has Rapid-Hit or To the Pain, both of which are excellent stat boosting perks. Rapid-Hit will help keep your follow up shots on target, but To the Pain boosts aim assist and handling for taking damage, so up to you what feels right. Perk 2 has the aforementioned damage boosting perks, but also rolls with Eye of the Storm for a solid dueling experience, especially with To the Pain. Desperate Measures is probably the best damage boosting perk as it doesn’t require a Stasis ability kill to get max effectiveness. tags:pvp
+dimwishlist:item=496728945&perks=247725512,699525795
+dimwishlist:item=496728945&perks=247725512,2109543898
+dimwishlist:item=496728945&perks=247725512,3719974635
+dimwishlist:item=496728945&perks=247725512,2799030358
+dimwishlist:item=496728945&perks=3938834702,699525795
+dimwishlist:item=496728945&perks=3938834702,2109543898
+dimwishlist:item=496728945&perks=3938834702,3719974635
+dimwishlist:item=496728945&perks=3938834702,2799030358
+dimwishlist:item=496728945&perks=2938480696,699525795
+dimwishlist:item=496728945&perks=2938480696,2109543898
+dimwishlist:item=496728945&perks=2938480696,3719974635
+dimwishlist:item=496728945&perks=2938480696,2799030358
+dimwishlist:item=496728945&perks=3416609154,699525795
+dimwishlist:item=496728945&perks=3416609154,2109543898
+dimwishlist:item=496728945&perks=3416609154,3719974635
+dimwishlist:item=496728945&perks=3416609154,2799030358
+
+
+// Forbearance - Blueberries - God PVE (god-pve)
+//notes: T:S; BB God PVE; Alt: Undercurrent, Explosive Personality, Tusk of the boar; MW: Reload Speed tags:god-pve
+dimwishlist:item=568611921&perks=3525010810,2822142346,3523296417,2396489472
+
+
+// Forbearance - Blueberries - God PVP (god-pvp)
+//notes: T:C; BB God PVP; Alt: Undercurrent, Explosive Personality, Tusk of the boar; MW: Handling tags:god-pvp
+dimwishlist:item=568611921&perks=3525010810,2822142346,1683379515,2610012052
+
+
+// Forbearance - Blueberries - PVE (pve)
+//notes: T:S; BB PVE; Alt: Undercurrent, Explosive Personality, Tusk of the boar; MW: Reload Speed, Handling tags:pve
+dimwishlist:item=568611921&perks=3523296417,2396489472
+dimwishlist:item=568611921&perks=3523296417,4049631843
+dimwishlist:item=568611921&perks=2010801679,2396489472
+dimwishlist:item=568611921&perks=2010801679,4049631843
+
+
+// Forbearance - Blueberries - PVP (pvp)
+//notes: T:C; BB PVP; Alt: Undercurrent, Explosive Personality, Tusk of the boar; MW: Handling tags:pvp
+dimwishlist:item=568611921&perks=1683379515,2610012052
+dimwishlist:item=568611921&perks=3436462433,2610012052
+
+
+// The Mountaintop - Blueberries - God PVE (god-pve)
+//notes: T:S; BB God PVE; Alt: Wilderflight, Tusk of the Boar, Forbearance; MW: Velocity tags:god-pve
+dimwishlist:item=568611922&perks=3525010810,3301904089,3300816228,4104185692
+dimwishlist:item=568611922&perks=3525010810,3301904089,3300816228,469285294
+
+
+// The Mountaintop - Blueberries - God PVE (DPS) (god-pve)
+//notes: T:S; BB God PVE (DPS); Alt: Wilderflight, Tusk of the Boar, Forbearance; MW: Velocity tags:god-pve
+dimwishlist:item=568611922&perks=3525010810,3301904089,3300816228,469285294
+
+
+// The Mountaintop - Blueberries - God PVP (god-pvp)
+//notes: T:A; BB God PVP; Alt: Wilderflight, Tusk of the Boar, Forbearance; MW: Velocity tags:god-pvp
+dimwishlist:item=568611922&perks=1478423395,2822142346,951095735,438098033
+
+
+// The Mountaintop - Blueberries - PVE (pve)
+//notes: T:S; BB PVE; Alt: Wilderflight, Tusk of the Boar, Forbearance; MW: Velocity tags:pve
+dimwishlist:item=568611922&perks=3300816228,4104185692
+dimwishlist:item=568611922&perks=3300816228,469285294
+dimwishlist:item=568611922&perks=3523296417,4104185692
+dimwishlist:item=568611922&perks=3523296417,469285294
+
+
+// The Mountaintop - Blueberries - PVP (pvp)
+//notes: T:A; BB PVP; Alt: Wilderflight, Tusk of the Boar, Forbearance; MW: Velocity tags:pvp
+dimwishlist:item=568611922&perks=951095735,438098033
+dimwishlist:item=568611922&perks=951095735,1546637391
+
+
+// Edge Transit - Blueberries - God PVE (god-pve)
+//notes: T:S; BB God PVE; Alt: Cataphract GL3, Parasite, Wendigo GL3; MW: Velocity, Handling tags:god-pve
+dimwishlist:item=568611923&perks=3525010810,3301904089,968510818,3078487919
+
+
+// Edge Transit - Blueberries - God PVP (god-pvp)
+//notes: T:B; BB God PVP; Alt: Cataphract GL3, Parasite, Wendigo GL3; MW: Velocity tags:god-pvp
+dimwishlist:item=568611923&perks=1478423395,2822142346,951095735,3194351027
+
+
+// Edge Transit - Blueberries - PVE (pve)
+//notes: T:S; BB PVE; Alt: Cataphract GL3, Parasite, Wendigo GL3; MW: Velocity, Handling tags:pve
+dimwishlist:item=568611923&perks=968510818,3078487919
+dimwishlist:item=568611923&perks=3751912585,3078487919
+
+
+// Edge Transit - Blueberries - PVP (pvp)
+//notes: T:B; BB PVP; Alt: Cataphract GL3, Parasite, Wendigo GL3; MW: Velocity tags:pvp
+dimwishlist:item=568611923&perks=951095735,3194351027
+
+
+// Gnawing Hunger - PVE (pve,god-pve)
+//notes: Tier S; Gnawing Hunger has had an incredible run since it was first introduced, and remains one of the most popular auto rifles for good reason. Incredible perks with impressive stability at 600 RPM, this is one of the best weapons in the game. tags:pve,god-pve
+dimwishlist:item=821154603&perks=1820235745,3425386926
+
+
+// Gnawing Hunger - PVP (pvp,god-pvp)
+//notes: Tier S; Gnawing Hunger has had an incredible run since it was first introduced, and remains one of the most popular auto rifles for good reason. Incredible perks with impressive stability at 600 RPM, this is one of the best weapons in the game. tags:pvp,god-pvp
+dimwishlist:item=821154603&perks=1890422124,3425386926
+dimwishlist:item=821154603&perks=1890422124,1015611457
+
+
+// The Recluse - Blueberries - God PVE (Void) (god-pve)
+//notes: T:A; BB God PVE (Void Build); Alt: Multimach CCX, Shayura's Wrath; MW: Range, Stability tags:god-pve
+dimwishlist:item=1050806815&perks=1482024992,3230963543,776531651,2048641572
+
+
+// The Recluse - Blueberries - God PVE (god-pve)
+//notes: T:A; BB God PVE; Alt: Multimach CCX, Shayura's Wrath; MW: Range, Stability tags:god-pve
+dimwishlist:item=1050806815&perks=1482024992,3230963543,776531651,4104185692
+
+
+// The Recluse - Blueberries - God PVP (3v3) (god-pvp)
+//notes: T:A; BB God PVP (3v3); Alt: Multimach CCX, Shayura's Wrath; MW: Range tags:god-pvp
+dimwishlist:item=1050806815&perks=3250034553,1885400500,1359896290,3081867624
+
+
+// The Recluse - Blueberries - God PVP (6v6) (god-pvp)
+//notes: T:A; BB God PVP (6v6); Alt: Multimach CCX, Shayura's Wrath; MW: Range tags:god-pvp
+dimwishlist:item=1050806815&perks=3250034553,1885400500,1359896290,1890422124
+
+
+// The Recluse - Blueberries - PVE (Void) (pve)
+//notes: T:A; BB PVE (Void Build); Alt: Multimach CCX, Shayura's Wrath; MW: Range, Stability tags:pve
+dimwishlist:item=1050806815&perks=776531651,2048641572
+dimwishlist:item=1050806815&perks=776531651,2109543898
+
+
+// The Recluse - Blueberries - PVE (pve)
+//notes: T:A; BB PVE; Alt: Multimach CCX, Shayura's Wrath; MW: Range, Stability tags:pve
+dimwishlist:item=1050806815&perks=776531651,4104185692
+dimwishlist:item=1050806815&perks=776531651,3708227201
+dimwishlist:item=1050806815&perks=4071163871,4104185692
+dimwishlist:item=1050806815&perks=4071163871,3708227201
+
+
+// The Recluse - Blueberries - PVP (3v3) (pvp)
+//notes: T:A; BB PVP (3v3); Alt: Multimach CCX, Shayura's Wrath; MW: Range tags:pvp
+dimwishlist:item=1050806815&perks=1359896290,3081867624
+
+
+// The Recluse - Blueberries - PVP (6v6) (pvp)
+//notes: T:A; BB PVP (6v6); Alt: Multimach CCX, Shayura's Wrath; MW: Range tags:pvp
+dimwishlist:item=1050806815&perks=1359896290,1890422124
+
+
+// Chroma Rush - PVE (god-pve,pve)
+//notes: Tier S; Chroma Rush has it all. Good base stats, good perks, and is part of a decent archetype. In PvE, it has a menagerie of perks to pick from, including Rampage, Adrenaline Junkie, and Kill Clip. In PvP, it can either be a consistent laser beam, or a lethal beast with different rolls. tags:god-pve,pve
+dimwishlist:item=1119734784&perks=2779035018,3425386926
+dimwishlist:item=1119734784&perks=2779035018,11612903
+dimwishlist:item=1119734784&perks=1820235745,3425386926
+dimwishlist:item=1119734784&perks=1820235745,11612903
+
+
+// Chroma Rush - PVP (god-pvp,pvp)
+//notes: Tier S; Chroma Rush has it all. Good base stats, good perks, and is part of a decent archetype. In PvE, it has a menagerie of perks to pick from, including Rampage, Adrenaline Junkie, and Kill Clip. In PvP, it can either be a consistent laser beam, or a lethal beast with different rolls. tags:god-pvp,pvp
+dimwishlist:item=1119734784&perks=588594999,1890422124
+dimwishlist:item=1119734784&perks=588594999,1015611457
+dimwishlist:item=1119734784&perks=2946784966,1890422124
+dimwishlist:item=1119734784&perks=2946784966,1015611457
+
+
+// Lost Signal - PVE (god-pve,pve)
+//notes: PVE; MW Handling, Reload, or Velocity; The first thing to consider when crafting a Lost Signal is that it already comes with 100 Blast Radius, so most boosts to that stat are going to be wasted. Instead I recommend focusing on Handling for quick draws. I also can't really see past Auto-Loading Holster in the first slot here, it simply compliments how the archetype is meant to be used: draw, fire, stow. So the interesting decision here is what to do with the fourth slot. On an area damage weapon like this One For All is going to be hands down the best damage buff, literally all you need to do is hit three enemies within a very generous time window, which will happen any time you fire Lost Signal into a crowd. The other strong case here is Demolitionist: special weapons with Demolitionist can give out a lot of grenade energy, and with Lost Signal's ability to quickly clear out a lot of weak enemies, you could find yourself recharging your grenade extremely quickly. tags:god-pve,pve
+dimwishlist:item=1197771438&perks=3525010810,2822142346,3300816228,4049631843
+dimwishlist:item=1197771438&perks=3525010810,2822142346,3300816228,859780267
+dimwishlist:item=1197771438&perks=3525010810,2822142346,3300816228,3523296417
+dimwishlist:item=1197771438&perks=3525010810,2822142346,3300816228,1906147653
+dimwishlist:item=1197771438&perks=3525010810,2822142346,3528046508,4049631843
+dimwishlist:item=1197771438&perks=3525010810,2822142346,3528046508,859780267
+dimwishlist:item=1197771438&perks=3525010810,2822142346,3528046508,3523296417
+dimwishlist:item=1197771438&perks=3525010810,2822142346,3528046508,1906147653
+dimwishlist:item=1197771438&perks=3798852852,2822142346,3300816228,4049631843
+dimwishlist:item=1197771438&perks=3798852852,2822142346,3300816228,859780267
+dimwishlist:item=1197771438&perks=3798852852,2822142346,3300816228,3523296417
+dimwishlist:item=1197771438&perks=3798852852,2822142346,3300816228,1906147653
+dimwishlist:item=1197771438&perks=3798852852,2822142346,3528046508,4049631843
+dimwishlist:item=1197771438&perks=3798852852,2822142346,3528046508,859780267
+dimwishlist:item=1197771438&perks=3798852852,2822142346,3528046508,3523296417
+dimwishlist:item=1197771438&perks=3798852852,2822142346,3528046508,1906147653
+dimwishlist:item=1197771438&perks=3809316345,2822142346,3300816228,4049631843
+dimwishlist:item=1197771438&perks=3809316345,2822142346,3300816228,859780267
+dimwishlist:item=1197771438&perks=3809316345,2822142346,3300816228,3523296417
+dimwishlist:item=1197771438&perks=3809316345,2822142346,3300816228,1906147653
+dimwishlist:item=1197771438&perks=3809316345,2822142346,3528046508,4049631843
+dimwishlist:item=1197771438&perks=3809316345,2822142346,3528046508,859780267
+dimwishlist:item=1197771438&perks=3809316345,2822142346,3528046508,3523296417
+dimwishlist:item=1197771438&perks=3809316345,2822142346,3528046508,1906147653
+
+
+// Lost Signal - PVP (god-pvp,pvp)
+//notes: PVP; MW Handling, Reload, or Velocity; PvP Lost Signal is an interesting prospect. Witherhoard can be a huge irritant in Crucible, firing into choke points and forcing enemies to change position. Unfortunately this is where Lost Signal's shorter duration and lower damage makes it tough to compete with its exotic brother. On the plus side there isn't a massive difference between PVP and PVE rolls here, you're looking for Auto-Loading Holster and if you manage to trigger a damage buff all the better. In particular I think there might be a case here for the newly revamped High Ground, which now acts as a traditional stacking damage buff that sets itself to max when defeating an opponent from above. If you can find a higher point of elevation, and fire down into an enemy or chokehold, those shots will get a nice little damage bonus. tags:god-pvp,pvp
+dimwishlist:item=1197771438&perks=3809316345,2822142346,3300816228,2319119708
+dimwishlist:item=1197771438&perks=3809316345,2822142346,3300816228,4049631843
+dimwishlist:item=1197771438&perks=3809316345,2822142346,3300816228,1546637391
+dimwishlist:item=1197771438&perks=3809316345,2822142346,3300816228,2140591236
+dimwishlist:item=1197771438&perks=3809316345,2822142346,3300816228,859780267
+dimwishlist:item=1197771438&perks=3809316345,2822142346,3300816228,3418165135
+dimwishlist:item=1197771438&perks=3809316345,2822142346,3528046508,2319119708
+dimwishlist:item=1197771438&perks=3809316345,2822142346,3528046508,4049631843
+dimwishlist:item=1197771438&perks=3809316345,2822142346,3528046508,1546637391
+dimwishlist:item=1197771438&perks=3809316345,2822142346,3528046508,2140591236
+dimwishlist:item=1197771438&perks=3809316345,2822142346,3528046508,859780267
+dimwishlist:item=1197771438&perks=3809316345,2822142346,3528046508,3418165135
+dimwishlist:item=1197771438&perks=3525010810,2822142346,3300816228,2319119708
+dimwishlist:item=1197771438&perks=3525010810,2822142346,3300816228,4049631843
+dimwishlist:item=1197771438&perks=3525010810,2822142346,3300816228,1546637391
+dimwishlist:item=1197771438&perks=3525010810,2822142346,3300816228,2140591236
+dimwishlist:item=1197771438&perks=3525010810,2822142346,3300816228,859780267
+dimwishlist:item=1197771438&perks=3525010810,2822142346,3300816228,3418165135
+dimwishlist:item=1197771438&perks=3525010810,2822142346,3528046508,2319119708
+dimwishlist:item=1197771438&perks=3525010810,2822142346,3528046508,4049631843
+dimwishlist:item=1197771438&perks=3525010810,2822142346,3528046508,1546637391
+dimwishlist:item=1197771438&perks=3525010810,2822142346,3528046508,2140591236
+dimwishlist:item=1197771438&perks=3525010810,2822142346,3528046508,859780267
+dimwishlist:item=1197771438&perks=3525010810,2822142346,3528046508,3418165135
+dimwishlist:item=1197771438&perks=3798852852,2822142346,3300816228,2319119708
+dimwishlist:item=1197771438&perks=3798852852,2822142346,3300816228,4049631843
+dimwishlist:item=1197771438&perks=3798852852,2822142346,3300816228,1546637391
+dimwishlist:item=1197771438&perks=3798852852,2822142346,3300816228,2140591236
+dimwishlist:item=1197771438&perks=3798852852,2822142346,3300816228,859780267
+dimwishlist:item=1197771438&perks=3798852852,2822142346,3300816228,3418165135
+dimwishlist:item=1197771438&perks=3798852852,2822142346,3528046508,2319119708
+dimwishlist:item=1197771438&perks=3798852852,2822142346,3528046508,4049631843
+dimwishlist:item=1197771438&perks=3798852852,2822142346,3528046508,1546637391
+dimwishlist:item=1197771438&perks=3798852852,2822142346,3528046508,2140591236
+dimwishlist:item=1197771438&perks=3798852852,2822142346,3528046508,859780267
+dimwishlist:item=1197771438&perks=3798852852,2822142346,3528046508,3418165135
+
+
+// Lost Signal - PVE Demi-God (pve)
+//notes: PVE; MW Handling, Reload, or Velocity; The first thing to consider when crafting a Lost Signal is that it already comes with 100 Blast Radius, so most boosts to that stat are going to be wasted. Instead I recommend focusing on Handling for quick draws. I also can't really see past Auto-Loading Holster in the first slot here, it simply compliments how the archetype is meant to be used: draw, fire, stow. So the interesting decision here is what to do with the fourth slot. On an area damage weapon like this One For All is going to be hands down the best damage buff, literally all you need to do is hit three enemies within a very generous time window, which will happen any time you fire Lost Signal into a crowd. The other strong case here is Demolitionist: special weapons with Demolitionist can give out a lot of grenade energy, and with Lost Signal's ability to quickly clear out a lot of weak enemies, you could find yourself recharging your grenade extremely quickly. tags:pve
+dimwishlist:item=1197771438&perks=3300816228,4049631843
+dimwishlist:item=1197771438&perks=3300816228,859780267
+dimwishlist:item=1197771438&perks=3300816228,3523296417
+dimwishlist:item=1197771438&perks=3300816228,1906147653
+dimwishlist:item=1197771438&perks=3528046508,4049631843
+dimwishlist:item=1197771438&perks=3528046508,859780267
+dimwishlist:item=1197771438&perks=3528046508,3523296417
+dimwishlist:item=1197771438&perks=3528046508,1906147653
+
+
+// Lost Signal - PVP Demi-God (pvp)
+//notes: PVP; MW Handling, Reload, or Velocity; PvP Lost Signal is an interesting prospect. Witherhoard can be a huge irritant in Crucible, firing into choke points and forcing enemies to change position. Unfortunately this is where Lost Signal's shorter duration and lower damage makes it tough to compete with its exotic brother. On the plus side there isn't a massive difference between PVP and PVE rolls here, you're looking for Auto-Loading Holster and if you manage to trigger a damage buff all the better. In particular I think there might be a case here for the newly revamped High Ground, which now acts as a traditional stacking damage buff that sets itself to max when defeating an opponent from above. If you can find a higher point of elevation, and fire down into an enemy or chokehold, those shots will get a nice little damage bonus. tags:pvp
+dimwishlist:item=1197771438&perks=3300816228,2319119708
+dimwishlist:item=1197771438&perks=3300816228,4049631843
+dimwishlist:item=1197771438&perks=3300816228,1546637391
+dimwishlist:item=1197771438&perks=3300816228,2140591236
+dimwishlist:item=1197771438&perks=3300816228,859780267
+dimwishlist:item=1197771438&perks=3300816228,3418165135
+dimwishlist:item=1197771438&perks=3528046508,2319119708
+dimwishlist:item=1197771438&perks=3528046508,4049631843
+dimwishlist:item=1197771438&perks=3528046508,1546637391
+dimwishlist:item=1197771438&perks=3528046508,2140591236
+dimwishlist:item=1197771438&perks=3528046508,859780267
+dimwishlist:item=1197771438&perks=3528046508,3418165135
+
+
+// Hung Jury SR4 - Blueberries - God PVE (GM) (god-pve)
+//notes: T:A; BB God PVE (GM); Alt: Polaris Lance, Tarnished Mettle; MW: Reload tags:god-pve
+dimwishlist:item=1453235079&perks=1840239774,106909392,3891536761,3038247973
+dimwishlist:item=1453235079&perks=1840239774,106909392,3891536761,4049631843
+
+
+// Hung Jury SR4 - Blueberries - God PVE (god-pve)
+//notes: T:A; BB God PVE; Alt: Polaris Lance, Tarnished Mettle; MW: Reload tags:god-pve
+dimwishlist:item=1453235079&perks=1840239774,106909392,3891536761,3824105627
+
+
+// Hung Jury SR4 - Blueberries - God PVP (god-pvp)
+//notes: T:A; BB God PVP; Alt: Polaris Lance, Tarnished Mettle; MW: Stability, Handling tags:god-pvp
+dimwishlist:item=1453235079&perks=1840239774,3177308360,247725512,2551157718
+
+
+// Hung Jury SR4 - Blueberries - PVE (GM) (pve)
+//notes: T:A; BB PVE (GM); Alt: Polaris Lance, Tarnished Mettle; MW: Reload tags:pve
+dimwishlist:item=1453235079&perks=3891536761,3038247973
+dimwishlist:item=1453235079&perks=3891536761,4049631843
+
+
+// Hung Jury SR4 - Blueberries - PVE (pve)
+//notes: T:A; BB PVE; Alt: Polaris Lance, Tarnished Mettle; MW: Reload tags:pve
+dimwishlist:item=1453235079&perks=3891536761,3824105627
+dimwishlist:item=1453235079&perks=3891536761,3038247973
+
+
+// Hung Jury SR4 - Blueberries - PVP (pvp)
+//notes: T:A; BB PVP; Alt: Polaris Lance, Tarnished Mettle; MW: Stability, Handling tags:pvp
+dimwishlist:item=1453235079&perks=247725512,2551157718
+dimwishlist:item=1453235079&perks=247725512,3751912585
+
+
+// No Hesitation - PVE (god-pve,pve)
+//notes: PVE; MW: Reload or Range; Physic and Circle of Life are two unique perks that only appear on support frames and interact with the effects described above. The former ensures that you receive Restoration when you grant an ally Restoration, while the latter improves the support frame boost aspect, making it last far longer. Both are strong, but Physic stands out as the top choice in column three. The enhanced version of the perk, available on a crafted No Hesitation, will give Restoration x2, making you basically invulnerable to all but the heaviest sustained damage. Otherwise Demolitionist and Overflow are both useful just for ensuring you can keep firing as long as possible without stopping to reload. In the fourth column there is the aforementioned Circle of Life and also the reliably good Incandescent, which interacts well with Solar subclasses. There is also a surprising niche choice: Attrition Orbs. This generally bad perk creates orbs when damaging an enemy, which is nice, but they usually pop out of that enemy's head, which is bad as you don't really want to have to run over there and collect them. On a support frame, though, it also periodically creates orbs when healing allies, making the perk much more useful. tags:god-pve,pve
+dimwishlist:item=1801007332&perks=3250034553,3142289711,3643424744,4293542123
+dimwishlist:item=1801007332&perks=3250034553,3142289711,3643424744,2298656195
+dimwishlist:item=1801007332&perks=3250034553,3142289711,3643424744,243981275
+dimwishlist:item=1801007332&perks=3250034553,3142289711,3643424744,2675184851
+dimwishlist:item=1801007332&perks=3250034553,3142289711,3643424744,984655331
+dimwishlist:item=1801007332&perks=3250034553,3142289711,3643424744,674546187
+dimwishlist:item=1801007332&perks=3250034553,3142289711,2980589453,4293542123
+dimwishlist:item=1801007332&perks=3250034553,3142289711,2980589453,2298656195
+dimwishlist:item=1801007332&perks=3250034553,3142289711,2980589453,243981275
+dimwishlist:item=1801007332&perks=3250034553,3142289711,2980589453,2675184851
+dimwishlist:item=1801007332&perks=3250034553,3142289711,2980589453,984655331
+dimwishlist:item=1801007332&perks=3250034553,3142289711,2980589453,674546187
+dimwishlist:item=1801007332&perks=3250034553,3142289711,3523296417,4293542123
+dimwishlist:item=1801007332&perks=3250034553,3142289711,3523296417,2298656195
+dimwishlist:item=1801007332&perks=3250034553,3142289711,3523296417,243981275
+dimwishlist:item=1801007332&perks=3250034553,3142289711,3523296417,2675184851
+dimwishlist:item=1801007332&perks=3250034553,3142289711,3523296417,984655331
+dimwishlist:item=1801007332&perks=3250034553,3142289711,3523296417,674546187
+dimwishlist:item=1801007332&perks=3250034553,3142289711,4063561849,4293542123
+dimwishlist:item=1801007332&perks=3250034553,3142289711,4063561849,2298656195
+dimwishlist:item=1801007332&perks=3250034553,3142289711,4063561849,243981275
+dimwishlist:item=1801007332&perks=3250034553,3142289711,4063561849,2675184851
+dimwishlist:item=1801007332&perks=3250034553,3142289711,4063561849,984655331
+dimwishlist:item=1801007332&perks=3250034553,3142289711,4063561849,674546187
+dimwishlist:item=1801007332&perks=3250034553,3142289711,1906147653,4293542123
+dimwishlist:item=1801007332&perks=3250034553,3142289711,1906147653,2298656195
+dimwishlist:item=1801007332&perks=3250034553,3142289711,1906147653,243981275
+dimwishlist:item=1801007332&perks=3250034553,3142289711,1906147653,2675184851
+dimwishlist:item=1801007332&perks=3250034553,3142289711,1906147653,984655331
+dimwishlist:item=1801007332&perks=3250034553,3142289711,1906147653,674546187
+dimwishlist:item=1801007332&perks=3250034553,3142289711,2682205016,4293542123
+dimwishlist:item=1801007332&perks=3250034553,3142289711,2682205016,2298656195
+dimwishlist:item=1801007332&perks=3250034553,3142289711,2682205016,243981275
+dimwishlist:item=1801007332&perks=3250034553,3142289711,2682205016,2675184851
+dimwishlist:item=1801007332&perks=3250034553,3142289711,2682205016,984655331
+dimwishlist:item=1801007332&perks=3250034553,3142289711,2682205016,674546187
+dimwishlist:item=1801007332&perks=3250034553,1087426260,3643424744,4293542123
+dimwishlist:item=1801007332&perks=3250034553,1087426260,3643424744,2298656195
+dimwishlist:item=1801007332&perks=3250034553,1087426260,3643424744,243981275
+dimwishlist:item=1801007332&perks=3250034553,1087426260,3643424744,2675184851
+dimwishlist:item=1801007332&perks=3250034553,1087426260,3643424744,984655331
+dimwishlist:item=1801007332&perks=3250034553,1087426260,3643424744,674546187
+dimwishlist:item=1801007332&perks=3250034553,1087426260,2980589453,4293542123
+dimwishlist:item=1801007332&perks=3250034553,1087426260,2980589453,2298656195
+dimwishlist:item=1801007332&perks=3250034553,1087426260,2980589453,243981275
+dimwishlist:item=1801007332&perks=3250034553,1087426260,2980589453,2675184851
+dimwishlist:item=1801007332&perks=3250034553,1087426260,2980589453,984655331
+dimwishlist:item=1801007332&perks=3250034553,1087426260,2980589453,674546187
+dimwishlist:item=1801007332&perks=3250034553,1087426260,3523296417,4293542123
+dimwishlist:item=1801007332&perks=3250034553,1087426260,3523296417,2298656195
+dimwishlist:item=1801007332&perks=3250034553,1087426260,3523296417,243981275
+dimwishlist:item=1801007332&perks=3250034553,1087426260,3523296417,2675184851
+dimwishlist:item=1801007332&perks=3250034553,1087426260,3523296417,984655331
+dimwishlist:item=1801007332&perks=3250034553,1087426260,3523296417,674546187
+dimwishlist:item=1801007332&perks=3250034553,1087426260,4063561849,4293542123
+dimwishlist:item=1801007332&perks=3250034553,1087426260,4063561849,2298656195
+dimwishlist:item=1801007332&perks=3250034553,1087426260,4063561849,243981275
+dimwishlist:item=1801007332&perks=3250034553,1087426260,4063561849,2675184851
+dimwishlist:item=1801007332&perks=3250034553,1087426260,4063561849,984655331
+dimwishlist:item=1801007332&perks=3250034553,1087426260,4063561849,674546187
+dimwishlist:item=1801007332&perks=3250034553,1087426260,1906147653,4293542123
+dimwishlist:item=1801007332&perks=3250034553,1087426260,1906147653,2298656195
+dimwishlist:item=1801007332&perks=3250034553,1087426260,1906147653,243981275
+dimwishlist:item=1801007332&perks=3250034553,1087426260,1906147653,2675184851
+dimwishlist:item=1801007332&perks=3250034553,1087426260,1906147653,984655331
+dimwishlist:item=1801007332&perks=3250034553,1087426260,1906147653,674546187
+dimwishlist:item=1801007332&perks=3250034553,1087426260,2682205016,4293542123
+dimwishlist:item=1801007332&perks=3250034553,1087426260,2682205016,2298656195
+dimwishlist:item=1801007332&perks=3250034553,1087426260,2682205016,243981275
+dimwishlist:item=1801007332&perks=3250034553,1087426260,2682205016,2675184851
+dimwishlist:item=1801007332&perks=3250034553,1087426260,2682205016,984655331
+dimwishlist:item=1801007332&perks=3250034553,1087426260,2682205016,674546187
+dimwishlist:item=1801007332&perks=3250034553,106909392,3643424744,4293542123
+dimwishlist:item=1801007332&perks=3250034553,106909392,3643424744,2298656195
+dimwishlist:item=1801007332&perks=3250034553,106909392,3643424744,243981275
+dimwishlist:item=1801007332&perks=3250034553,106909392,3643424744,2675184851
+dimwishlist:item=1801007332&perks=3250034553,106909392,3643424744,984655331
+dimwishlist:item=1801007332&perks=3250034553,106909392,3643424744,674546187
+dimwishlist:item=1801007332&perks=3250034553,106909392,2980589453,4293542123
+dimwishlist:item=1801007332&perks=3250034553,106909392,2980589453,2298656195
+dimwishlist:item=1801007332&perks=3250034553,106909392,2980589453,243981275
+dimwishlist:item=1801007332&perks=3250034553,106909392,2980589453,2675184851
+dimwishlist:item=1801007332&perks=3250034553,106909392,2980589453,984655331
+dimwishlist:item=1801007332&perks=3250034553,106909392,2980589453,674546187
+dimwishlist:item=1801007332&perks=3250034553,106909392,3523296417,4293542123
+dimwishlist:item=1801007332&perks=3250034553,106909392,3523296417,2298656195
+dimwishlist:item=1801007332&perks=3250034553,106909392,3523296417,243981275
+dimwishlist:item=1801007332&perks=3250034553,106909392,3523296417,2675184851
+dimwishlist:item=1801007332&perks=3250034553,106909392,3523296417,984655331
+dimwishlist:item=1801007332&perks=3250034553,106909392,3523296417,674546187
+dimwishlist:item=1801007332&perks=3250034553,106909392,4063561849,4293542123
+dimwishlist:item=1801007332&perks=3250034553,106909392,4063561849,2298656195
+dimwishlist:item=1801007332&perks=3250034553,106909392,4063561849,243981275
+dimwishlist:item=1801007332&perks=3250034553,106909392,4063561849,2675184851
+dimwishlist:item=1801007332&perks=3250034553,106909392,4063561849,984655331
+dimwishlist:item=1801007332&perks=3250034553,106909392,4063561849,674546187
+dimwishlist:item=1801007332&perks=3250034553,106909392,1906147653,4293542123
+dimwishlist:item=1801007332&perks=3250034553,106909392,1906147653,2298656195
+dimwishlist:item=1801007332&perks=3250034553,106909392,1906147653,243981275
+dimwishlist:item=1801007332&perks=3250034553,106909392,1906147653,2675184851
+dimwishlist:item=1801007332&perks=3250034553,106909392,1906147653,984655331
+dimwishlist:item=1801007332&perks=3250034553,106909392,1906147653,674546187
+dimwishlist:item=1801007332&perks=3250034553,106909392,2682205016,4293542123
+dimwishlist:item=1801007332&perks=3250034553,106909392,2682205016,2298656195
+dimwishlist:item=1801007332&perks=3250034553,106909392,2682205016,243981275
+dimwishlist:item=1801007332&perks=3250034553,106909392,2682205016,2675184851
+dimwishlist:item=1801007332&perks=3250034553,106909392,2682205016,984655331
+dimwishlist:item=1801007332&perks=3250034553,106909392,2682205016,674546187
+dimwishlist:item=1801007332&perks=1482024992,3142289711,3643424744,4293542123
+dimwishlist:item=1801007332&perks=1482024992,3142289711,3643424744,2298656195
+dimwishlist:item=1801007332&perks=1482024992,3142289711,3643424744,243981275
+dimwishlist:item=1801007332&perks=1482024992,3142289711,3643424744,2675184851
+dimwishlist:item=1801007332&perks=1482024992,3142289711,3643424744,984655331
+dimwishlist:item=1801007332&perks=1482024992,3142289711,3643424744,674546187
+dimwishlist:item=1801007332&perks=1482024992,3142289711,2980589453,4293542123
+dimwishlist:item=1801007332&perks=1482024992,3142289711,2980589453,2298656195
+dimwishlist:item=1801007332&perks=1482024992,3142289711,2980589453,243981275
+dimwishlist:item=1801007332&perks=1482024992,3142289711,2980589453,2675184851
+dimwishlist:item=1801007332&perks=1482024992,3142289711,2980589453,984655331
+dimwishlist:item=1801007332&perks=1482024992,3142289711,2980589453,674546187
+dimwishlist:item=1801007332&perks=1482024992,3142289711,3523296417,4293542123
+dimwishlist:item=1801007332&perks=1482024992,3142289711,3523296417,2298656195
+dimwishlist:item=1801007332&perks=1482024992,3142289711,3523296417,243981275
+dimwishlist:item=1801007332&perks=1482024992,3142289711,3523296417,2675184851
+dimwishlist:item=1801007332&perks=1482024992,3142289711,3523296417,984655331
+dimwishlist:item=1801007332&perks=1482024992,3142289711,3523296417,674546187
+dimwishlist:item=1801007332&perks=1482024992,3142289711,4063561849,4293542123
+dimwishlist:item=1801007332&perks=1482024992,3142289711,4063561849,2298656195
+dimwishlist:item=1801007332&perks=1482024992,3142289711,4063561849,243981275
+dimwishlist:item=1801007332&perks=1482024992,3142289711,4063561849,2675184851
+dimwishlist:item=1801007332&perks=1482024992,3142289711,4063561849,984655331
+dimwishlist:item=1801007332&perks=1482024992,3142289711,4063561849,674546187
+dimwishlist:item=1801007332&perks=1482024992,3142289711,1906147653,4293542123
+dimwishlist:item=1801007332&perks=1482024992,3142289711,1906147653,2298656195
+dimwishlist:item=1801007332&perks=1482024992,3142289711,1906147653,243981275
+dimwishlist:item=1801007332&perks=1482024992,3142289711,1906147653,2675184851
+dimwishlist:item=1801007332&perks=1482024992,3142289711,1906147653,984655331
+dimwishlist:item=1801007332&perks=1482024992,3142289711,1906147653,674546187
+dimwishlist:item=1801007332&perks=1482024992,3142289711,2682205016,4293542123
+dimwishlist:item=1801007332&perks=1482024992,3142289711,2682205016,2298656195
+dimwishlist:item=1801007332&perks=1482024992,3142289711,2682205016,243981275
+dimwishlist:item=1801007332&perks=1482024992,3142289711,2682205016,2675184851
+dimwishlist:item=1801007332&perks=1482024992,3142289711,2682205016,984655331
+dimwishlist:item=1801007332&perks=1482024992,3142289711,2682205016,674546187
+dimwishlist:item=1801007332&perks=1482024992,1087426260,3643424744,4293542123
+dimwishlist:item=1801007332&perks=1482024992,1087426260,3643424744,2298656195
+dimwishlist:item=1801007332&perks=1482024992,1087426260,3643424744,243981275
+dimwishlist:item=1801007332&perks=1482024992,1087426260,3643424744,2675184851
+dimwishlist:item=1801007332&perks=1482024992,1087426260,3643424744,984655331
+dimwishlist:item=1801007332&perks=1482024992,1087426260,3643424744,674546187
+dimwishlist:item=1801007332&perks=1482024992,1087426260,2980589453,4293542123
+dimwishlist:item=1801007332&perks=1482024992,1087426260,2980589453,2298656195
+dimwishlist:item=1801007332&perks=1482024992,1087426260,2980589453,243981275
+dimwishlist:item=1801007332&perks=1482024992,1087426260,2980589453,2675184851
+dimwishlist:item=1801007332&perks=1482024992,1087426260,2980589453,984655331
+dimwishlist:item=1801007332&perks=1482024992,1087426260,2980589453,674546187
+dimwishlist:item=1801007332&perks=1482024992,1087426260,3523296417,4293542123
+dimwishlist:item=1801007332&perks=1482024992,1087426260,3523296417,2298656195
+dimwishlist:item=1801007332&perks=1482024992,1087426260,3523296417,243981275
+dimwishlist:item=1801007332&perks=1482024992,1087426260,3523296417,2675184851
+dimwishlist:item=1801007332&perks=1482024992,1087426260,3523296417,984655331
+dimwishlist:item=1801007332&perks=1482024992,1087426260,3523296417,674546187
+dimwishlist:item=1801007332&perks=1482024992,1087426260,4063561849,4293542123
+dimwishlist:item=1801007332&perks=1482024992,1087426260,4063561849,2298656195
+dimwishlist:item=1801007332&perks=1482024992,1087426260,4063561849,243981275
+dimwishlist:item=1801007332&perks=1482024992,1087426260,4063561849,2675184851
+dimwishlist:item=1801007332&perks=1482024992,1087426260,4063561849,984655331
+dimwishlist:item=1801007332&perks=1482024992,1087426260,4063561849,674546187
+dimwishlist:item=1801007332&perks=1482024992,1087426260,1906147653,4293542123
+dimwishlist:item=1801007332&perks=1482024992,1087426260,1906147653,2298656195
+dimwishlist:item=1801007332&perks=1482024992,1087426260,1906147653,243981275
+dimwishlist:item=1801007332&perks=1482024992,1087426260,1906147653,2675184851
+dimwishlist:item=1801007332&perks=1482024992,1087426260,1906147653,984655331
+dimwishlist:item=1801007332&perks=1482024992,1087426260,1906147653,674546187
+dimwishlist:item=1801007332&perks=1482024992,1087426260,2682205016,4293542123
+dimwishlist:item=1801007332&perks=1482024992,1087426260,2682205016,2298656195
+dimwishlist:item=1801007332&perks=1482024992,1087426260,2682205016,243981275
+dimwishlist:item=1801007332&perks=1482024992,1087426260,2682205016,2675184851
+dimwishlist:item=1801007332&perks=1482024992,1087426260,2682205016,984655331
+dimwishlist:item=1801007332&perks=1482024992,1087426260,2682205016,674546187
+dimwishlist:item=1801007332&perks=1482024992,106909392,3643424744,4293542123
+dimwishlist:item=1801007332&perks=1482024992,106909392,3643424744,2298656195
+dimwishlist:item=1801007332&perks=1482024992,106909392,3643424744,243981275
+dimwishlist:item=1801007332&perks=1482024992,106909392,3643424744,2675184851
+dimwishlist:item=1801007332&perks=1482024992,106909392,3643424744,984655331
+dimwishlist:item=1801007332&perks=1482024992,106909392,3643424744,674546187
+dimwishlist:item=1801007332&perks=1482024992,106909392,2980589453,4293542123
+dimwishlist:item=1801007332&perks=1482024992,106909392,2980589453,2298656195
+dimwishlist:item=1801007332&perks=1482024992,106909392,2980589453,243981275
+dimwishlist:item=1801007332&perks=1482024992,106909392,2980589453,2675184851
+dimwishlist:item=1801007332&perks=1482024992,106909392,2980589453,984655331
+dimwishlist:item=1801007332&perks=1482024992,106909392,2980589453,674546187
+dimwishlist:item=1801007332&perks=1482024992,106909392,3523296417,4293542123
+dimwishlist:item=1801007332&perks=1482024992,106909392,3523296417,2298656195
+dimwishlist:item=1801007332&perks=1482024992,106909392,3523296417,243981275
+dimwishlist:item=1801007332&perks=1482024992,106909392,3523296417,2675184851
+dimwishlist:item=1801007332&perks=1482024992,106909392,3523296417,984655331
+dimwishlist:item=1801007332&perks=1482024992,106909392,3523296417,674546187
+dimwishlist:item=1801007332&perks=1482024992,106909392,4063561849,4293542123
+dimwishlist:item=1801007332&perks=1482024992,106909392,4063561849,2298656195
+dimwishlist:item=1801007332&perks=1482024992,106909392,4063561849,243981275
+dimwishlist:item=1801007332&perks=1482024992,106909392,4063561849,2675184851
+dimwishlist:item=1801007332&perks=1482024992,106909392,4063561849,984655331
+dimwishlist:item=1801007332&perks=1482024992,106909392,4063561849,674546187
+dimwishlist:item=1801007332&perks=1482024992,106909392,1906147653,4293542123
+dimwishlist:item=1801007332&perks=1482024992,106909392,1906147653,2298656195
+dimwishlist:item=1801007332&perks=1482024992,106909392,1906147653,243981275
+dimwishlist:item=1801007332&perks=1482024992,106909392,1906147653,2675184851
+dimwishlist:item=1801007332&perks=1482024992,106909392,1906147653,984655331
+dimwishlist:item=1801007332&perks=1482024992,106909392,1906147653,674546187
+dimwishlist:item=1801007332&perks=1482024992,106909392,2682205016,4293542123
+dimwishlist:item=1801007332&perks=1482024992,106909392,2682205016,2298656195
+dimwishlist:item=1801007332&perks=1482024992,106909392,2682205016,243981275
+dimwishlist:item=1801007332&perks=1482024992,106909392,2682205016,2675184851
+dimwishlist:item=1801007332&perks=1482024992,106909392,2682205016,984655331
+dimwishlist:item=1801007332&perks=1482024992,106909392,2682205016,674546187
+
+
+// No Hesitation - PVP (god-pvp,pvp)
+//notes: PVP; MW: Range; Truthfully it's hard to tell at this stage how No Hesitation might affect the PVP meta. Healing abilities can swing matches, but No Hesitation has to deal damage to use its healing, while a healing rift or grenade does not. That said it should excel in situations where two teams take potshots at each other before engaging. Think of it like Osteo Striga, putting constant pressure on enemies with a stream of tracking bullets. That's why I like Circle of Life here, to maximise the uptime of the support frame damage boost. Beyond that Physic will always be strong, while Overflow lets you keep up the pressure with an endless stream of suppressing fire. There's also a niche case here for Disruption Break, which inflicts a huge debuff against kinetic damage when breaking a player's shields, playing into the teamshooting playstyle this weapon encourages. Finally I've put all my barrels and magazines into extra range, because you're going to be hip shooting this gun a lot, and you're going to want to be able to do that from as far away as possible. tags:god-pvp,pvp
+dimwishlist:item=1801007332&perks=3250034553,3142289711,2980589453,2298656195
+dimwishlist:item=1801007332&perks=3250034553,3142289711,2980589453,674546187
+dimwishlist:item=1801007332&perks=3250034553,3142289711,2980589453,2109543898
+dimwishlist:item=1801007332&perks=3250034553,3142289711,2980589453,2799030358
+dimwishlist:item=1801007332&perks=3250034553,3142289711,2980589453,1683379515
+dimwishlist:item=1801007332&perks=3250034553,3142289711,2980589453,2216471363
+dimwishlist:item=1801007332&perks=3250034553,3142289711,3643424744,2298656195
+dimwishlist:item=1801007332&perks=3250034553,3142289711,3643424744,674546187
+dimwishlist:item=1801007332&perks=3250034553,3142289711,3643424744,2109543898
+dimwishlist:item=1801007332&perks=3250034553,3142289711,3643424744,2799030358
+dimwishlist:item=1801007332&perks=3250034553,3142289711,3643424744,1683379515
+dimwishlist:item=1801007332&perks=3250034553,3142289711,3643424744,2216471363
+dimwishlist:item=1801007332&perks=3250034553,3142289711,4063561849,2298656195
+dimwishlist:item=1801007332&perks=3250034553,3142289711,4063561849,674546187
+dimwishlist:item=1801007332&perks=3250034553,3142289711,4063561849,2109543898
+dimwishlist:item=1801007332&perks=3250034553,3142289711,4063561849,2799030358
+dimwishlist:item=1801007332&perks=3250034553,3142289711,4063561849,1683379515
+dimwishlist:item=1801007332&perks=3250034553,3142289711,4063561849,2216471363
+dimwishlist:item=1801007332&perks=3250034553,3142289711,2682205016,2298656195
+dimwishlist:item=1801007332&perks=3250034553,3142289711,2682205016,674546187
+dimwishlist:item=1801007332&perks=3250034553,3142289711,2682205016,2109543898
+dimwishlist:item=1801007332&perks=3250034553,3142289711,2682205016,2799030358
+dimwishlist:item=1801007332&perks=3250034553,3142289711,2682205016,1683379515
+dimwishlist:item=1801007332&perks=3250034553,3142289711,2682205016,2216471363
+dimwishlist:item=1801007332&perks=1482024992,3142289711,2980589453,2298656195
+dimwishlist:item=1801007332&perks=1482024992,3142289711,2980589453,674546187
+dimwishlist:item=1801007332&perks=1482024992,3142289711,2980589453,2109543898
+dimwishlist:item=1801007332&perks=1482024992,3142289711,2980589453,2799030358
+dimwishlist:item=1801007332&perks=1482024992,3142289711,2980589453,1683379515
+dimwishlist:item=1801007332&perks=1482024992,3142289711,2980589453,2216471363
+dimwishlist:item=1801007332&perks=1482024992,3142289711,3643424744,2298656195
+dimwishlist:item=1801007332&perks=1482024992,3142289711,3643424744,674546187
+dimwishlist:item=1801007332&perks=1482024992,3142289711,3643424744,2109543898
+dimwishlist:item=1801007332&perks=1482024992,3142289711,3643424744,2799030358
+dimwishlist:item=1801007332&perks=1482024992,3142289711,3643424744,1683379515
+dimwishlist:item=1801007332&perks=1482024992,3142289711,3643424744,2216471363
+dimwishlist:item=1801007332&perks=1482024992,3142289711,4063561849,2298656195
+dimwishlist:item=1801007332&perks=1482024992,3142289711,4063561849,674546187
+dimwishlist:item=1801007332&perks=1482024992,3142289711,4063561849,2109543898
+dimwishlist:item=1801007332&perks=1482024992,3142289711,4063561849,2799030358
+dimwishlist:item=1801007332&perks=1482024992,3142289711,4063561849,1683379515
+dimwishlist:item=1801007332&perks=1482024992,3142289711,4063561849,2216471363
+dimwishlist:item=1801007332&perks=1482024992,3142289711,2682205016,2298656195
+dimwishlist:item=1801007332&perks=1482024992,3142289711,2682205016,674546187
+dimwishlist:item=1801007332&perks=1482024992,3142289711,2682205016,2109543898
+dimwishlist:item=1801007332&perks=1482024992,3142289711,2682205016,2799030358
+dimwishlist:item=1801007332&perks=1482024992,3142289711,2682205016,1683379515
+dimwishlist:item=1801007332&perks=1482024992,3142289711,2682205016,2216471363
+
+
+// No Hesitation - PVE Demi-God (pve)
+//notes: PVE; MW: Reload or Range; Physic and Circle of Life are two unique perks that only appear on support frames and interact with the effects described above. The former ensures that you receive Restoration when you grant an ally Restoration, while the latter improves the support frame boost aspect, making it last far longer. Both are strong, but Physic stands out as the top choice in column three. The enhanced version of the perk, available on a crafted No Hesitation, will give Restoration x2, making you basically invulnerable to all but the heaviest sustained damage. Otherwise Demolitionist and Overflow are both useful just for ensuring you can keep firing as long as possible without stopping to reload. In the fourth column there is the aforementioned Circle of Life and also the reliably good Incandescent, which interacts well with Solar subclasses. There is also a surprising niche choice: Attrition Orbs. This generally bad perk creates orbs when damaging an enemy, which is nice, but they usually pop out of that enemy's head, which is bad as you don't really want to have to run over there and collect them. On a support frame, though, it also periodically creates orbs when healing allies, making the perk much more useful. tags:pve
+dimwishlist:item=1801007332&perks=3643424744,4293542123
+dimwishlist:item=1801007332&perks=3643424744,2298656195
+dimwishlist:item=1801007332&perks=3643424744,243981275
+dimwishlist:item=1801007332&perks=3643424744,2675184851
+dimwishlist:item=1801007332&perks=3643424744,984655331
+dimwishlist:item=1801007332&perks=3643424744,674546187
+dimwishlist:item=1801007332&perks=2980589453,4293542123
+dimwishlist:item=1801007332&perks=2980589453,2298656195
+dimwishlist:item=1801007332&perks=2980589453,243981275
+dimwishlist:item=1801007332&perks=2980589453,2675184851
+dimwishlist:item=1801007332&perks=2980589453,984655331
+dimwishlist:item=1801007332&perks=2980589453,674546187
+dimwishlist:item=1801007332&perks=3523296417,4293542123
+dimwishlist:item=1801007332&perks=3523296417,2298656195
+dimwishlist:item=1801007332&perks=3523296417,243981275
+dimwishlist:item=1801007332&perks=3523296417,2675184851
+dimwishlist:item=1801007332&perks=3523296417,984655331
+dimwishlist:item=1801007332&perks=3523296417,674546187
+dimwishlist:item=1801007332&perks=4063561849,4293542123
+dimwishlist:item=1801007332&perks=4063561849,2298656195
+dimwishlist:item=1801007332&perks=4063561849,243981275
+dimwishlist:item=1801007332&perks=4063561849,2675184851
+dimwishlist:item=1801007332&perks=4063561849,984655331
+dimwishlist:item=1801007332&perks=4063561849,674546187
+dimwishlist:item=1801007332&perks=1906147653,4293542123
+dimwishlist:item=1801007332&perks=1906147653,2298656195
+dimwishlist:item=1801007332&perks=1906147653,243981275
+dimwishlist:item=1801007332&perks=1906147653,2675184851
+dimwishlist:item=1801007332&perks=1906147653,984655331
+dimwishlist:item=1801007332&perks=1906147653,674546187
+dimwishlist:item=1801007332&perks=2682205016,4293542123
+dimwishlist:item=1801007332&perks=2682205016,2298656195
+dimwishlist:item=1801007332&perks=2682205016,243981275
+dimwishlist:item=1801007332&perks=2682205016,2675184851
+dimwishlist:item=1801007332&perks=2682205016,984655331
+dimwishlist:item=1801007332&perks=2682205016,674546187
+
+
+// No Hesitation - PVP Demi-God (pvp)
+//notes: PVP; MW: Range; Truthfully it's hard to tell at this stage how No Hesitation might affect the PVP meta. Healing abilities can swing matches, but No Hesitation has to deal damage to use its healing, while a healing rift or grenade does not. That said it should excel in situations where two teams take potshots at each other before engaging. Think of it like Osteo Striga, putting constant pressure on enemies with a stream of tracking bullets. That's why I like Circle of Life here, to maximise the uptime of the support frame damage boost. Beyond that Physic will always be strong, while Overflow lets you keep up the pressure with an endless stream of suppressing fire. There's also a niche case here for Disruption Break, which inflicts a huge debuff against kinetic damage when breaking a player's shields, playing into the teamshooting playstyle this weapon encourages. Finally I've put all my barrels and magazines into extra range, because you're going to be hip shooting this gun a lot, and you're going to want to be able to do that from as far away as possible. tags:pvp
+dimwishlist:item=1801007332&perks=2980589453,2298656195
+dimwishlist:item=1801007332&perks=2980589453,674546187
+dimwishlist:item=1801007332&perks=2980589453,2109543898
+dimwishlist:item=1801007332&perks=2980589453,2799030358
+dimwishlist:item=1801007332&perks=2980589453,1683379515
+dimwishlist:item=1801007332&perks=2980589453,2216471363
+dimwishlist:item=1801007332&perks=3643424744,2298656195
+dimwishlist:item=1801007332&perks=3643424744,674546187
+dimwishlist:item=1801007332&perks=3643424744,2109543898
+dimwishlist:item=1801007332&perks=3643424744,2799030358
+dimwishlist:item=1801007332&perks=3643424744,1683379515
+dimwishlist:item=1801007332&perks=3643424744,2216471363
+dimwishlist:item=1801007332&perks=4063561849,2298656195
+dimwishlist:item=1801007332&perks=4063561849,674546187
+dimwishlist:item=1801007332&perks=4063561849,2109543898
+dimwishlist:item=1801007332&perks=4063561849,2799030358
+dimwishlist:item=1801007332&perks=4063561849,1683379515
+dimwishlist:item=1801007332&perks=4063561849,2216471363
+dimwishlist:item=1801007332&perks=2682205016,2298656195
+dimwishlist:item=1801007332&perks=2682205016,674546187
+dimwishlist:item=1801007332&perks=2682205016,2109543898
+dimwishlist:item=1801007332&perks=2682205016,2799030358
+dimwishlist:item=1801007332&perks=2682205016,1683379515
+dimwishlist:item=1801007332&perks=2682205016,2216471363
+
+
+// Falling Guillotine - Blueberries - God PVE (god-pve)
+//notes: T:A; BB God PVE; Alt: Bequest, The Lament, The Slammer; MW: Impact tags:god-pve
+dimwishlist:item=1815105249&perks=3666208348,269888150,4104185692,2077819806
+dimwishlist:item=1815105249&perks=3666208348,269888150,1749209109,2077819806
+
+
+// Falling Guillotine - Blueberries - God PVE (DPS) (god-pve)
+//notes: T:A; BB God PVE (DPS); Alt: Bequest, The Lament, The Slammer; MW: Impact tags:god-pve
+dimwishlist:item=1815105249&perks=3666208348,269888150,4104185692,3708227201
+dimwishlist:item=1815105249&perks=3666208348,269888150,4104185692,3913600130
+dimwishlist:item=1815105249&perks=3666208348,269888150,1749209109,3708227201
+dimwishlist:item=1815105249&perks=3666208348,269888150,1749209109,3913600130
+
+
+// Falling Guillotine - Blueberries - God PVP (god-pvp)
+//notes: T:B; BB God PVP; Alt: Bequest, The Lament, The Slammer; MW: Impact tags:god-pvp
+dimwishlist:item=1815105249&perks=436053704,269888150,1546637391,2077819806
+
+
+// Falling Guillotine - Blueberries - PVE (pve)
+//notes: T:A; BB PVE; Alt: Bequest, The Lament, The Slammer; MW: Impact tags:pve
+dimwishlist:item=1815105249&perks=4104185692,2077819806
+dimwishlist:item=1815105249&perks=1749209109,2077819806
+dimwishlist:item=1815105249&perks=1546637391,2077819806
+
+
+// Falling Guillotine - Blueberries - PVE (DPS) (pve)
+//notes: T:A; BB PVE (DPS); Alt: Bequest, The Lament, The Slammer; MW: Impact tags:pve
+dimwishlist:item=1815105249&perks=4104185692,3708227201
+dimwishlist:item=1815105249&perks=4104185692,3913600130
+dimwishlist:item=1815105249&perks=1749209109,3708227201
+dimwishlist:item=1815105249&perks=1749209109,3913600130
+dimwishlist:item=1815105249&perks=1546637391,3708227201
+dimwishlist:item=1815105249&perks=1546637391,3913600130
+
+
+// Falling Guillotine - Blueberries - PVP (pvp)
+//notes: T:B; BB PVP; Alt: Bequest, The Lament, The Slammer; MW: Impact tags:pvp
+dimwishlist:item=1815105249&perks=1546637391,2077819806
+
+
+// Hammerhead - Blueberries - God PVE (god-pve)
+//notes: T:S; BB God PVE; Alt: Commemoration, Song of Ir Yut; MW: Handling tags:god-pve
+dimwishlist:item=1896309757&perks=839105230,1087426260,3425386926,557221067
+dimwishlist:item=1896309757&perks=839105230,2420895100,3425386926,557221067
+
+
+// Hammerhead - Blueberries - God PVP (god-pvp)
+//notes: T:S; BB God PVP; Alt: Commemoration, Song of Ir Yut; MW: Stability tags:god-pvp
+dimwishlist:item=1896309757&perks=839105230,1885400500,3425386926,1890422124
+
+
+// Hammerhead - Blueberries - PVE (pve)
+//notes: T:S; BB PVE; Alt: Commemoration, Song of Ir Yut; MW: Handling tags:pve
+dimwishlist:item=1896309757&perks=3425386926,557221067
+dimwishlist:item=1896309757&perks=3425386926,95528736
+dimwishlist:item=1896309757&perks=3418782618,557221067
+dimwishlist:item=1896309757&perks=3418782618,95528736
+
+
+// Hammerhead - Blueberries - God PVP (pvp)
+//notes: T:S; BB PVP; Alt: Commemoration, Song of Ir Yut; MW: Stability tags:pvp
+dimwishlist:item=1896309757&perks=3425386926,1890422124
+dimwishlist:item=1896309757&perks=1870851715,1890422124
+
+
+// Breachlight - PVE Grenade Build (pve)
+//notes: PVE Grenade Build tags:pve
+dimwishlist:item=2328923181&perks=3523296417,11612903
+dimwishlist:item=2328923181&perks=3523296417,2422968039
+dimwishlist:item=2328923181&perks=1906147653,11612903
+dimwishlist:item=2328923181&perks=1906147653,2422968039
+
+
+// Breachlight - PVE Melee Build (pve)
+//notes: PVE Melee Build tags:pve
+dimwishlist:item=2328923181&perks=691659142,4082225868
+dimwishlist:item=2328923181&perks=691659142,1161469972
+dimwishlist:item=2328923181&perks=536173722,4082225868
+dimwishlist:item=2328923181&perks=536173722,1161469972
+
+
+// Breachlight - PVE Strand Build (pve)
+//notes: PVE Strand Build tags:pve
+dimwishlist:item=2328923181&perks=923806249,831391274
+dimwishlist:item=2328923181&perks=923806249,102912326
+dimwishlist:item=2328923181&perks=3422796781,831391274
+dimwishlist:item=2328923181&perks=3422796781,102912326
+
+
+// Breachlight - PVP (pvp)
+//notes: PVP tags:pvp
+dimwishlist:item=2328923181&perks=4071163871,1546637391
+dimwishlist:item=2328923181&perks=4071163871,3418165135
+dimwishlist:item=2328923181&perks=494941759,1546637391
+dimwishlist:item=2328923181&perks=494941759,3418165135
+
+
+// Blast Furnace - Blueberries - God PVE (god-pve)
+//notes: T:B; BB God PVE; Alt: Belisarius-D, Disparity; MW: Handling tags:god-pve
+dimwishlist:item=2372514508&perks=1840239774,1087426260,3891536761,2109543898
+dimwishlist:item=2372514508&perks=1840239774,1087426260,3891536761,4049631843
+
+
+// Blast Furnace - Blueberries - God PVP 3v3 (god-pvp)
+//notes: T:A; BB God PVP 3v3; Alt: Belisarius-D, Disparity; MW: Stability or Handling tags:god-pvp
+dimwishlist:item=2372514508&perks=839105230,3142289711,2387244414,247725512
+dimwishlist:item=2372514508&perks=839105230,3142289711,460017080,247725512
+
+
+// Blast Furnace - Blueberries - God PVP 6v6 (god-pvp)
+//notes: T:A; BB God PVP 6v6; Alt: Belisarius-D, Disparity; MW: Stability or Handling tags:god-pvp
+dimwishlist:item=2372514508&perks=839105230,3142289711,2387244414,1015611457
+dimwishlist:item=2372514508&perks=839105230,3142289711,1428297954,1015611457
+
+
+// Blast Furnace - Blueberries - PVE (pve)
+//notes: T:B; BB PVE; Alt: Belisarius-D, Disparity; MW: Handling tags:pve
+dimwishlist:item=2372514508&perks=3891536761,2109543898
+dimwishlist:item=2372514508&perks=3891536761,4049631843
+dimwishlist:item=2372514508&perks=3700496672,2109543898
+dimwishlist:item=2372514508&perks=3700496672,4049631843
+
+
+// Blast Furnace - Blueberries - PVP 3v3 (pvp)
+//notes: T:A; BB God PVP 3v3; Alt: Belisarius-D, Disparity; MW: Stability or Handling tags:pvp
+dimwishlist:item=2372514508&perks=2387244414,247725512
+dimwishlist:item=2372514508&perks=460017080,247725512
+
+
+// Blast Furnace - Blueberries - PVP 6v6 (pvp)
+//notes: T:A; BB PVP 6v6; Alt: Belisarius-D, Disparity; MW: Stability or Handling tags:pvp
+dimwishlist:item=2372514508&perks=2387244414,1015611457
+dimwishlist:item=2372514508&perks=2387244414,3425386926
+dimwishlist:item=2372514508&perks=1428297954,1015611457
+dimwishlist:item=2372514508&perks=1428297954,3425386926
+
+
+// Elsie's Rifle - Blueberries - God PVE (GM) (god-pve)
+//notes: T:A; BB God PVE (GM); Alt: Phyllotactic Spiral, The Messenger; MW: Reload tags:god-pve
+dimwishlist:item=2372514509&perks=1840239774,3230963543,3418782618,4104185692
+
+
+// Elsie's Rifle - Blueberries - God PVE (god-pve)
+//notes: T:A; BB God PVE; Alt: Phyllotactic Spiral, The Messenger; MW: Reload tags:god-pve
+dimwishlist:item=2372514509&perks=1840239774,3230963543,776531651,2109543898
+dimwishlist:item=2372514509&perks=1840239774,3230963543,776531651,2048641572
+dimwishlist:item=2372514509&perks=1840239774,3230963543,2779035018,2109543898
+dimwishlist:item=2372514509&perks=1840239774,3230963543,2779035018,2048641572
+
+
+// Elsie's Rifle - Blueberries - God PVP (3v3) (god-pvp)
+//notes: T:S; BB God PVP (3v3); Alt: Phyllotactic Spiral, The Messenger; MW: Range tags:god-pvp
+dimwishlist:item=2372514509&perks=839105230,1885400500,2387244414,460017080
+dimwishlist:item=2372514509&perks=839105230,1885400500,3619207468,460017080
+
+
+// Elsie's Rifle - Blueberries - God PVP (6v6) (god-pvp)
+//notes: T:S; BB God PVP (6v6); Alt: Phyllotactic Spiral, The Messenger; MW: Range tags:god-pvp
+dimwishlist:item=2372514509&perks=839105230,1885400500,2387244414,3047969693
+dimwishlist:item=2372514509&perks=839105230,1885400500,2387244414,1015611457
+dimwishlist:item=2372514509&perks=839105230,1885400500,3619207468,3047969693
+dimwishlist:item=2372514509&perks=839105230,1885400500,3619207468,1015611457
+
+
+// Elsie's Rifle - Blueberries - PVE (GM) (pve)
+//notes: T:A; BB PVE (GM); Alt: Phyllotactic Spiral, The Messenger; MW: Reload tags:pve
+dimwishlist:item=2372514509&perks=3418782618,4104185692
+
+
+// Elsie's Rifle - Blueberries - PVE (pve)
+//notes: T:A; BB PVE; Alt: Phyllotactic Spiral, The Messenger; MW: Reload tags:pve
+dimwishlist:item=2372514509&perks=776531651,2109543898
+dimwishlist:item=2372514509&perks=776531651,2048641572
+dimwishlist:item=2372514509&perks=2779035018,2109543898
+dimwishlist:item=2372514509&perks=2779035018,2048641572
+
+
+// Elsie's Rifle - Blueberries - PVP (3v3) (pvp)
+//notes: T:S; BB God (3v3); Alt: Phyllotactic Spiral, The Messenger; MW: Range tags:pvp
+dimwishlist:item=2372514509&perks=2387244414,460017080
+dimwishlist:item=2372514509&perks=3619207468,460017080
+
+
+// Elsie's Rifle - Blueberries - PVP (6v6) (pvp)
+//notes: T:S; BB PVP (6v6); Alt: Phyllotactic Spiral, The Messenger; MW: Range tags:pvp
+dimwishlist:item=2372514509&perks=2387244414,3047969693
+dimwishlist:item=2372514509&perks=2387244414,1015611457
+dimwishlist:item=2372514509&perks=3619207468,3047969693
+dimwishlist:item=2372514509&perks=3619207468,1015611457
+
+
+// Midnight Coup - Blueberries - God PVE (god-pve)
+//notes: T:S; BB God PVE; Alt: Fatebringer, Sunshot; MW: Handling tags:god-pve
+dimwishlist:item=2763843898&perks=1840239774,1087426260,3824105627,4104185692
+dimwishlist:item=2763843898&perks=1840239774,1087426260,3824105627,4049631843
+dimwishlist:item=2763843898&perks=1840239774,1087426260,3038247973,4104185692
+dimwishlist:item=2763843898&perks=1840239774,1087426260,3038247973,4049631843
+
+
+// Midnight Coup - Blueberries - God PVP (god-pvp)
+//notes: T:B; BB God PVP; Alt: Fatebringer, Sunshot; MW: Range tags:god-pvp
+dimwishlist:item=2763843898&perks=1482024992,3142289711,3038247973,2387244414
+dimwishlist:item=2763843898&perks=1482024992,3142289711,3038247973,47981717
+dimwishlist:item=2763843898&perks=1482024992,3142289711,588594999,2387244414
+dimwishlist:item=2763843898&perks=1482024992,3142289711,588594999,47981717
+
+
+// Midnight Coup - Blueberries - PVE (pve)
+//notes: T:S; BB God PVE; Alt: Fatebringer, Sunshot; MW: Handling tags:pve
+dimwishlist:item=2763843898&perks=3824105627,4104185692
+dimwishlist:item=2763843898&perks=3824105627,4049631843
+dimwishlist:item=2763843898&perks=3038247973,4104185692
+dimwishlist:item=2763843898&perks=3038247973,4049631843
+
+
+// Midnight Coup - Blueberries - PVP (pvp)
+//notes: T:B; BB PVP; Alt: Fatebringer, Sunshot; MW: Range tags:pvp
+dimwishlist:item=2763843898&perks=3038247973,2387244414
+dimwishlist:item=2763843898&perks=3038247973,47981717
+dimwishlist:item=2763843898&perks=588594999,2387244414
+dimwishlist:item=2763843898&perks=588594999,47981717
+
+
+// Luna's Howl - Blueberries - God PVE (god-pve)
+//notes: T:B; BB God PVE; Alt: Sunshot; MW: Reload; Good for add clear tags:god-pve
+dimwishlist:item=2763843899&perks=1840239774,3230963543,3017780555,4293542123
+dimwishlist:item=2763843899&perks=1840239774,3230963543,3017780555,2109543898
+
+
+// Luna's Howl - Blueberries - God PVP 3v3 (god-pvp)
+//notes: T:A; 3v3; BB God PVP; Alt: Sunshot; MW: Range tags:god-pvp
+dimwishlist:item=2763843899&perks=3250034553,1885400500,699525795,555281244
+
+
+// Luna's Howl - Blueberries - God PVP 6v6 (god-pvp)
+//notes: T:A; 6v6; BB God PVP; Alt: Sunshot; MW: Range tags:god-pvp
+dimwishlist:item=2763843899&perks=3250034553,1885400500,1195158366,2720533289
+dimwishlist:item=2763843899&perks=3250034553,1885400500,1195158366,1015611457
+dimwishlist:item=2763843899&perks=3250034553,1885400500,699525795,2720533289
+dimwishlist:item=2763843899&perks=3250034553,1885400500,699525795,1015611457
+
+
+// Luna's Howl - Blueberries - PVE (pve)
+//notes: T:B; BB PVE; Alt: Sunshot; MW: Reload; Good for add clear tags:pve
+dimwishlist:item=2763843899&perks=3017780555,4293542123
+dimwishlist:item=2763843899&perks=3017780555,2109543898
+dimwishlist:item=2763843899&perks=3828510309,4293542123
+dimwishlist:item=2763843899&perks=3828510309,2109543898
+
+
+// Luna's Howl - Blueberries - PVP 6v6 (pvp)
+//notes: T:A; 6v6; BB God PVP; Alt: Sunshot; MW: Range tags:pvp
+dimwishlist:item=2763843899&perks=1195158366,2720533289
+dimwishlist:item=2763843899&perks=1195158366,1015611457
+dimwishlist:item=2763843899&perks=699525795,2720533289
+dimwishlist:item=2763843899&perks=699525795,1015611457
+
+
+// Luna's Howl - Blueberries - PVP 3v3 (pvp)
+//notes: T:A; 3v3; BB PVP; Alt: Sunshot; MW: Range tags:pvp
+dimwishlist:item=2763843899&perks=699525795,555281244
+dimwishlist:item=2763843899&perks=699525795,47981717
+dimwishlist:item=2763843899&perks=3161816588,555281244
+dimwishlist:item=2763843899&perks=3161816588,47981717
+
+
+// Someday - PVE (god-pve,pve)
+//notes: PVE; MW Handing; Someday, like most shotguns, benefits from handling, range, and fire rate improvements. Barrel Shroud and Assault Mag help with that with no negative side effects. The new trait Threat Remover is an improved version of Threat Detector that activates when you shoot an enemy and connect every pellet. We chose Recombination for the huge burst damage boost it provides, but you can opt for Vorpal Weapon or Cascade Point in Column 4 instead. tags:god-pve,pve
+dimwishlist:item=3232203524&perks=1300023272,791862061,1126264488,469285294
+dimwishlist:item=3232203524&perks=1300023272,791862061,1126264488,3335686050
+dimwishlist:item=3232203524&perks=1300023272,791862061,2476672792,469285294
+dimwishlist:item=3232203524&perks=1300023272,791862061,2476672792,3335686050
+dimwishlist:item=3232203524&perks=1300023272,791862061,1556840489,469285294
+dimwishlist:item=3232203524&perks=1300023272,791862061,1556840489,3335686050
+dimwishlist:item=3232203524&perks=1300023272,791862061,3442762221,469285294
+dimwishlist:item=3232203524&perks=1300023272,791862061,3442762221,3335686050
+
+
+// Someday - PVP (god-pvp,pvp)
+//notes: PVP; MW Handling; The name of the game with Shotguns in PvP is range and handling. Barrel Shroud and Accurized Rounds increase both of these stats without sacrificing the other. Threat Remover again has a lot of potential to be a game changer as a powerful perk. Opening Shot is always a great option in PvP as it makes the first shot have quite a bit of range. While the PvE roll may not be shaking up the meta, this PvP option should be quite viable and even powerful in the Crucible. Precision frames are already highly favored, and Threat Remover adds a whole new dynamic into the mix. Someday is worth adding to your PvP arsenal. tags:god-pvp,pvp
+dimwishlist:item=3232203524&perks=1300023272,3142289711,1126264488,47981717
+dimwishlist:item=3232203524&perks=1300023272,3142289711,1126264488,1370847713
+dimwishlist:item=3232203524&perks=1300023272,3142289711,2476672792,47981717
+dimwishlist:item=3232203524&perks=1300023272,3142289711,2476672792,1370847713
+dimwishlist:item=3232203524&perks=1300023272,3142289711,4071163871,47981717
+dimwishlist:item=3232203524&perks=1300023272,3142289711,4071163871,1370847713
+dimwishlist:item=3232203524&perks=1300023272,3142289711,494941759,47981717
+dimwishlist:item=3232203524&perks=1300023272,3142289711,494941759,1370847713
+dimwishlist:item=3232203524&perks=4090651448,3142289711,1126264488,47981717
+dimwishlist:item=3232203524&perks=4090651448,3142289711,1126264488,1370847713
+dimwishlist:item=3232203524&perks=4090651448,3142289711,2476672792,47981717
+dimwishlist:item=3232203524&perks=4090651448,3142289711,2476672792,1370847713
+dimwishlist:item=3232203524&perks=4090651448,3142289711,4071163871,47981717
+dimwishlist:item=3232203524&perks=4090651448,3142289711,4071163871,1370847713
+dimwishlist:item=3232203524&perks=4090651448,3142289711,494941759,47981717
+dimwishlist:item=3232203524&perks=4090651448,3142289711,494941759,1370847713
+
+
+// Someday - PVE Demi-God (pve)
+//notes: PVE; MW Handing; Someday, like most shotguns, benefits from handling, range, and fire rate improvements. Barrel Shroud and Assault Mag help with that with no negative side effects. The new trait Threat Remover is an improved version of Threat Detector that activates when you shoot an enemy and connect every pellet. We chose Recombination for the huge burst damage boost it provides, but you can opt for Vorpal Weapon or Cascade Point in Column 4 instead. tags:pve
+dimwishlist:item=3232203524&perks=1126264488,469285294
+dimwishlist:item=3232203524&perks=1126264488,3335686050
+dimwishlist:item=3232203524&perks=2476672792,469285294
+dimwishlist:item=3232203524&perks=2476672792,3335686050
+dimwishlist:item=3232203524&perks=1556840489,469285294
+dimwishlist:item=3232203524&perks=1556840489,3335686050
+dimwishlist:item=3232203524&perks=3442762221,469285294
+dimwishlist:item=3232203524&perks=3442762221,3335686050
+
+
+// Someday - PVP Demi-God (pvp)
+//notes: PVP; MW Handling; The name of the game with Shotguns in PvP is range and handling. Barrel Shroud and Accurized Rounds increase both of these stats without sacrificing the other. Threat Remover again has a lot of potential to be a game changer as a powerful perk. Opening Shot is always a great option in PvP as it makes the first shot have quite a bit of range. While the PvE roll may not be shaking up the meta, this PvP option should be quite viable and even powerful in the Crucible. Precision frames are already highly favored, and Threat Remover adds a whole new dynamic into the mix. Someday is worth adding to your PvP arsenal. tags:pvp
+dimwishlist:item=3232203524&perks=1126264488,47981717
+dimwishlist:item=3232203524&perks=1126264488,1370847713
+dimwishlist:item=3232203524&perks=2476672792,47981717
+dimwishlist:item=3232203524&perks=2476672792,1370847713
+dimwishlist:item=3232203524&perks=4071163871,47981717
+dimwishlist:item=3232203524&perks=4071163871,1370847713
+dimwishlist:item=3232203524&perks=494941759,47981717
+dimwishlist:item=3232203524&perks=494941759,1370847713
+
+
+// Le Monarque - PVE + PVP (god-pve,god-pvp,pve,pvp)
+//notes: Teir S; Le Monarque is a ridiculously oppressive pick in PvP as it can be combined with a Hand Cannon to deliver blindingly fast combo kills with relative ease. It also comes with intrinsic Overload Arrows, which, combined with its poison effect, are highly effective against Overload Champions. This makes Le Monarque an incredible pick for PvE too. tags:god-pve,god-pvp,pve,pvp
+dimwishlist:item=3588934839&perks=16392701,957782887
+
+
+// Pro Memoria - PVE (god-pve,pve)
+//notes: PVE; MW Stability; For our barrel, you will want Fluted Barrel to increase your stability and handling of the weapon. This will help make sure you can keep the kickback of the weapon under control as you unload the clip into your enemies. For our magazine, we’ll want to pick Ricochet Rounds to increase stability and control recoil even further, with a small boost to the range. For our perks, we want Demolitionist and Frenzy in perk columns 1 and 2 respectively. Demolitionist will generate grenade ability energy upon kills with the weapon and kills with your grenade ability will reload the weapon from reserves. Frenzy will enable increased damage, handling, and reload speed after being in combat for an extended period of time. Overall, the combination of Demolitionist and Frenzy makes this a particularly dangerous Machine Gun, great at both crowd control and dealing damage. tags:god-pve,pve
+dimwishlist:item=3605603507&perks=1840239774,1885400500,3523296417,4104185692
+dimwishlist:item=3605603507&perks=1840239774,1885400500,3523296417,3007133316
+dimwishlist:item=3605603507&perks=1840239774,1885400500,1906147653,4104185692
+dimwishlist:item=3605603507&perks=1840239774,1885400500,1906147653,3007133316
+
+
+// Pro Memoria - PVP (god-pvp,pvp)
+//notes: PVP; MW Range; In PvP, Pro Memoria is less of a standout, but can still prove effective. For our barrel, we will want Hammer-Forged Rifling, and for our magazine, Ricochet Rounds. Hammer-Forged Rifling will significantly increase our effective range with the weapon, allowing you to get the jump on opponents from further away. Ricochet Rounds will also increase our range as well as stability, with the added benefit of being able to bounce our shots off of surfaces. In perk column 1, we want Demolitionist to create grenade ability energy upon kills with the weapon. In column 2, we will pick Tap the Trigger. Upon pulling the trigger, you will instantly experience increased stability and accuracy, perfect for nailing those distant headshots on your opponents. tags:god-pvp,pvp
+dimwishlist:item=3605603507&perks=3250034553,1885400500,3523296417,1890422124
+dimwishlist:item=3605603507&perks=3250034553,1885400500,3523296417,1523649716
+dimwishlist:item=3605603507&perks=3250034553,1885400500,1906147653,1890422124
+dimwishlist:item=3605603507&perks=3250034553,1885400500,1906147653,1523649716
+
+
+// Pro Memoria - PVE Demi-God (pve)
+//notes: PVE; MW Stability; For our barrel, you will want Fluted Barrel to increase your stability and handling of the weapon. This will help make sure you can keep the kickback of the weapon under control as you unload the clip into your enemies. For our magazine, we’ll want to pick Ricochet Rounds to increase stability and control recoil even further, with a small boost to the range. For our perks, we want Demolitionist and Frenzy in perk columns 1 and 2 respectively. Demolitionist will generate grenade ability energy upon kills with the weapon and kills with your grenade ability will reload the weapon from reserves. Frenzy will enable increased damage, handling, and reload speed after being in combat for an extended period of time. Overall, the combination of Demolitionist and Frenzy makes this a particularly dangerous Machine Gun, great at both crowd control and dealing damage. tags:pve
+dimwishlist:item=3605603507&perks=3523296417,4104185692
+dimwishlist:item=3605603507&perks=3523296417,3007133316
+dimwishlist:item=3605603507&perks=1906147653,4104185692
+dimwishlist:item=3605603507&perks=1906147653,3007133316
+
+
+// Pro Memoria - PVP Demi-God (pvp)
+//notes: PVP; MW Range; In PvP, Pro Memoria is less of a standout, but can still prove effective. For our barrel, we will want Hammer-Forged Rifling, and for our magazine, Ricochet Rounds. Hammer-Forged Rifling will significantly increase our effective range with the weapon, allowing you to get the jump on opponents from further away. Ricochet Rounds will also increase our range as well as stability, with the added benefit of being able to bounce our shots off of surfaces. In perk column 1, we want Demolitionist to create grenade ability energy upon kills with the weapon. In column 2, we will pick Tap the Trigger. Upon pulling the trigger, you will instantly experience increased stability and accuracy, perfect for nailing those distant headshots on your opponents. tags:pvp
+dimwishlist:item=3605603507&perks=3523296417,1890422124
+dimwishlist:item=3605603507&perks=3523296417,1523649716
+dimwishlist:item=3605603507&perks=1906147653,1890422124
+dimwishlist:item=3605603507&perks=1906147653,1523649716
+
+
+// Succession - Blueberries - God PVP (god-pvp)
+//notes: T:S; BB God PVP; Alt: Izanagi's Burden, Mechabre, The Supremacy; MW: Handling tags:god-pvp
+dimwishlist:item=3612338554&perks=1840239774,3142289711,588594999,957782887
+
+
+// Succession - Blueberries - God PVE (god-pve)
+//notes: T:S; BB God PVE; Alt: Izanagi's Burden, Mechabre, The Supremacy; MW: Handling tags:god-pve
+dimwishlist:item=3612338554&perks=1840239774,2420895100,1523832109,469285294
+
+
+// Succession - Blueberries - PVP (pvp)
+//notes: T:S; BB PVP; Alt: Izanagi's Burden, Mechabre, The Supremacy; MW: Handling tags:pvp
+dimwishlist:item=3612338554&perks=588594999,957782887
+
+
+// Succession - Blueberries - PVE (pve)
+//notes: T:S; BB PVE; Alt: Izanagi's Burden, Mechabre, The Supremacy; MW: Handling tags:pve
+dimwishlist:item=3612338554&perks=1523832109,469285294
+dimwishlist:item=3612338554&perks=1523832109,1771339417
+dimwishlist:item=3612338554&perks=1556840489,469285294
+dimwishlist:item=3612338554&perks=1556840489,1771339417
+
+
+// Veiled Threat - PVE (god-pve,pve)
+//notes: PVE; MW Range; For our barrel, you will want Arrowhead Brake to better control that pesky auto rifle recoil and boost your weapon handling. For our magazine, we’ll want to pick Tactical Mag to increase our stability, mag size, and reload speed with the weapon. For our perks, we want Strategist and Headstone in perk columns 1 and 2, respectively. Strategist will generate class ability energy upon kills and activating your class ability will buff stability with the weapon. Headstone is the real star of the show here; coupled with Veiled Threat’s 720 RPM Rapid-Fire frame, you’ll be creating countless stasis crystals when landing headshots on your enemies. Veiled Threat will prove to be useful in crowd control. Between the radiolarian fluid damage pools created by the origin trait on offer here and the rapid creation of Stasis crystals via Headstone, you are sure to find this weapon lethal in PvE. tags:god-pve,pve
+dimwishlist:item=3685470415&perks=839105230,106909392,880644845,124408337
+dimwishlist:item=3685470415&perks=839105230,106909392,880644845,2109543898
+dimwishlist:item=3685470415&perks=839105230,106909392,880644845,1171887445
+dimwishlist:item=3685470415&perks=839105230,106909392,880644845,2799030358
+dimwishlist:item=3685470415&perks=839105230,106909392,3120212825,124408337
+dimwishlist:item=3685470415&perks=839105230,106909392,3120212825,2109543898
+dimwishlist:item=3685470415&perks=839105230,106909392,3120212825,1171887445
+dimwishlist:item=3685470415&perks=839105230,106909392,3120212825,2799030358
+
+
+// Veiled Threat - PVP (god-pvp,pvp)
+//notes: PVP; MW Range; For our barrel and magazine, we will want Chambered Compensator and Accurized Round, respectively. This barrel will increase the weapon’s stability and handling to overcome any recoil it may produce. Accurized Rounds will increase our range with Veiled Threat, allowing us to engage opposing guardians earlier and from further away. The first perk that we want is Fragile Focus. This perk dramatically increases our range as long as we have our shield intact. This will be highly effective as you initiate engagements from a greater distance. For the second perk, we want Moving Target. This perk has been commonly used on auto rifles in PvP for years now, as it grants both better target acquisition and increased movement speed when aiming down the weapon’s sight, vital enhancements in outgunning any Crucible opponent. tags:god-pvp,pvp
+dimwishlist:item=3685470415&perks=3661387068,3142289711,2451262963,588594999
+dimwishlist:item=3685470415&perks=3661387068,3142289711,2451262963,2717805783
+dimwishlist:item=3685470415&perks=3661387068,3142289711,1609056795,588594999
+dimwishlist:item=3685470415&perks=3661387068,3142289711,1609056795,2717805783
+
+
+// Veiled Threat - PVE Demi-God (pve)
+//notes: PVE; MW Range; For our barrel, you will want Arrowhead Brake to better control that pesky auto rifle recoil and boost your weapon handling. For our magazine, we’ll want to pick Tactical Mag to increase our stability, mag size, and reload speed with the weapon. For our perks, we want Strategist and Headstone in perk columns 1 and 2, respectively. Strategist will generate class ability energy upon kills and activating your class ability will buff stability with the weapon. Headstone is the real star of the show here; coupled with Veiled Threat’s 720 RPM Rapid-Fire frame, you’ll be creating countless stasis crystals when landing headshots on your enemies. Veiled Threat will prove to be useful in crowd control. Between the radiolarian fluid damage pools created by the origin trait on offer here and the rapid creation of Stasis crystals via Headstone, you are sure to find this weapon lethal in PvE. tags:pve
+dimwishlist:item=3685470415&perks=880644845,124408337
+dimwishlist:item=3685470415&perks=880644845,2109543898
+dimwishlist:item=3685470415&perks=880644845,1171887445
+dimwishlist:item=3685470415&perks=880644845,2799030358
+dimwishlist:item=3685470415&perks=3120212825,124408337
+dimwishlist:item=3685470415&perks=3120212825,2109543898
+dimwishlist:item=3685470415&perks=3120212825,1171887445
+dimwishlist:item=3685470415&perks=3120212825,2799030358
+
+
+// Veiled Threat - PVP Demi-God (pvp)
+//notes: PVP; MW Range; For our barrel and magazine, we will want Chambered Compensator and Accurized Round, respectively. This barrel will increase the weapon’s stability and handling to overcome any recoil it may produce. Accurized Rounds will increase our range with Veiled Threat, allowing us to engage opposing guardians earlier and from further away. The first perk that we want is Fragile Focus. This perk dramatically increases our range as long as we have our shield intact. This will be highly effective as you initiate engagements from a greater distance. For the second perk, we want Moving Target. This perk has been commonly used on auto rifles in PvP for years now, as it grants both better target acquisition and increased movement speed when aiming down the weapon’s sight, vital enhancements in outgunning any Crucible opponent. tags:pvp
+dimwishlist:item=3685470415&perks=2451262963,588594999
+dimwishlist:item=3685470415&perks=2451262963,2717805783
+dimwishlist:item=3685470415&perks=1609056795,588594999
+dimwishlist:item=3685470415&perks=1609056795,2717805783
+
+
+// Axial Lacuna - PVE (god-pve,pve)
+//notes: PVE; MW Charge; We recommend Fluted Barrel as this weapon doesn’t have the best of Handling stats, and also the increase in Stability means that the projectiles will fire with a tighter spread, making Controlled Burst more effective. Ionized Battery is recommended as when paired with the Backup Mag weapon mod, and Reconstruction, the magazine is increased to 16 shots in the magazine. Reconstruction is always a very nice perk to have on a backup weapon as it removes the need to reload completely, so it is always ready for those close call situations. Controlled Burst makes Axial Lacuna a very nice weapons for backup damage in situations where heavy ammo is tight, or to fit in well with damage swap rotations. Also the increased Charge Rate makes the frame slightly less punishing compared to a Rapid Fire. Incandescent is also a viable option as it provides an option for strong add clear in situations where it is needed. tags:god-pve,pve
+dimwishlist:item=3867373351&perks=1840239774,1483536627,1523832109,2594592626
+dimwishlist:item=3867373351&perks=1840239774,1483536627,1523832109,4293542123
+dimwishlist:item=3867373351&perks=1840239774,1483536627,1523832109,2037312142
+dimwishlist:item=3867373351&perks=1840239774,1483536627,1523832109,2675184851
+dimwishlist:item=3867373351&perks=1840239774,1483536627,461595545,2594592626
+dimwishlist:item=3867373351&perks=1840239774,1483536627,461595545,4293542123
+dimwishlist:item=3867373351&perks=1840239774,1483536627,461595545,2037312142
+dimwishlist:item=3867373351&perks=1840239774,1483536627,461595545,2675184851
+
+
+// Axial Lacuna - PVP (god-pvp,pvp)
+//notes: PVP; MW Stability; We recommend both Corkscrew Rifling and Particle Repeater due to the increase in Stability they provide, as Stability is a very important stat when it comes to fusion rifles in PvP. While Eye of the Storm is viable option due to increase in weapon accuracy, we feel that Firmly Planted is the better option as it does not require losing health to activate, and it synergises very well with Kickstart. Kickstart has always been a very strong option in PvP, especially for those with a more aggressive playstyle. As mentioned above, it synergises very well with Firmly Planted as sliding to activate Kickstart also provides the bonuses for crouching with Firmly Planted. We opted for a Stability Masterwork over Range as a tighter projectile spread is always useful in PvP, and the Range Masterwork only provides an extra 0.5m of falloff distance. Overall, Axial Lacuna seems a very strong option for the majority of situations, both PvE and PvP, with a very versatile perk pool. tags:god-pvp,pvp
+dimwishlist:item=3867373351&perks=4090651448,3868766766,699525795,1754714824
+dimwishlist:item=3867373351&perks=4090651448,3868766766,699525795,834262328
+dimwishlist:item=3867373351&perks=4090651448,3868766766,3719974635,1754714824
+dimwishlist:item=3867373351&perks=4090651448,3868766766,3719974635,834262328
+dimwishlist:item=3867373351&perks=4090651448,3868766766,280464955,1754714824
+dimwishlist:item=3867373351&perks=4090651448,3868766766,280464955,834262328
+dimwishlist:item=3867373351&perks=4090651448,3868766766,3920370755,1754714824
+dimwishlist:item=3867373351&perks=4090651448,3868766766,3920370755,834262328
+
+
+// Axial Lacuna - PVE Demi-God (pve)
+//notes: PVE; MW Charge; We recommend Fluted Barrel as this weapon doesn’t have the best of Handling stats, and also the increase in Stability means that the projectiles will fire with a tighter spread, making Controlled Burst more effective. Ionized Battery is recommended as when paired with the Backup Mag weapon mod, and Reconstruction, the magazine is increased to 16 shots in the magazine. Reconstruction is always a very nice perk to have on a backup weapon as it removes the need to reload completely, so it is always ready for those close call situations. Controlled Burst makes Axial Lacuna a very nice weapons for backup damage in situations where heavy ammo is tight, or to fit in well with damage swap rotations. Also the increased Charge Rate makes the frame slightly less punishing compared to a Rapid Fire. Incandescent is also a viable option as it provides an option for strong add clear in situations where it is needed. tags:pve
+dimwishlist:item=3867373351&perks=1523832109,2594592626
+dimwishlist:item=3867373351&perks=1523832109,4293542123
+dimwishlist:item=3867373351&perks=1523832109,2037312142
+dimwishlist:item=3867373351&perks=1523832109,2675184851
+dimwishlist:item=3867373351&perks=461595545,2594592626
+dimwishlist:item=3867373351&perks=461595545,4293542123
+dimwishlist:item=3867373351&perks=461595545,2037312142
+dimwishlist:item=3867373351&perks=461595545,2675184851
+
+
+// Axial Lacuna - PVP Demi-God (pvp)
+//notes: PVP; MW Stability; We recommend both Corkscrew Rifling and Particle Repeater due to the increase in Stability they provide, as Stability is a very important stat when it comes to fusion rifles in PvP. While Eye of the Storm is viable option due to increase in weapon accuracy, we feel that Firmly Planted is the better option as it does not require losing health to activate, and it synergises very well with Kickstart. Kickstart has always been a very strong option in PvP, especially for those with a more aggressive playstyle. As mentioned above, it synergises very well with Firmly Planted as sliding to activate Kickstart also provides the bonuses for crouching with Firmly Planted. We opted for a Stability Masterwork over Range as a tighter projectile spread is always useful in PvP, and the Range Masterwork only provides an extra 0.5m of falloff distance. Overall, Axial Lacuna seems a very strong option for the majority of situations, both PvE and PvP, with a very versatile perk pool. tags:pvp
+dimwishlist:item=3867373351&perks=699525795,1754714824
+dimwishlist:item=3867373351&perks=699525795,834262328
+dimwishlist:item=3867373351&perks=3719974635,1754714824
+dimwishlist:item=3867373351&perks=3719974635,834262328
+dimwishlist:item=3867373351&perks=280464955,1754714824
+dimwishlist:item=3867373351&perks=280464955,834262328
+dimwishlist:item=3867373351&perks=3920370755,1754714824
+dimwishlist:item=3867373351&perks=3920370755,834262328
+
+
+// The Call - PVE (god-pve,pve)
+//notes: PVE; MW Reload; There are two main approaches here when it comes to the PVE god roll. Warlocks and other threadling enjoyers will likely want to pair Demolitionist and Hatchling, giving them access to even more threadlings and even more grenades. Everyone else, especially strand hunters, will probably be looking for Slice, to debuff enemies and generate tangles, partnered with a reliable damage perk like One For All or Desperate Measures. One For All is particularly good here, due to the splash damage ensuring you are frequently hitting multiple targets. Whichever path you choose, your magazine and masterwork choices will be dictated by the slow reload speed of rocket sidearms, something you might want to consider using subsistence in the third column to offset. tags:god-pve,pve
+dimwishlist:item=3947966653&perks=1441682018,2822142346,1820235745,4049631843
+dimwishlist:item=3947966653&perks=1441682018,2822142346,1820235745,2109543898
+dimwishlist:item=3947966653&perks=1441682018,2822142346,1820235745,831391274
+dimwishlist:item=3947966653&perks=1441682018,2822142346,1820235745,859780267
+dimwishlist:item=3947966653&perks=1441682018,2822142346,1820235745,2799030358
+dimwishlist:item=3947966653&perks=1441682018,2822142346,1820235745,102912326
+dimwishlist:item=3947966653&perks=1441682018,2822142346,923806249,4049631843
+dimwishlist:item=3947966653&perks=1441682018,2822142346,923806249,2109543898
+dimwishlist:item=3947966653&perks=1441682018,2822142346,923806249,831391274
+dimwishlist:item=3947966653&perks=1441682018,2822142346,923806249,859780267
+dimwishlist:item=3947966653&perks=1441682018,2822142346,923806249,2799030358
+dimwishlist:item=3947966653&perks=1441682018,2822142346,923806249,102912326
+dimwishlist:item=3947966653&perks=1441682018,2822142346,3523296417,4049631843
+dimwishlist:item=3947966653&perks=1441682018,2822142346,3523296417,2109543898
+dimwishlist:item=3947966653&perks=1441682018,2822142346,3523296417,831391274
+dimwishlist:item=3947966653&perks=1441682018,2822142346,3523296417,859780267
+dimwishlist:item=3947966653&perks=1441682018,2822142346,3523296417,2799030358
+dimwishlist:item=3947966653&perks=1441682018,2822142346,3523296417,102912326
+dimwishlist:item=3947966653&perks=1441682018,2822142346,4245865861,4049631843
+dimwishlist:item=3947966653&perks=1441682018,2822142346,4245865861,2109543898
+dimwishlist:item=3947966653&perks=1441682018,2822142346,4245865861,831391274
+dimwishlist:item=3947966653&perks=1441682018,2822142346,4245865861,859780267
+dimwishlist:item=3947966653&perks=1441682018,2822142346,4245865861,2799030358
+dimwishlist:item=3947966653&perks=1441682018,2822142346,4245865861,102912326
+dimwishlist:item=3947966653&perks=1441682018,2822142346,3422796781,4049631843
+dimwishlist:item=3947966653&perks=1441682018,2822142346,3422796781,2109543898
+dimwishlist:item=3947966653&perks=1441682018,2822142346,3422796781,831391274
+dimwishlist:item=3947966653&perks=1441682018,2822142346,3422796781,859780267
+dimwishlist:item=3947966653&perks=1441682018,2822142346,3422796781,2799030358
+dimwishlist:item=3947966653&perks=1441682018,2822142346,3422796781,102912326
+dimwishlist:item=3947966653&perks=1441682018,2822142346,1906147653,4049631843
+dimwishlist:item=3947966653&perks=1441682018,2822142346,1906147653,2109543898
+dimwishlist:item=3947966653&perks=1441682018,2822142346,1906147653,831391274
+dimwishlist:item=3947966653&perks=1441682018,2822142346,1906147653,859780267
+dimwishlist:item=3947966653&perks=1441682018,2822142346,1906147653,2799030358
+dimwishlist:item=3947966653&perks=1441682018,2822142346,1906147653,102912326
+dimwishlist:item=3947966653&perks=1441682018,3230963543,1820235745,4049631843
+dimwishlist:item=3947966653&perks=1441682018,3230963543,1820235745,2109543898
+dimwishlist:item=3947966653&perks=1441682018,3230963543,1820235745,831391274
+dimwishlist:item=3947966653&perks=1441682018,3230963543,1820235745,859780267
+dimwishlist:item=3947966653&perks=1441682018,3230963543,1820235745,2799030358
+dimwishlist:item=3947966653&perks=1441682018,3230963543,1820235745,102912326
+dimwishlist:item=3947966653&perks=1441682018,3230963543,923806249,4049631843
+dimwishlist:item=3947966653&perks=1441682018,3230963543,923806249,2109543898
+dimwishlist:item=3947966653&perks=1441682018,3230963543,923806249,831391274
+dimwishlist:item=3947966653&perks=1441682018,3230963543,923806249,859780267
+dimwishlist:item=3947966653&perks=1441682018,3230963543,923806249,2799030358
+dimwishlist:item=3947966653&perks=1441682018,3230963543,923806249,102912326
+dimwishlist:item=3947966653&perks=1441682018,3230963543,3523296417,4049631843
+dimwishlist:item=3947966653&perks=1441682018,3230963543,3523296417,2109543898
+dimwishlist:item=3947966653&perks=1441682018,3230963543,3523296417,831391274
+dimwishlist:item=3947966653&perks=1441682018,3230963543,3523296417,859780267
+dimwishlist:item=3947966653&perks=1441682018,3230963543,3523296417,2799030358
+dimwishlist:item=3947966653&perks=1441682018,3230963543,3523296417,102912326
+dimwishlist:item=3947966653&perks=1441682018,3230963543,4245865861,4049631843
+dimwishlist:item=3947966653&perks=1441682018,3230963543,4245865861,2109543898
+dimwishlist:item=3947966653&perks=1441682018,3230963543,4245865861,831391274
+dimwishlist:item=3947966653&perks=1441682018,3230963543,4245865861,859780267
+dimwishlist:item=3947966653&perks=1441682018,3230963543,4245865861,2799030358
+dimwishlist:item=3947966653&perks=1441682018,3230963543,4245865861,102912326
+dimwishlist:item=3947966653&perks=1441682018,3230963543,3422796781,4049631843
+dimwishlist:item=3947966653&perks=1441682018,3230963543,3422796781,2109543898
+dimwishlist:item=3947966653&perks=1441682018,3230963543,3422796781,831391274
+dimwishlist:item=3947966653&perks=1441682018,3230963543,3422796781,859780267
+dimwishlist:item=3947966653&perks=1441682018,3230963543,3422796781,2799030358
+dimwishlist:item=3947966653&perks=1441682018,3230963543,3422796781,102912326
+dimwishlist:item=3947966653&perks=1441682018,3230963543,1906147653,4049631843
+dimwishlist:item=3947966653&perks=1441682018,3230963543,1906147653,2109543898
+dimwishlist:item=3947966653&perks=1441682018,3230963543,1906147653,831391274
+dimwishlist:item=3947966653&perks=1441682018,3230963543,1906147653,859780267
+dimwishlist:item=3947966653&perks=1441682018,3230963543,1906147653,2799030358
+dimwishlist:item=3947966653&perks=1441682018,3230963543,1906147653,102912326
+dimwishlist:item=3947966653&perks=3525010810,2822142346,1820235745,4049631843
+dimwishlist:item=3947966653&perks=3525010810,2822142346,1820235745,2109543898
+dimwishlist:item=3947966653&perks=3525010810,2822142346,1820235745,831391274
+dimwishlist:item=3947966653&perks=3525010810,2822142346,1820235745,859780267
+dimwishlist:item=3947966653&perks=3525010810,2822142346,1820235745,2799030358
+dimwishlist:item=3947966653&perks=3525010810,2822142346,1820235745,102912326
+dimwishlist:item=3947966653&perks=3525010810,2822142346,923806249,4049631843
+dimwishlist:item=3947966653&perks=3525010810,2822142346,923806249,2109543898
+dimwishlist:item=3947966653&perks=3525010810,2822142346,923806249,831391274
+dimwishlist:item=3947966653&perks=3525010810,2822142346,923806249,859780267
+dimwishlist:item=3947966653&perks=3525010810,2822142346,923806249,2799030358
+dimwishlist:item=3947966653&perks=3525010810,2822142346,923806249,102912326
+dimwishlist:item=3947966653&perks=3525010810,2822142346,3523296417,4049631843
+dimwishlist:item=3947966653&perks=3525010810,2822142346,3523296417,2109543898
+dimwishlist:item=3947966653&perks=3525010810,2822142346,3523296417,831391274
+dimwishlist:item=3947966653&perks=3525010810,2822142346,3523296417,859780267
+dimwishlist:item=3947966653&perks=3525010810,2822142346,3523296417,2799030358
+dimwishlist:item=3947966653&perks=3525010810,2822142346,3523296417,102912326
+dimwishlist:item=3947966653&perks=3525010810,2822142346,4245865861,4049631843
+dimwishlist:item=3947966653&perks=3525010810,2822142346,4245865861,2109543898
+dimwishlist:item=3947966653&perks=3525010810,2822142346,4245865861,831391274
+dimwishlist:item=3947966653&perks=3525010810,2822142346,4245865861,859780267
+dimwishlist:item=3947966653&perks=3525010810,2822142346,4245865861,2799030358
+dimwishlist:item=3947966653&perks=3525010810,2822142346,4245865861,102912326
+dimwishlist:item=3947966653&perks=3525010810,2822142346,3422796781,4049631843
+dimwishlist:item=3947966653&perks=3525010810,2822142346,3422796781,2109543898
+dimwishlist:item=3947966653&perks=3525010810,2822142346,3422796781,831391274
+dimwishlist:item=3947966653&perks=3525010810,2822142346,3422796781,859780267
+dimwishlist:item=3947966653&perks=3525010810,2822142346,3422796781,2799030358
+dimwishlist:item=3947966653&perks=3525010810,2822142346,3422796781,102912326
+dimwishlist:item=3947966653&perks=3525010810,2822142346,1906147653,4049631843
+dimwishlist:item=3947966653&perks=3525010810,2822142346,1906147653,2109543898
+dimwishlist:item=3947966653&perks=3525010810,2822142346,1906147653,831391274
+dimwishlist:item=3947966653&perks=3525010810,2822142346,1906147653,859780267
+dimwishlist:item=3947966653&perks=3525010810,2822142346,1906147653,2799030358
+dimwishlist:item=3947966653&perks=3525010810,2822142346,1906147653,102912326
+dimwishlist:item=3947966653&perks=3525010810,3230963543,1820235745,4049631843
+dimwishlist:item=3947966653&perks=3525010810,3230963543,1820235745,2109543898
+dimwishlist:item=3947966653&perks=3525010810,3230963543,1820235745,831391274
+dimwishlist:item=3947966653&perks=3525010810,3230963543,1820235745,859780267
+dimwishlist:item=3947966653&perks=3525010810,3230963543,1820235745,2799030358
+dimwishlist:item=3947966653&perks=3525010810,3230963543,1820235745,102912326
+dimwishlist:item=3947966653&perks=3525010810,3230963543,923806249,4049631843
+dimwishlist:item=3947966653&perks=3525010810,3230963543,923806249,2109543898
+dimwishlist:item=3947966653&perks=3525010810,3230963543,923806249,831391274
+dimwishlist:item=3947966653&perks=3525010810,3230963543,923806249,859780267
+dimwishlist:item=3947966653&perks=3525010810,3230963543,923806249,2799030358
+dimwishlist:item=3947966653&perks=3525010810,3230963543,923806249,102912326
+dimwishlist:item=3947966653&perks=3525010810,3230963543,3523296417,4049631843
+dimwishlist:item=3947966653&perks=3525010810,3230963543,3523296417,2109543898
+dimwishlist:item=3947966653&perks=3525010810,3230963543,3523296417,831391274
+dimwishlist:item=3947966653&perks=3525010810,3230963543,3523296417,859780267
+dimwishlist:item=3947966653&perks=3525010810,3230963543,3523296417,2799030358
+dimwishlist:item=3947966653&perks=3525010810,3230963543,3523296417,102912326
+dimwishlist:item=3947966653&perks=3525010810,3230963543,4245865861,4049631843
+dimwishlist:item=3947966653&perks=3525010810,3230963543,4245865861,2109543898
+dimwishlist:item=3947966653&perks=3525010810,3230963543,4245865861,831391274
+dimwishlist:item=3947966653&perks=3525010810,3230963543,4245865861,859780267
+dimwishlist:item=3947966653&perks=3525010810,3230963543,4245865861,2799030358
+dimwishlist:item=3947966653&perks=3525010810,3230963543,4245865861,102912326
+dimwishlist:item=3947966653&perks=3525010810,3230963543,3422796781,4049631843
+dimwishlist:item=3947966653&perks=3525010810,3230963543,3422796781,2109543898
+dimwishlist:item=3947966653&perks=3525010810,3230963543,3422796781,831391274
+dimwishlist:item=3947966653&perks=3525010810,3230963543,3422796781,859780267
+dimwishlist:item=3947966653&perks=3525010810,3230963543,3422796781,2799030358
+dimwishlist:item=3947966653&perks=3525010810,3230963543,3422796781,102912326
+dimwishlist:item=3947966653&perks=3525010810,3230963543,1906147653,4049631843
+dimwishlist:item=3947966653&perks=3525010810,3230963543,1906147653,2109543898
+dimwishlist:item=3947966653&perks=3525010810,3230963543,1906147653,831391274
+dimwishlist:item=3947966653&perks=3525010810,3230963543,1906147653,859780267
+dimwishlist:item=3947966653&perks=3525010810,3230963543,1906147653,2799030358
+dimwishlist:item=3947966653&perks=3525010810,3230963543,1906147653,102912326
+dimwishlist:item=3947966653&perks=3798852852,2822142346,1820235745,4049631843
+dimwishlist:item=3947966653&perks=3798852852,2822142346,1820235745,2109543898
+dimwishlist:item=3947966653&perks=3798852852,2822142346,1820235745,831391274
+dimwishlist:item=3947966653&perks=3798852852,2822142346,1820235745,859780267
+dimwishlist:item=3947966653&perks=3798852852,2822142346,1820235745,2799030358
+dimwishlist:item=3947966653&perks=3798852852,2822142346,1820235745,102912326
+dimwishlist:item=3947966653&perks=3798852852,2822142346,923806249,4049631843
+dimwishlist:item=3947966653&perks=3798852852,2822142346,923806249,2109543898
+dimwishlist:item=3947966653&perks=3798852852,2822142346,923806249,831391274
+dimwishlist:item=3947966653&perks=3798852852,2822142346,923806249,859780267
+dimwishlist:item=3947966653&perks=3798852852,2822142346,923806249,2799030358
+dimwishlist:item=3947966653&perks=3798852852,2822142346,923806249,102912326
+dimwishlist:item=3947966653&perks=3798852852,2822142346,3523296417,4049631843
+dimwishlist:item=3947966653&perks=3798852852,2822142346,3523296417,2109543898
+dimwishlist:item=3947966653&perks=3798852852,2822142346,3523296417,831391274
+dimwishlist:item=3947966653&perks=3798852852,2822142346,3523296417,859780267
+dimwishlist:item=3947966653&perks=3798852852,2822142346,3523296417,2799030358
+dimwishlist:item=3947966653&perks=3798852852,2822142346,3523296417,102912326
+dimwishlist:item=3947966653&perks=3798852852,2822142346,4245865861,4049631843
+dimwishlist:item=3947966653&perks=3798852852,2822142346,4245865861,2109543898
+dimwishlist:item=3947966653&perks=3798852852,2822142346,4245865861,831391274
+dimwishlist:item=3947966653&perks=3798852852,2822142346,4245865861,859780267
+dimwishlist:item=3947966653&perks=3798852852,2822142346,4245865861,2799030358
+dimwishlist:item=3947966653&perks=3798852852,2822142346,4245865861,102912326
+dimwishlist:item=3947966653&perks=3798852852,2822142346,3422796781,4049631843
+dimwishlist:item=3947966653&perks=3798852852,2822142346,3422796781,2109543898
+dimwishlist:item=3947966653&perks=3798852852,2822142346,3422796781,831391274
+dimwishlist:item=3947966653&perks=3798852852,2822142346,3422796781,859780267
+dimwishlist:item=3947966653&perks=3798852852,2822142346,3422796781,2799030358
+dimwishlist:item=3947966653&perks=3798852852,2822142346,3422796781,102912326
+dimwishlist:item=3947966653&perks=3798852852,2822142346,1906147653,4049631843
+dimwishlist:item=3947966653&perks=3798852852,2822142346,1906147653,2109543898
+dimwishlist:item=3947966653&perks=3798852852,2822142346,1906147653,831391274
+dimwishlist:item=3947966653&perks=3798852852,2822142346,1906147653,859780267
+dimwishlist:item=3947966653&perks=3798852852,2822142346,1906147653,2799030358
+dimwishlist:item=3947966653&perks=3798852852,2822142346,1906147653,102912326
+dimwishlist:item=3947966653&perks=3798852852,3230963543,1820235745,4049631843
+dimwishlist:item=3947966653&perks=3798852852,3230963543,1820235745,2109543898
+dimwishlist:item=3947966653&perks=3798852852,3230963543,1820235745,831391274
+dimwishlist:item=3947966653&perks=3798852852,3230963543,1820235745,859780267
+dimwishlist:item=3947966653&perks=3798852852,3230963543,1820235745,2799030358
+dimwishlist:item=3947966653&perks=3798852852,3230963543,1820235745,102912326
+dimwishlist:item=3947966653&perks=3798852852,3230963543,923806249,4049631843
+dimwishlist:item=3947966653&perks=3798852852,3230963543,923806249,2109543898
+dimwishlist:item=3947966653&perks=3798852852,3230963543,923806249,831391274
+dimwishlist:item=3947966653&perks=3798852852,3230963543,923806249,859780267
+dimwishlist:item=3947966653&perks=3798852852,3230963543,923806249,2799030358
+dimwishlist:item=3947966653&perks=3798852852,3230963543,923806249,102912326
+dimwishlist:item=3947966653&perks=3798852852,3230963543,3523296417,4049631843
+dimwishlist:item=3947966653&perks=3798852852,3230963543,3523296417,2109543898
+dimwishlist:item=3947966653&perks=3798852852,3230963543,3523296417,831391274
+dimwishlist:item=3947966653&perks=3798852852,3230963543,3523296417,859780267
+dimwishlist:item=3947966653&perks=3798852852,3230963543,3523296417,2799030358
+dimwishlist:item=3947966653&perks=3798852852,3230963543,3523296417,102912326
+dimwishlist:item=3947966653&perks=3798852852,3230963543,4245865861,4049631843
+dimwishlist:item=3947966653&perks=3798852852,3230963543,4245865861,2109543898
+dimwishlist:item=3947966653&perks=3798852852,3230963543,4245865861,831391274
+dimwishlist:item=3947966653&perks=3798852852,3230963543,4245865861,859780267
+dimwishlist:item=3947966653&perks=3798852852,3230963543,4245865861,2799030358
+dimwishlist:item=3947966653&perks=3798852852,3230963543,4245865861,102912326
+dimwishlist:item=3947966653&perks=3798852852,3230963543,3422796781,4049631843
+dimwishlist:item=3947966653&perks=3798852852,3230963543,3422796781,2109543898
+dimwishlist:item=3947966653&perks=3798852852,3230963543,3422796781,831391274
+dimwishlist:item=3947966653&perks=3798852852,3230963543,3422796781,859780267
+dimwishlist:item=3947966653&perks=3798852852,3230963543,3422796781,2799030358
+dimwishlist:item=3947966653&perks=3798852852,3230963543,3422796781,102912326
+dimwishlist:item=3947966653&perks=3798852852,3230963543,1906147653,4049631843
+dimwishlist:item=3947966653&perks=3798852852,3230963543,1906147653,2109543898
+dimwishlist:item=3947966653&perks=3798852852,3230963543,1906147653,831391274
+dimwishlist:item=3947966653&perks=3798852852,3230963543,1906147653,859780267
+dimwishlist:item=3947966653&perks=3798852852,3230963543,1906147653,2799030358
+dimwishlist:item=3947966653&perks=3798852852,3230963543,1906147653,102912326
+
+
+// The Call - PVP (god-pvp,pvp)
+//notes: PVP; MW: Velocity; While rocket sidearms have been warmly received in PVE they haven't made as much of a splash in PVP. The Call especially struggles from the fact that it's competing directly with the exotic special sidearm Forerunner. Nevertheless if you want to take it into Crucible, I recommend focusing on damage perks that don't require a reload like Golden Tricorn or Desperate Measures, plus Beacon Rounds, which gives you tracking after a kill. Make sure to use your barrel, magazine and masterwork to up your velocity, making it harder for players to dodge your shots. tags:god-pvp,pvp
+dimwishlist:item=3947966653&perks=3525010810,2822142346,2859149211,2610012052
+dimwishlist:item=3947966653&perks=3525010810,2822142346,2859149211,2109543898
+dimwishlist:item=3947966653&perks=3525010810,2822142346,2859149211,4290541820
+dimwishlist:item=3947966653&perks=3525010810,2822142346,2859149211,2799030358
+dimwishlist:item=3947966653&perks=3525010810,2822142346,1135494563,2610012052
+dimwishlist:item=3947966653&perks=3525010810,2822142346,1135494563,2109543898
+dimwishlist:item=3947966653&perks=3525010810,2822142346,1135494563,4290541820
+dimwishlist:item=3947966653&perks=3525010810,2822142346,1135494563,2799030358
+
+
+// The Call - PVE Demi-God (pve)
+//notes: PVE; MW Reload; There are two main approaches here when it comes to the PVE god roll. Warlocks and other threadling enjoyers will likely want to pair Demolitionist and Hatchling, giving them access to even more threadlings and even more grenades. Everyone else, especially strand hunters, will probably be looking for Slice, to debuff enemies and generate tangles, partnered with a reliable damage perk like One For All or Desperate Measures. One For All is particularly good here, due to the splash damage ensuring you are frequently hitting multiple targets. Whichever path you choose, your magazine and masterwork choices will be dictated by the slow reload speed of rocket sidearms, something you might want to consider using subsistence in the third column to offset. tags:pve
+dimwishlist:item=3947966653&perks=1820235745,4049631843
+dimwishlist:item=3947966653&perks=1820235745,2109543898
+dimwishlist:item=3947966653&perks=1820235745,831391274
+dimwishlist:item=3947966653&perks=1820235745,859780267
+dimwishlist:item=3947966653&perks=1820235745,2799030358
+dimwishlist:item=3947966653&perks=1820235745,102912326
+dimwishlist:item=3947966653&perks=923806249,4049631843
+dimwishlist:item=3947966653&perks=923806249,2109543898
+dimwishlist:item=3947966653&perks=923806249,831391274
+dimwishlist:item=3947966653&perks=923806249,859780267
+dimwishlist:item=3947966653&perks=923806249,2799030358
+dimwishlist:item=3947966653&perks=923806249,102912326
+dimwishlist:item=3947966653&perks=3523296417,4049631843
+dimwishlist:item=3947966653&perks=3523296417,2109543898
+dimwishlist:item=3947966653&perks=3523296417,831391274
+dimwishlist:item=3947966653&perks=3523296417,859780267
+dimwishlist:item=3947966653&perks=3523296417,2799030358
+dimwishlist:item=3947966653&perks=3523296417,102912326
+dimwishlist:item=3947966653&perks=4245865861,4049631843
+dimwishlist:item=3947966653&perks=4245865861,2109543898
+dimwishlist:item=3947966653&perks=4245865861,831391274
+dimwishlist:item=3947966653&perks=4245865861,859780267
+dimwishlist:item=3947966653&perks=4245865861,2799030358
+dimwishlist:item=3947966653&perks=4245865861,102912326
+dimwishlist:item=3947966653&perks=3422796781,4049631843
+dimwishlist:item=3947966653&perks=3422796781,2109543898
+dimwishlist:item=3947966653&perks=3422796781,831391274
+dimwishlist:item=3947966653&perks=3422796781,859780267
+dimwishlist:item=3947966653&perks=3422796781,2799030358
+dimwishlist:item=3947966653&perks=3422796781,102912326
+dimwishlist:item=3947966653&perks=1906147653,4049631843
+dimwishlist:item=3947966653&perks=1906147653,2109543898
+dimwishlist:item=3947966653&perks=1906147653,831391274
+dimwishlist:item=3947966653&perks=1906147653,859780267
+dimwishlist:item=3947966653&perks=1906147653,2799030358
+dimwishlist:item=3947966653&perks=1906147653,102912326
+
+
+// The Call - PVP Demi-God (pvp)
+//notes: PVP; MW: Velocity; While rocket sidearms have been warmly received in PVE they haven't made as much of a splash in PVP. The Call especially struggles from the fact that it's competing directly with the exotic special sidearm Forerunner. Nevertheless if you want to take it into Crucible, I recommend focusing on damage perks that don't require a reload like Golden Tricorn or Desperate Measures, plus Beacon Rounds, which gives you tracking after a kill. Make sure to use your barrel, magazine and masterwork to up your velocity, making it harder for players to dodge your shots. tags:pvp
+dimwishlist:item=3947966653&perks=2859149211,2610012052
+dimwishlist:item=3947966653&perks=2859149211,2109543898
+dimwishlist:item=3947966653&perks=2859149211,4290541820
+dimwishlist:item=3947966653&perks=2859149211,2799030358
+dimwishlist:item=3947966653&perks=1135494563,2610012052
+dimwishlist:item=3947966653&perks=1135494563,2109543898
+dimwishlist:item=3947966653&perks=1135494563,4290541820
+dimwishlist:item=3947966653&perks=1135494563,2799030358
+
+
+// False Idols - PVE (Ads) (god-pve,pve)
+//notes: PVE; Ads; MW Impact; For our blade, we will want Hungry Edge to increase the weapon’s ammo capacity. For our guard, we’ll want to pick Balanced Guard to increase our defenses with the weapon evenly. For our perks, we want Incandescent and One for All in perk columns 1 and 2 respectively. Incandescent will be particularly useful on this Solar sword as you will find it incredibly effective at crowd control as defeating a target will spread scorch to nearby enemies. Our next perk, One for All, will synergize nicely. Hitting three separate enemies, which should be easy enough with Incandescent, activates One for All which will significantly increase your damage output with False Idols by 35%. Overall, the combination of Incandescent and One for All makes this a particularly dangerous sword, great at both crowd control and dealing damage. tags:god-pve,pve
+dimwishlist:item=4207120603&perks=436053704,52780822,4293542123,4049631843
+dimwishlist:item=4207120603&perks=436053704,52780822,4293542123,2396489472
+dimwishlist:item=4207120603&perks=436053704,52780822,4293542123,859780267
+dimwishlist:item=4207120603&perks=436053704,52780822,4293542123,598607952
+dimwishlist:item=4207120603&perks=436053704,52780822,2675184851,4049631843
+dimwishlist:item=4207120603&perks=436053704,52780822,2675184851,2396489472
+dimwishlist:item=4207120603&perks=436053704,52780822,2675184851,859780267
+dimwishlist:item=4207120603&perks=436053704,52780822,2675184851,598607952
+
+
+// False Idols - PVE (DPS) (god-pve,pve)
+//notes: PVE; DPS; MW Impact; If you are looking to maximize your damage output with False Idols, we suggest a different roll. You’ll want to start with Jagged Edge and Swordmaster’s Guard as your blade and guard respectively. Jagged Edge will reduce your ammunition to improve your impact with the weapon, while Swordmaster’s Guard sacrifices overall defenses for increased charge time. As for perks, in column 1, we will want Relentless Strikes. With this perk, if we land three light attacks quickly, we will generate some additional ammo. In column 2, you will want Bait and Switch. If you deal damage with all of your equipped weapons within 7 seconds of each other, you will activate a 30% damage boost to False Idols. tags:god-pve,pve
+dimwishlist:item=4207120603&perks=3666208348,269888150,1749209109,3078487919
+dimwishlist:item=4207120603&perks=3666208348,269888150,1749209109,3744057135
+dimwishlist:item=4207120603&perks=3666208348,269888150,4085959009,3078487919
+dimwishlist:item=4207120603&perks=3666208348,269888150,4085959009,3744057135
+
+
+// False Idols - PVP Demi-God (pvp)
+//notes: PVP; MW Impact; If you are using Vortex Frame swords in Crucible, we may need to discuss your broader strategy! If you do, however, feel so inclined to seek out a PvP roll of False Idols we are here to help. For our blade, we will want Honed Edge, and for our guard, Balanced Guard. Honed Edge will increase our overall damage, ensuring we takedown opposing guardians with those first few swings (or spins) of the sword. In perk column 1, we want Wellspring to create ability energy upon kills with the weapon. In column 2, we will pick Vorpal Weapon. This will ensure that you can take down any pesky guardians looming towards you with their roaming super by increasing your damage to those with their super active by 20%. tags:pvp
+dimwishlist:item=4207120603&perks=3592538738,1546637391
+dimwishlist:item=4207120603&perks=3592538738,3418165135
+dimwishlist:item=4207120603&perks=2675361166,1546637391
+dimwishlist:item=4207120603&perks=2675361166,3418165135
+
+
+// False Idols - PVE Demi-God (Ads) (pve)
+//notes: PVE; Ads; MW Impact; For our blade, we will want Hungry Edge to increase the weapon’s ammo capacity. For our guard, we’ll want to pick Balanced Guard to increase our defenses with the weapon evenly. For our perks, we want Incandescent and One for All in perk columns 1 and 2 respectively. Incandescent will be particularly useful on this Solar sword as you will find it incredibly effective at crowd control as defeating a target will spread scorch to nearby enemies. Our next perk, One for All, will synergize nicely. Hitting three separate enemies, which should be easy enough with Incandescent, activates One for All which will significantly increase your damage output with False Idols by 35%. Overall, the combination of Incandescent and One for All makes this a particularly dangerous sword, great at both crowd control and dealing damage. tags:pve
+dimwishlist:item=4207120603&perks=4293542123,4049631843
+dimwishlist:item=4207120603&perks=4293542123,2396489472
+dimwishlist:item=4207120603&perks=4293542123,859780267
+dimwishlist:item=4207120603&perks=4293542123,598607952
+dimwishlist:item=4207120603&perks=2675184851,4049631843
+dimwishlist:item=4207120603&perks=2675184851,2396489472
+dimwishlist:item=4207120603&perks=2675184851,859780267
+dimwishlist:item=4207120603&perks=2675184851,598607952
+
+
+// False Idols - PVE Demi-God (DPS) (pve)
+//notes: PVE; DPS; MW Impact; If you are looking to maximize your damage output with False Idols, we suggest a different roll. You’ll want to start with Jagged Edge and Swordmaster’s Guard as your blade and guard respectively. Jagged Edge will reduce your ammunition to improve your impact with the weapon, while Swordmaster’s Guard sacrifices overall defenses for increased charge time. As for perks, in column 1, we will want Relentless Strikes. With this perk, if we land three light attacks quickly, we will generate some additional ammo. In column 2, you will want Bait and Switch. If you deal damage with all of your equipped weapons within 7 seconds of each other, you will activate a 30% damage boost to False Idols. tags:pve
+dimwishlist:item=4207120603&perks=1749209109,3078487919
+dimwishlist:item=4207120603&perks=1749209109,3744057135
+dimwishlist:item=4207120603&perks=4085959009,3078487919
+dimwishlist:item=4207120603&perks=4085959009,3744057135
+
+
+// Quicksilver Storm - PVE (god-pve,pve)
+//notes: Tier S; Quicksilver Storm may be the best Primary weapon in the game. Good base DPS, a burst damage option that is remarkably simple to use, and the ability to create Tangles allowing for Strand build crafting, make this weapon an exceptional pick. tags:god-pve,pve
+dimwishlist:item=4293613902&perks=1561002382,3131590896
+
+
