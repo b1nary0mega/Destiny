@@ -125,28 +125,84 @@ dimwishlist:item=496728945&perks=3416609154,3719974635
 dimwishlist:item=496728945&perks=3416609154,2799030358
 
 
-// Forbearance - Blueberries - God PVE (god-pve)
-//notes: T:S; BB God PVE; Alt: Undercurrent, Explosive Personality, Tusk of the boar; MW: Reload Speed tags:god-pve
-dimwishlist:item=568611921&perks=3525010810,2822142346,3523296417,2396489472
-
-
-// Forbearance - Blueberries - God PVP (god-pvp)
-//notes: T:C; BB God PVP; Alt: Undercurrent, Explosive Personality, Tusk of the boar; MW: Handling tags:god-pvp
+// Forbearance - PVP (god-pvp,pvp)
+//notes: MW Handling; Radar Booster; Now, you could go for the exact same roll as the Vow of the Disciple option further below, Surplus and Wellspring. This essentially gets your abilities topped up which then improve the launcher’s stats. Alternatively, you could lean into Unrelenting for the health-on-kill and couple it with Desperate Measures for the bonus to weapon damage. Lean into the high Velocity stat further with Quick Launch and High-Velocity Rounds. This nearly maxes out the stat, which lets you focus on other areas for the Masterwork and mod. Handling will make it snappier to draw while Radar Booster is excellent as you're not going to be ADSing this and Quick Access Sling isn't needed when you're rolling with other Handling boosts. tags:god-pvp,pvp
 dimwishlist:item=568611921&perks=3525010810,2822142346,1683379515,2610012052
+dimwishlist:item=568611921&perks=3525010810,2822142346,1683379515,4290541820
+dimwishlist:item=568611921&perks=3525010810,2822142346,1683379515,2109543898
+dimwishlist:item=568611921&perks=3525010810,2822142346,1683379515,2799030358
+dimwishlist:item=568611921&perks=3525010810,2822142346,2216471363,2610012052
+dimwishlist:item=568611921&perks=3525010810,2822142346,2216471363,4290541820
+dimwishlist:item=568611921&perks=3525010810,2822142346,2216471363,2109543898
+dimwishlist:item=568611921&perks=3525010810,2822142346,2216471363,2799030358
+dimwishlist:item=568611921&perks=3525010810,2822142346,3108830275,2610012052
+dimwishlist:item=568611921&perks=3525010810,2822142346,3108830275,4290541820
+dimwishlist:item=568611921&perks=3525010810,2822142346,3108830275,2109543898
+dimwishlist:item=568611921&perks=3525010810,2822142346,3108830275,2799030358
+dimwishlist:item=568611921&perks=3525010810,2822142346,855168139,2610012052
+dimwishlist:item=568611921&perks=3525010810,2822142346,855168139,4290541820
+dimwishlist:item=568611921&perks=3525010810,2822142346,855168139,2109543898
+dimwishlist:item=568611921&perks=3525010810,2822142346,855168139,2799030358
 
 
-// Forbearance - Blueberries - PVE (pve)
-//notes: T:S; BB PVE; Alt: Undercurrent, Explosive Personality, Tusk of the boar; MW: Reload Speed, Handling tags:pve
+// Forbearance - PVE (pve,god-pve)
+//notes: MW Reload; Major Spec; The obvious pick here is going to be Ambitious Assassins and Chain Reaction. Get a kill, reload, and now you’ve got two grenades in the tube. Oh, and each kill you get will activate Chain Reaction, setting off more detonations across the field. It’s like Ignition but easier to proc. An alternative roll would be Ambitious Assassins and One for All, as the latter of these increases the damage by 35 percent, allowing you to just keep throwing out huge damage numbers. This will be a great option for those who already have a crafted one from the raid and are looking for something a little different. It’s also good because Chain Reaction is getting a nerf in a future update. Another god roll you might like to consider is Demolitionist and Golden Tricorn. tags:pve,god-pve
+dimwishlist:item=568611921&perks=3525010810,2822142346,3523296417,2396489472
+dimwishlist:item=568611921&perks=3525010810,2822142346,3523296417,4049631843
+dimwishlist:item=568611921&perks=3525010810,2822142346,3523296417,598607952
+dimwishlist:item=568611921&perks=3525010810,2822142346,3523296417,859780267
+dimwishlist:item=568611921&perks=3525010810,2822142346,2010801679,2396489472
+dimwishlist:item=568611921&perks=3525010810,2822142346,2010801679,4049631843
+dimwishlist:item=568611921&perks=3525010810,2822142346,2010801679,598607952
+dimwishlist:item=568611921&perks=3525010810,2822142346,2010801679,859780267
+dimwishlist:item=568611921&perks=3525010810,2822142346,1906147653,2396489472
+dimwishlist:item=568611921&perks=3525010810,2822142346,1906147653,4049631843
+dimwishlist:item=568611921&perks=3525010810,2822142346,1906147653,598607952
+dimwishlist:item=568611921&perks=3525010810,2822142346,1906147653,859780267
+dimwishlist:item=568611921&perks=3525010810,2822142346,3797647183,2396489472
+dimwishlist:item=568611921&perks=3525010810,2822142346,3797647183,4049631843
+dimwishlist:item=568611921&perks=3525010810,2822142346,3797647183,598607952
+dimwishlist:item=568611921&perks=3525010810,2822142346,3797647183,859780267
+
+
+// Forbearance - PVE Demi-God (pve)
+//notes: MW Reload; Major Spec; The obvious pick here is going to be Ambitious Assassins and Chain Reaction. Get a kill, reload, and now you’ve got two grenades in the tube. Oh, and each kill you get will activate Chain Reaction, setting off more detonations across the field. It’s like Ignition but easier to proc. An alternative roll would be Ambitious Assassins and One for All, as the latter of these increases the damage by 35 percent, allowing you to just keep throwing out huge damage numbers. This will be a great option for those who already have a crafted one from the raid and are looking for something a little different. It’s also good because Chain Reaction is getting a nerf in a future update. Another god roll you might like to consider is Demolitionist and Golden Tricorn. tags:pve
 dimwishlist:item=568611921&perks=3523296417,2396489472
+dimwishlist:item=568611921&perks=3523296417,598607952
 dimwishlist:item=568611921&perks=3523296417,4049631843
+dimwishlist:item=568611921&perks=3523296417,859780267
+dimwishlist:item=568611921&perks=1906147653,2396489472
+dimwishlist:item=568611921&perks=1906147653,598607952
+dimwishlist:item=568611921&perks=1906147653,4049631843
+dimwishlist:item=568611921&perks=1906147653,859780267
 dimwishlist:item=568611921&perks=2010801679,2396489472
+dimwishlist:item=568611921&perks=2010801679,598607952
 dimwishlist:item=568611921&perks=2010801679,4049631843
+dimwishlist:item=568611921&perks=2010801679,859780267
+dimwishlist:item=568611921&perks=3797647183,2396489472
+dimwishlist:item=568611921&perks=3797647183,598607952
+dimwishlist:item=568611921&perks=3797647183,4049631843
+dimwishlist:item=568611921&perks=3797647183,859780267
 
 
-// Forbearance - Blueberries - PVP (pvp)
-//notes: T:C; BB PVP; Alt: Undercurrent, Explosive Personality, Tusk of the boar; MW: Handling tags:pvp
+// Forbearance - PVP Demi-God (pvp)
+//notes: MW Handling; Radar Booster; Now, you could go for the exact same roll as the Vow of the Disciple option further below, Surplus and Wellspring. This essentially gets your abilities topped up which then improve the launcher’s stats. Alternatively, you could lean into Unrelenting for the health-on-kill and couple it with Desperate Measures for the bonus to weapon damage. Lean into the high Velocity stat further with Quick Launch and High-Velocity Rounds. This nearly maxes out the stat, which lets you focus on other areas for the Masterwork and mod. Handling will make it snappier to draw while Radar Booster is excellent as you're not going to be ADSing this and Quick Access Sling isn't needed when you're rolling with other Handling boosts. tags:pvp
 dimwishlist:item=568611921&perks=1683379515,2610012052
-dimwishlist:item=568611921&perks=3436462433,2610012052
+dimwishlist:item=568611921&perks=1683379515,4290541820
+dimwishlist:item=568611921&perks=1683379515,2109543898
+dimwishlist:item=568611921&perks=1683379515,2799030358
+dimwishlist:item=568611921&perks=2216471363,2610012052
+dimwishlist:item=568611921&perks=2216471363,4290541820
+dimwishlist:item=568611921&perks=2216471363,2109543898
+dimwishlist:item=568611921&perks=2216471363,2799030358
+dimwishlist:item=568611921&perks=3108830275,2610012052
+dimwishlist:item=568611921&perks=3108830275,4290541820
+dimwishlist:item=568611921&perks=3108830275,2109543898
+dimwishlist:item=568611921&perks=3108830275,2799030358
+dimwishlist:item=568611921&perks=855168139,2610012052
+dimwishlist:item=568611921&perks=855168139,4290541820
+dimwishlist:item=568611921&perks=855168139,2109543898
+dimwishlist:item=568611921&perks=855168139,2799030358
 
 
 // The Mountaintop - Blueberries - God PVE (god-pve)
@@ -255,6 +311,38 @@ dimwishlist:item=1050806815&perks=1359896290,3081867624
 dimwishlist:item=1050806815&perks=1359896290,1890422124
 
 
+// Timeworn Wayfarer - PVE (god-pve,pve)
+//notes: MW Stability; Backup Mag; Start with Arrowhead Brake as the base Recoil is quite erratic. Scout Rifle shots need to be as straight as possible to ensure accuracy on follow up shots and ease of use when snapping from target to target which is also helped by the added Handling. Add in Tactical Mag to the Magazine for boosts to Stability to help keep the sights central after each shot and the Magazine boost paired with Reload ensures Timeworn Wayfarer can stay in the fight for longer and get back in there faster once the Magazine runs dry. The main perks work together to great effect, starting off with Heal Clip in the first slot. Reloading after a kill grants Cure to the wielder and any nearby allies which works perfectly with the effects of the final perk, Incandescent. Any enemies killed by Scorch or Ignite caused by Incandescent count towards Heal Clip. Because of Scorch, Timeworn Wayfarer can hit hard, making it great for a range of content and clearing waves of enemies. tags:god-pve,pve
+dimwishlist:item=1058098236&perks=839105230,106909392,3017780555,4293542123
+dimwishlist:item=1058098236&perks=839105230,106909392,3017780555,2675184851
+dimwishlist:item=1058098236&perks=839105230,106909392,4223976499,4293542123
+dimwishlist:item=1058098236&perks=839105230,106909392,4223976499,2675184851
+
+
+// Timeworn Wayfarer - PVP (god-pvp,pvp)
+//notes: MW Stability; Targeting Mod; Start with Arrowhead Brake for the full amount of Recoil control to keep the reticle vertical while firing. The added Handling keeps Timeworn Wayfarer light when moving around the arena. Steady Rounds comes in for its big boost to Stability, keeping the sights central after each shot making follow up shots easier to land or when chaining shots to the next opponent. Keep Away then comes in for its accuracy bonus and big boost to Reload. As Scout Rifles perform best at range, Keep Away should be up for most of the game so this advantage will last in the majority of gunfights. The Reload bonus is also high so this will ensure getting back into fights or regrouping for the next one will be a breeze. Round off with Precision Instrument which rewards an accurate hand with damage increases on precision hits up to 25 percent. Any landed hit counts to the stacks but only precision hits get the increase which with this god roll in full swing shouldn’t be an issue. tags:god-pvp,pvp
+dimwishlist:item=1058098236&perks=839105230,3177308360,3619207468,555281244
+dimwishlist:item=1058098236&perks=839105230,3177308360,3619207468,332733060
+dimwishlist:item=1058098236&perks=839105230,3177308360,3198323828,555281244
+dimwishlist:item=1058098236&perks=839105230,3177308360,3198323828,332733060
+
+
+// Timeworn Wayfarer - PVE Demi-God (pve)
+//notes: MW Stability; Backup Mag; Start with Arrowhead Brake as the base Recoil is quite erratic. Scout Rifle shots need to be as straight as possible to ensure accuracy on follow up shots and ease of use when snapping from target to target which is also helped by the added Handling. Add in Tactical Mag to the Magazine for boosts to Stability to help keep the sights central after each shot and the Magazine boost paired with Reload ensures Timeworn Wayfarer can stay in the fight for longer and get back in there faster once the Magazine runs dry. The main perks work together to great effect, starting off with Heal Clip in the first slot. Reloading after a kill grants Cure to the wielder and any nearby allies which works perfectly with the effects of the final perk, Incandescent. Any enemies killed by Scorch or Ignite caused by Incandescent count towards Heal Clip. Because of Scorch, Timeworn Wayfarer can hit hard, making it great for a range of content and clearing waves of enemies. tags:pve
+dimwishlist:item=1058098236&perks=3017780555,4293542123
+dimwishlist:item=1058098236&perks=3017780555,2675184851
+dimwishlist:item=1058098236&perks=4223976499,4293542123
+dimwishlist:item=1058098236&perks=4223976499,2675184851
+
+
+// Timeworn Wayfarer - PVP Demi-God (pvp)
+//notes: MW Stability; Targeting Mod; Start with Arrowhead Brake for the full amount of Recoil control to keep the reticle vertical while firing. The added Handling keeps Timeworn Wayfarer light when moving around the arena. Steady Rounds comes in for its big boost to Stability, keeping the sights central after each shot making follow up shots easier to land or when chaining shots to the next opponent. Keep Away then comes in for its accuracy bonus and big boost to Reload. As Scout Rifles perform best at range, Keep Away should be up for most of the game so this advantage will last in the majority of gunfights. The Reload bonus is also high so this will ensure getting back into fights or regrouping for the next one will be a breeze. Round off with Precision Instrument which rewards an accurate hand with damage increases on precision hits up to 25 percent. Any landed hit counts to the stacks but only precision hits get the increase which with this god roll in full swing shouldn’t be an issue. tags:pvp
+dimwishlist:item=1058098236&perks=3619207468,555281244
+dimwishlist:item=1058098236&perks=3619207468,332733060
+dimwishlist:item=1058098236&perks=3198323828,555281244
+dimwishlist:item=1058098236&perks=3198323828,332733060
+
+
 // Chroma Rush - PVE (god-pve,pve)
 //notes: Tier S; Chroma Rush has it all. Good base stats, good perks, and is part of a decent archetype. In PvE, it has a menagerie of perks to pick from, including Rampage, Adrenaline Junkie, and Kill Clip. In PvP, it can either be a consistent laser beam, or a lethal beast with different rolls. tags:god-pve,pve
 dimwishlist:item=1119734784&perks=2779035018,3425386926
@@ -272,99 +360,51 @@ dimwishlist:item=1119734784&perks=2946784966,1015611457
 
 
 // Lost Signal - PVE (god-pve,pve)
-//notes: PVE; MW Handling, Reload, or Velocity; The first thing to consider when crafting a Lost Signal is that it already comes with 100 Blast Radius, so most boosts to that stat are going to be wasted. Instead I recommend focusing on Handling for quick draws. I also can't really see past Auto-Loading Holster in the first slot here, it simply compliments how the archetype is meant to be used: draw, fire, stow. So the interesting decision here is what to do with the fourth slot. On an area damage weapon like this One For All is going to be hands down the best damage buff, literally all you need to do is hit three enemies within a very generous time window, which will happen any time you fire Lost Signal into a crowd. The other strong case here is Demolitionist: special weapons with Demolitionist can give out a lot of grenade energy, and with Lost Signal's ability to quickly clear out a lot of weak enemies, you could find yourself recharging your grenade extremely quickly. tags:god-pve,pve
+//notes: MW Handling; Quick Access Sling; Start this god roll off with Quick Launch, giving this Grenade Launcher boosts to key stats in Velocity, to ensure its grenades hit the target quickly, and Handling, which helps quickly swapping in and out to fire Lost Signal at enemies. Add High-Velocity Rounds to increase the speed the fired grenades get from barrel to target. The main perk combination is where Lost Signal shines and works perfectly for controlling areas causing big amounts of damage to enemies who run into its pools or from sticking a direct hit. The damage combination starts with the key perk, Auto-Loading Holster. Firing then stowing Lost Signal will reload after 2.5 seconds, the point here is to fire Lost Signal at the target then switch to another weapon to deal some damage then switch back. Due to how Lost Signal operates, the damage ticks away from its shots so it’s constantly doing damage while the Fireteam hits it with another weapon. Then when switching back, Lost Signal is ready to go again. Vorpal Weapon then comes in for this god roll for its 15 percent damage increase to higher-ranking combatants. This extra damage makes Lost Signal a great choice for taking on even the toughest challenges as it will consistently do tick damage when landing hits and then reload itself awaiting its next volley. tags:god-pve,pve
 dimwishlist:item=1197771438&perks=3525010810,2822142346,3300816228,4049631843
 dimwishlist:item=1197771438&perks=3525010810,2822142346,3300816228,859780267
 dimwishlist:item=1197771438&perks=3525010810,2822142346,3300816228,3523296417
 dimwishlist:item=1197771438&perks=3525010810,2822142346,3300816228,1906147653
+dimwishlist:item=1197771438&perks=3525010810,2822142346,3300816228,1546637391
+dimwishlist:item=1197771438&perks=3525010810,2822142346,3300816228,3418165135
 dimwishlist:item=1197771438&perks=3525010810,2822142346,3528046508,4049631843
 dimwishlist:item=1197771438&perks=3525010810,2822142346,3528046508,859780267
 dimwishlist:item=1197771438&perks=3525010810,2822142346,3528046508,3523296417
 dimwishlist:item=1197771438&perks=3525010810,2822142346,3528046508,1906147653
-dimwishlist:item=1197771438&perks=3798852852,2822142346,3300816228,4049631843
-dimwishlist:item=1197771438&perks=3798852852,2822142346,3300816228,859780267
-dimwishlist:item=1197771438&perks=3798852852,2822142346,3300816228,3523296417
-dimwishlist:item=1197771438&perks=3798852852,2822142346,3300816228,1906147653
-dimwishlist:item=1197771438&perks=3798852852,2822142346,3528046508,4049631843
-dimwishlist:item=1197771438&perks=3798852852,2822142346,3528046508,859780267
-dimwishlist:item=1197771438&perks=3798852852,2822142346,3528046508,3523296417
-dimwishlist:item=1197771438&perks=3798852852,2822142346,3528046508,1906147653
-dimwishlist:item=1197771438&perks=3809316345,2822142346,3300816228,4049631843
-dimwishlist:item=1197771438&perks=3809316345,2822142346,3300816228,859780267
-dimwishlist:item=1197771438&perks=3809316345,2822142346,3300816228,3523296417
-dimwishlist:item=1197771438&perks=3809316345,2822142346,3300816228,1906147653
-dimwishlist:item=1197771438&perks=3809316345,2822142346,3528046508,4049631843
-dimwishlist:item=1197771438&perks=3809316345,2822142346,3528046508,859780267
-dimwishlist:item=1197771438&perks=3809316345,2822142346,3528046508,3523296417
-dimwishlist:item=1197771438&perks=3809316345,2822142346,3528046508,1906147653
+dimwishlist:item=1197771438&perks=3525010810,2822142346,3528046508,1546637391
+dimwishlist:item=1197771438&perks=3525010810,2822142346,3528046508,3418165135
 
 
 // Lost Signal - PVP (god-pvp,pvp)
-//notes: PVP; MW Handling, Reload, or Velocity; PvP Lost Signal is an interesting prospect. Witherhoard can be a huge irritant in Crucible, firing into choke points and forcing enemies to change position. Unfortunately this is where Lost Signal's shorter duration and lower damage makes it tough to compete with its exotic brother. On the plus side there isn't a massive difference between PVP and PVE rolls here, you're looking for Auto-Loading Holster and if you manage to trigger a damage buff all the better. In particular I think there might be a case here for the newly revamped High Ground, which now acts as a traditional stacking damage buff that sets itself to max when defeating an opponent from above. If you can find a higher point of elevation, and fire down into an enemy or chokehold, those shots will get a nice little damage bonus. tags:god-pvp,pvp
-dimwishlist:item=1197771438&perks=3809316345,2822142346,3300816228,2319119708
-dimwishlist:item=1197771438&perks=3809316345,2822142346,3300816228,4049631843
-dimwishlist:item=1197771438&perks=3809316345,2822142346,3300816228,1546637391
-dimwishlist:item=1197771438&perks=3809316345,2822142346,3300816228,2140591236
-dimwishlist:item=1197771438&perks=3809316345,2822142346,3300816228,859780267
-dimwishlist:item=1197771438&perks=3809316345,2822142346,3300816228,3418165135
-dimwishlist:item=1197771438&perks=3809316345,2822142346,3528046508,2319119708
-dimwishlist:item=1197771438&perks=3809316345,2822142346,3528046508,4049631843
-dimwishlist:item=1197771438&perks=3809316345,2822142346,3528046508,1546637391
-dimwishlist:item=1197771438&perks=3809316345,2822142346,3528046508,2140591236
-dimwishlist:item=1197771438&perks=3809316345,2822142346,3528046508,859780267
-dimwishlist:item=1197771438&perks=3809316345,2822142346,3528046508,3418165135
-dimwishlist:item=1197771438&perks=3525010810,2822142346,3300816228,2319119708
-dimwishlist:item=1197771438&perks=3525010810,2822142346,3300816228,4049631843
-dimwishlist:item=1197771438&perks=3525010810,2822142346,3300816228,1546637391
-dimwishlist:item=1197771438&perks=3525010810,2822142346,3300816228,2140591236
-dimwishlist:item=1197771438&perks=3525010810,2822142346,3300816228,859780267
-dimwishlist:item=1197771438&perks=3525010810,2822142346,3300816228,3418165135
-dimwishlist:item=1197771438&perks=3525010810,2822142346,3528046508,2319119708
-dimwishlist:item=1197771438&perks=3525010810,2822142346,3528046508,4049631843
-dimwishlist:item=1197771438&perks=3525010810,2822142346,3528046508,1546637391
-dimwishlist:item=1197771438&perks=3525010810,2822142346,3528046508,2140591236
-dimwishlist:item=1197771438&perks=3525010810,2822142346,3528046508,859780267
-dimwishlist:item=1197771438&perks=3525010810,2822142346,3528046508,3418165135
-dimwishlist:item=1197771438&perks=3798852852,2822142346,3300816228,2319119708
-dimwishlist:item=1197771438&perks=3798852852,2822142346,3300816228,4049631843
-dimwishlist:item=1197771438&perks=3798852852,2822142346,3300816228,1546637391
-dimwishlist:item=1197771438&perks=3798852852,2822142346,3300816228,2140591236
-dimwishlist:item=1197771438&perks=3798852852,2822142346,3300816228,859780267
-dimwishlist:item=1197771438&perks=3798852852,2822142346,3300816228,3418165135
-dimwishlist:item=1197771438&perks=3798852852,2822142346,3528046508,2319119708
-dimwishlist:item=1197771438&perks=3798852852,2822142346,3528046508,4049631843
-dimwishlist:item=1197771438&perks=3798852852,2822142346,3528046508,1546637391
-dimwishlist:item=1197771438&perks=3798852852,2822142346,3528046508,2140591236
-dimwishlist:item=1197771438&perks=3798852852,2822142346,3528046508,859780267
-dimwishlist:item=1197771438&perks=3798852852,2822142346,3528046508,3418165135
+//notes: MW Velocity or Handling; Radar Booster; Start with Quick Launch which gives bonuses to essential stats in Velocity, to ensure its shots hit the target quickly, and Handling, increasing its ready and stow speed. These are critical as Lost Signal only carries one shot at a time so can be swapped in and out quickly when in battle. Add High-Velocity Rounds to the Magazine to further push Velocity, giving enemies very little time to react at the speed Lost Signal’s rounds will be coming in. The main perks here are built to get volleys out faster and adding a quick combination which can cause havoc in zone control modes. Quickdraw ensures Lost Signal will be ready to go almost immediately when switching it in and Demolitionist reloads the weapon when throwing a grenade. This combination guarantees two shots can be fired very quickly with the grenade being a bonus causing more trouble for the enemy team. Any kills with this god roll then refund grenade energy thanks to Demolitionist's main function. tags:god-pvp,pvp
+dimwishlist:item=1197771438&perks=3525010810,2822142346,706527188,3523296417
+dimwishlist:item=1197771438&perks=3525010810,2822142346,706527188,1906147653
+dimwishlist:item=1197771438&perks=3525010810,2822142346,1961144892,3523296417
+dimwishlist:item=1197771438&perks=3525010810,2822142346,1961144892,1906147653
 
 
 // Lost Signal - PVE Demi-God (pve)
-//notes: PVE; MW Handling, Reload, or Velocity; The first thing to consider when crafting a Lost Signal is that it already comes with 100 Blast Radius, so most boosts to that stat are going to be wasted. Instead I recommend focusing on Handling for quick draws. I also can't really see past Auto-Loading Holster in the first slot here, it simply compliments how the archetype is meant to be used: draw, fire, stow. So the interesting decision here is what to do with the fourth slot. On an area damage weapon like this One For All is going to be hands down the best damage buff, literally all you need to do is hit three enemies within a very generous time window, which will happen any time you fire Lost Signal into a crowd. The other strong case here is Demolitionist: special weapons with Demolitionist can give out a lot of grenade energy, and with Lost Signal's ability to quickly clear out a lot of weak enemies, you could find yourself recharging your grenade extremely quickly. tags:pve
+//notes: MW Handling; Quick Access Sling; Start this god roll off with Quick Launch, giving this Grenade Launcher boosts to key stats in Velocity, to ensure its grenades hit the target quickly, and Handling, which helps quickly swapping in and out to fire Lost Signal at enemies. Add High-Velocity Rounds to increase the speed the fired grenades get from barrel to target. The main perk combination is where Lost Signal shines and works perfectly for controlling areas causing big amounts of damage to enemies who run into its pools or from sticking a direct hit. The damage combination starts with the key perk, Auto-Loading Holster. Firing then stowing Lost Signal will reload after 2.5 seconds, the point here is to fire Lost Signal at the target then switch to another weapon to deal some damage then switch back. Due to how Lost Signal operates, the damage ticks away from its shots so it’s constantly doing damage while the Fireteam hits it with another weapon. Then when switching back, Lost Signal is ready to go again. Vorpal Weapon then comes in for this god roll for its 15 percent damage increase to higher-ranking combatants. This extra damage makes Lost Signal a great choice for taking on even the toughest challenges as it will consistently do tick damage when landing hits and then reload itself awaiting its next volley. tags:pve
 dimwishlist:item=1197771438&perks=3300816228,4049631843
 dimwishlist:item=1197771438&perks=3300816228,859780267
 dimwishlist:item=1197771438&perks=3300816228,3523296417
 dimwishlist:item=1197771438&perks=3300816228,1906147653
+dimwishlist:item=1197771438&perks=3300816228,1546637391
+dimwishlist:item=1197771438&perks=3300816228,3418165135
 dimwishlist:item=1197771438&perks=3528046508,4049631843
 dimwishlist:item=1197771438&perks=3528046508,859780267
 dimwishlist:item=1197771438&perks=3528046508,3523296417
 dimwishlist:item=1197771438&perks=3528046508,1906147653
+dimwishlist:item=1197771438&perks=3528046508,1546637391
+dimwishlist:item=1197771438&perks=3528046508,3418165135
 
 
 // Lost Signal - PVP Demi-God (pvp)
-//notes: PVP; MW Handling, Reload, or Velocity; PvP Lost Signal is an interesting prospect. Witherhoard can be a huge irritant in Crucible, firing into choke points and forcing enemies to change position. Unfortunately this is where Lost Signal's shorter duration and lower damage makes it tough to compete with its exotic brother. On the plus side there isn't a massive difference between PVP and PVE rolls here, you're looking for Auto-Loading Holster and if you manage to trigger a damage buff all the better. In particular I think there might be a case here for the newly revamped High Ground, which now acts as a traditional stacking damage buff that sets itself to max when defeating an opponent from above. If you can find a higher point of elevation, and fire down into an enemy or chokehold, those shots will get a nice little damage bonus. tags:pvp
-dimwishlist:item=1197771438&perks=3300816228,2319119708
-dimwishlist:item=1197771438&perks=3300816228,4049631843
-dimwishlist:item=1197771438&perks=3300816228,1546637391
-dimwishlist:item=1197771438&perks=3300816228,2140591236
-dimwishlist:item=1197771438&perks=3300816228,859780267
-dimwishlist:item=1197771438&perks=3300816228,3418165135
-dimwishlist:item=1197771438&perks=3528046508,2319119708
-dimwishlist:item=1197771438&perks=3528046508,4049631843
-dimwishlist:item=1197771438&perks=3528046508,1546637391
-dimwishlist:item=1197771438&perks=3528046508,2140591236
-dimwishlist:item=1197771438&perks=3528046508,859780267
-dimwishlist:item=1197771438&perks=3528046508,3418165135
+//notes: MW Velocity or Handling; Radar Booster; Start with Quick Launch which gives bonuses to essential stats in Velocity, to ensure its shots hit the target quickly, and Handling, increasing its ready and stow speed. These are critical as Lost Signal only carries one shot at a time so can be swapped in and out quickly when in battle. Add High-Velocity Rounds to the Magazine to further push Velocity, giving enemies very little time to react at the speed Lost Signal’s rounds will be coming in. The main perks here are built to get volleys out faster and adding a quick combination which can cause havoc in zone control modes. Quickdraw ensures Lost Signal will be ready to go almost immediately when switching it in and Demolitionist reloads the weapon when throwing a grenade. This combination guarantees two shots can be fired very quickly with the grenade being a bonus causing more trouble for the enemy team. Any kills with this god roll then refund grenade energy thanks to Demolitionist's main function. tags:pvp
+dimwishlist:item=1197771438&perks=706527188,3523296417
+dimwishlist:item=1197771438&perks=706527188,1906147653
+dimwishlist:item=1197771438&perks=1961144892,3523296417
+dimwishlist:item=1197771438&perks=1961144892,1906147653
 
 
 // Hung Jury SR4 - Blueberries - God PVE (GM) (god-pve)
@@ -782,6 +822,38 @@ dimwishlist:item=1815105249&perks=1546637391,3913600130
 dimwishlist:item=1815105249&perks=1546637391,2077819806
 
 
+// The Summoner - PVE (god-pve,pve)
+//notes: MW Stability or Handling; Backup Mag; Start with Arrowhead Brake to control The Summoner's high amount of Recoil and make it much more vertical when firing. The added Handling is a welcome bonus for ease of use when cycling through a loadout. Add in Ricochet Rounds for solid boosts to Stability and Range, helping keep The Summoner accurate and feeling sticky when spraying bullets at enemies. he main perks on this god roll bounce off each other to great effect, especially paired with a solid Solar or Prismatic build. Heal Clip ensures that kills are rewarded with healing when reloading afterward and also provides these bonuses to Fireteam members close by. Then Incandescent applies Scorch and eventually Ignite to cause room-clearing explosions. All enemies defeated by this count for Heal Clip when reloading which makes The Summoner a workhorse when tearing through waves of foes.   tags:god-pve,pve
+dimwishlist:item=1820994983&perks=839105230,1885400500,3017780555,4293542123
+dimwishlist:item=1820994983&perks=839105230,1885400500,3017780555,2675184851
+dimwishlist:item=1820994983&perks=839105230,1885400500,4223976499,4293542123
+dimwishlist:item=1820994983&perks=839105230,1885400500,4223976499,2675184851
+
+
+// The Summoner - PVP (god-pvp,pvp)
+//notes: MW Range; Targeting Mod; Start this god roll off with Smallbore for its boosts to Stability and Range. This should make it easier to keep on target and even makes the reticle feel more sticky thanks to the Range boost. Push these key stats further by adding Ricochet Rounds to the Magazine, making The Summoner feel easy to control with its stable sights, even when dealing with longer distances. For the main perks, start with Zen Moment which – once engaged with an enemy and shots begin to land – makes it very difficult for the opponent to get out of the firing line. This is due to Zen Moment reducing Recoil on hits and increasing flinch resistance which means any return fire will do little to take The Summoner off-target. Finish off with Target Lock which rewards an accurate hand with increased damage. Sustained damage ramps up the damage buff it provides and easily melts through any foe. tags:god-pvp,pvp
+dimwishlist:item=1820994983&perks=1482024992,1885400500,2387244414,365154968
+dimwishlist:item=1820994983&perks=1482024992,1885400500,2387244414,2939589096
+dimwishlist:item=1820994983&perks=1482024992,1885400500,1748774930,365154968
+dimwishlist:item=1820994983&perks=1482024992,1885400500,1748774930,2939589096
+
+
+// The Summoner - PVE Demo-God (pve)
+//notes: MW Stability or Handling; Backup Mag; Start with Arrowhead Brake to control The Summoner's high amount of Recoil and make it much more vertical when firing. The added Handling is a welcome bonus for ease of use when cycling through a loadout. Add in Ricochet Rounds for solid boosts to Stability and Range, helping keep The Summoner accurate and feeling sticky when spraying bullets at enemies. he main perks on this god roll bounce off each other to great effect, especially paired with a solid Solar or Prismatic build. Heal Clip ensures that kills are rewarded with healing when reloading afterward and also provides these bonuses to Fireteam members close by. Then Incandescent applies Scorch and eventually Ignite to cause room-clearing explosions. All enemies defeated by this count for Heal Clip when reloading which makes The Summoner a workhorse when tearing through waves of foes.   tags:pve
+dimwishlist:item=1820994983&perks=3017780555,4293542123
+dimwishlist:item=1820994983&perks=3017780555,2675184851
+dimwishlist:item=1820994983&perks=4223976499,4293542123
+dimwishlist:item=1820994983&perks=4223976499,2675184851
+
+
+// The Summoner - PVP Demi-God (pvp)
+//notes: MW Range; Targeting Mod; Start this god roll off with Smallbore for its boosts to Stability and Range. This should make it easier to keep on target and even makes the reticle feel more sticky thanks to the Range boost. Push these key stats further by adding Ricochet Rounds to the Magazine, making The Summoner feel easy to control with its stable sights, even when dealing with longer distances. For the main perks, start with Zen Moment which – once engaged with an enemy and shots begin to land – makes it very difficult for the opponent to get out of the firing line. This is due to Zen Moment reducing Recoil on hits and increasing flinch resistance which means any return fire will do little to take The Summoner off-target. Finish off with Target Lock which rewards an accurate hand with increased damage. Sustained damage ramps up the damage buff it provides and easily melts through any foe. tags:pvp
+dimwishlist:item=1820994983&perks=2387244414,365154968
+dimwishlist:item=1820994983&perks=2387244414,2939589096
+dimwishlist:item=1820994983&perks=1748774930,365154968
+dimwishlist:item=1820994983&perks=1748774930,2939589096
+
+
 // Hammerhead - Blueberries - God PVE (god-pve)
 //notes: T:S; BB God PVE; Alt: Commemoration, Song of Ir Yut; MW: Handling tags:god-pve
 dimwishlist:item=1896309757&perks=839105230,1087426260,3425386926,557221067
@@ -837,6 +909,38 @@ dimwishlist:item=2328923181&perks=4071163871,1546637391
 dimwishlist:item=2328923181&perks=4071163871,3418165135
 dimwishlist:item=2328923181&perks=494941759,1546637391
 dimwishlist:item=2328923181&perks=494941759,3418165135
+
+
+// Sightline Survey - PVE (god-pve,pve)
+//notes: MW Handling or Stability; Backup mag; Pick Sightline Survey up with Fluted Barrel in the first slot. This gives a nice bump to Stability, a staple stat on 180 RPM Hand Cannons giving them an accurate feel when firing, and a big boost to Handling which keeps Sightline Survey snappy when getting it ready for a gunfight. Throw on Appended Mag which increases the Magazine size, adding extra shots to take down more onrushing foes. For the main perks, start with Enlightened Action, this takes setup but when fully ramped up it will give Sightline Survey maximum Handling and Reload Speed. This makes Sightline Survey a dream to use, with exceptional ease of use and works perfectly in flow with weapon swapping or just hammering enemies with each shot. This then makes the perfect combination with Voltshot which requires a reload after kill to get working. Once up, the next hit Jolts enemies with subsequent kills chaining lightning to surrounding enemies, dealing some devastating damage and making light work of overwhelming amounts of adds. tags:god-pve,pve
+dimwishlist:item=2350330520&perks=1840239774,1087426260,3828510309,2173046394
+dimwishlist:item=2350330520&perks=1840239774,1087426260,3828510309,1720528630
+dimwishlist:item=2350330520&perks=1840239774,1087426260,1771736209,2173046394
+dimwishlist:item=2350330520&perks=1840239774,1087426260,1771736209,1720528630
+
+
+// Sightline Survey - PVP (god-pvp,pvp)
+//notes: MW Range; Targeting Mod; The goal of this god roll is to push the Range stat as far as possible. Add Hammer-Forged Rifling and Accurized Rounds in the Magazine for a cool +20 to the overall Range stat. This extra Range keeps Sightline Survey accurate and the reticle sticky, even when dealing with targets at longer sightlines. We can complement Range further by using Keep Away, which gives bonuses to accuracy as well as a constant Range and Reload buff so long as opponents are outside of 15 meters. This does require a more reserved playstyle but once an enemy comes into view, Sightline Survey can make light work of them with deadly accuracy. Round this off with Kill Clip to reduce the TTK as a reward for a reload after a prior kill. Keep this rolling and Sightline Survey can tear through The Crucible, rewarding an accurate hand. tags:god-pvp,pvp
+dimwishlist:item=2350330520&perks=3250034553,3142289711,3619207468,1015611457
+dimwishlist:item=2350330520&perks=3250034553,3142289711,3619207468,2923251173
+dimwishlist:item=2350330520&perks=3250034553,3142289711,3198323828,1015611457
+dimwishlist:item=2350330520&perks=3250034553,3142289711,3198323828,2923251173
+
+
+// Sightline Survey - PVE Demi-God (pve)
+//notes: MW Handling or Stability; Backup mag; Pick Sightline Survey up with Fluted Barrel in the first slot. This gives a nice bump to Stability, a staple stat on 180 RPM Hand Cannons giving them an accurate feel when firing, and a big boost to Handling which keeps Sightline Survey snappy when getting it ready for a gunfight. Throw on Appended Mag which increases the Magazine size, adding extra shots to take down more onrushing foes. For the main perks, start with Enlightened Action, this takes setup but when fully ramped up it will give Sightline Survey maximum Handling and Reload Speed. This makes Sightline Survey a dream to use, with exceptional ease of use and works perfectly in flow with weapon swapping or just hammering enemies with each shot. This then makes the perfect combination with Voltshot which requires a reload after kill to get working. Once up, the next hit Jolts enemies with subsequent kills chaining lightning to surrounding enemies, dealing some devastating damage and making light work of overwhelming amounts of adds. tags:pve
+dimwishlist:item=2350330520&perks=3828510309,2173046394
+dimwishlist:item=2350330520&perks=3828510309,1720528630
+dimwishlist:item=2350330520&perks=1771736209,2173046394
+dimwishlist:item=2350330520&perks=1771736209,1720528630
+
+
+// Sightline Survey - PVP Demi-God (pvp)
+//notes: MW Range; Targeting Mod; The goal of this god roll is to push the Range stat as far as possible. Add Hammer-Forged Rifling and Accurized Rounds in the Magazine for a cool +20 to the overall Range stat. This extra Range keeps Sightline Survey accurate and the reticle sticky, even when dealing with targets at longer sightlines. We can complement Range further by using Keep Away, which gives bonuses to accuracy as well as a constant Range and Reload buff so long as opponents are outside of 15 meters. This does require a more reserved playstyle but once an enemy comes into view, Sightline Survey can make light work of them with deadly accuracy. Round this off with Kill Clip to reduce the TTK as a reward for a reload after a prior kill. Keep this rolling and Sightline Survey can tear through The Crucible, rewarding an accurate hand. tags:pvp
+dimwishlist:item=2350330520&perks=3619207468,1015611457
+dimwishlist:item=2350330520&perks=3619207468,2923251173
+dimwishlist:item=2350330520&perks=3198323828,1015611457
+dimwishlist:item=2350330520&perks=3198323828,2923251173
 
 
 // Blast Furnace - Blueberries - God PVE (god-pve)
@@ -1006,6 +1110,38 @@ dimwishlist:item=2763843899&perks=699525795,555281244
 dimwishlist:item=2763843899&perks=699525795,47981717
 dimwishlist:item=2763843899&perks=3161816588,555281244
 dimwishlist:item=2763843899&perks=3161816588,47981717
+
+
+// Embraced Identity - PVP (god-pve,pve)
+//notes: MW Handling; Targeting Mod; Focusing on Accuracy and Handling, Fluted Barrel is the perfect place to start. The high Handling boost keeps Embraced Identity feeling light when readying up for a snipe and the added Stability is great for any follow-up shots. Add Accurized Rounds to keep the reticle sticky at longer distances from your sniper perch. Opening Shot is an essential perk for this god roll and most Sniper Rifles in Destiny 2. The high Aim Assist, Range, and accuracy bonuses keep this Sniper Rifle feeling like a headshot magnet with the wielder's only job to get that scope near the target and more often than not, opponent names will rack up the kill feed from every shot. Round this off with Moving Target for its bonus Aim Assist and greater speed while ADS, making it even harder for opponents to land shots when lining up your next blast. tags:god-pve,pve
+dimwishlist:item=2821677368&perks=1840239774,3142289711,47981717,588594999
+dimwishlist:item=2821677368&perks=1840239774,3142289711,47981717,2717805783
+dimwishlist:item=2821677368&perks=1840239774,3142289711,1370847713,588594999
+dimwishlist:item=2821677368&perks=1840239774,3142289711,1370847713,2717805783
+
+
+// Embraced Identity - PVE (god-pve,pve)
+//notes: MW Stability; Backup Mag; Focusing on damage and ease of use is essential, so place Arrowhead Brake in the Barrel for its push to maximum Recoil control and added Handling bonus to keep Embraced Identity feeling light when in use. The Magazine slot is where to start here when building for damage, use Appended Mag for the added shots in the Magazine and this feeds perfectly into the main perks. Start with Reconstruction, over time this perk doubles the Magazine size giving much more potential for high damage output. This then pairs perfectly with Precision Instrument which rewards a maximum of 25 percent damage buff to an accurate hand when landing precision hits. Throw on the Backup Mag mod to increase the Magazine capacity to seven. This means that with this god roll, Embraced Identity can reach up to 14 shots in the Magazine, giving a large amount of shots able to hit the 25 percent damage buff and causing some devastating damage to enemies of the Light. tags:god-pve,pve
+dimwishlist:item=2821677368&perks=839105230,1087426260,1523832109,555281244
+dimwishlist:item=2821677368&perks=839105230,1087426260,1523832109,332733060
+dimwishlist:item=2821677368&perks=839105230,1087426260,461595545,555281244
+dimwishlist:item=2821677368&perks=839105230,1087426260,461595545,332733060
+
+
+// Embraced Identity - PVP Demi-God (pve)
+//notes: MW Handling; Targeting Mod; Focusing on Accuracy and Handling, Fluted Barrel is the perfect place to start. The high Handling boost keeps Embraced Identity feeling light when readying up for a snipe and the added Stability is great for any follow-up shots. Add Accurized Rounds to keep the reticle sticky at longer distances from your sniper perch. Opening Shot is an essential perk for this god roll and most Sniper Rifles in Destiny 2. The high Aim Assist, Range, and accuracy bonuses keep this Sniper Rifle feeling like a headshot magnet with the wielder's only job to get that scope near the target and more often than not, opponent names will rack up the kill feed from every shot. Round this off with Moving Target for its bonus Aim Assist and greater speed while ADS, making it even harder for opponents to land shots when lining up your next blast. tags:pve
+dimwishlist:item=2821677368&perks=47981717,588594999
+dimwishlist:item=2821677368&perks=47981717,2717805783
+dimwishlist:item=2821677368&perks=1370847713,588594999
+dimwishlist:item=2821677368&perks=1370847713,2717805783
+
+
+// Embraced Identity - PVE Demi-God (pve)
+//notes: MW Stability; Backup Mag; Focusing on damage and ease of use is essential, so place Arrowhead Brake in the Barrel for its push to maximum Recoil control and added Handling bonus to keep Embraced Identity feeling light when in use. The Magazine slot is where to start here when building for damage, use Appended Mag for the added shots in the Magazine and this feeds perfectly into the main perks. Start with Reconstruction, over time this perk doubles the Magazine size giving much more potential for high damage output. This then pairs perfectly with Precision Instrument which rewards a maximum of 25 percent damage buff to an accurate hand when landing precision hits. Throw on the Backup Mag mod to increase the Magazine capacity to seven. This means that with this god roll, Embraced Identity can reach up to 14 shots in the Magazine, giving a large amount of shots able to hit the 25 percent damage buff and causing some devastating damage to enemies of the Light. tags:pve
+dimwishlist:item=2821677368&perks=1523832109,555281244
+dimwishlist:item=2821677368&perks=1523832109,332733060
+dimwishlist:item=2821677368&perks=461595545,555281244
+dimwishlist:item=2821677368&perks=461595545,332733060
 
 
 // Someday - PVE (god-pve,pve)
@@ -1494,6 +1630,54 @@ dimwishlist:item=3947966653&perks=1135494563,2610012052
 dimwishlist:item=3947966653&perks=1135494563,2109543898
 dimwishlist:item=3947966653&perks=1135494563,4290541820
 dimwishlist:item=3947966653&perks=1135494563,2799030358
+
+
+// Aisha's Care - PVE (god-pve,pve)
+//notes: MW Stability; Backup mag; Start with Arrowhead Brake to maximize Recoil control making shots easier to land and give a nice boost to Handling, keeping the gun feeling snappy when moving from battle to battle. Include Ricochet Rounds in the Magazine for a welcome boosts to Stability and Range. In PvE, Stability is a key stat for Pulse Rifles to keep shots easily on target with every burst. This is where this god roll can take advantage of its Strand element. Applying Slice reduces incoming damage by 33 percent. In endgame content, this is a game-changer that can keep your team alive in the toughest situations. It can be applied to several enemies, allowing your team to rally or focus on a tankier enemy now that’s now debuffed. Close this god roll off with Golden Tricorn. Giving damage buffs on any type of weapon kill or a massive 50 percent on a matching ability kill to your subclass can easily take builds to the next level. tags:god-pve,pve
+dimwishlist:item=3969379530&perks=839105230,1885400500,923806249,2610012052
+dimwishlist:item=3969379530&perks=839105230,1885400500,923806249,4290541820
+dimwishlist:item=3969379530&perks=839105230,1885400500,923806249,831391274
+dimwishlist:item=3969379530&perks=839105230,1885400500,923806249,102912326
+dimwishlist:item=3969379530&perks=839105230,1885400500,3422796781,2610012052
+dimwishlist:item=3969379530&perks=839105230,1885400500,3422796781,4290541820
+dimwishlist:item=3969379530&perks=839105230,1885400500,3422796781,831391274
+dimwishlist:item=3969379530&perks=839105230,1885400500,3422796781,102912326
+
+
+// Aisha's Care - PVP (god-pvp,pvp)
+//notes: MW Stability; Aim Assist; Start with Arrowhead Brake to control Recoil, this will be essential when dueling opponents and keeping sights on-target. Add Ricochet Rounds to the Magazine which adds Stability which is key to any good Pulse Rifle and the added Range keeps the reticle feeling sticky when taking on opponents down long sight lines. To build into its natural flinch resistance, throw on Zen Moment which increases this when causing damage to opponents. This will give a major advantage in a gunfight and can be the difference maker to get the kill and help the team. Round this off with Headseeker, which rewards non-precision damage with a buff to the next round that hits a precision shot. It also boosts Aim Assist so when making follow-up shots these are more powerful and easier to land. This perk combination is lethal on a Pulse Rifle and can be a major difference maker in The Crucible. A solid alternative to Headseeker would be Kill Clip which more aggressive players will find beneficial when chasing down their next target or find more suited to a 6v6 environment. tags:god-pvp,pvp
+dimwishlist:item=3969379530&perks=839105230,1885400500,2387244414,460017080
+dimwishlist:item=3969379530&perks=839105230,1885400500,2387244414,4045335048
+dimwishlist:item=3969379530&perks=839105230,1885400500,2387244414,1015611457
+dimwishlist:item=3969379530&perks=839105230,1885400500,2387244414,2923251173
+dimwishlist:item=3969379530&perks=839105230,1885400500,1748774930,460017080
+dimwishlist:item=3969379530&perks=839105230,1885400500,1748774930,4045335048
+dimwishlist:item=3969379530&perks=839105230,1885400500,1748774930,1015611457
+dimwishlist:item=3969379530&perks=839105230,1885400500,1748774930,2923251173
+
+
+// Aisha's Care - PVE Demi-God (pve)
+//notes: MW Stability; Backup mag; Start with Arrowhead Brake to maximize Recoil control making shots easier to land and give a nice boost to Handling, keeping the gun feeling snappy when moving from battle to battle. Include Ricochet Rounds in the Magazine for a welcome boosts to Stability and Range. In PvE, Stability is a key stat for Pulse Rifles to keep shots easily on target with every burst. This is where this god roll can take advantage of its Strand element. Applying Slice reduces incoming damage by 33 percent. In endgame content, this is a game-changer that can keep your team alive in the toughest situations. It can be applied to several enemies, allowing your team to rally or focus on a tankier enemy now that’s now debuffed. Close this god roll off with Golden Tricorn. Giving damage buffs on any type of weapon kill or a massive 50 percent on a matching ability kill to your subclass can easily take builds to the next level. tags:pve
+dimwishlist:item=3969379530&perks=923806249,2610012052
+dimwishlist:item=3969379530&perks=923806249,4290541820
+dimwishlist:item=3969379530&perks=923806249,831391274
+dimwishlist:item=3969379530&perks=923806249,102912326
+dimwishlist:item=3969379530&perks=3422796781,2610012052
+dimwishlist:item=3969379530&perks=3422796781,4290541820
+dimwishlist:item=3969379530&perks=3422796781,831391274
+dimwishlist:item=3969379530&perks=3422796781,102912326
+
+
+// Aisha's Care - PVP Demi-God (pvp)
+//notes: MW Stability; Aim Assist; Start with Arrowhead Brake to control Recoil, this will be essential when dueling opponents and keeping sights on-target. Add Ricochet Rounds to the Magazine which adds Stability which is key to any good Pulse Rifle and the added Range keeps the reticle feeling sticky when taking on opponents down long sight lines. To build into its natural flinch resistance, throw on Zen Moment which increases this when causing damage to opponents. This will give a major advantage in a gunfight and can be the difference maker to get the kill and help the team. Round this off with Headseeker, which rewards non-precision damage with a buff to the next round that hits a precision shot. It also boosts Aim Assist so when making follow-up shots these are more powerful and easier to land. This perk combination is lethal on a Pulse Rifle and can be a major difference maker in The Crucible. A solid alternative to Headseeker would be Kill Clip which more aggressive players will find beneficial when chasing down their next target or find more suited to a 6v6 environment. tags:pvp
+dimwishlist:item=3969379530&perks=2387244414,460017080
+dimwishlist:item=3969379530&perks=2387244414,4045335048
+dimwishlist:item=3969379530&perks=2387244414,1015611457
+dimwishlist:item=3969379530&perks=2387244414,2923251173
+dimwishlist:item=3969379530&perks=1748774930,460017080
+dimwishlist:item=3969379530&perks=1748774930,4045335048
+dimwishlist:item=3969379530&perks=1748774930,1015611457
+dimwishlist:item=3969379530&perks=1748774930,2923251173
 
 
 // False Idols - PVE (Ads) (god-pve,pve)
