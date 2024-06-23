@@ -441,6 +441,21 @@ dimwishlist:item=1453235079&perks=247725512,2551157718
 dimwishlist:item=1453235079&perks=247725512,3751912585
 
 
+// Ergo Sum - PVE DPS (god-pve,pve)
+//notes: Element: Void; Exotic Trait: Wolfpack Rounds; Jagged Edge is almost always perfect for Swords as it boosts our Sword damage, and Swordmaster’s Guard is best for Heavy Attack recharge rate. A Lightweight Frame is also good here, as it deals the highest base level of DPS. Making sure we have a Void element to match with Falling Guillotine is important, and Wolfpack Rounds is a must so we can boost everyone’s Sword damage. tags:god-pve,pve
+dimwishlist:item=1681583613&perks=3666208348,269888150,2753228730
+
+
+// Ergo Sum - PVE Solo (god-pve,pve)
+//notes: Element: Solar; Exotic Trait: The Perfect Fifth; Jagged Edge is almost always perfect for Swords as it boosts our Sword damage, and Swordmaster’s Guard is best for Heavy Attack recharge rate. A Lightweight Frame is also good here, as it deals the highest base level of DPS. Making sure we have a Void element to match with Falling Guillotine is important, and Wolfpack Rounds is a must so we can boost everyone’s Sword damage. tags:god-pve,pve
+dimwishlist:item=1681583613&perks=3666208348,269888150,519046634
+
+
+// Ergo Sum - PVP (god-pvp,pvp)
+//notes: Ergo Sum in PvP is rather niche, but it definitely has its moments where it can shine. Wave Sword Element: Arc; Exotic Trait: Arc Conductor; Frame is a must here as it can almost guarantee two kills with one special ammo if you land the Wave. This allows you to then rapidly swing onto another nearby enemy, even if you have no ammo. While this combo is deadly, it’s important to remember that you are very vulnerable while wielding a Sword, and players can keep their distance from you, so try to use cover and bait targets. tags:god-pvp,pvp
+dimwishlist:item=1681583613&perks=436053704,269888150,289811733
+
+
 // No Hesitation - PVE (god-pve,pve)
 //notes: PVE; MW: Reload or Range; Physic and Circle of Life are two unique perks that only appear on support frames and interact with the effects described above. The former ensures that you receive Restoration when you grant an ally Restoration, while the latter improves the support frame boost aspect, making it last far longer. Both are strong, but Physic stands out as the top choice in column three. The enhanced version of the perk, available on a crafted No Hesitation, will give Restoration x2, making you basically invulnerable to all but the heaviest sustained damage. Otherwise Demolitionist and Overflow are both useful just for ensuring you can keep firing as long as possible without stopping to reload. In the fourth column there is the aforementioned Circle of Life and also the reliably good Incandescent, which interacts well with Solar subclasses. There is also a surprising niche choice: Attrition Orbs. This generally bad perk creates orbs when damaging an enemy, which is nice, but they usually pop out of that enemy's head, which is bad as you don't really want to have to run over there and collect them. On a support frame, though, it also periodically creates orbs when healing allies, making the perk much more useful. tags:god-pve,pve
 dimwishlist:item=1801007332&perks=3250034553,3142289711,3643424744,4293542123
