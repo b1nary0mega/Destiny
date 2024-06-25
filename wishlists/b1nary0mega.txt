@@ -1,6 +1,16 @@
 title:b1nary0mega's Wishlist
 description:personal favorites, blueberries, shacknews, and some oddballs. 
 
+// Osteo Striga - Top Tier Exotic (god-pve,god-pvp,pve,pvp)
+//notes: tags:god-pve,god-pvp,pve,pvp
+dimwishlist:item=46524085&perks=4015745376
+
+
+// Ace of Spades - Top Tier Exotic (god-pve,god-pvp,pve,pvp)
+//notes: tags:god-pve,god-pvp,pve,pvp
+dimwishlist:item=347366834&perks=4090651448,1561002382,1561789734,3326204863
+
+
 // Rufus's Fury - PVE (god-pve,pve)
 //notes: Tier S; Even with the introduction of additional strand Auto Rifles into the game, Rufus's Fury remains at the top of the pack with an outstanding perk pool, impressive stability, and versatility in both PvE and PvP. tags:god-pve,pve
 dimwishlist:item=484515708&perks=3523296417,365154968
@@ -405,6 +415,11 @@ dimwishlist:item=1197771438&perks=706527188,3523296417
 dimwishlist:item=1197771438&perks=706527188,1906147653
 dimwishlist:item=1197771438&perks=1961144892,3523296417
 dimwishlist:item=1197771438&perks=1961144892,1906147653
+
+
+// Gjallarhorn - Top Tier Exotic (god-pve,god-pvp,pve,pvp)
+//notes: tags:god-pve,god-pvp,pve,pvp
+dimwishlist:item=1363886209&perks=1478423395,2985827016,3874977694,1067908860
 
 
 // Hung Jury SR4 - Blueberries - God PVE (GM) (god-pve)
@@ -958,6 +973,11 @@ dimwishlist:item=2350330520&perks=3198323828,1015611457
 dimwishlist:item=2350330520&perks=3198323828,2923251173
 
 
+// Witherhoard - Top Tier Exotic (god-pve,god-pvp,pve,pvp)
+//notes: tags:god-pve,god-pvp,pve,pvp
+dimwishlist:item=2357297366&perks=3809316345,1996142143,745965939,3465198467
+
+
 // Blast Furnace - Blueberries - God PVE (god-pve)
 //notes: T:B; BB God PVE; Alt: Belisarius-D, Disparity; MW: Handling tags:god-pve
 dimwishlist:item=2372514508&perks=1840239774,1087426260,3891536761,2109543898
@@ -1050,6 +1070,43 @@ dimwishlist:item=2372514509&perks=2387244414,3047969693
 dimwishlist:item=2372514509&perks=2387244414,1015611457
 dimwishlist:item=2372514509&perks=3619207468,3047969693
 dimwishlist:item=2372514509&perks=3619207468,1015611457
+
+
+// CALUS Mini-Tool - PVE (pve,god-pve)
+//notes: Able to roll with the excellent perk Incandescent, CALUS Mini-Tool immediately cemented itself as a top-tier pick with the release of Solar 3.0. Plus, it's one of the few top-tier craftable SMGs currently in the game, meaning it's one of the easiest to get as well. tags:pve,god-pve
+dimwishlist:item=2490988246&perks=3250034553,3142289711,588594999,4293542123
+dimwishlist:item=2490988246&perks=3250034553,3142289711,588594999,2675184851
+dimwishlist:item=2490988246&perks=3250034553,3142289711,4071163871,4293542123
+dimwishlist:item=2490988246&perks=3250034553,3142289711,4071163871,2675184851
+dimwishlist:item=2490988246&perks=3250034553,3142289711,3108830275,4293542123
+dimwishlist:item=2490988246&perks=3250034553,3142289711,3108830275,2675184851
+dimwishlist:item=2490988246&perks=3250034553,3142289711,855168139,4293542123
+dimwishlist:item=2490988246&perks=3250034553,3142289711,855168139,2675184851
+dimwishlist:item=2490988246&perks=3250034553,3142289711,494941759,4293542123
+dimwishlist:item=2490988246&perks=3250034553,3142289711,494941759,2675184851
+dimwishlist:item=2490988246&perks=3250034553,3142289711,2717805783,4293542123
+dimwishlist:item=2490988246&perks=3250034553,3142289711,2717805783,2675184851
+
+
+// CALUS Mini-Tool - PVE Demi-God (pve)
+//notes: Able to roll with the excellent perk Incandescent, CALUS Mini-Tool immediately cemented itself as a top-tier pick with the release of Solar 3.0. Plus, it's one of the few top-tier craftable SMGs currently in the game, meaning it's one of the easiest to get as well. tags:pve
+dimwishlist:item=2490988246&perks=588594999,4293542123
+dimwishlist:item=2490988246&perks=588594999,2675184851
+dimwishlist:item=2490988246&perks=4071163871,4293542123
+dimwishlist:item=2490988246&perks=4071163871,2675184851
+dimwishlist:item=2490988246&perks=3108830275,4293542123
+dimwishlist:item=2490988246&perks=3108830275,2675184851
+dimwishlist:item=2490988246&perks=855168139,4293542123
+dimwishlist:item=2490988246&perks=855168139,2675184851
+dimwishlist:item=2490988246&perks=494941759,4293542123
+dimwishlist:item=2490988246&perks=494941759,2675184851
+dimwishlist:item=2490988246&perks=2717805783,4293542123
+dimwishlist:item=2490988246&perks=2717805783,2675184851
+
+
+// Cloudstrike - Top Tier Exotic (god-pve,god-pvp,pve,pvp)
+//notes: tags:god-pve,god-pvp,pve,pvp
+dimwishlist:item=2603483885&perks=1840239774,1431678320,3117514172,990298390
 
 
 // Midnight Coup - Blueberries - God PVE (god-pve)
@@ -1215,9 +1272,24 @@ dimwishlist:item=3232203524&perks=494941759,47981717
 dimwishlist:item=3232203524&perks=494941759,1370847713
 
 
-// Le Monarque - PVE + PVP (god-pve,god-pvp,pve,pvp)
-//notes: Teir S; Le Monarque is a ridiculously oppressive pick in PvP as it can be combined with a Hand Cannon to deliver blindingly fast combo kills with relative ease. It also comes with intrinsic Overload Arrows, which, combined with its poison effect, are highly effective against Overload Champions. This makes Le Monarque an incredible pick for PvE too. tags:god-pve,god-pvp,pve,pvp
-dimwishlist:item=3588934839&perks=16392701,957782887
+// Thunderlord - Top Tier Exotic (god-pve,god-pvp,pve,pvp)
+//notes: tags:god-pve,god-pvp,pve,pvp
+dimwishlist:item=3325463374&perks=1392496348,1968497646,1419069769,2779035018
+
+
+// Conditional Finality - Top Tier Exotic (god-pve,god-pvp,pve,pvp)
+//notes: tags:god-pve,god-pvp,pve,pvp
+dimwishlist:item=3371017761&perks=3492498209,1431678320,1105347996,3917450714
+
+
+// The Lament - Top Tier Exotic (god-pve,god-pvp,pve,pvp)
+//notes: tags:god-pve,god-pvp,pve,pvp
+dimwishlist:item=3487253372&perks=3666208348,599007201,2590710093,290014589
+
+
+// Le Monarque - Top Tier Exotic (god-pve,god-pvp,pve,pvp)
+//notes: tags:god-pve,god-pvp,pve,pvp
+dimwishlist:item=3588934839&perks=1784898267,16392701,957782887
 
 
 // Pro Memoria - PVE (god-pve,pve)
@@ -1695,6 +1767,11 @@ dimwishlist:item=3969379530&perks=1748774930,1015611457
 dimwishlist:item=3969379530&perks=1748774930,2923251173
 
 
+// Divinity - Top Tier Exotic (god-pve,god-pvp,pve,pvp)
+//notes: tags:god-pve,god-pvp,pve,pvp
+dimwishlist:item=4103414242&perks=1392496348,3868766766,1185480639,3465198467
+
+
 // False Idols - PVE (Ads) (god-pve,pve)
 //notes: PVE; Ads; MW Impact; For our blade, we will want Hungry Edge to increase the weapon’s ammo capacity. For our guard, we’ll want to pick Balanced Guard to increase our defenses with the weapon evenly. For our perks, we want Incandescent and One for All in perk columns 1 and 2 respectively. Incandescent will be particularly useful on this Solar sword as you will find it incredibly effective at crowd control as defeating a target will spread scorch to nearby enemies. Our next perk, One for All, will synergize nicely. Hitting three separate enemies, which should be easy enough with Incandescent, activates One for All which will significantly increase your damage output with False Idols by 35%. Overall, the combination of Incandescent and One for All makes this a particularly dangerous sword, great at both crowd control and dealing damage. tags:god-pve,pve
 dimwishlist:item=4207120603&perks=436053704,52780822,4293542123,4049631843
@@ -1743,8 +1820,40 @@ dimwishlist:item=4207120603&perks=4085959009,3078487919
 dimwishlist:item=4207120603&perks=4085959009,3744057135
 
 
-// Quicksilver Storm - PVE (god-pve,pve)
-//notes: Tier S; Quicksilver Storm may be the best Primary weapon in the game. Good base DPS, a burst damage option that is remarkably simple to use, and the ability to create Tangles allowing for Strand build crafting, make this weapon an exceptional pick. tags:god-pve,pve
-dimwishlist:item=4293613902&perks=1561002382,3131590896
+// Marcato-45 - PVE (Slice) (pve,god-pve)
+//notes: A strand Machine Gun with a unique perk pool, Marcato-45 can be a great support weapon. Combine Slice and Hatchling, and you can really cut down on the damage that enemies are outputting on your fireteam. You can also go for a more straightforward PvE roll in Demolitionist and Onslaught. tags:pve,god-pve
+dimwishlist:item=4233375372&perks=1392496348,1087426260,923806249,831391274
+dimwishlist:item=4233375372&perks=1392496348,1087426260,923806249,102912326
+dimwishlist:item=4233375372&perks=1392496348,1087426260,3422796781,831391274
+dimwishlist:item=4233375372&perks=1392496348,1087426260,3422796781,102912326
+
+
+// Marcato-45 - PVE (pve,god-pve)
+//notes: A strand Machine Gun with a unique perk pool, Marcato-45 can be a great support weapon. Combine Slice and Hatchling, and you can really cut down on the damage that enemies are outputting on your fireteam. You can also go for a more straightforward PvE roll in Demolitionist and Onslaught. tags:pve,god-pve
+dimwishlist:item=4233375372&perks=1392496348,1087426260,3523296417,95528736
+dimwishlist:item=4233375372&perks=1392496348,1087426260,3523296417,956288240
+dimwishlist:item=4233375372&perks=1392496348,1087426260,1906147653,95528736
+dimwishlist:item=4233375372&perks=1392496348,1087426260,1906147653,956288240
+
+
+// Marcato-45 - PVE Demi-God (Slice) (pve)
+//notes: A strand Machine Gun with a unique perk pool, Marcato-45 can be a great support weapon. Combine Slice and Hatchling, and you can really cut down on the damage that enemies are outputting on your fireteam. You can also go for a more straightforward PvE roll in Demolitionist and Onslaught. tags:pve
+dimwishlist:item=4233375372&perks=923806249,831391274
+dimwishlist:item=4233375372&perks=923806249,102912326
+dimwishlist:item=4233375372&perks=3422796781,831391274
+dimwishlist:item=4233375372&perks=3422796781,102912326
+
+
+// Marcato-45 - PVE Demi-God (pve)
+//notes: A strand Machine Gun with a unique perk pool, Marcato-45 can be a great support weapon. Combine Slice and Hatchling, and you can really cut down on the damage that enemies are outputting on your fireteam. You can also go for a more straightforward PvE roll in Demolitionist and Onslaught. tags:pve
+dimwishlist:item=4233375372&perks=3523296417,95528736
+dimwishlist:item=4233375372&perks=3523296417,956288240
+dimwishlist:item=4233375372&perks=1906147653,95528736
+dimwishlist:item=4233375372&perks=1906147653,956288240
+
+
+// Quicksilver Storm - Top Tier Exotic (god-pve,god-pvp,pve,pvp)
+//notes: tags:god-pve,god-pvp,pve,pvp
+dimwishlist:item=4293613902&perks=4090651448,1561002382,3131590896,990298390
 
 
