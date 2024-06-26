@@ -135,48 +135,40 @@ dimwishlist:item=496728945&perks=3416609154,3719974635
 dimwishlist:item=496728945&perks=3416609154,2799030358
 
 
-// Forbearance - PVP (god-pvp,pvp)
-//notes: MW Handling; Radar Booster; Now, you could go for the exact same roll as the Vow of the Disciple option further below, Surplus and Wellspring. This essentially gets your abilities topped up which then improve the launcher’s stats. Alternatively, you could lean into Unrelenting for the health-on-kill and couple it with Desperate Measures for the bonus to weapon damage. Lean into the high Velocity stat further with Quick Launch and High-Velocity Rounds. This nearly maxes out the stat, which lets you focus on other areas for the Masterwork and mod. Handling will make it snappier to draw while Radar Booster is excellent as you're not going to be ADSing this and Quick Access Sling isn't needed when you're rolling with other Handling boosts. tags:god-pvp,pvp
-dimwishlist:item=568611921&perks=3525010810,2822142346,1683379515,2610012052
-dimwishlist:item=568611921&perks=3525010810,2822142346,1683379515,4290541820
-dimwishlist:item=568611921&perks=3525010810,2822142346,1683379515,2109543898
-dimwishlist:item=568611921&perks=3525010810,2822142346,1683379515,2799030358
-dimwishlist:item=568611921&perks=3525010810,2822142346,2216471363,2610012052
-dimwishlist:item=568611921&perks=3525010810,2822142346,2216471363,4290541820
-dimwishlist:item=568611921&perks=3525010810,2822142346,2216471363,2109543898
-dimwishlist:item=568611921&perks=3525010810,2822142346,2216471363,2799030358
-dimwishlist:item=568611921&perks=3525010810,2822142346,3108830275,2610012052
-dimwishlist:item=568611921&perks=3525010810,2822142346,3108830275,4290541820
-dimwishlist:item=568611921&perks=3525010810,2822142346,3108830275,2109543898
-dimwishlist:item=568611921&perks=3525010810,2822142346,3108830275,2799030358
-dimwishlist:item=568611921&perks=3525010810,2822142346,855168139,2610012052
-dimwishlist:item=568611921&perks=3525010810,2822142346,855168139,4290541820
-dimwishlist:item=568611921&perks=3525010810,2822142346,855168139,2109543898
-dimwishlist:item=568611921&perks=3525010810,2822142346,855168139,2799030358
-
-
-// Forbearance - PVE (pve,god-pve)
-//notes: MW Reload; Major Spec; The obvious pick here is going to be Ambitious Assassins and Chain Reaction. Get a kill, reload, and now you’ve got two grenades in the tube. Oh, and each kill you get will activate Chain Reaction, setting off more detonations across the field. It’s like Ignition but easier to proc. An alternative roll would be Ambitious Assassins and One for All, as the latter of these increases the damage by 35 percent, allowing you to just keep throwing out huge damage numbers. This will be a great option for those who already have a crafted one from the raid and are looking for something a little different. It’s also good because Chain Reaction is getting a nerf in a future update. Another god roll you might like to consider is Demolitionist and Golden Tricorn. tags:pve,god-pve
+// Forbearance - PVE (god-pve)
+//notes: MW: Reload or Handling; Making sure that Handling is as high as possible is always good in PvE in order to make weapons feel nicer to use, so Quick Launch and High-Velocity Rounds are the best options here with a Reload Speed or Handling Masterwork. Perk 1 allows you to choose between Demolitionist and Ambitious Assassin. Demolitionist is unique to this variant of Forbearance and should definitely be the focus, as you can always choose Ambitious Assassin on your Vow of the Disciple roll. Chain Reaction is the best perk for slot 2, but One for All is usable. tags:god-pve
 dimwishlist:item=568611921&perks=3525010810,2822142346,3523296417,2396489472
-dimwishlist:item=568611921&perks=3525010810,2822142346,3523296417,4049631843
 dimwishlist:item=568611921&perks=3525010810,2822142346,3523296417,598607952
+dimwishlist:item=568611921&perks=3525010810,2822142346,3523296417,4049631843
 dimwishlist:item=568611921&perks=3525010810,2822142346,3523296417,859780267
-dimwishlist:item=568611921&perks=3525010810,2822142346,2010801679,2396489472
-dimwishlist:item=568611921&perks=3525010810,2822142346,2010801679,4049631843
-dimwishlist:item=568611921&perks=3525010810,2822142346,2010801679,598607952
-dimwishlist:item=568611921&perks=3525010810,2822142346,2010801679,859780267
 dimwishlist:item=568611921&perks=3525010810,2822142346,1906147653,2396489472
-dimwishlist:item=568611921&perks=3525010810,2822142346,1906147653,4049631843
 dimwishlist:item=568611921&perks=3525010810,2822142346,1906147653,598607952
+dimwishlist:item=568611921&perks=3525010810,2822142346,1906147653,4049631843
 dimwishlist:item=568611921&perks=3525010810,2822142346,1906147653,859780267
+dimwishlist:item=568611921&perks=3525010810,2822142346,2010801679,2396489472
+dimwishlist:item=568611921&perks=3525010810,2822142346,2010801679,598607952
+dimwishlist:item=568611921&perks=3525010810,2822142346,2010801679,4049631843
+dimwishlist:item=568611921&perks=3525010810,2822142346,2010801679,859780267
 dimwishlist:item=568611921&perks=3525010810,2822142346,3797647183,2396489472
-dimwishlist:item=568611921&perks=3525010810,2822142346,3797647183,4049631843
 dimwishlist:item=568611921&perks=3525010810,2822142346,3797647183,598607952
+dimwishlist:item=568611921&perks=3525010810,2822142346,3797647183,4049631843
 dimwishlist:item=568611921&perks=3525010810,2822142346,3797647183,859780267
 
 
-// Forbearance - PVE Demi-God (pve)
-//notes: MW Reload; Major Spec; The obvious pick here is going to be Ambitious Assassins and Chain Reaction. Get a kill, reload, and now you’ve got two grenades in the tube. Oh, and each kill you get will activate Chain Reaction, setting off more detonations across the field. It’s like Ignition but easier to proc. An alternative roll would be Ambitious Assassins and One for All, as the latter of these increases the damage by 35 percent, allowing you to just keep throwing out huge damage numbers. This will be a great option for those who already have a crafted one from the raid and are looking for something a little different. It’s also good because Chain Reaction is getting a nerf in a future update. Another god roll you might like to consider is Demolitionist and Golden Tricorn. tags:pve
+// Forbearance - PVP (god-pvp)
+//notes: MW: Handling; High Handling is key in PvP, in particular, making Quick Launch, High-Velocity Rounds, and Handling must-haves as they make the gun feel much nicer to use. Disruption Break in the first column allows players to potentially use Forbearance as a swap weapon, making it rather potent in this regard. However, the second column is entirely useless in this regard as the point of Disruption Break is to secure the kill with your Kinetic weapon. However, Golden Tricorn provides the highest 7-second kill buff at base, making it the best out of a bad bunch in the second column. tags:god-pvp
+dimwishlist:item=568611921&perks=3525010810,2822142346,1683379515,2610012052
+dimwishlist:item=568611921&perks=3525010810,2822142346,1683379515,4290541820
+dimwishlist:item=568611921&perks=3525010810,2822142346,2216471363,2610012052
+dimwishlist:item=568611921&perks=3525010810,2822142346,2216471363,4290541820
+dimwishlist:item=568611921&perks=3525010810,2822142346,3436462433,2610012052
+dimwishlist:item=568611921&perks=3525010810,2822142346,3436462433,4290541820
+dimwishlist:item=568611921&perks=3525010810,2822142346,2658083589,2610012052
+dimwishlist:item=568611921&perks=3525010810,2822142346,2658083589,4290541820
+
+
+// Forbearance - PVE (pve)
+//notes: MW: Reload or Handling; Making sure that Handling is as high as possible is always good in PvE in order to make weapons feel nicer to use, so Quick Launch and High-Velocity Rounds are the best options here with a Reload Speed or Handling Masterwork. Perk 1 allows you to choose between Demolitionist and Ambitious Assassin. Demolitionist is unique to this variant of Forbearance and should definitely be the focus, as you can always choose Ambitious Assassin on your Vow of the Disciple roll. Chain Reaction is the best perk for slot 2, but One for All is usable. tags:pve
 dimwishlist:item=568611921&perks=3523296417,2396489472
 dimwishlist:item=568611921&perks=3523296417,598607952
 dimwishlist:item=568611921&perks=3523296417,4049631843
@@ -195,24 +187,16 @@ dimwishlist:item=568611921&perks=3797647183,4049631843
 dimwishlist:item=568611921&perks=3797647183,859780267
 
 
-// Forbearance - PVP Demi-God (pvp)
-//notes: MW Handling; Radar Booster; Now, you could go for the exact same roll as the Vow of the Disciple option further below, Surplus and Wellspring. This essentially gets your abilities topped up which then improve the launcher’s stats. Alternatively, you could lean into Unrelenting for the health-on-kill and couple it with Desperate Measures for the bonus to weapon damage. Lean into the high Velocity stat further with Quick Launch and High-Velocity Rounds. This nearly maxes out the stat, which lets you focus on other areas for the Masterwork and mod. Handling will make it snappier to draw while Radar Booster is excellent as you're not going to be ADSing this and Quick Access Sling isn't needed when you're rolling with other Handling boosts. tags:pvp
+// Forbearance - PVP (pvp)
+//notes: MW: Handling; High Handling is key in PvP, in particular, making Quick Launch, High-Velocity Rounds, and Handling must-haves as they make the gun feel much nicer to use. Disruption Break in the first column allows players to potentially use Forbearance as a swap weapon, making it rather potent in this regard. However, the second column is entirely useless in this regard as the point of Disruption Break is to secure the kill with your Kinetic weapon. However, Golden Tricorn provides the highest 7-second kill buff at base, making it the best out of a bad bunch in the second column. tags:pvp
 dimwishlist:item=568611921&perks=1683379515,2610012052
 dimwishlist:item=568611921&perks=1683379515,4290541820
-dimwishlist:item=568611921&perks=1683379515,2109543898
-dimwishlist:item=568611921&perks=1683379515,2799030358
 dimwishlist:item=568611921&perks=2216471363,2610012052
 dimwishlist:item=568611921&perks=2216471363,4290541820
-dimwishlist:item=568611921&perks=2216471363,2109543898
-dimwishlist:item=568611921&perks=2216471363,2799030358
-dimwishlist:item=568611921&perks=3108830275,2610012052
-dimwishlist:item=568611921&perks=3108830275,4290541820
-dimwishlist:item=568611921&perks=3108830275,2109543898
-dimwishlist:item=568611921&perks=3108830275,2799030358
-dimwishlist:item=568611921&perks=855168139,2610012052
-dimwishlist:item=568611921&perks=855168139,4290541820
-dimwishlist:item=568611921&perks=855168139,2109543898
-dimwishlist:item=568611921&perks=855168139,2799030358
+dimwishlist:item=568611921&perks=3436462433,2610012052
+dimwishlist:item=568611921&perks=3436462433,4290541820
+dimwishlist:item=568611921&perks=2658083589,2610012052
+dimwishlist:item=568611921&perks=2658083589,4290541820
 
 
 // The Mountaintop - Blueberries - God PVE (god-pve)
@@ -245,25 +229,44 @@ dimwishlist:item=568611922&perks=951095735,438098033
 dimwishlist:item=568611922&perks=951095735,1546637391
 
 
-// Edge Transit - Blueberries - God PVE (god-pve)
-//notes: T:S; BB God PVE; Alt: Cataphract GL3, Parasite, Wendigo GL3; MW: Velocity, Handling tags:god-pve
+// Edge Transit - PVE (god-pve)
+//notes: MW: Velocity or Handling; DPS; For PvE, we’ll begin with Quick Launch, Spike Grenades, and either a velocity or handling masterwork. From there, any veteran player knows the exact perk combo we’re going to suggest: Envious Assassin and Bait and Switch. This combination made Cataphract GL3 so popular a couple of months ago and continues to be the dominant choice for heavy grenade launchers in the current meta. The only swap we’d ever recommend making is Cascade Point instead of Envious Assassin, solely for high burst damage (or simply for fun) if that’s something you’re interested in. However, nine times out of ten, Envious Assassin is the dominant pick regardless. Recommended Loadout: The Mountaintop, Sunshot, Edge Transit. tags:god-pve
 dimwishlist:item=568611923&perks=3525010810,3301904089,968510818,3078487919
+dimwishlist:item=568611923&perks=3525010810,3301904089,968510818,3744057135
+dimwishlist:item=568611923&perks=3525010810,3301904089,424370782,3078487919
+dimwishlist:item=568611923&perks=3525010810,3301904089,424370782,3744057135
+dimwishlist:item=568611923&perks=3525010810,3301904089,3751912585,3078487919
+dimwishlist:item=568611923&perks=3525010810,3301904089,3751912585,3744057135
+dimwishlist:item=568611923&perks=3525010810,3301904089,331667533,3078487919
+dimwishlist:item=568611923&perks=3525010810,3301904089,331667533,3744057135
 
 
-// Edge Transit - Blueberries - God PVP (god-pvp)
-//notes: T:B; BB God PVP; Alt: Cataphract GL3, Parasite, Wendigo GL3; MW: Velocity tags:god-pvp
+// Edge Transit - PVP (god-pvp)
+//notes: MW: Velocity; Edge Transit simply isn’t as powerful in The Crucible, but that doesn’t stop it from excelling with the right combination of perks. Volatile Launch, High-Velocity Rounds, and a velocity masterwork allow for a nice split between velocity and blast radius, two vital stats in PvP. Impulse Amplifier is an easy pick in column one, making the weapon significantly easier to use against moving Guardians. As for your final perk, Explosive Light is our pick, although solely for the additional blast radius it offers. Realistically, this final perk doesn’t make all that big of a difference either way, so we recommend experimenting to find what works for you. tags:god-pvp
 dimwishlist:item=568611923&perks=1478423395,2822142346,951095735,3194351027
+dimwishlist:item=568611923&perks=1478423395,2822142346,951095735,2275087323
+dimwishlist:item=568611923&perks=1478423395,2822142346,3878366039,3194351027
+dimwishlist:item=568611923&perks=1478423395,2822142346,3878366039,2275087323
 
 
-// Edge Transit - Blueberries - PVE (pve)
-//notes: T:S; BB PVE; Alt: Cataphract GL3, Parasite, Wendigo GL3; MW: Velocity, Handling tags:pve
+// Edge Transit - PVE (pve)
+//notes: MW: Velocity or Handling; DPS; For PvE, we’ll begin with Quick Launch, Spike Grenades, and either a velocity or handling masterwork. From there, any veteran player knows the exact perk combo we’re going to suggest: Envious Assassin and Bait and Switch. This combination made Cataphract GL3 so popular a couple of months ago and continues to be the dominant choice for heavy grenade launchers in the current meta. The only swap we’d ever recommend making is Cascade Point instead of Envious Assassin, solely for high burst damage (or simply for fun) if that’s something you’re interested in. However, nine times out of ten, Envious Assassin is the dominant pick regardless. Recommended Loadout: The Mountaintop, Sunshot, Edge Transit. tags:pve
 dimwishlist:item=568611923&perks=968510818,3078487919
+dimwishlist:item=568611923&perks=968510818,3744057135
+dimwishlist:item=568611923&perks=424370782,3078487919
+dimwishlist:item=568611923&perks=424370782,3744057135
 dimwishlist:item=568611923&perks=3751912585,3078487919
+dimwishlist:item=568611923&perks=3751912585,3744057135
+dimwishlist:item=568611923&perks=331667533,3078487919
+dimwishlist:item=568611923&perks=331667533,3744057135
 
 
-// Edge Transit - Blueberries - PVP (pvp)
-//notes: T:B; BB PVP; Alt: Cataphract GL3, Parasite, Wendigo GL3; MW: Velocity tags:pvp
+// Edge Transit - PVP (pvp)
+//notes: MW: Velocity; Edge Transit simply isn’t as powerful in The Crucible, but that doesn’t stop it from excelling with the right combination of perks. Volatile Launch, High-Velocity Rounds, and a velocity masterwork allow for a nice split between velocity and blast radius, two vital stats in PvP. Impulse Amplifier is an easy pick in column one, making the weapon significantly easier to use against moving Guardians. As for your final perk, Explosive Light is our pick, although solely for the additional blast radius it offers. Realistically, this final perk doesn’t make all that big of a difference either way, so we recommend experimenting to find what works for you. tags:pvp
 dimwishlist:item=568611923&perks=951095735,3194351027
+dimwishlist:item=568611923&perks=951095735,2275087323
+dimwishlist:item=568611923&perks=3878366039,3194351027
+dimwishlist:item=568611923&perks=3878366039,2275087323
 
 
 // Gnawing Hunger - PVE (pve,god-pve)
@@ -811,45 +814,108 @@ dimwishlist:item=1801007332&perks=2682205016,1683379515
 dimwishlist:item=1801007332&perks=2682205016,2216471363
 
 
-// Falling Guillotine - Blueberries - God PVE (god-pve)
-//notes: T:A; BB God PVE; Alt: Bequest, The Lament, The Slammer; MW: Impact tags:god-pve
-dimwishlist:item=1815105249&perks=3666208348,269888150,4104185692,2077819806
+// Falling Guillotine - PVE (god-pve)
+//notes: MW: Impact; Utility; As always, Jagged Edge and Swordmaster’s Guard are the preferred picks for Swords as they increase damage by the highest amount, but Honed Edge isn’t awful, either. The first perk doesn’t matter too much, as the main draw of this version of Falling Guillotine is the movement capabilities of Eager Edge. However, Frenzy and Relentless Strikes are both the best options available in the first column. Building this sword with Eager Edge allows for incredible movement, especially with certain techniques like Shatterskating or Wellskating. Recommended Loadout: Riptide, Sunshot, Falling Guillotine. tags:god-pve
 dimwishlist:item=1815105249&perks=3666208348,269888150,1749209109,2077819806
+dimwishlist:item=1815105249&perks=3666208348,269888150,1749209109,1618208178
+dimwishlist:item=1815105249&perks=3666208348,269888150,4085959009,2077819806
+dimwishlist:item=1815105249&perks=3666208348,269888150,4085959009,1618208178
+dimwishlist:item=1815105249&perks=3666208348,269888150,4104185692,2077819806
+dimwishlist:item=1815105249&perks=3666208348,269888150,4104185692,1618208178
+dimwishlist:item=1815105249&perks=3666208348,269888150,3007133316,2077819806
+dimwishlist:item=1815105249&perks=3666208348,269888150,3007133316,1618208178
+dimwishlist:item=1815105249&perks=3666208348,269888150,1546637391,2077819806
+dimwishlist:item=1815105249&perks=3666208348,269888150,1546637391,1618208178
+dimwishlist:item=1815105249&perks=3666208348,269888150,3418165135,2077819806
+dimwishlist:item=1815105249&perks=3666208348,269888150,3418165135,1618208178
 
 
-// Falling Guillotine - Blueberries - God PVE (DPS) (god-pve)
-//notes: T:A; BB God PVE (DPS); Alt: Bequest, The Lament, The Slammer; MW: Impact tags:god-pve
-dimwishlist:item=1815105249&perks=3666208348,269888150,4104185692,3708227201
-dimwishlist:item=1815105249&perks=3666208348,269888150,4104185692,3913600130
-dimwishlist:item=1815105249&perks=3666208348,269888150,1749209109,3708227201
+// Falling Guillotine - PVE (god-pve)
+//notes: MW: Impact; DPS; The Blade and Guard options of Jagged Edge and Swordmaster’s Guard remain the same. In terms of perks, there are a ton of avenues you can go down. Frenzy provides a higher damage buff, and also increases Handling, making it better on paper than Vorpal Weapon, but Vorpal Weapon doesn’t have an activation condition. For perk 2, Surrounded provides the best damage buff, but it can be awkward to activate, meaning some may prefer the simplicity of Whirlwind Blade. Recommended Loadout: Witherhoard, Zaouli’s Bane, Falling Guillotine. tags:god-pve
 dimwishlist:item=1815105249&perks=3666208348,269888150,1749209109,3913600130
+dimwishlist:item=1815105249&perks=3666208348,269888150,1749209109,147913470
+dimwishlist:item=1815105249&perks=3666208348,269888150,1749209109,3708227201
+dimwishlist:item=1815105249&perks=3666208348,269888150,1749209109,781192741
+dimwishlist:item=1815105249&perks=3666208348,269888150,4085959009,3913600130
+dimwishlist:item=1815105249&perks=3666208348,269888150,4085959009,147913470
+dimwishlist:item=1815105249&perks=3666208348,269888150,4085959009,3708227201
+dimwishlist:item=1815105249&perks=3666208348,269888150,4085959009,781192741
+dimwishlist:item=1815105249&perks=3666208348,269888150,4104185692,3913600130
+dimwishlist:item=1815105249&perks=3666208348,269888150,4104185692,147913470
+dimwishlist:item=1815105249&perks=3666208348,269888150,4104185692,3708227201
+dimwishlist:item=1815105249&perks=3666208348,269888150,4104185692,781192741
+dimwishlist:item=1815105249&perks=3666208348,269888150,3007133316,3913600130
+dimwishlist:item=1815105249&perks=3666208348,269888150,3007133316,147913470
+dimwishlist:item=1815105249&perks=3666208348,269888150,3007133316,3708227201
+dimwishlist:item=1815105249&perks=3666208348,269888150,3007133316,781192741
+dimwishlist:item=1815105249&perks=3666208348,269888150,1546637391,3913600130
+dimwishlist:item=1815105249&perks=3666208348,269888150,1546637391,147913470
+dimwishlist:item=1815105249&perks=3666208348,269888150,1546637391,3708227201
+dimwishlist:item=1815105249&perks=3666208348,269888150,1546637391,781192741
+dimwishlist:item=1815105249&perks=3666208348,269888150,3418165135,3913600130
+dimwishlist:item=1815105249&perks=3666208348,269888150,3418165135,147913470
+dimwishlist:item=1815105249&perks=3666208348,269888150,3418165135,3708227201
+dimwishlist:item=1815105249&perks=3666208348,269888150,3418165135,781192741
 
 
-// Falling Guillotine - Blueberries - God PVP (god-pvp)
-//notes: T:B; BB God PVP; Alt: Bequest, The Lament, The Slammer; MW: Impact tags:god-pvp
+// Falling Guillotine - PVP (god-pvp)
+//notes: MW: Impact; The Blade and Guard options don’t really matter inside of PvP, meaning players can opt for any Blade and Guard they really want. However, the perks may make a bit of a difference in certain situations. Vorpal Weapon could potentially make a difference against certain Supers that have lower damage resistance, and Eager Edge allows you to move around the map much faster, making it a fun and viable option. tags:god-pvp
 dimwishlist:item=1815105249&perks=436053704,269888150,1546637391,2077819806
+dimwishlist:item=1815105249&perks=436053704,269888150,1546637391,1618208178
+dimwishlist:item=1815105249&perks=436053704,269888150,3418165135,2077819806
+dimwishlist:item=1815105249&perks=436053704,269888150,3418165135,1618208178
 
 
-// Falling Guillotine - Blueberries - PVE (pve)
-//notes: T:A; BB PVE; Alt: Bequest, The Lament, The Slammer; MW: Impact tags:pve
-dimwishlist:item=1815105249&perks=4104185692,2077819806
+// Falling Guillotine - PVE (pve)
+//notes: MW: Impact; Utility; As always, Jagged Edge and Swordmaster’s Guard are the preferred picks for Swords as they increase damage by the highest amount, but Honed Edge isn’t awful, either. The first perk doesn’t matter too much, as the main draw of this version of Falling Guillotine is the movement capabilities of Eager Edge. However, Frenzy and Relentless Strikes are both the best options available in the first column. Building this sword with Eager Edge allows for incredible movement, especially with certain techniques like Shatterskating or Wellskating. Recommended Loadout: Riptide, Sunshot, Falling Guillotine. tags:pve
 dimwishlist:item=1815105249&perks=1749209109,2077819806
+dimwishlist:item=1815105249&perks=1749209109,1618208178
+dimwishlist:item=1815105249&perks=4085959009,2077819806
+dimwishlist:item=1815105249&perks=4085959009,1618208178
+dimwishlist:item=1815105249&perks=4104185692,2077819806
+dimwishlist:item=1815105249&perks=4104185692,1618208178
+dimwishlist:item=1815105249&perks=3007133316,2077819806
+dimwishlist:item=1815105249&perks=3007133316,1618208178
 dimwishlist:item=1815105249&perks=1546637391,2077819806
+dimwishlist:item=1815105249&perks=1546637391,1618208178
+dimwishlist:item=1815105249&perks=3418165135,2077819806
+dimwishlist:item=1815105249&perks=3418165135,1618208178
 
 
-// Falling Guillotine - Blueberries - PVE (DPS) (pve)
-//notes: T:A; BB PVE (DPS); Alt: Bequest, The Lament, The Slammer; MW: Impact tags:pve
-dimwishlist:item=1815105249&perks=4104185692,3708227201
-dimwishlist:item=1815105249&perks=4104185692,3913600130
-dimwishlist:item=1815105249&perks=1749209109,3708227201
+// Falling Guillotine - PVE (pve)
+//notes: MW: Impact; DPS; The Blade and Guard options of Jagged Edge and Swordmaster’s Guard remain the same. In terms of perks, there are a ton of avenues you can go down. Frenzy provides a higher damage buff, and also increases Handling, making it better on paper than Vorpal Weapon, but Vorpal Weapon doesn’t have an activation condition. For perk 2, Surrounded provides the best damage buff, but it can be awkward to activate, meaning some may prefer the simplicity of Whirlwind Blade. Recommended Loadout: Witherhoard, Zaouli’s Bane, Falling Guillotine. tags:pve
 dimwishlist:item=1815105249&perks=1749209109,3913600130
-dimwishlist:item=1815105249&perks=1546637391,3708227201
+dimwishlist:item=1815105249&perks=1749209109,147913470
+dimwishlist:item=1815105249&perks=1749209109,3708227201
+dimwishlist:item=1815105249&perks=1749209109,781192741
+dimwishlist:item=1815105249&perks=4085959009,3913600130
+dimwishlist:item=1815105249&perks=4085959009,147913470
+dimwishlist:item=1815105249&perks=4085959009,3708227201
+dimwishlist:item=1815105249&perks=4085959009,781192741
+dimwishlist:item=1815105249&perks=4104185692,3913600130
+dimwishlist:item=1815105249&perks=4104185692,147913470
+dimwishlist:item=1815105249&perks=4104185692,3708227201
+dimwishlist:item=1815105249&perks=4104185692,781192741
+dimwishlist:item=1815105249&perks=3007133316,3913600130
+dimwishlist:item=1815105249&perks=3007133316,147913470
+dimwishlist:item=1815105249&perks=3007133316,3708227201
+dimwishlist:item=1815105249&perks=3007133316,781192741
 dimwishlist:item=1815105249&perks=1546637391,3913600130
+dimwishlist:item=1815105249&perks=1546637391,147913470
+dimwishlist:item=1815105249&perks=1546637391,3708227201
+dimwishlist:item=1815105249&perks=1546637391,781192741
+dimwishlist:item=1815105249&perks=3418165135,3913600130
+dimwishlist:item=1815105249&perks=3418165135,147913470
+dimwishlist:item=1815105249&perks=3418165135,3708227201
+dimwishlist:item=1815105249&perks=3418165135,781192741
 
 
-// Falling Guillotine - Blueberries - PVP (pvp)
-//notes: T:B; BB PVP; Alt: Bequest, The Lament, The Slammer; MW: Impact tags:pvp
+// Falling Guillotine - PVP (pvp)
+//notes: MW: Impact; The Blade and Guard options don’t really matter inside of PvP, meaning players can opt for any Blade and Guard they really want. However, the perks may make a bit of a difference in certain situations. Vorpal Weapon could potentially make a difference against certain Supers that have lower damage resistance, and Eager Edge allows you to move around the map much faster, making it a fun and viable option. tags:pvp
 dimwishlist:item=1815105249&perks=1546637391,2077819806
+dimwishlist:item=1815105249&perks=1546637391,1618208178
+dimwishlist:item=1815105249&perks=3418165135,2077819806
+dimwishlist:item=1815105249&perks=3418165135,1618208178
 
 
 // The Summoner - PVE (god-pve,pve)
@@ -884,29 +950,84 @@ dimwishlist:item=1820994983&perks=1748774930,365154968
 dimwishlist:item=1820994983&perks=1748774930,2939589096
 
 
-// Hammerhead - Blueberries - God PVE (god-pve)
-//notes: T:S; BB God PVE; Alt: Commemoration, Song of Ir Yut; MW: Handling tags:god-pve
-dimwishlist:item=1896309757&perks=839105230,1087426260,3425386926,557221067
+// Hammerhead - PVE (god-pve)
+//notes: MW: Handling; We’ll opt for Arrowhead Break, Appended Mag, and a Handling masterwork to get more handling and a more manageable recoil. From there, Rampage and Killing Tally is our preferred combo, as it is what makes the Hammerhead unique. Plus, this is the perfect combo if you want to go all in on the damage output. Rewind Rounds and Killing Tally is also an excellent combination, but there’s tons of room for mixing it up here. Fourth Time’s the Charm, Feeding Frenzy, and Envious Assassin all provide similar benefits to Rewind Rounds. Onslaught is also worth mentioning in the final column, which just got re-released and pairs perfectly with something like Rampage. Recommended Loadout: The Mountaintop, Sunshot, Hammerhead. tags:god-pve
 dimwishlist:item=1896309757&perks=839105230,2420895100,3425386926,557221067
+dimwishlist:item=1896309757&perks=839105230,2420895100,3425386926,2896748467
+dimwishlist:item=1896309757&perks=839105230,2420895100,3425386926,95528736
+dimwishlist:item=1896309757&perks=839105230,2420895100,3425386926,956288240
+dimwishlist:item=1896309757&perks=839105230,2420895100,288411554,557221067
+dimwishlist:item=1896309757&perks=839105230,2420895100,288411554,2896748467
+dimwishlist:item=1896309757&perks=839105230,2420895100,288411554,95528736
+dimwishlist:item=1896309757&perks=839105230,2420895100,288411554,956288240
+dimwishlist:item=1896309757&perks=839105230,2420895100,3418782618,557221067
+dimwishlist:item=1896309757&perks=839105230,2420895100,3418782618,2896748467
+dimwishlist:item=1896309757&perks=839105230,2420895100,3418782618,95528736
+dimwishlist:item=1896309757&perks=839105230,2420895100,3418782618,956288240
+dimwishlist:item=1896309757&perks=839105230,2420895100,1563455254,557221067
+dimwishlist:item=1896309757&perks=839105230,2420895100,1563455254,2896748467
+dimwishlist:item=1896309757&perks=839105230,2420895100,1563455254,95528736
+dimwishlist:item=1896309757&perks=839105230,2420895100,1563455254,956288240
+dimwishlist:item=1896309757&perks=839105230,1087426260,3425386926,557221067
+dimwishlist:item=1896309757&perks=839105230,1087426260,3425386926,2896748467
+dimwishlist:item=1896309757&perks=839105230,1087426260,3425386926,95528736
+dimwishlist:item=1896309757&perks=839105230,1087426260,3425386926,956288240
+dimwishlist:item=1896309757&perks=839105230,1087426260,288411554,557221067
+dimwishlist:item=1896309757&perks=839105230,1087426260,288411554,2896748467
+dimwishlist:item=1896309757&perks=839105230,1087426260,288411554,95528736
+dimwishlist:item=1896309757&perks=839105230,1087426260,288411554,956288240
+dimwishlist:item=1896309757&perks=839105230,1087426260,3418782618,557221067
+dimwishlist:item=1896309757&perks=839105230,1087426260,3418782618,2896748467
+dimwishlist:item=1896309757&perks=839105230,1087426260,3418782618,95528736
+dimwishlist:item=1896309757&perks=839105230,1087426260,3418782618,956288240
+dimwishlist:item=1896309757&perks=839105230,1087426260,1563455254,557221067
+dimwishlist:item=1896309757&perks=839105230,1087426260,1563455254,2896748467
+dimwishlist:item=1896309757&perks=839105230,1087426260,1563455254,95528736
+dimwishlist:item=1896309757&perks=839105230,1087426260,1563455254,956288240
 
 
-// Hammerhead - Blueberries - God PVP (god-pvp)
-//notes: T:S; BB God PVP; Alt: Commemoration, Song of Ir Yut; MW: Stability tags:god-pvp
+// Hammerhead - PVP (god-pvp)
+//notes: MW: Stability; We’ll begin by opting for higher stability through Arrowhead Break, Ricochet Rounds, and a Stability masterwork. Rampage may seem like a strange choice for perk one, but its increased damage is realistically the best thing you can get out of this column for The Crucible. As for the final column, we chose Tap the Trigger since two damage perks seemed like overkill. However, if you want to try for an extremely short TTK instead of wanting more consistency, exploring other offerings in this column isn’t a bad idea. tags:god-pvp
 dimwishlist:item=1896309757&perks=839105230,1885400500,3425386926,1890422124
+dimwishlist:item=1896309757&perks=839105230,1885400500,3425386926,1523649716
+dimwishlist:item=1896309757&perks=839105230,1885400500,288411554,1890422124
+dimwishlist:item=1896309757&perks=839105230,1885400500,288411554,1523649716
+dimwishlist:item=1896309757&perks=839105230,1885400500,1870851715,1890422124
+dimwishlist:item=1896309757&perks=839105230,1885400500,1870851715,1523649716
+dimwishlist:item=1896309757&perks=839105230,1885400500,183938251,1890422124
+dimwishlist:item=1896309757&perks=839105230,1885400500,183938251,1523649716
 
 
-// Hammerhead - Blueberries - PVE (pve)
-//notes: T:S; BB PVE; Alt: Commemoration, Song of Ir Yut; MW: Handling tags:pve
+// Hammerhead - PVE (pve)
+//notes: MW: Handling; We’ll opt for Arrowhead Break, Appended Mag, and a Handling masterwork to get more handling and a more manageable recoil. From there, Rampage and Killing Tally is our preferred combo, as it is what makes the Hammerhead unique. Plus, this is the perfect combo if you want to go all in on the damage output. Rewind Rounds and Killing Tally is also an excellent combination, but there’s tons of room for mixing it up here. Fourth Time’s the Charm, Feeding Frenzy, and Envious Assassin all provide similar benefits to Rewind Rounds. Onslaught is also worth mentioning in the final column, which just got re-released and pairs perfectly with something like Rampage. Recommended Loadout: The Mountaintop, Sunshot, Hammerhead. tags:pve
 dimwishlist:item=1896309757&perks=3425386926,557221067
+dimwishlist:item=1896309757&perks=3425386926,2896748467
 dimwishlist:item=1896309757&perks=3425386926,95528736
+dimwishlist:item=1896309757&perks=3425386926,956288240
+dimwishlist:item=1896309757&perks=288411554,557221067
+dimwishlist:item=1896309757&perks=288411554,2896748467
+dimwishlist:item=1896309757&perks=288411554,95528736
+dimwishlist:item=1896309757&perks=288411554,956288240
 dimwishlist:item=1896309757&perks=3418782618,557221067
+dimwishlist:item=1896309757&perks=3418782618,2896748467
 dimwishlist:item=1896309757&perks=3418782618,95528736
+dimwishlist:item=1896309757&perks=3418782618,956288240
+dimwishlist:item=1896309757&perks=1563455254,557221067
+dimwishlist:item=1896309757&perks=1563455254,2896748467
+dimwishlist:item=1896309757&perks=1563455254,95528736
+dimwishlist:item=1896309757&perks=1563455254,956288240
 
 
-// Hammerhead - Blueberries - God PVP (pvp)
-//notes: T:S; BB PVP; Alt: Commemoration, Song of Ir Yut; MW: Stability tags:pvp
+// Hammerhead - PVP (pvp)
+//notes: MW: Stability; We’ll begin by opting for higher stability through Arrowhead Break, Ricochet Rounds, and a Stability masterwork. Rampage may seem like a strange choice for perk one, but its increased damage is realistically the best thing you can get out of this column for The Crucible. As for the final column, we chose Tap the Trigger since two damage perks seemed like overkill. However, if you want to try for an extremely short TTK instead of wanting more consistency, exploring other offerings in this column isn’t a bad idea. tags:pvp
 dimwishlist:item=1896309757&perks=3425386926,1890422124
+dimwishlist:item=1896309757&perks=3425386926,1523649716
+dimwishlist:item=1896309757&perks=288411554,1890422124
+dimwishlist:item=1896309757&perks=288411554,1523649716
 dimwishlist:item=1896309757&perks=1870851715,1890422124
+dimwishlist:item=1896309757&perks=1870851715,1523649716
+dimwishlist:item=1896309757&perks=183938251,1890422124
+dimwishlist:item=1896309757&perks=183938251,1523649716
 
 
 // Breachlight - PVE Grenade Build (pve)
@@ -978,98 +1099,228 @@ dimwishlist:item=2350330520&perks=3198323828,2923251173
 dimwishlist:item=2357297366&perks=3809316345,1996142143,745965939,3465198467
 
 
-// Blast Furnace - Blueberries - God PVE (god-pve)
-//notes: T:B; BB God PVE; Alt: Belisarius-D, Disparity; MW: Handling tags:god-pve
+// Blast Furnace - PVE (god-pve)
+//notes: MW: Handling Pulses in PvE have seen highs and lows, but Blast Furnace might be able to break the mold they have been in for quite some time. Its amazing base stats means not much needs to be kicked up, but its handling is objectively sub-par, so we’ll use Fluted Barrel to kick it up a notch. Pair it with Flared Magwell for a reload speed buff, as well as a slight stability bump. For perk 1, it’s a “no contest” for Kinetic Tremors. Shoot to Loot, while nice to have, feels like a waste when a free damage perk is in the same slot. Since Blast Furnace fires 4 shots a burst, it’ll only take 3 bursts to activate it, as opposed to 4 on all others. Perk 2 has a lot of good in it, but it’s a toss-up between Desperate Measures and One-For-All. Desperate Measures requires a kill with the weapon or abilities to activate, whereas One-For-All doesn’t, and will also activate from Kinetic Tremors. tags:god-pve
 dimwishlist:item=2372514508&perks=1840239774,1087426260,3891536761,2109543898
+dimwishlist:item=2372514508&perks=1840239774,1087426260,3891536761,2799030358
 dimwishlist:item=2372514508&perks=1840239774,1087426260,3891536761,4049631843
+dimwishlist:item=2372514508&perks=1840239774,1087426260,3891536761,859780267
+dimwishlist:item=2372514508&perks=1840239774,1087426260,1549370717,2109543898
+dimwishlist:item=2372514508&perks=1840239774,1087426260,1549370717,2799030358
+dimwishlist:item=2372514508&perks=1840239774,1087426260,1549370717,4049631843
+dimwishlist:item=2372514508&perks=1840239774,1087426260,1549370717,859780267
+dimwishlist:item=2372514508&perks=1840239774,1087426260,3700496672,2109543898
+dimwishlist:item=2372514508&perks=1840239774,1087426260,3700496672,2799030358
+dimwishlist:item=2372514508&perks=1840239774,1087426260,3700496672,4049631843
+dimwishlist:item=2372514508&perks=1840239774,1087426260,3700496672,859780267
+dimwishlist:item=2372514508&perks=1840239774,1087426260,2840833776,2109543898
+dimwishlist:item=2372514508&perks=1840239774,1087426260,2840833776,2799030358
+dimwishlist:item=2372514508&perks=1840239774,1087426260,2840833776,4049631843
+dimwishlist:item=2372514508&perks=1840239774,1087426260,2840833776,859780267
 
 
-// Blast Furnace - Blueberries - God PVP 3v3 (god-pvp)
-//notes: T:A; BB God PVP 3v3; Alt: Belisarius-D, Disparity; MW: Stability or Handling tags:god-pvp
+// Blast Furnace - PVP - 3v3 (god-pvp)
+//notes: MW: Stability or Handling; 3v3; PvP is where Blast Furnace will shine. A base of 79 range and 64 stability puts it above all other pulses in its frame, with the only downside being the base 65 recoil, but that’s easily fixable with Arrowhead Break, which will put it to 95 before a Counterbalance Stock mods bumps it to 100. Accurized Rounds will provide a +10 to your range, which is perfect for fighting longer range weapons. Perk 1 has many good PvP perks that it’s hard to narrow them down, but Zen Moment or Headseeker are what most are going to look for. Zen Moment will keep your reticle on target throughout the duel, and Headseeker can help push the fight in your favor if you miss a crit or two. Perk 2 really only has Rapid-Hit for 3v3 modes, as all the others are kill based, but who’s going to say ‘no’ to even more stability? tags:god-pvp
 dimwishlist:item=2372514508&perks=839105230,3142289711,2387244414,247725512
+dimwishlist:item=2372514508&perks=839105230,3142289711,2387244414,2938480696
 dimwishlist:item=2372514508&perks=839105230,3142289711,460017080,247725512
+dimwishlist:item=2372514508&perks=839105230,3142289711,460017080,2938480696
+dimwishlist:item=2372514508&perks=839105230,3142289711,1748774930,247725512
+dimwishlist:item=2372514508&perks=839105230,3142289711,1748774930,2938480696
+dimwishlist:item=2372514508&perks=839105230,3142289711,4045335048,247725512
+dimwishlist:item=2372514508&perks=839105230,3142289711,4045335048,2938480696
 
 
-// Blast Furnace - Blueberries - God PVP 6v6 (god-pvp)
-//notes: T:A; BB God PVP 6v6; Alt: Belisarius-D, Disparity; MW: Stability or Handling tags:god-pvp
+// Blast Furnace - PVP - 6v6 (god-pvp)
+//notes: MW: Stability or Handling; 6v6; In 6v6 modes, you’ll find a good place for Perpetual Motion given how they play. Perpetual Motion gives you free stability for simply moving around, which is quite common when so many people are on the field. For Perk 2, any of the kill-based perks will work best, but Kill Clip and Rampage will probably be the easiest to use. Desperate Measures gets an honorable mention, too. tags:god-pvp
 dimwishlist:item=2372514508&perks=839105230,3142289711,2387244414,1015611457
+dimwishlist:item=2372514508&perks=839105230,3142289711,2387244414,2923251173
+dimwishlist:item=2372514508&perks=839105230,3142289711,2387244414,3425386926
+dimwishlist:item=2372514508&perks=839105230,3142289711,2387244414,288411554
+dimwishlist:item=2372514508&perks=839105230,3142289711,1748774930,1015611457
+dimwishlist:item=2372514508&perks=839105230,3142289711,1748774930,2923251173
+dimwishlist:item=2372514508&perks=839105230,3142289711,1748774930,3425386926
+dimwishlist:item=2372514508&perks=839105230,3142289711,1748774930,288411554
 dimwishlist:item=2372514508&perks=839105230,3142289711,1428297954,1015611457
+dimwishlist:item=2372514508&perks=839105230,3142289711,1428297954,2923251173
+dimwishlist:item=2372514508&perks=839105230,3142289711,1428297954,3425386926
+dimwishlist:item=2372514508&perks=839105230,3142289711,1428297954,288411554
+dimwishlist:item=2372514508&perks=839105230,3142289711,2014892510,1015611457
+dimwishlist:item=2372514508&perks=839105230,3142289711,2014892510,2923251173
+dimwishlist:item=2372514508&perks=839105230,3142289711,2014892510,3425386926
+dimwishlist:item=2372514508&perks=839105230,3142289711,2014892510,288411554
 
 
-// Blast Furnace - Blueberries - PVE (pve)
-//notes: T:B; BB PVE; Alt: Belisarius-D, Disparity; MW: Handling tags:pve
+// Blast Furnace - PVE (pve)
+//notes: MW: Handling Pulses in PvE have seen highs and lows, but Blast Furnace might be able to break the mold they have been in for quite some time. Its amazing base stats means not much needs to be kicked up, but its handling is objectively sub-par, so we’ll use Fluted Barrel to kick it up a notch. Pair it with Flared Magwell for a reload speed buff, as well as a slight stability bump. For perk 1, it’s a “no contest” for Kinetic Tremors. Shoot to Loot, while nice to have, feels like a waste when a free damage perk is in the same slot. Since Blast Furnace fires 4 shots a burst, it’ll only take 3 bursts to activate it, as opposed to 4 on all others. Perk 2 has a lot of good in it, but it’s a toss-up between Desperate Measures and One-For-All. Desperate Measures requires a kill with the weapon or abilities to activate, whereas One-For-All doesn’t, and will also activate from Kinetic Tremors. tags:pve
 dimwishlist:item=2372514508&perks=3891536761,2109543898
+dimwishlist:item=2372514508&perks=3891536761,2799030358
 dimwishlist:item=2372514508&perks=3891536761,4049631843
+dimwishlist:item=2372514508&perks=3891536761,859780267
+dimwishlist:item=2372514508&perks=1549370717,2109543898
+dimwishlist:item=2372514508&perks=1549370717,2799030358
+dimwishlist:item=2372514508&perks=1549370717,4049631843
+dimwishlist:item=2372514508&perks=1549370717,859780267
 dimwishlist:item=2372514508&perks=3700496672,2109543898
+dimwishlist:item=2372514508&perks=3700496672,2799030358
 dimwishlist:item=2372514508&perks=3700496672,4049631843
+dimwishlist:item=2372514508&perks=3700496672,859780267
+dimwishlist:item=2372514508&perks=2840833776,2109543898
+dimwishlist:item=2372514508&perks=2840833776,2799030358
+dimwishlist:item=2372514508&perks=2840833776,4049631843
+dimwishlist:item=2372514508&perks=2840833776,859780267
 
 
-// Blast Furnace - Blueberries - PVP 3v3 (pvp)
-//notes: T:A; BB God PVP 3v3; Alt: Belisarius-D, Disparity; MW: Stability or Handling tags:pvp
+// Blast Furnace - PVP - 3v3 (pvp)
+//notes: MW: Stability or Handling; 3v3; PvP is where Blast Furnace will shine. A base of 79 range and 64 stability puts it above all other pulses in its frame, with the only downside being the base 65 recoil, but that’s easily fixable with Arrowhead Break, which will put it to 95 before a Counterbalance Stock mods bumps it to 100. Accurized Rounds will provide a +10 to your range, which is perfect for fighting longer range weapons. Perk 1 has many good PvP perks that it’s hard to narrow them down, but Zen Moment or Headseeker are what most are going to look for. Zen Moment will keep your reticle on target throughout the duel, and Headseeker can help push the fight in your favor if you miss a crit or two. Perk 2 really only has Rapid-Hit for 3v3 modes, as all the others are kill based, but who’s going to say ‘no’ to even more stability? tags:pvp
 dimwishlist:item=2372514508&perks=2387244414,247725512
+dimwishlist:item=2372514508&perks=2387244414,2938480696
 dimwishlist:item=2372514508&perks=460017080,247725512
+dimwishlist:item=2372514508&perks=460017080,2938480696
+dimwishlist:item=2372514508&perks=1748774930,247725512
+dimwishlist:item=2372514508&perks=1748774930,2938480696
+dimwishlist:item=2372514508&perks=4045335048,247725512
+dimwishlist:item=2372514508&perks=4045335048,2938480696
 
 
-// Blast Furnace - Blueberries - PVP 6v6 (pvp)
-//notes: T:A; BB PVP 6v6; Alt: Belisarius-D, Disparity; MW: Stability or Handling tags:pvp
+// Blast Furnace - PVP - 6v6 (pvp)
+//notes: MW: Stability or Handling; 6v6; In 6v6 modes, you’ll find a good place for Perpetual Motion given how they play. Perpetual Motion gives you free stability for simply moving around, which is quite common when so many people are on the field. For Perk 2, any of the kill-based perks will work best, but Kill Clip and Rampage will probably be the easiest to use. Desperate Measures gets an honorable mention, too. tags:pvp
 dimwishlist:item=2372514508&perks=2387244414,1015611457
+dimwishlist:item=2372514508&perks=2387244414,2923251173
 dimwishlist:item=2372514508&perks=2387244414,3425386926
+dimwishlist:item=2372514508&perks=2387244414,288411554
+dimwishlist:item=2372514508&perks=1748774930,1015611457
+dimwishlist:item=2372514508&perks=1748774930,2923251173
+dimwishlist:item=2372514508&perks=1748774930,3425386926
+dimwishlist:item=2372514508&perks=1748774930,288411554
 dimwishlist:item=2372514508&perks=1428297954,1015611457
+dimwishlist:item=2372514508&perks=1428297954,2923251173
 dimwishlist:item=2372514508&perks=1428297954,3425386926
+dimwishlist:item=2372514508&perks=1428297954,288411554
+dimwishlist:item=2372514508&perks=2014892510,1015611457
+dimwishlist:item=2372514508&perks=2014892510,2923251173
+dimwishlist:item=2372514508&perks=2014892510,3425386926
+dimwishlist:item=2372514508&perks=2014892510,288411554
 
 
-// Elsie's Rifle - Blueberries - God PVE (GM) (god-pve)
-//notes: T:A; BB God PVE (GM); Alt: Phyllotactic Spiral, The Messenger; MW: Reload tags:god-pve
+// Elsie's Rifle - PVE (god-pve)
+//notes: MW: Reload; GMs; As previously mentioned, pulse rifles in end-game PvE aren’t that common for a variety of reasons, but they can still hold their own, with the right perks. Fluted Barrel will make it feel less clunky, and Tactical Mag provides some stability as well as an extra burst in the mag. Rewind Rounds is arguably the strongest in Column 3, given the high health of endgame enemies. Kill-based perks can be viable, but not on puls Recommended Loadout: Forerunner, Elsie’s Rifle, Apex Predator tags:god-pve
 dimwishlist:item=2372514509&perks=1840239774,3230963543,3418782618,4104185692
+dimwishlist:item=2372514509&perks=1840239774,3230963543,3418782618,3007133316
+dimwishlist:item=2372514509&perks=1840239774,3230963543,1563455254,4104185692
+dimwishlist:item=2372514509&perks=1840239774,3230963543,1563455254,3007133316
 
 
-// Elsie's Rifle - Blueberries - God PVE (god-pve)
-//notes: T:A; BB God PVE; Alt: Phyllotactic Spiral, The Messenger; MW: Reload tags:god-pve
-dimwishlist:item=2372514509&perks=1840239774,3230963543,776531651,2109543898
+// Elsie's Rifle - PVE (god-pve)
+//notes: MW: Reload; Ads; For general content, getting kills with pulses is much easier, so perks like Repulsor Brace and Destabilizing Rounds can be great for chaining an overshield, or Feeding Frenzy and Desperate Measures for pure damage output. Recommended Loadout: Any Special ammo weapon, Elsie’s Rifle, Deterministic Chaos. tags:god-pve
 dimwishlist:item=2372514509&perks=1840239774,3230963543,776531651,2048641572
-dimwishlist:item=2372514509&perks=1840239774,3230963543,2779035018,2109543898
+dimwishlist:item=2372514509&perks=1840239774,3230963543,776531651,1926441324
+dimwishlist:item=2372514509&perks=1840239774,3230963543,776531651,2109543898
+dimwishlist:item=2372514509&perks=1840239774,3230963543,776531651,2799030358
+dimwishlist:item=2372514509&perks=1840239774,3230963543,2541826827,2048641572
+dimwishlist:item=2372514509&perks=1840239774,3230963543,2541826827,1926441324
+dimwishlist:item=2372514509&perks=1840239774,3230963543,2541826827,2109543898
+dimwishlist:item=2372514509&perks=1840239774,3230963543,2541826827,2799030358
 dimwishlist:item=2372514509&perks=1840239774,3230963543,2779035018,2048641572
+dimwishlist:item=2372514509&perks=1840239774,3230963543,2779035018,1926441324
+dimwishlist:item=2372514509&perks=1840239774,3230963543,2779035018,2109543898
+dimwishlist:item=2372514509&perks=1840239774,3230963543,2779035018,2799030358
+dimwishlist:item=2372514509&perks=1840239774,3230963543,1171147302,2048641572
+dimwishlist:item=2372514509&perks=1840239774,3230963543,1171147302,1926441324
+dimwishlist:item=2372514509&perks=1840239774,3230963543,1171147302,2109543898
+dimwishlist:item=2372514509&perks=1840239774,3230963543,1171147302,2799030358
 
 
-// Elsie's Rifle - Blueberries - God PVP (3v3) (god-pvp)
-//notes: T:S; BB God PVP (3v3); Alt: Phyllotactic Spiral, The Messenger; MW: Range tags:god-pvp
+// Elsie's Rifle - PVP (god-pvp)
+//notes: MW: Range; 3v3; High-Impacts continue to dominate the sandbox, so it’s only right that we beef this one up as much as possible. Arrowhead Break is your best barrel since the max range roll only pushes the effective TTK range by 2 meters, and being able to actually hit your shots is more important than how far they can hit. Pair with Ricochet Rounds for even more stability and a slight range bump. Zen Moment or Keep Away are equally good, but keep in mind that Keep Away drops the moment a single person is close by, though the range buff is quite nice. Headseeker will help keep your shots on target in the event you hit a body shot. tags:god-pvp
 dimwishlist:item=2372514509&perks=839105230,1885400500,2387244414,460017080
+dimwishlist:item=2372514509&perks=839105230,1885400500,2387244414,4045335048
+dimwishlist:item=2372514509&perks=839105230,1885400500,1748774930,460017080
+dimwishlist:item=2372514509&perks=839105230,1885400500,1748774930,4045335048
 dimwishlist:item=2372514509&perks=839105230,1885400500,3619207468,460017080
+dimwishlist:item=2372514509&perks=839105230,1885400500,3619207468,4045335048
+dimwishlist:item=2372514509&perks=839105230,1885400500,3198323828,460017080
+dimwishlist:item=2372514509&perks=839105230,1885400500,3198323828,4045335048
 
 
-// Elsie's Rifle - Blueberries - God PVP (6v6) (god-pvp)
-//notes: T:S; BB God PVP (6v6); Alt: Phyllotactic Spiral, The Messenger; MW: Range tags:god-pvp
+// Elsie's Rifle - PVP (god-pvp)
+//notes: MW: Range; 6v6; The only real difference here are the perks. Desperado, though nerfed, is still an excellent perk when multiple targets are available at once, letting you take full advantage of your temporary 600 RPM pulse rifle. Kill Clip is also great, providing a 25% damage buff that can be refreshed! tags:god-pvp
 dimwishlist:item=2372514509&perks=839105230,1885400500,2387244414,3047969693
+dimwishlist:item=2372514509&perks=839105230,1885400500,2387244414,624891305
 dimwishlist:item=2372514509&perks=839105230,1885400500,2387244414,1015611457
+dimwishlist:item=2372514509&perks=839105230,1885400500,2387244414,2923251173
+dimwishlist:item=2372514509&perks=839105230,1885400500,1748774930,3047969693
+dimwishlist:item=2372514509&perks=839105230,1885400500,1748774930,624891305
+dimwishlist:item=2372514509&perks=839105230,1885400500,1748774930,1015611457
+dimwishlist:item=2372514509&perks=839105230,1885400500,1748774930,2923251173
 dimwishlist:item=2372514509&perks=839105230,1885400500,3619207468,3047969693
+dimwishlist:item=2372514509&perks=839105230,1885400500,3619207468,624891305
 dimwishlist:item=2372514509&perks=839105230,1885400500,3619207468,1015611457
+dimwishlist:item=2372514509&perks=839105230,1885400500,3619207468,2923251173
+dimwishlist:item=2372514509&perks=839105230,1885400500,3198323828,3047969693
+dimwishlist:item=2372514509&perks=839105230,1885400500,3198323828,624891305
+dimwishlist:item=2372514509&perks=839105230,1885400500,3198323828,1015611457
+dimwishlist:item=2372514509&perks=839105230,1885400500,3198323828,2923251173
 
 
-// Elsie's Rifle - Blueberries - PVE (GM) (pve)
-//notes: T:A; BB PVE (GM); Alt: Phyllotactic Spiral, The Messenger; MW: Reload tags:pve
+// Elsie's Rifle - PVE (pve)
+//notes: MW: Reload; GMs; As previously mentioned, pulse rifles in end-game PvE aren’t that common for a variety of reasons, but they can still hold their own, with the right perks. Fluted Barrel will make it feel less clunky, and Tactical Mag provides some stability as well as an extra burst in the mag. Rewind Rounds is arguably the strongest in Column 3, given the high health of endgame enemies. Kill-based perks can be viable, but not on puls Recommended Loadout: Forerunner, Elsie’s Rifle, Apex Predator tags:pve
 dimwishlist:item=2372514509&perks=3418782618,4104185692
+dimwishlist:item=2372514509&perks=3418782618,3007133316
+dimwishlist:item=2372514509&perks=1563455254,4104185692
+dimwishlist:item=2372514509&perks=1563455254,3007133316
 
 
-// Elsie's Rifle - Blueberries - PVE (pve)
-//notes: T:A; BB PVE; Alt: Phyllotactic Spiral, The Messenger; MW: Reload tags:pve
-dimwishlist:item=2372514509&perks=776531651,2109543898
+// Elsie's Rifle - PVE (pve)
+//notes: MW: Reload; Ads; For general content, getting kills with pulses is much easier, so perks like Repulsor Brace and Destabilizing Rounds can be great for chaining an overshield, or Feeding Frenzy and Desperate Measures for pure damage output. Recommended Loadout: Any Special ammo weapon, Elsie’s Rifle, Deterministic Chaos. tags:pve
 dimwishlist:item=2372514509&perks=776531651,2048641572
-dimwishlist:item=2372514509&perks=2779035018,2109543898
+dimwishlist:item=2372514509&perks=776531651,1926441324
+dimwishlist:item=2372514509&perks=776531651,2109543898
+dimwishlist:item=2372514509&perks=776531651,2799030358
+dimwishlist:item=2372514509&perks=2541826827,2048641572
+dimwishlist:item=2372514509&perks=2541826827,1926441324
+dimwishlist:item=2372514509&perks=2541826827,2109543898
+dimwishlist:item=2372514509&perks=2541826827,2799030358
 dimwishlist:item=2372514509&perks=2779035018,2048641572
+dimwishlist:item=2372514509&perks=2779035018,1926441324
+dimwishlist:item=2372514509&perks=2779035018,2109543898
+dimwishlist:item=2372514509&perks=2779035018,2799030358
+dimwishlist:item=2372514509&perks=1171147302,2048641572
+dimwishlist:item=2372514509&perks=1171147302,1926441324
+dimwishlist:item=2372514509&perks=1171147302,2109543898
+dimwishlist:item=2372514509&perks=1171147302,2799030358
 
 
-// Elsie's Rifle - Blueberries - PVP (3v3) (pvp)
-//notes: T:S; BB God (3v3); Alt: Phyllotactic Spiral, The Messenger; MW: Range tags:pvp
+// Elsie's Rifle - PVP (pvp)
+//notes: MW: Range; 3v3; High-Impacts continue to dominate the sandbox, so it’s only right that we beef this one up as much as possible. Arrowhead Break is your best barrel since the max range roll only pushes the effective TTK range by 2 meters, and being able to actually hit your shots is more important than how far they can hit. Pair with Ricochet Rounds for even more stability and a slight range bump. Zen Moment or Keep Away are equally good, but keep in mind that Keep Away drops the moment a single person is close by, though the range buff is quite nice. Headseeker will help keep your shots on target in the event you hit a body shot. tags:pvp
 dimwishlist:item=2372514509&perks=2387244414,460017080
+dimwishlist:item=2372514509&perks=2387244414,4045335048
+dimwishlist:item=2372514509&perks=1748774930,460017080
+dimwishlist:item=2372514509&perks=1748774930,4045335048
 dimwishlist:item=2372514509&perks=3619207468,460017080
+dimwishlist:item=2372514509&perks=3619207468,4045335048
+dimwishlist:item=2372514509&perks=3198323828,460017080
+dimwishlist:item=2372514509&perks=3198323828,4045335048
 
 
-// Elsie's Rifle - Blueberries - PVP (6v6) (pvp)
-//notes: T:S; BB PVP (6v6); Alt: Phyllotactic Spiral, The Messenger; MW: Range tags:pvp
+// Elsie's Rifle - PVP (pvp)
+//notes: MW: Range; 6v6; The only real difference here are the perks. Desperado, though nerfed, is still an excellent perk when multiple targets are available at once, letting you take full advantage of your temporary 600 RPM pulse rifle. Kill Clip is also great, providing a 25% damage buff that can be refreshed! tags:pvp
 dimwishlist:item=2372514509&perks=2387244414,3047969693
+dimwishlist:item=2372514509&perks=2387244414,624891305
 dimwishlist:item=2372514509&perks=2387244414,1015611457
+dimwishlist:item=2372514509&perks=2387244414,2923251173
+dimwishlist:item=2372514509&perks=1748774930,3047969693
+dimwishlist:item=2372514509&perks=1748774930,624891305
+dimwishlist:item=2372514509&perks=1748774930,1015611457
+dimwishlist:item=2372514509&perks=1748774930,2923251173
 dimwishlist:item=2372514509&perks=3619207468,3047969693
+dimwishlist:item=2372514509&perks=3619207468,624891305
 dimwishlist:item=2372514509&perks=3619207468,1015611457
+dimwishlist:item=2372514509&perks=3619207468,2923251173
+dimwishlist:item=2372514509&perks=3198323828,3047969693
+dimwishlist:item=2372514509&perks=3198323828,624891305
+dimwishlist:item=2372514509&perks=3198323828,1015611457
+dimwishlist:item=2372514509&perks=3198323828,2923251173
 
 
 // CALUS Mini-Tool - PVE (pve,god-pve)
