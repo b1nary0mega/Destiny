@@ -1251,6 +1251,38 @@ dimwishlist:item=2152484073&perks=2717805783,1015611457
 dimwishlist:item=2152484073&perks=2717805783,2923251173
 
 
+// Patron of Lost Causes - PVP (god-pvp)
+//notes: MW: Handling; Counterbalance Mod; Unlike with most PVP weapons, we are not focusing on the range as scout rifles have plenty of it built in. So Arrowhead Brake and Counterbalance Stock mod increase our handling and reduce our recoil to make the weapon feel incredibly accurate and snappy. Tactical Mag gives us an extra bullet while boosting our stability and reload speed. Also, To the Pain increases our handling and aim assist while we take damage ensuring we have the advantage in any duels. Lastly, Explosive Payload is our final perk choice that causes massive flinch to our enemies. Since most engagements with a scout rifle will be against other scout rifles, flinching our enemies could be the difference in winning our engagements. Scout rifles are potent long-range PVP weapons, however, they require a passive playstyle and playing at range to be effective. They pack a nice punch and are very easy to control making them great for extended-range maps. However, Patron of Lost Causes has nothing special versus other scout rifles so only collect this one if you don’t already have a great option. tags:god-pvp
+dimwishlist:item=2249996761&perks=839105230,106909392,3938834702,3038247973
+dimwishlist:item=2249996761&perks=839105230,106909392,3938834702,64866129
+dimwishlist:item=2249996761&perks=839105230,106909392,3416609154,3038247973
+dimwishlist:item=2249996761&perks=839105230,106909392,3416609154,64866129
+
+
+// Patron of Lost Causes - PVE (god-pve)
+//notes: MW: Handling; Counterbalance; Scout Rifles are powerful weapons in PVE for long-range combat and Patron of Lost Causes is no exception. Firstly, the Arrowhead Brake and Counterbalance Stock allow our recoil to be as manageable as possible and boost our stability. Tactical Mag and Rapid Hit boost our stability and reload ensuring we can land consecutive shots, and don’t spend too much time reloading. Lastly, Kinetic Tremors provide a nice area of effect shockwave to deal extra damage to high-health targets and wipe out any low-health trash enemies nearby. These perks combine to give us a stacked scout rifle with some great perks. The biggest negative of scout rifles is their primary usage in long-range encounters and higher-level content like Grandmaster Nightfalls. Outside of these use cases, they fall short against other weapons in PVE for damage. This can be a great option for players needing a good kinetic scout but doesn’t hold anything special for those who already have great rolled scout rifles. tags:god-pve
+dimwishlist:item=2249996761&perks=839105230,106909392,247725512,3891536761
+dimwishlist:item=2249996761&perks=839105230,106909392,247725512,1549370717
+dimwishlist:item=2249996761&perks=839105230,106909392,2938480696,3891536761
+dimwishlist:item=2249996761&perks=839105230,106909392,2938480696,1549370717
+
+
+// Patron of Lost Causes - PVP (pvp)
+//notes: MW: Handling; Counterbalance Mod; Unlike with most PVP weapons, we are not focusing on the range as scout rifles have plenty of it built in. So Arrowhead Brake and Counterbalance Stock mod increase our handling and reduce our recoil to make the weapon feel incredibly accurate and snappy. Tactical Mag gives us an extra bullet while boosting our stability and reload speed. Also, To the Pain increases our handling and aim assist while we take damage ensuring we have the advantage in any duels. Lastly, Explosive Payload is our final perk choice that causes massive flinch to our enemies. Since most engagements with a scout rifle will be against other scout rifles, flinching our enemies could be the difference in winning our engagements. Scout rifles are potent long-range PVP weapons, however, they require a passive playstyle and playing at range to be effective. They pack a nice punch and are very easy to control making them great for extended-range maps. However, Patron of Lost Causes has nothing special versus other scout rifles so only collect this one if you don’t already have a great option. tags:pvp
+dimwishlist:item=2249996761&perks=3938834702,3038247973
+dimwishlist:item=2249996761&perks=3938834702,64866129
+dimwishlist:item=2249996761&perks=3416609154,3038247973
+dimwishlist:item=2249996761&perks=3416609154,64866129
+
+
+// Patron of Lost Causes - PVE (pve)
+//notes: MW: Handling; Counterbalance; Scout Rifles are powerful weapons in PVE for long-range combat and Patron of Lost Causes is no exception. Firstly, the Arrowhead Brake and Counterbalance Stock allow our recoil to be as manageable as possible and boost our stability. Tactical Mag and Rapid Hit boost our stability and reload ensuring we can land consecutive shots, and don’t spend too much time reloading. Lastly, Kinetic Tremors provide a nice area of effect shockwave to deal extra damage to high-health targets and wipe out any low-health trash enemies nearby. These perks combine to give us a stacked scout rifle with some great perks. The biggest negative of scout rifles is their primary usage in long-range encounters and higher-level content like Grandmaster Nightfalls. Outside of these use cases, they fall short against other weapons in PVE for damage. This can be a great option for players needing a good kinetic scout but doesn’t hold anything special for those who already have great rolled scout rifles. tags:pve
+dimwishlist:item=2249996761&perks=247725512,3891536761
+dimwishlist:item=2249996761&perks=247725512,1549370717
+dimwishlist:item=2249996761&perks=2938480696,3891536761
+dimwishlist:item=2249996761&perks=2938480696,1549370717
+
+
 // Breachlight - PVE Grenade Build (pve)
 //notes: PVE Grenade Build tags:pve
 dimwishlist:item=2328923181&perks=3523296417,11612903
@@ -1825,6 +1857,38 @@ dimwishlist:item=2821677368&perks=1523832109,555281244
 dimwishlist:item=2821677368&perks=1523832109,332733060
 dimwishlist:item=2821677368&perks=461595545,555281244
 dimwishlist:item=2821677368&perks=461595545,332733060
+
+
+// Laser Painter - PVE (god-pve)
+//notes: MW: Range;  tags:god-pve
+dimwishlist:item=3221722018&perks=839105230,689005463,247725512,2896038713,3988215619
+dimwishlist:item=3221722018&perks=839105230,689005463,247725512,2402480669,3988215619
+dimwishlist:item=3221722018&perks=839105230,689005463,2938480696,2896038713,3988215619
+dimwishlist:item=3221722018&perks=839105230,689005463,2938480696,2402480669,3988215619
+
+
+// Laser Painter - PVP (god-pvp)
+//notes: MW: Range; Targeting Adj;  tags:god-pvp
+dimwishlist:item=3221722018&perks=3250034553,2969185026,2451262963,438098033,3988215619
+dimwishlist:item=3221722018&perks=3250034553,2969185026,2451262963,2748801589,3988215619
+dimwishlist:item=3221722018&perks=3250034553,2969185026,1609056795,438098033,3988215619
+dimwishlist:item=3221722018&perks=3250034553,2969185026,1609056795,2748801589,3988215619
+
+
+// Laser Painter - PVE (pve)
+//notes: MW: Range;  tags:pve
+dimwishlist:item=3221722018&perks=247725512,2896038713,3988215619
+dimwishlist:item=3221722018&perks=247725512,2402480669,3988215619
+dimwishlist:item=3221722018&perks=2938480696,2896038713,3988215619
+dimwishlist:item=3221722018&perks=2938480696,2402480669,3988215619
+
+
+// Laser Painter - PVP (pvp)
+//notes: MW: Range; Targeting Adj;  tags:pvp
+dimwishlist:item=3221722018&perks=2451262963,438098033,3988215619
+dimwishlist:item=3221722018&perks=2451262963,2748801589,3988215619
+dimwishlist:item=3221722018&perks=1609056795,438098033,3988215619
+dimwishlist:item=3221722018&perks=1609056795,2748801589,3988215619
 
 
 // Someday - PVE (god-pve,pve)
