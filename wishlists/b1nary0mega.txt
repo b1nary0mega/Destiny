@@ -2390,6 +2390,38 @@ dimwishlist:item=3969379530&perks=1748774930,1015611457
 dimwishlist:item=3969379530&perks=1748774930,2923251173
 
 
+// Faith-Keeper - PVE (god-pve)
+//notes: MW: Handling; Quick Access Mod; As with most rocket launchers, Quick Launch and Impact Casing are the best minor perks as they increase handling and improve the overall damage of the rocket. Auto-Loading Holster allows you to switch to another weapon to continue firing another weapon while Faith-Keeper is reloading in the background. Explosive Light is a great damage perk that activate just by picking up Orbs of Power, something that happens often during normal gameplay. Rocket Launchers are notable for being some of the best single-target burst damage in the game. Faith-Keeper is a precision frame, so it does suffer from an overall damage loss compared to other rockets, but it is not a terrible option. Consider it a solid option when you need a void rocket. tags:god-pve
+dimwishlist:item=4195186942&perks=3525010810,3796465595,3300816228,3194351027
+dimwishlist:item=4195186942&perks=3525010810,3796465595,3300816228,2275087323
+dimwishlist:item=4195186942&perks=3525010810,3796465595,3528046508,3194351027
+dimwishlist:item=4195186942&perks=3525010810,3796465595,3528046508,2275087323
+
+
+// Faith-Keeper - PVP (god-pvp)
+//notes: MW: Velocity; Quick Access Mod; Contrary to the PvE roll, Hard Launch and High-Velocity Rounds are all about making the rocket travel faster. Players are better at avoiding danger than PvE combatants, so giving them less time to react by increasing Velocity is very important. Impulse Amplifier further increases the velocity of the rocket. There aren’t many great options in Column 4, so you can really choose whatever suits your particular playstyle. We chose Demolitonist as it was the most passively beneficial option. Rocket Launchers are decent PVP weapons that essentially get you a free kill or two with a single shot providing you don’t miss. Precision frame rockets tend to be good in PvP because of their innate tracking, and Faith-Keeper is a decent option among them. The lack of a decent 4th Column option is rough though, and does make it sub-par compared to its peers. tags:god-pvp
+dimwishlist:item=4195186942&perks=981914802,2822142346,951095735,3523296417
+dimwishlist:item=4195186942&perks=981914802,2822142346,951095735,1906147653
+dimwishlist:item=4195186942&perks=981914802,2822142346,3878366039,3523296417
+dimwishlist:item=4195186942&perks=981914802,2822142346,3878366039,1906147653
+
+
+// Faith-Keeper - PVE (pve)
+//notes: MW: Handling; Quick Access Mod; As with most rocket launchers, Quick Launch and Impact Casing are the best minor perks as they increase handling and improve the overall damage of the rocket. Auto-Loading Holster allows you to switch to another weapon to continue firing another weapon while Faith-Keeper is reloading in the background. Explosive Light is a great damage perk that activate just by picking up Orbs of Power, something that happens often during normal gameplay. Rocket Launchers are notable for being some of the best single-target burst damage in the game. Faith-Keeper is a precision frame, so it does suffer from an overall damage loss compared to other rockets, but it is not a terrible option. Consider it a solid option when you need a void rocket. tags:pve
+dimwishlist:item=4195186942&perks=3300816228,3194351027
+dimwishlist:item=4195186942&perks=3300816228,2275087323
+dimwishlist:item=4195186942&perks=3528046508,3194351027
+dimwishlist:item=4195186942&perks=3528046508,2275087323
+
+
+// Faith-Keeper - PVP (pvp)
+//notes: MW: Velocity; Quick Access Mod; Contrary to the PvE roll, Hard Launch and High-Velocity Rounds are all about making the rocket travel faster. Players are better at avoiding danger than PvE combatants, so giving them less time to react by increasing Velocity is very important. Impulse Amplifier further increases the velocity of the rocket. There aren’t many great options in Column 4, so you can really choose whatever suits your particular playstyle. We chose Demolitonist as it was the most passively beneficial option. Rocket Launchers are decent PVP weapons that essentially get you a free kill or two with a single shot providing you don’t miss. Precision frame rockets tend to be good in PvP because of their innate tracking, and Faith-Keeper is a decent option among them. The lack of a decent 4th Column option is rough though, and does make it sub-par compared to its peers. tags:pvp
+dimwishlist:item=4195186942&perks=951095735,3523296417
+dimwishlist:item=4195186942&perks=951095735,1906147653
+dimwishlist:item=4195186942&perks=3878366039,3523296417
+dimwishlist:item=4195186942&perks=3878366039,1906147653
+
+
 // False Idols - PVE (Ads) (god-pve,pve)
 //notes: PVE; Ads; MW Impact; For our blade, we will want Hungry Edge to increase the weapon’s ammo capacity. For our guard, we’ll want to pick Balanced Guard to increase our defenses with the weapon evenly. For our perks, we want Incandescent and One for All in perk columns 1 and 2 respectively. Incandescent will be particularly useful on this Solar sword as you will find it incredibly effective at crowd control as defeating a target will spread scorch to nearby enemies. Our next perk, One for All, will synergize nicely. Hitting three separate enemies, which should be easy enough with Incandescent, activates One for All which will significantly increase your damage output with False Idols by 35%. Overall, the combination of Incandescent and One for All makes this a particularly dangerous sword, great at both crowd control and dealing damage. tags:god-pve,pve
 dimwishlist:item=4207120603&perks=436053704,52780822,4293542123,4049631843
