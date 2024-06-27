@@ -1,32 +1,112 @@
 title:b1nary0mega's Wishlist
 description:personal favorites, blueberries, shacknews, and some oddballs. 
 
-// Rufus's Fury - PVE (god-pve,pve)
-//notes: Tier S; Even with the introduction of additional strand Auto Rifles into the game, Rufus's Fury remains at the top of the pack with an outstanding perk pool, impressive stability, and versatility in both PvE and PvP. tags:god-pve,pve
-dimwishlist:item=484515708&perks=3523296417,365154968
-dimwishlist:item=484515708&perks=3523296417,831391274
-dimwishlist:item=484515708&perks=3523296417,2939589096
-dimwishlist:item=484515708&perks=3523296417,102912326
-dimwishlist:item=484515708&perks=1906147653,365154968
-dimwishlist:item=484515708&perks=1906147653,831391274
-dimwishlist:item=484515708&perks=1906147653,2939589096
-dimwishlist:item=484515708&perks=1906147653,102912326
+// Rufus's Fury - PVE (god-pve)
+//notes: MW: Stability or Range; This auto rifle is a powerhouse in PvE. For main stats, you’ll want the same ones we mentioned above—stability and range. Therefore, the first two columns of traits won’t change. As for the perks, you can go a couple of different ways here. Reconstruction and Target Lock won’t do you wrong if you want a pure workhorse weapon. But if you’re looking for excellent Strand synergy, Demolitionist and Hatchling is easily the best choice. tags:god-pve
+dimwishlist:item=484515708&perks=3250034553,1885400500,1523832109,365154968
+dimwishlist:item=484515708&perks=3250034553,1885400500,1523832109,831391274
+dimwishlist:item=484515708&perks=3250034553,1885400500,1523832109,2939589096
+dimwishlist:item=484515708&perks=3250034553,1885400500,1523832109,102912326
+dimwishlist:item=484515708&perks=3250034553,1885400500,3523296417,365154968
+dimwishlist:item=484515708&perks=3250034553,1885400500,3523296417,831391274
+dimwishlist:item=484515708&perks=3250034553,1885400500,3523296417,2939589096
+dimwishlist:item=484515708&perks=3250034553,1885400500,3523296417,102912326
+dimwishlist:item=484515708&perks=3250034553,1885400500,461595545,365154968
+dimwishlist:item=484515708&perks=3250034553,1885400500,461595545,831391274
+dimwishlist:item=484515708&perks=3250034553,1885400500,461595545,2939589096
+dimwishlist:item=484515708&perks=3250034553,1885400500,461595545,102912326
+dimwishlist:item=484515708&perks=3250034553,1885400500,1906147653,365154968
+dimwishlist:item=484515708&perks=3250034553,1885400500,1906147653,831391274
+dimwishlist:item=484515708&perks=3250034553,1885400500,1906147653,2939589096
+dimwishlist:item=484515708&perks=3250034553,1885400500,1906147653,102912326
+dimwishlist:item=484515708&perks=3250034553,3230963543,1523832109,365154968
+dimwishlist:item=484515708&perks=3250034553,3230963543,1523832109,831391274
+dimwishlist:item=484515708&perks=3250034553,3230963543,1523832109,2939589096
+dimwishlist:item=484515708&perks=3250034553,3230963543,1523832109,102912326
+dimwishlist:item=484515708&perks=3250034553,3230963543,3523296417,365154968
+dimwishlist:item=484515708&perks=3250034553,3230963543,3523296417,831391274
+dimwishlist:item=484515708&perks=3250034553,3230963543,3523296417,2939589096
+dimwishlist:item=484515708&perks=3250034553,3230963543,3523296417,102912326
+dimwishlist:item=484515708&perks=3250034553,3230963543,461595545,365154968
+dimwishlist:item=484515708&perks=3250034553,3230963543,461595545,831391274
+dimwishlist:item=484515708&perks=3250034553,3230963543,461595545,2939589096
+dimwishlist:item=484515708&perks=3250034553,3230963543,461595545,102912326
+dimwishlist:item=484515708&perks=3250034553,3230963543,1906147653,365154968
+dimwishlist:item=484515708&perks=3250034553,3230963543,1906147653,831391274
+dimwishlist:item=484515708&perks=3250034553,3230963543,1906147653,2939589096
+dimwishlist:item=484515708&perks=3250034553,3230963543,1906147653,102912326
+dimwishlist:item=484515708&perks=1392496348,1885400500,1523832109,365154968
+dimwishlist:item=484515708&perks=1392496348,1885400500,1523832109,831391274
+dimwishlist:item=484515708&perks=1392496348,1885400500,1523832109,2939589096
+dimwishlist:item=484515708&perks=1392496348,1885400500,1523832109,102912326
+dimwishlist:item=484515708&perks=1392496348,1885400500,3523296417,365154968
+dimwishlist:item=484515708&perks=1392496348,1885400500,3523296417,831391274
+dimwishlist:item=484515708&perks=1392496348,1885400500,3523296417,2939589096
+dimwishlist:item=484515708&perks=1392496348,1885400500,3523296417,102912326
+dimwishlist:item=484515708&perks=1392496348,1885400500,461595545,365154968
+dimwishlist:item=484515708&perks=1392496348,1885400500,461595545,831391274
+dimwishlist:item=484515708&perks=1392496348,1885400500,461595545,2939589096
+dimwishlist:item=484515708&perks=1392496348,1885400500,461595545,102912326
+dimwishlist:item=484515708&perks=1392496348,1885400500,1906147653,365154968
+dimwishlist:item=484515708&perks=1392496348,1885400500,1906147653,831391274
+dimwishlist:item=484515708&perks=1392496348,1885400500,1906147653,2939589096
+dimwishlist:item=484515708&perks=1392496348,1885400500,1906147653,102912326
+dimwishlist:item=484515708&perks=1392496348,3230963543,1523832109,365154968
+dimwishlist:item=484515708&perks=1392496348,3230963543,1523832109,831391274
+dimwishlist:item=484515708&perks=1392496348,3230963543,1523832109,2939589096
+dimwishlist:item=484515708&perks=1392496348,3230963543,1523832109,102912326
+dimwishlist:item=484515708&perks=1392496348,3230963543,3523296417,365154968
+dimwishlist:item=484515708&perks=1392496348,3230963543,3523296417,831391274
+dimwishlist:item=484515708&perks=1392496348,3230963543,3523296417,2939589096
+dimwishlist:item=484515708&perks=1392496348,3230963543,3523296417,102912326
+dimwishlist:item=484515708&perks=1392496348,3230963543,461595545,365154968
+dimwishlist:item=484515708&perks=1392496348,3230963543,461595545,831391274
+dimwishlist:item=484515708&perks=1392496348,3230963543,461595545,2939589096
+dimwishlist:item=484515708&perks=1392496348,3230963543,461595545,102912326
+dimwishlist:item=484515708&perks=1392496348,3230963543,1906147653,365154968
+dimwishlist:item=484515708&perks=1392496348,3230963543,1906147653,831391274
+dimwishlist:item=484515708&perks=1392496348,3230963543,1906147653,2939589096
+dimwishlist:item=484515708&perks=1392496348,3230963543,1906147653,102912326
+
+
+// Rufus's Fury - PVP (god-pvp)
+//notes: MW: Stability or Range; While this is more of a PvE pick, Rufus’s Fury can also hold its own in PvP. To start, you’ll want to focus on high stability and range; Polygonal Rifling, Hammer-Forged Rifling, and Ricochet Rounds are great for this. Perpetual Motion is best for Perk One, while Target Lock is great for your second. tags:god-pvp
+dimwishlist:item=484515708&perks=3250034553,1885400500,1428297954,365154968
+dimwishlist:item=484515708&perks=3250034553,1885400500,1428297954,2939589096
+dimwishlist:item=484515708&perks=3250034553,1885400500,2014892510,365154968
+dimwishlist:item=484515708&perks=3250034553,1885400500,2014892510,2939589096
+dimwishlist:item=484515708&perks=1392496348,1885400500,1428297954,365154968
+dimwishlist:item=484515708&perks=1392496348,1885400500,1428297954,2939589096
+dimwishlist:item=484515708&perks=1392496348,1885400500,2014892510,365154968
+dimwishlist:item=484515708&perks=1392496348,1885400500,2014892510,2939589096
+
+
+// Rufus's Fury - PVE (pve)
+//notes: MW: Stability or Range; This auto rifle is a powerhouse in PvE. For main stats, you’ll want the same ones we mentioned above—stability and range. Therefore, the first two columns of traits won’t change. As for the perks, you can go a couple of different ways here. Reconstruction and Target Lock won’t do you wrong if you want a pure workhorse weapon. But if you’re looking for excellent Strand synergy, Demolitionist and Hatchling is easily the best choice. tags:pve
 dimwishlist:item=484515708&perks=1523832109,365154968
 dimwishlist:item=484515708&perks=1523832109,831391274
 dimwishlist:item=484515708&perks=1523832109,2939589096
 dimwishlist:item=484515708&perks=1523832109,102912326
+dimwishlist:item=484515708&perks=3523296417,365154968
+dimwishlist:item=484515708&perks=3523296417,831391274
+dimwishlist:item=484515708&perks=3523296417,2939589096
+dimwishlist:item=484515708&perks=3523296417,102912326
 dimwishlist:item=484515708&perks=461595545,365154968
 dimwishlist:item=484515708&perks=461595545,831391274
 dimwishlist:item=484515708&perks=461595545,2939589096
 dimwishlist:item=484515708&perks=461595545,102912326
+dimwishlist:item=484515708&perks=1906147653,365154968
+dimwishlist:item=484515708&perks=1906147653,831391274
+dimwishlist:item=484515708&perks=1906147653,2939589096
+dimwishlist:item=484515708&perks=1906147653,102912326
 
 
-// Rufus's Fury - PVP (god-pvp,pvp)
-//notes: Tier S; Even with the introduction of additional strand Auto Rifles into the game, Rufus's Fury remains at the top of the pack with an outstanding perk pool, impressive stability, and versatility in both PvE and PvP. tags:god-pvp,pvp
-dimwishlist:item=484515708&perks=1523832109,1890422124
-dimwishlist:item=484515708&perks=1523832109,1523649716
-dimwishlist:item=484515708&perks=461595545,1890422124
-dimwishlist:item=484515708&perks=461595545,1523649716
+// Rufus's Fury - PVP (pvp)
+//notes: MW: Stability or Range; While this is more of a PvE pick, Rufus’s Fury can also hold its own in PvP. To start, you’ll want to focus on high stability and range; Polygonal Rifling, Hammer-Forged Rifling, and Ricochet Rounds are great for this. Perpetual Motion is best for Perk One, while Target Lock is great for your second. tags:pvp
+dimwishlist:item=484515708&perks=1428297954,365154968
+dimwishlist:item=484515708&perks=1428297954,2939589096
+dimwishlist:item=484515708&perks=2014892510,365154968
+dimwishlist:item=484515708&perks=2014892510,2939589096
 
 
 // Bold Endings - PVE (god-pve,pve)
@@ -410,38 +490,76 @@ dimwishlist:item=1197771438&perks=1961144892,3523296417
 dimwishlist:item=1197771438&perks=1961144892,1906147653
 
 
-// Hung Jury SR4 - Blueberries - God PVE (GM) (god-pve)
-//notes: T:A; BB God PVE (GM); Alt: Polaris Lance, Tarnished Mettle; MW: Reload tags:god-pve
+// Hung Jury SR4 - PVE GMs (god-pve)
+//notes: MW: Reload; GMs; Handling and Reload Speed are important on Hung Jury, so we chose Fluted Barrel and Tactical Magazine for our barrel and magazine slots. Kinetic Tremors is a must-pick for PvE on Hung Jury as it helps deal some massive AoE damage, which is always handy on a Scout Rifle. Explosive Payload and Precision Instrument are both good options. Explosive Payload provides a more general buff, but Precision Instrument is better when using Hung Jury to take down a higher health target. Recommended Loadout: Hung Jury SR4, Cartesian Coordinate, Gjallarhorn. tags:god-pve
 dimwishlist:item=1453235079&perks=1840239774,106909392,3891536761,3038247973
+dimwishlist:item=1453235079&perks=1840239774,106909392,3891536761,64866129
 dimwishlist:item=1453235079&perks=1840239774,106909392,3891536761,4049631843
+dimwishlist:item=1453235079&perks=1840239774,106909392,3891536761,859780267
+dimwishlist:item=1453235079&perks=1840239774,106909392,1549370717,3038247973
+dimwishlist:item=1453235079&perks=1840239774,106909392,1549370717,64866129
+dimwishlist:item=1453235079&perks=1840239774,106909392,1549370717,4049631843
+dimwishlist:item=1453235079&perks=1840239774,106909392,1549370717,859780267
 
 
-// Hung Jury SR4 - Blueberries - God PVE (god-pve)
-//notes: T:A; BB God PVE; Alt: Polaris Lance, Tarnished Mettle; MW: Reload tags:god-pve
+// Hung Jury SR4 - PVE ADs (god-pve)
+//notes: MW: Reload; ADs; Again, handling and Reload Speed are very important for the general feel of the weapon, meaning a Reload Speed Masterwork with Fluted Barrel and Tactical Mag is best. Kinetic Tremors and Firefly provide the most AoE possible on this weapon. However, Explosive Payload is a valid alternative that provides a 15% damage bonus on bodyshots and a 9% damage bonus on crits, making it a solid alternative. Recommended Loadout: Hung Jury SR4, Forbearance, Gjallarhorn. tags:god-pve
+dimwishlist:item=1453235079&perks=1840239774,106909392,3891536761,3038247973
+dimwishlist:item=1453235079&perks=1840239774,106909392,3891536761,64866129
 dimwishlist:item=1453235079&perks=1840239774,106909392,3891536761,3824105627
+dimwishlist:item=1453235079&perks=1840239774,106909392,3891536761,1183436451
+dimwishlist:item=1453235079&perks=1840239774,106909392,1549370717,3038247973
+dimwishlist:item=1453235079&perks=1840239774,106909392,1549370717,64866129
+dimwishlist:item=1453235079&perks=1840239774,106909392,1549370717,3824105627
+dimwishlist:item=1453235079&perks=1840239774,106909392,1549370717,1183436451
 
 
-// Hung Jury SR4 - Blueberries - God PVP (god-pvp)
-//notes: T:A; BB God PVP; Alt: Polaris Lance, Tarnished Mettle; MW: Stability, Handling tags:god-pvp
+// Hung Jury SR4 - PVP (god-pvp)
+//notes: MW: Stability or Handling; Maximising Stability in order to reduce incoming flinch is paramount in PvP, meaning Fluted Barrel and Steady Rounds are great options for our Barrel and Magazine; meanwhile, the choice between Stability or Handling for the Masterwork is up to the player. Rapid Hit is a good quality-of-life perk, providing bumps to Reload Speed and Stability. In all PvP, Box Breathing provides a very accessible 3-tap kill, as it doesn’t require a kill to activate. However, Cascade Point is a decent alternative. While it does require a kill to activate, Cascade Point drops the time-to-kill to 0.6s. tags:god-pvp
 dimwishlist:item=1453235079&perks=1840239774,3177308360,247725512,2551157718
+dimwishlist:item=1453235079&perks=1840239774,3177308360,247725512,23371658
+dimwishlist:item=1453235079&perks=1840239774,3177308360,247725512,3751912585
+dimwishlist:item=1453235079&perks=1840239774,3177308360,247725512,331667533
+dimwishlist:item=1453235079&perks=1840239774,3177308360,2938480696,2551157718
+dimwishlist:item=1453235079&perks=1840239774,3177308360,2938480696,23371658
+dimwishlist:item=1453235079&perks=1840239774,3177308360,2938480696,3751912585
+dimwishlist:item=1453235079&perks=1840239774,3177308360,2938480696,331667533
 
 
-// Hung Jury SR4 - Blueberries - PVE (GM) (pve)
-//notes: T:A; BB PVE (GM); Alt: Polaris Lance, Tarnished Mettle; MW: Reload tags:pve
+// Hung Jury SR4 - PVE GMs (pve)
+//notes: MW: Reload; GMs; Handling and Reload Speed are important on Hung Jury, so we chose Fluted Barrel and Tactical Magazine for our barrel and magazine slots. Kinetic Tremors is a must-pick for PvE on Hung Jury as it helps deal some massive AoE damage, which is always handy on a Scout Rifle. Explosive Payload and Precision Instrument are both good options. Explosive Payload provides a more general buff, but Precision Instrument is better when using Hung Jury to take down a higher health target. Recommended Loadout: Hung Jury SR4, Cartesian Coordinate, Gjallarhorn. tags:pve
 dimwishlist:item=1453235079&perks=3891536761,3038247973
+dimwishlist:item=1453235079&perks=3891536761,64866129
 dimwishlist:item=1453235079&perks=3891536761,4049631843
+dimwishlist:item=1453235079&perks=3891536761,859780267
+dimwishlist:item=1453235079&perks=1549370717,3038247973
+dimwishlist:item=1453235079&perks=1549370717,64866129
+dimwishlist:item=1453235079&perks=1549370717,4049631843
+dimwishlist:item=1453235079&perks=1549370717,859780267
 
 
-// Hung Jury SR4 - Blueberries - PVE (pve)
-//notes: T:A; BB PVE; Alt: Polaris Lance, Tarnished Mettle; MW: Reload tags:pve
-dimwishlist:item=1453235079&perks=3891536761,3824105627
+// Hung Jury SR4 - PVE ADs (pve)
+//notes: MW: Reload; ADs; Again, handling and Reload Speed are very important for the general feel of the weapon, meaning a Reload Speed Masterwork with Fluted Barrel and Tactical Mag is best. Kinetic Tremors and Firefly provide the most AoE possible on this weapon. However, Explosive Payload is a valid alternative that provides a 15% damage bonus on bodyshots and a 9% damage bonus on crits, making it a solid alternative. Recommended Loadout: Hung Jury SR4, Forbearance, Gjallarhorn. tags:pve
 dimwishlist:item=1453235079&perks=3891536761,3038247973
+dimwishlist:item=1453235079&perks=3891536761,64866129
+dimwishlist:item=1453235079&perks=3891536761,3824105627
+dimwishlist:item=1453235079&perks=3891536761,1183436451
+dimwishlist:item=1453235079&perks=1549370717,3038247973
+dimwishlist:item=1453235079&perks=1549370717,64866129
+dimwishlist:item=1453235079&perks=1549370717,3824105627
+dimwishlist:item=1453235079&perks=1549370717,1183436451
 
 
-// Hung Jury SR4 - Blueberries - PVP (pvp)
-//notes: T:A; BB PVP; Alt: Polaris Lance, Tarnished Mettle; MW: Stability, Handling tags:pvp
+// Hung Jury SR4 - PVP (pvp)
+//notes: MW: Stability or Handling; Maximising Stability in order to reduce incoming flinch is paramount in PvP, meaning Fluted Barrel and Steady Rounds are great options for our Barrel and Magazine; meanwhile, the choice between Stability or Handling for the Masterwork is up to the player. Rapid Hit is a good quality-of-life perk, providing bumps to Reload Speed and Stability. In all PvP, Box Breathing provides a very accessible 3-tap kill, as it doesn’t require a kill to activate. However, Cascade Point is a decent alternative. While it does require a kill to activate, Cascade Point drops the time-to-kill to 0.6s. tags:pvp
 dimwishlist:item=1453235079&perks=247725512,2551157718
+dimwishlist:item=1453235079&perks=247725512,23371658
 dimwishlist:item=1453235079&perks=247725512,3751912585
+dimwishlist:item=1453235079&perks=247725512,331667533
+dimwishlist:item=1453235079&perks=2938480696,2551157718
+dimwishlist:item=1453235079&perks=2938480696,23371658
+dimwishlist:item=1453235079&perks=2938480696,3751912585
+dimwishlist:item=1453235079&perks=2938480696,331667533
 
 
 // Ergo Sum - PVE DPS (god-pve,pve)
@@ -1407,47 +1525,124 @@ dimwishlist:item=2763843898&perks=588594999,2387244414
 dimwishlist:item=2763843898&perks=588594999,47981717
 
 
-// Luna's Howl - Blueberries - God PVE (god-pve)
-//notes: T:B; BB God PVE; Alt: Sunshot; MW: Reload; Good for add clear tags:god-pve
+// Luna's Howl - PVE (god-pve)
+//notes: MW: Reload; PvE is awash with people using Solar hand cannons right now, namely Zaouli’s and Sunshot, so this is a perfect placeholder for them. As with most PvE weapons, run Fluted Barrel for a handling bump and Flared Magwell for the reload speed. You could opt for Light Mag if you want the range, though that’s not really necessary. Perk 1 has solid PvP options, but only one really good perk for PvE: Heal Clip. Now that this heals 120 HP instead of the 60 it used to, Heal Clip is perfect for survivability builds. If that isn’t your dig, Enlightened Action can help speed up the reloads. For perk 2, Incandescent or Desperate Measures are the best. Incandescent for the scorch damage, Desperate Measures for raw damage.  tags:god-pve
 dimwishlist:item=2763843899&perks=1840239774,3230963543,3017780555,4293542123
 dimwishlist:item=2763843899&perks=1840239774,3230963543,3017780555,2109543898
+dimwishlist:item=2763843899&perks=1840239774,3230963543,3017780555,2675184851
+dimwishlist:item=2763843899&perks=1840239774,3230963543,3017780555,2799030358
+dimwishlist:item=2763843899&perks=1840239774,3230963543,3828510309,4293542123
+dimwishlist:item=2763843899&perks=1840239774,3230963543,3828510309,2109543898
+dimwishlist:item=2763843899&perks=1840239774,3230963543,3828510309,2675184851
+dimwishlist:item=2763843899&perks=1840239774,3230963543,3828510309,2799030358
+dimwishlist:item=2763843899&perks=1840239774,3230963543,4223976499,4293542123
+dimwishlist:item=2763843899&perks=1840239774,3230963543,4223976499,2109543898
+dimwishlist:item=2763843899&perks=1840239774,3230963543,4223976499,2675184851
+dimwishlist:item=2763843899&perks=1840239774,3230963543,4223976499,2799030358
+dimwishlist:item=2763843899&perks=1840239774,3230963543,1771736209,4293542123
+dimwishlist:item=2763843899&perks=1840239774,3230963543,1771736209,2109543898
+dimwishlist:item=2763843899&perks=1840239774,3230963543,1771736209,2675184851
+dimwishlist:item=2763843899&perks=1840239774,3230963543,1771736209,2799030358
 
 
-// Luna's Howl - Blueberries - God PVP 3v3 (god-pvp)
-//notes: T:A; 3v3; BB God PVP; Alt: Sunshot; MW: Range tags:god-pvp
+// Luna's Howl - PVP 3v3 (god-pvp)
+//notes: MW: Range; 3v3; PvP has long awaited the return of Luna’s, and to ensure it performs at its peak, we’ll be bumping its range as far as we can take it. Hammer-Forged Rifling gives the best range buff without losing any other stats, and Ricochet Rounds gives a little more while buffing stability. Perk 1 has some very good options for PvP, some of the best for hand cannons, actually. Eye of the Storm will be a duelists’ dream for the accuracy bonuses, and Slideshot for the true peek-shoot players. Perk 2 has some great choices, but the two that standout for 3’s are Precision Instrument and Opening Shot. Precision can push the 3-tap range out through the damage buff, and Opening Shot can take the range to 100 when paired with Slideshot! tags:god-pvp
+dimwishlist:item=2763843899&perks=3250034553,1885400500,699525795,47981717
 dimwishlist:item=2763843899&perks=3250034553,1885400500,699525795,555281244
+dimwishlist:item=2763843899&perks=3250034553,1885400500,699525795,332733060
+dimwishlist:item=2763843899&perks=3250034553,1885400500,699525795,1370847713
+dimwishlist:item=2763843899&perks=3250034553,1885400500,3161816588,47981717
+dimwishlist:item=2763843899&perks=3250034553,1885400500,3161816588,555281244
+dimwishlist:item=2763843899&perks=3250034553,1885400500,3161816588,332733060
+dimwishlist:item=2763843899&perks=3250034553,1885400500,3161816588,1370847713
+dimwishlist:item=2763843899&perks=3250034553,1885400500,191144788,47981717
+dimwishlist:item=2763843899&perks=3250034553,1885400500,191144788,555281244
+dimwishlist:item=2763843899&perks=3250034553,1885400500,191144788,332733060
+dimwishlist:item=2763843899&perks=3250034553,1885400500,191144788,1370847713
+dimwishlist:item=2763843899&perks=3250034553,1885400500,3719974635,47981717
+dimwishlist:item=2763843899&perks=3250034553,1885400500,3719974635,555281244
+dimwishlist:item=2763843899&perks=3250034553,1885400500,3719974635,332733060
+dimwishlist:item=2763843899&perks=3250034553,1885400500,3719974635,1370847713
 
 
-// Luna's Howl - Blueberries - God PVP 6v6 (god-pvp)
-//notes: T:A; 6v6; BB God PVP; Alt: Sunshot; MW: Range tags:god-pvp
-dimwishlist:item=2763843899&perks=3250034553,1885400500,1195158366,2720533289
-dimwishlist:item=2763843899&perks=3250034553,1885400500,1195158366,1015611457
+// Luna's Howl - PVP 6v6 (god-pvp)
+//notes: MW: Range; 6v6; For 6’s, it’s a toss up between Encore or Eye of the Storm. Encore at max stacks gives a +20 to range and +40 to stability, which is easy to achieve given how many players are on the field. For Perk 2, take your pick from any of the damage perks. Mag Howl will pair nicely with Encore given the need for precision final blows, but really anything works here if you are comfortable with it. tags:god-pvp
 dimwishlist:item=2763843899&perks=3250034553,1885400500,699525795,2720533289
+dimwishlist:item=2763843899&perks=3250034553,1885400500,699525795,3042219245
 dimwishlist:item=2763843899&perks=3250034553,1885400500,699525795,1015611457
+dimwishlist:item=2763843899&perks=3250034553,1885400500,699525795,2923251173
+dimwishlist:item=2763843899&perks=3250034553,1885400500,3719974635,2720533289
+dimwishlist:item=2763843899&perks=3250034553,1885400500,3719974635,3042219245
+dimwishlist:item=2763843899&perks=3250034553,1885400500,3719974635,1015611457
+dimwishlist:item=2763843899&perks=3250034553,1885400500,3719974635,2923251173
+dimwishlist:item=2763843899&perks=3250034553,1885400500,1195158366,2720533289
+dimwishlist:item=2763843899&perks=3250034553,1885400500,1195158366,3042219245
+dimwishlist:item=2763843899&perks=3250034553,1885400500,1195158366,1015611457
+dimwishlist:item=2763843899&perks=3250034553,1885400500,1195158366,2923251173
+dimwishlist:item=2763843899&perks=3250034553,1885400500,838873202,2720533289
+dimwishlist:item=2763843899&perks=3250034553,1885400500,838873202,3042219245
+dimwishlist:item=2763843899&perks=3250034553,1885400500,838873202,1015611457
+dimwishlist:item=2763843899&perks=3250034553,1885400500,838873202,2923251173
 
 
-// Luna's Howl - Blueberries - PVE (pve)
-//notes: T:B; BB PVE; Alt: Sunshot; MW: Reload; Good for add clear tags:pve
+// Luna's Howl - PVE (pve)
+//notes: MW: Reload; PvE is awash with people using Solar hand cannons right now, namely Zaouli’s and Sunshot, so this is a perfect placeholder for them. As with most PvE weapons, run Fluted Barrel for a handling bump and Flared Magwell for the reload speed. You could opt for Light Mag if you want the range, though that’s not really necessary. Perk 1 has solid PvP options, but only one really good perk for PvE: Heal Clip. Now that this heals 120 HP instead of the 60 it used to, Heal Clip is perfect for survivability builds. If that isn’t your dig, Enlightened Action can help speed up the reloads. For perk 2, Incandescent or Desperate Measures are the best. Incandescent for the scorch damage, Desperate Measures for raw damage.  tags:pve
 dimwishlist:item=2763843899&perks=3017780555,4293542123
 dimwishlist:item=2763843899&perks=3017780555,2109543898
+dimwishlist:item=2763843899&perks=3017780555,2675184851
+dimwishlist:item=2763843899&perks=3017780555,2799030358
 dimwishlist:item=2763843899&perks=3828510309,4293542123
 dimwishlist:item=2763843899&perks=3828510309,2109543898
+dimwishlist:item=2763843899&perks=3828510309,2675184851
+dimwishlist:item=2763843899&perks=3828510309,2799030358
+dimwishlist:item=2763843899&perks=4223976499,4293542123
+dimwishlist:item=2763843899&perks=4223976499,2109543898
+dimwishlist:item=2763843899&perks=4223976499,2675184851
+dimwishlist:item=2763843899&perks=4223976499,2799030358
+dimwishlist:item=2763843899&perks=1771736209,4293542123
+dimwishlist:item=2763843899&perks=1771736209,2109543898
+dimwishlist:item=2763843899&perks=1771736209,2675184851
+dimwishlist:item=2763843899&perks=1771736209,2799030358
 
 
-// Luna's Howl - Blueberries - PVP 6v6 (pvp)
-//notes: T:A; 6v6; BB God PVP; Alt: Sunshot; MW: Range tags:pvp
-dimwishlist:item=2763843899&perks=1195158366,2720533289
-dimwishlist:item=2763843899&perks=1195158366,1015611457
-dimwishlist:item=2763843899&perks=699525795,2720533289
-dimwishlist:item=2763843899&perks=699525795,1015611457
-
-
-// Luna's Howl - Blueberries - PVP 3v3 (pvp)
-//notes: T:A; 3v3; BB PVP; Alt: Sunshot; MW: Range tags:pvp
-dimwishlist:item=2763843899&perks=699525795,555281244
+// Luna's Howl - PVP 3v3 (pvp)
+//notes: MW: Range; 3v3; PvP has long awaited the return of Luna’s, and to ensure it performs at its peak, we’ll be bumping its range as far as we can take it. Hammer-Forged Rifling gives the best range buff without losing any other stats, and Ricochet Rounds gives a little more while buffing stability. Perk 1 has some very good options for PvP, some of the best for hand cannons, actually. Eye of the Storm will be a duelists’ dream for the accuracy bonuses, and Slideshot for the true peek-shoot players. Perk 2 has some great choices, but the two that standout for 3’s are Precision Instrument and Opening Shot. Precision can push the 3-tap range out through the damage buff, and Opening Shot can take the range to 100 when paired with Slideshot! tags:pvp
 dimwishlist:item=2763843899&perks=699525795,47981717
-dimwishlist:item=2763843899&perks=3161816588,555281244
+dimwishlist:item=2763843899&perks=699525795,555281244
+dimwishlist:item=2763843899&perks=699525795,332733060
+dimwishlist:item=2763843899&perks=699525795,1370847713
 dimwishlist:item=2763843899&perks=3161816588,47981717
+dimwishlist:item=2763843899&perks=3161816588,555281244
+dimwishlist:item=2763843899&perks=3161816588,332733060
+dimwishlist:item=2763843899&perks=3161816588,1370847713
+dimwishlist:item=2763843899&perks=191144788,47981717
+dimwishlist:item=2763843899&perks=191144788,555281244
+dimwishlist:item=2763843899&perks=191144788,332733060
+dimwishlist:item=2763843899&perks=191144788,1370847713
+dimwishlist:item=2763843899&perks=3719974635,47981717
+dimwishlist:item=2763843899&perks=3719974635,555281244
+dimwishlist:item=2763843899&perks=3719974635,332733060
+dimwishlist:item=2763843899&perks=3719974635,1370847713
+
+
+// Luna's Howl - PVP 6v6 (pvp)
+//notes: MW: Range; 6v6; For 6’s, it’s a toss up between Encore or Eye of the Storm. Encore at max stacks gives a +20 to range and +40 to stability, which is easy to achieve given how many players are on the field. For Perk 2, take your pick from any of the damage perks. Mag Howl will pair nicely with Encore given the need for precision final blows, but really anything works here if you are comfortable with it. tags:pvp
+dimwishlist:item=2763843899&perks=699525795,2720533289
+dimwishlist:item=2763843899&perks=699525795,3042219245
+dimwishlist:item=2763843899&perks=699525795,1015611457
+dimwishlist:item=2763843899&perks=699525795,2923251173
+dimwishlist:item=2763843899&perks=3719974635,2720533289
+dimwishlist:item=2763843899&perks=3719974635,3042219245
+dimwishlist:item=2763843899&perks=3719974635,1015611457
+dimwishlist:item=2763843899&perks=3719974635,2923251173
+dimwishlist:item=2763843899&perks=1195158366,2720533289
+dimwishlist:item=2763843899&perks=1195158366,3042219245
+dimwishlist:item=2763843899&perks=1195158366,1015611457
+dimwishlist:item=2763843899&perks=1195158366,2923251173
+dimwishlist:item=2763843899&perks=838873202,2720533289
+dimwishlist:item=2763843899&perks=838873202,3042219245
+dimwishlist:item=2763843899&perks=838873202,1015611457
+dimwishlist:item=2763843899&perks=838873202,2923251173
 
 
 // Embraced Identity - PVP (god-pve,pve)
