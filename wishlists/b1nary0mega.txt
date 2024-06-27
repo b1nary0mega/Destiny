@@ -1133,6 +1133,124 @@ dimwishlist:item=1896309757&perks=183938251,1890422124
 dimwishlist:item=1896309757&perks=183938251,1523649716
 
 
+// Warden's Law - PVE (god-pve)
+//notes: MW: Reload; Because Warden’s Law lacks an elemental damage type, it’s immediately outclassed by numerous other options. That is, except for one special case: pairing the weapon with Lucky Pants. 
+For Hunters, using a Warden’s Law with Fourth Time’s the Charm and Vorpal Weapon with Lucky Pants allows the weapon to do some significant damage for a primary weapon. While dealing optimal damage with this setup requires you to rotate between heavy (and sometimes special) ammo weapons as well, it’s easily the main draw to Warden’s Law in high-end PvE. If you’re instead looking to run this weapon casually, Perpetual Motion or Fourth Time’s the Charm with Frenzy is your best bet. tags:god-pve
+dimwishlist:item=2152484073&perks=1392496348,106909392,1428297954,1546637391
+dimwishlist:item=2152484073&perks=1392496348,106909392,1428297954,4104185692
+dimwishlist:item=2152484073&perks=1392496348,106909392,1428297954,3418165135
+dimwishlist:item=2152484073&perks=1392496348,106909392,1428297954,3007133316
+dimwishlist:item=2152484073&perks=1392496348,106909392,1354429876,1546637391
+dimwishlist:item=2152484073&perks=1392496348,106909392,1354429876,4104185692
+dimwishlist:item=2152484073&perks=1392496348,106909392,1354429876,3418165135
+dimwishlist:item=2152484073&perks=1392496348,106909392,1354429876,3007133316
+dimwishlist:item=2152484073&perks=1392496348,106909392,2014892510,1546637391
+dimwishlist:item=2152484073&perks=1392496348,106909392,2014892510,4104185692
+dimwishlist:item=2152484073&perks=1392496348,106909392,2014892510,3418165135
+dimwishlist:item=2152484073&perks=1392496348,106909392,2014892510,3007133316
+dimwishlist:item=2152484073&perks=1392496348,106909392,848860060,1546637391
+dimwishlist:item=2152484073&perks=1392496348,106909392,848860060,4104185692
+dimwishlist:item=2152484073&perks=1392496348,106909392,848860060,3418165135
+dimwishlist:item=2152484073&perks=1392496348,106909392,848860060,3007133316
+dimwishlist:item=2152484073&perks=1392496348,3230963543,1428297954,1546637391
+dimwishlist:item=2152484073&perks=1392496348,3230963543,1428297954,4104185692
+dimwishlist:item=2152484073&perks=1392496348,3230963543,1428297954,3418165135
+dimwishlist:item=2152484073&perks=1392496348,3230963543,1428297954,3007133316
+dimwishlist:item=2152484073&perks=1392496348,3230963543,1354429876,1546637391
+dimwishlist:item=2152484073&perks=1392496348,3230963543,1354429876,4104185692
+dimwishlist:item=2152484073&perks=1392496348,3230963543,1354429876,3418165135
+dimwishlist:item=2152484073&perks=1392496348,3230963543,1354429876,3007133316
+dimwishlist:item=2152484073&perks=1392496348,3230963543,2014892510,1546637391
+dimwishlist:item=2152484073&perks=1392496348,3230963543,2014892510,4104185692
+dimwishlist:item=2152484073&perks=1392496348,3230963543,2014892510,3418165135
+dimwishlist:item=2152484073&perks=1392496348,3230963543,2014892510,3007133316
+dimwishlist:item=2152484073&perks=1392496348,3230963543,848860060,1546637391
+dimwishlist:item=2152484073&perks=1392496348,3230963543,848860060,4104185692
+dimwishlist:item=2152484073&perks=1392496348,3230963543,848860060,3418165135
+dimwishlist:item=2152484073&perks=1392496348,3230963543,848860060,3007133316
+dimwishlist:item=2152484073&perks=1482024992,106909392,1428297954,1546637391
+dimwishlist:item=2152484073&perks=1482024992,106909392,1428297954,4104185692
+dimwishlist:item=2152484073&perks=1482024992,106909392,1428297954,3418165135
+dimwishlist:item=2152484073&perks=1482024992,106909392,1428297954,3007133316
+dimwishlist:item=2152484073&perks=1482024992,106909392,1354429876,1546637391
+dimwishlist:item=2152484073&perks=1482024992,106909392,1354429876,4104185692
+dimwishlist:item=2152484073&perks=1482024992,106909392,1354429876,3418165135
+dimwishlist:item=2152484073&perks=1482024992,106909392,1354429876,3007133316
+dimwishlist:item=2152484073&perks=1482024992,106909392,2014892510,1546637391
+dimwishlist:item=2152484073&perks=1482024992,106909392,2014892510,4104185692
+dimwishlist:item=2152484073&perks=1482024992,106909392,2014892510,3418165135
+dimwishlist:item=2152484073&perks=1482024992,106909392,2014892510,3007133316
+dimwishlist:item=2152484073&perks=1482024992,106909392,848860060,1546637391
+dimwishlist:item=2152484073&perks=1482024992,106909392,848860060,4104185692
+dimwishlist:item=2152484073&perks=1482024992,106909392,848860060,3418165135
+dimwishlist:item=2152484073&perks=1482024992,106909392,848860060,3007133316
+dimwishlist:item=2152484073&perks=1482024992,3230963543,1428297954,1546637391
+dimwishlist:item=2152484073&perks=1482024992,3230963543,1428297954,4104185692
+dimwishlist:item=2152484073&perks=1482024992,3230963543,1428297954,3418165135
+dimwishlist:item=2152484073&perks=1482024992,3230963543,1428297954,3007133316
+dimwishlist:item=2152484073&perks=1482024992,3230963543,1354429876,1546637391
+dimwishlist:item=2152484073&perks=1482024992,3230963543,1354429876,4104185692
+dimwishlist:item=2152484073&perks=1482024992,3230963543,1354429876,3418165135
+dimwishlist:item=2152484073&perks=1482024992,3230963543,1354429876,3007133316
+dimwishlist:item=2152484073&perks=1482024992,3230963543,2014892510,1546637391
+dimwishlist:item=2152484073&perks=1482024992,3230963543,2014892510,4104185692
+dimwishlist:item=2152484073&perks=1482024992,3230963543,2014892510,3418165135
+dimwishlist:item=2152484073&perks=1482024992,3230963543,2014892510,3007133316
+dimwishlist:item=2152484073&perks=1482024992,3230963543,848860060,1546637391
+dimwishlist:item=2152484073&perks=1482024992,3230963543,848860060,4104185692
+dimwishlist:item=2152484073&perks=1482024992,3230963543,848860060,3418165135
+dimwishlist:item=2152484073&perks=1482024992,3230963543,848860060,3007133316
+
+
+// Warden's Law - PVP (god-pvp)
+//notes: MW: Range; Warden’s Law shines a bit more in The Crucible than it does in PvE. To fully optimize the weapon for PvP, we’ll start with barrels and magazines that increase range and stability: Polygonal Rifling and Accurized Rounds. For column 3, Moving Target is generally the best pick, but Discord and Perpetual Motion can also work if you can play into them. The final column is really where Warden’s Law gets interesting. With Kill Clip active, this weapon can two-tap any Guardian under Tier 10 Resilience. This reduces the weapon’s time to kill to 0.50s, which is absurd given Kill Clip’s consistency. tags:god-pvp
+dimwishlist:item=2152484073&perks=1392496348,3230963543,588594999,1015611457
+dimwishlist:item=2152484073&perks=1392496348,3230963543,588594999,2923251173
+dimwishlist:item=2152484073&perks=1392496348,3230963543,2717805783,1015611457
+dimwishlist:item=2152484073&perks=1392496348,3230963543,2717805783,2923251173
+dimwishlist:item=2152484073&perks=1392496348,3142289711,588594999,1015611457
+dimwishlist:item=2152484073&perks=1392496348,3142289711,588594999,2923251173
+dimwishlist:item=2152484073&perks=1392496348,3142289711,2717805783,1015611457
+dimwishlist:item=2152484073&perks=1392496348,3142289711,2717805783,2923251173
+dimwishlist:item=2152484073&perks=3250034553,3230963543,588594999,1015611457
+dimwishlist:item=2152484073&perks=3250034553,3230963543,588594999,2923251173
+dimwishlist:item=2152484073&perks=3250034553,3230963543,2717805783,1015611457
+dimwishlist:item=2152484073&perks=3250034553,3230963543,2717805783,2923251173
+dimwishlist:item=2152484073&perks=3250034553,3142289711,588594999,1015611457
+dimwishlist:item=2152484073&perks=3250034553,3142289711,588594999,2923251173
+dimwishlist:item=2152484073&perks=3250034553,3142289711,2717805783,1015611457
+dimwishlist:item=2152484073&perks=3250034553,3142289711,2717805783,2923251173
+
+
+// Warden's Law - PVE (pve)
+//notes: MW: Reload; Because Warden’s Law lacks an elemental damage type, it’s immediately outclassed by numerous other options. That is, except for one special case: pairing the weapon with Lucky Pants. 
+For Hunters, using a Warden’s Law with Fourth Time’s the Charm and Vorpal Weapon with Lucky Pants allows the weapon to do some significant damage for a primary weapon. While dealing optimal damage with this setup requires you to rotate between heavy (and sometimes special) ammo weapons as well, it’s easily the main draw to Warden’s Law in high-end PvE. If you’re instead looking to run this weapon casually, Perpetual Motion or Fourth Time’s the Charm with Frenzy is your best bet. tags:pve
+dimwishlist:item=2152484073&perks=1428297954,1546637391
+dimwishlist:item=2152484073&perks=1428297954,4104185692
+dimwishlist:item=2152484073&perks=1428297954,3418165135
+dimwishlist:item=2152484073&perks=1428297954,3007133316
+dimwishlist:item=2152484073&perks=1354429876,1546637391
+dimwishlist:item=2152484073&perks=1354429876,4104185692
+dimwishlist:item=2152484073&perks=1354429876,3418165135
+dimwishlist:item=2152484073&perks=1354429876,3007133316
+dimwishlist:item=2152484073&perks=2014892510,1546637391
+dimwishlist:item=2152484073&perks=2014892510,4104185692
+dimwishlist:item=2152484073&perks=2014892510,3418165135
+dimwishlist:item=2152484073&perks=2014892510,3007133316
+dimwishlist:item=2152484073&perks=848860060,1546637391
+dimwishlist:item=2152484073&perks=848860060,4104185692
+dimwishlist:item=2152484073&perks=848860060,3418165135
+dimwishlist:item=2152484073&perks=848860060,3007133316
+
+
+// Warden's Law - PVP (pvp)
+//notes: MW: Range; Warden’s Law shines a bit more in The Crucible than it does in PvE. To fully optimize the weapon for PvP, we’ll start with barrels and magazines that increase range and stability: Polygonal Rifling and Accurized Rounds. For column 3, Moving Target is generally the best pick, but Discord and Perpetual Motion can also work if you can play into them. The final column is really where Warden’s Law gets interesting. With Kill Clip active, this weapon can two-tap any Guardian under Tier 10 Resilience. This reduces the weapon’s time to kill to 0.50s, which is absurd given Kill Clip’s consistency. tags:pvp
+dimwishlist:item=2152484073&perks=588594999,1015611457
+dimwishlist:item=2152484073&perks=588594999,2923251173
+dimwishlist:item=2152484073&perks=2717805783,1015611457
+dimwishlist:item=2152484073&perks=2717805783,2923251173
+
+
 // Breachlight - PVE Grenade Build (pve)
 //notes: PVE Grenade Build tags:pve
 dimwishlist:item=2328923181&perks=3523296417,11612903
@@ -1454,43 +1572,75 @@ dimwishlist:item=2490988246&perks=2717805783,2675184851
 
 
 // Scintillation - PVE (god-pve)
-//notes: MW: Charge Time tags:god-pve
-dimwishlist:item=2591257541&perks=1840239774,2680121939,968510818,3078487919
-dimwishlist:item=2591257541&perks=1840239774,2680121939,968510818,3744057135
-dimwishlist:item=2591257541&perks=1840239774,2680121939,968510818,3708227201
-dimwishlist:item=2591257541&perks=1840239774,2680121939,968510818,781192741
-dimwishlist:item=2591257541&perks=1840239774,2680121939,424370782,3078487919
-dimwishlist:item=2591257541&perks=1840239774,2680121939,424370782,3744057135
-dimwishlist:item=2591257541&perks=1840239774,2680121939,424370782,3708227201
-dimwishlist:item=2591257541&perks=1840239774,2680121939,424370782,781192741
-dimwishlist:item=2591257541&perks=1840239774,2680121939,247725512,3078487919
-dimwishlist:item=2591257541&perks=1840239774,2680121939,247725512,3744057135
-dimwishlist:item=2591257541&perks=1840239774,2680121939,247725512,3708227201
-dimwishlist:item=2591257541&perks=1840239774,2680121939,247725512,781192741
-dimwishlist:item=2591257541&perks=1840239774,2680121939,1563455254,3078487919
-dimwishlist:item=2591257541&perks=1840239774,2680121939,1563455254,3744057135
-dimwishlist:item=2591257541&perks=1840239774,2680121939,1563455254,3708227201
-dimwishlist:item=2591257541&perks=1840239774,2680121939,1563455254,781192741
+//notes: MW: Charge Time; Backup Mag; Bringing some of the highest damage in recent years, Linear Fusion Rifles still hold a solid place in the sandbox for providing great damage output and feeling great to use. This Scintillation PvE god roll taps into some of the best features a Linear Fusion Rifle can carry. An essential perk to start with is Arrowhead Brake, which ensures Recoil reaches maximum efficiency at 100 and keeps shots vertical after each round fired. The added Handling ensures Scintillation is ready to go quickly when called into action. Add Ionized Battery in the second slot to increase the Magazine size. This extra shot is an essential part of building this god roll when combined with the main perk set. The main perk set is a tried and tested powerful combination in the current sandbox that can easily take down some of the toughest enemies. Start with Envious Assassin which has the potential to double the Magazine size and number of shots carried. This means with the Backup Mag mod and Ionized Battery, the total shot count can reach 14. Throw on Bait and Switch for the final perk to have the potential setup of a 30 percent damage increase for almost every shot. This then ties in perfectly with the Veist Stinger Origin Trait which can then further Reload the Magazine as the shot count gets lower. This god roll means Scintillation can do some serious damage when it all comes together. tags:god-pve
+dimwishlist:item=2591257541&perks=839105230,2680121939,968510818,3078487919
+dimwishlist:item=2591257541&perks=839105230,2680121939,968510818,3744057135
+dimwishlist:item=2591257541&perks=839105230,2680121939,968510818,3708227201
+dimwishlist:item=2591257541&perks=839105230,2680121939,968510818,781192741
+dimwishlist:item=2591257541&perks=839105230,2680121939,424370782,3078487919
+dimwishlist:item=2591257541&perks=839105230,2680121939,424370782,3744057135
+dimwishlist:item=2591257541&perks=839105230,2680121939,424370782,3708227201
+dimwishlist:item=2591257541&perks=839105230,2680121939,424370782,781192741
+dimwishlist:item=2591257541&perks=839105230,2680121939,1563455254,3078487919
+dimwishlist:item=2591257541&perks=839105230,2680121939,1563455254,3744057135
+dimwishlist:item=2591257541&perks=839105230,2680121939,1563455254,3708227201
+dimwishlist:item=2591257541&perks=839105230,2680121939,1563455254,781192741
+dimwishlist:item=2591257541&perks=839105230,2680121939,3418782618,3078487919
+dimwishlist:item=2591257541&perks=839105230,2680121939,3418782618,3744057135
+dimwishlist:item=2591257541&perks=839105230,2680121939,3418782618,3708227201
+dimwishlist:item=2591257541&perks=839105230,2680121939,3418782618,781192741
+dimwishlist:item=2591257541&perks=839105230,1483536627,968510818,3078487919
+dimwishlist:item=2591257541&perks=839105230,1483536627,968510818,3744057135
+dimwishlist:item=2591257541&perks=839105230,1483536627,968510818,3708227201
+dimwishlist:item=2591257541&perks=839105230,1483536627,968510818,781192741
+dimwishlist:item=2591257541&perks=839105230,1483536627,424370782,3078487919
+dimwishlist:item=2591257541&perks=839105230,1483536627,424370782,3744057135
+dimwishlist:item=2591257541&perks=839105230,1483536627,424370782,3708227201
+dimwishlist:item=2591257541&perks=839105230,1483536627,424370782,781192741
+dimwishlist:item=2591257541&perks=839105230,1483536627,1563455254,3078487919
+dimwishlist:item=2591257541&perks=839105230,1483536627,1563455254,3744057135
+dimwishlist:item=2591257541&perks=839105230,1483536627,1563455254,3708227201
+dimwishlist:item=2591257541&perks=839105230,1483536627,1563455254,781192741
+dimwishlist:item=2591257541&perks=839105230,1483536627,3418782618,3078487919
+dimwishlist:item=2591257541&perks=839105230,1483536627,3418782618,3744057135
+dimwishlist:item=2591257541&perks=839105230,1483536627,3418782618,3708227201
+dimwishlist:item=2591257541&perks=839105230,1483536627,3418782618,781192741
+
+
+// Scintillation - PVP (god-pvp)
+//notes: MW: Charge or Range; Targeting Adj; Start with Smallbore for its bumps to Stability and Range. The Stability helps keep the reticle central after each shot and the Range ensures accuracy by keeping the reticle tight to opponents when aiming for headshots at longer distances. Add Accelerated Coils to get shots off faster, giving opponents less time to maneuver out of sight. The main perks of Scintillation for this god roll combine to reward a run-and-gun playstyle for Guardians who like to get in the thick of it and show an accurate hand. Cornered is the first pick for its decrease to Charge Time when near enemies. As Scintillation is a one-shot to the head for the kill weapon, the combination of perks means getting off a shot so quickly can instantly remove an enemy from the arena before they can even react to this onrushing Power weapon. Finish off with Hatchling which not only enhances a potential Strand build focused on Hatchlings, it also produces them from kills which can cause havoc to enemies as the Threadling chases them down and causes a good chunk of damage if it latches on.  tags:god-pvp
+dimwishlist:item=2591257541&perks=1482024992,689005463,1799762209,831391274
+dimwishlist:item=2591257541&perks=1482024992,689005463,1799762209,102912326
+dimwishlist:item=2591257541&perks=1482024992,689005463,1008128453,831391274
+dimwishlist:item=2591257541&perks=1482024992,689005463,1008128453,102912326
 
 
 // Scintillation - PVE (pve)
-//notes: MW: Charge Time tags:pve
-dimwishlist:item=2591257541&perks=968510818,3744057135
+//notes: MW: Charge Time; Backup Mag; Bringing some of the highest damage in recent years, Linear Fusion Rifles still hold a solid place in the sandbox for providing great damage output and feeling great to use. This Scintillation PvE god roll taps into some of the best features a Linear Fusion Rifle can carry. An essential perk to start with is Arrowhead Brake, which ensures Recoil reaches maximum efficiency at 100 and keeps shots vertical after each round fired. The added Handling ensures Scintillation is ready to go quickly when called into action. Add Ionized Battery in the second slot to increase the Magazine size. This extra shot is an essential part of building this god roll when combined with the main perk set. The main perk set is a tried and tested powerful combination in the current sandbox that can easily take down some of the toughest enemies. Start with Envious Assassin which has the potential to double the Magazine size and number of shots carried. This means with the Backup Mag mod and Ionized Battery, the total shot count can reach 14. Throw on Bait and Switch for the final perk to have the potential setup of a 30 percent damage increase for almost every shot. This then ties in perfectly with the Veist Stinger Origin Trait which can then further Reload the Magazine as the shot count gets lower. This god roll means Scintillation can do some serious damage when it all comes together. tags:pve
 dimwishlist:item=2591257541&perks=968510818,3078487919
+dimwishlist:item=2591257541&perks=968510818,3744057135
 dimwishlist:item=2591257541&perks=968510818,3708227201
 dimwishlist:item=2591257541&perks=968510818,781192741
-dimwishlist:item=2591257541&perks=3418782618,3744057135
-dimwishlist:item=2591257541&perks=3418782618,3078487919
-dimwishlist:item=2591257541&perks=3418782618,3708227201
-dimwishlist:item=2591257541&perks=3418782618,781192741
-dimwishlist:item=2591257541&perks=424370782,3744057135
 dimwishlist:item=2591257541&perks=424370782,3078487919
+dimwishlist:item=2591257541&perks=424370782,3744057135
 dimwishlist:item=2591257541&perks=424370782,3708227201
 dimwishlist:item=2591257541&perks=424370782,781192741
-dimwishlist:item=2591257541&perks=1563455254,3744057135
 dimwishlist:item=2591257541&perks=1563455254,3078487919
+dimwishlist:item=2591257541&perks=1563455254,3744057135
 dimwishlist:item=2591257541&perks=1563455254,3708227201
 dimwishlist:item=2591257541&perks=1563455254,781192741
+dimwishlist:item=2591257541&perks=3418782618,3078487919
+dimwishlist:item=2591257541&perks=3418782618,3744057135
+dimwishlist:item=2591257541&perks=3418782618,3708227201
+dimwishlist:item=2591257541&perks=3418782618,781192741
+
+
+// Scintillation - PVP (pvp)
+//notes: MW: Charge or Range; Targeting Adj; Start with Smallbore for its bumps to Stability and Range. The Stability helps keep the reticle central after each shot and the Range ensures accuracy by keeping the reticle tight to opponents when aiming for headshots at longer distances. Add Accelerated Coils to get shots off faster, giving opponents less time to maneuver out of sight. The main perks of Scintillation for this god roll combine to reward a run-and-gun playstyle for Guardians who like to get in the thick of it and show an accurate hand. Cornered is the first pick for its decrease to Charge Time when near enemies. As Scintillation is a one-shot to the head for the kill weapon, the combination of perks means getting off a shot so quickly can instantly remove an enemy from the arena before they can even react to this onrushing Power weapon. Finish off with Hatchling which not only enhances a potential Strand build focused on Hatchlings, it also produces them from kills which can cause havoc to enemies as the Threadling chases them down and causes a good chunk of damage if it latches on.  tags:pvp
+dimwishlist:item=2591257541&perks=1799762209,831391274
+dimwishlist:item=2591257541&perks=1799762209,102912326
+dimwishlist:item=2591257541&perks=1008128453,831391274
+dimwishlist:item=2591257541&perks=1008128453,102912326
 
 
 // Midnight Coup - Blueberries - God PVE (god-pve)
@@ -1826,6 +1976,38 @@ dimwishlist:item=3685470415&perks=2451262963,588594999
 dimwishlist:item=3685470415&perks=2451262963,2717805783
 dimwishlist:item=3685470415&perks=1609056795,588594999
 dimwishlist:item=3685470415&perks=1609056795,2717805783
+
+
+// Ill Omen - PVE (god-pve)
+//notes: MW: Impact; Backup Mag Mod; Start with Hungry Edge for the higher Magazine and Ammo Capacity. Providing Ill Omen with these increases gives more Heavy and Light attacks to spend when chopping down enemies. Add Swordmaster’s Guard for increases to key stats for blocking attacks and increase Charge Rate meaning Ill Omen can get out another Heavy Attack faster.The juice for this god roll comes within its main perk selection. Start with Relentless Strikes which refunds ammo after landing consecutive Light Attacks. This is where Cold Steel comes in. This perk applies to any type of attack so Light and Heavy Attacks cause Slow to any enemy it hits. This includes when using the Heavy Attack to cast an icy disc of damage toward foes. This also has an area of effect so surrounding enemies can be slowed or killed if close to its AoE. Land enough hits and enemies can be frozen solid and it can even stun certain Champion-level enemies, making them an easy target for Fireteam members to land critical hits on to get the kill. tags:god-pve
+dimwishlist:item=3794274730&perks=436053704,269888150,1749209109,3650930298
+dimwishlist:item=3794274730&perks=436053704,269888150,1749209109,405677814
+dimwishlist:item=3794274730&perks=436053704,269888150,4085959009,3650930298
+dimwishlist:item=3794274730&perks=436053704,269888150,4085959009,405677814
+
+
+// Ill Omen - PVP (god-pvp)
+//notes: MW: Impact; Quick Access Mod; Start this god roll off with Honed Edge, adding more Impact means increased damage output which helps take down foes protected by their abilities such as overshields or in their Super. Throw on Balanced Guard, which means the block can take more punishment before running out, which can be a solid tool for closing the gap or quickly escaping a tight battle. The new perk, Strategist makes its debut with The Final Shape comes into the first slot. This perk grants class ability energy with every kill, a key tool in the Guardian tool kit. With swords able to make light work of enemies, this can easily stack up the class ability energy, giving a clear advantage when going into the next duel. Round this off with Assassin’s Blade for its damage and movement speed bonuses, allowing the wielder to fly around any Crucible arena to quickly slash through opponents while adding the extra damage to ensure no opponent is safe from its blade. tags:god-pvp
+dimwishlist:item=3794274730&perks=2827049491,52780822,880644845,354401740
+dimwishlist:item=3794274730&perks=2827049491,52780822,880644845,3678483220
+dimwishlist:item=3794274730&perks=2827049491,52780822,3120212825,354401740
+dimwishlist:item=3794274730&perks=2827049491,52780822,3120212825,3678483220
+
+
+// Ill Omen - PVE (pve)
+//notes: MW: Impact; Backup Mag Mod; Start with Hungry Edge for the higher Magazine and Ammo Capacity. Providing Ill Omen with these increases gives more Heavy and Light attacks to spend when chopping down enemies. Add Swordmaster’s Guard for increases to key stats for blocking attacks and increase Charge Rate meaning Ill Omen can get out another Heavy Attack faster.The juice for this god roll comes within its main perk selection. Start with Relentless Strikes which refunds ammo after landing consecutive Light Attacks. This is where Cold Steel comes in. This perk applies to any type of attack so Light and Heavy Attacks cause Slow to any enemy it hits. This includes when using the Heavy Attack to cast an icy disc of damage toward foes. This also has an area of effect so surrounding enemies can be slowed or killed if close to its AoE. Land enough hits and enemies can be frozen solid and it can even stun certain Champion-level enemies, making them an easy target for Fireteam members to land critical hits on to get the kill. tags:pve
+dimwishlist:item=3794274730&perks=1749209109,3650930298
+dimwishlist:item=3794274730&perks=1749209109,405677814
+dimwishlist:item=3794274730&perks=4085959009,3650930298
+dimwishlist:item=3794274730&perks=4085959009,405677814
+
+
+// Ill Omen - PVP (pvp)
+//notes: MW: Impact; Quick Access Mod; Start this god roll off with Honed Edge, adding more Impact means increased damage output which helps take down foes protected by their abilities such as overshields or in their Super. Throw on Balanced Guard, which means the block can take more punishment before running out, which can be a solid tool for closing the gap or quickly escaping a tight battle. The new perk, Strategist makes its debut with The Final Shape comes into the first slot. This perk grants class ability energy with every kill, a key tool in the Guardian tool kit. With swords able to make light work of enemies, this can easily stack up the class ability energy, giving a clear advantage when going into the next duel. Round this off with Assassin’s Blade for its damage and movement speed bonuses, allowing the wielder to fly around any Crucible arena to quickly slash through opponents while adding the extra damage to ensure no opponent is safe from its blade. tags:pvp
+dimwishlist:item=3794274730&perks=880644845,354401740
+dimwishlist:item=3794274730&perks=880644845,3678483220
+dimwishlist:item=3794274730&perks=3120212825,354401740
+dimwishlist:item=3794274730&perks=3120212825,3678483220
 
 
 // Axial Lacuna - PVE (god-pve,pve)
