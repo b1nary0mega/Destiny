@@ -2129,6 +2129,34 @@ dimwishlist:item=3232203524&perks=494941759,47981717
 dimwishlist:item=3232203524&perks=494941759,1370847713
 
 
+// Indebted Kindness - PVE (god-pve)
+//notes: MW: Velocity; Regardless of what activity you’re thinking of playing, Indebted Kindness’ most important stat is velocity. Because of this, we’ll be using Quick Launch, High-Velocity Rounds, a velocity masterwork, and Impulse Amplifier. Beacon Rounds, a perk currently exclusive to rocket-assisted sidearms, is also a great choice for perk one. For the final column of perks, Voltshot is what many are seeking. Surrounded is also great for total damage if you can get it to proc, but those are really the only two perks worth keeping an eye out for in this column. tags:god-pve
+dimwishlist:item=3381450498&perks=3525010810,2822142346,951095735,2173046394
+dimwishlist:item=3381450498&perks=3525010810,2822142346,951095735,3708227201
+dimwishlist:item=3381450498&perks=3525010810,2822142346,2859149211,2173046394
+dimwishlist:item=3381450498&perks=3525010810,2822142346,2859149211,3708227201
+
+
+// Indebted Kindness - PVP (god-pvp)
+//notes: MW: Velocity; Regardless of what perks you have on the weapon, Indebted Kindness just isn’t that strong for PvP. However, if you are set on using it for one reason or another, you’ll want to spec into some of the same things here as in PvE. Once again, we’ll start by going for high velocity with Quick Launch, High-Velocity Rounds, and Impulse Amplifier. Beacon Rounds is also a good substitute here, assuming you can get a kill with the weapon before entering another engagement. The final column is extremely weak, only containing the mediocre picks of Adagio and Surrounded. Beyond these, however, you more than likely won’t even feel the traits in this column working in your gameplay. tags:god-pvp
+dimwishlist:item=3381450498&perks=3525010810,2822142346,2859149211,3673922083
+dimwishlist:item=3381450498&perks=3525010810,2822142346,951095735,3673922083
+
+
+// Indebted Kindness - PVE (pve)
+//notes: MW: Velocity; Regardless of what activity you’re thinking of playing, Indebted Kindness’ most important stat is velocity. Because of this, we’ll be using Quick Launch, High-Velocity Rounds, a velocity masterwork, and Impulse Amplifier. Beacon Rounds, a perk currently exclusive to rocket-assisted sidearms, is also a great choice for perk one. For the final column of perks, Voltshot is what many are seeking. Surrounded is also great for total damage if you can get it to proc, but those are really the only two perks worth keeping an eye out for in this column. tags:pve
+dimwishlist:item=3381450498&perks=951095735,2173046394
+dimwishlist:item=3381450498&perks=951095735,3708227201
+dimwishlist:item=3381450498&perks=2859149211,2173046394
+dimwishlist:item=3381450498&perks=2859149211,3708227201
+
+
+// Indebted Kindness - PVP (pvp)
+//notes: MW: Velocity; Regardless of what perks you have on the weapon, Indebted Kindness just isn’t that strong for PvP. However, if you are set on using it for one reason or another, you’ll want to spec into some of the same things here as in PvE. Once again, we’ll start by going for high velocity with Quick Launch, High-Velocity Rounds, and Impulse Amplifier. Beacon Rounds is also a good substitute here, assuming you can get a kill with the weapon before entering another engagement. The final column is extremely weak, only containing the mediocre picks of Adagio and Surrounded. Beyond these, however, you more than likely won’t even feel the traits in this column working in your gameplay. tags:pvp
+dimwishlist:item=3381450498&perks=2859149211,3673922083
+dimwishlist:item=3381450498&perks=951095735,3673922083
+
+
 // Pro Memoria - PVE (god-pve,pve)
 //notes: PVE; MW Stability; For our barrel, you will want Fluted Barrel to increase your stability and handling of the weapon. This will help make sure you can keep the kickback of the weapon under control as you unload the clip into your enemies. For our magazine, we’ll want to pick Ricochet Rounds to increase stability and control recoil even further, with a small boost to the range. For our perks, we want Demolitionist and Frenzy in perk columns 1 and 2 respectively. Demolitionist will generate grenade ability energy upon kills with the weapon and kills with your grenade ability will reload the weapon from reserves. Frenzy will enable increased damage, handling, and reload speed after being in combat for an extended period of time. Overall, the combination of Demolitionist and Frenzy makes this a particularly dangerous Machine Gun, great at both crowd control and dealing damage. tags:god-pve,pve
 dimwishlist:item=3605603507&perks=1840239774,1885400500,3523296417,4104185692
