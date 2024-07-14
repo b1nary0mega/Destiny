@@ -848,6 +848,78 @@ dimwishlist:item=1453235079&perks=2938480696,3751912585
 dimwishlist:item=1453235079&perks=2938480696,331667533
 
 
+// Claws of the Wolf - PVE (god-pve)
+//notes: MW: Reload; Though it's not really a PvE weapon in most cases, Claws of the Wolf does benefit from the Void double-whammy of Repulsor Brace and Destabilizing Rounds, giving it some serious synergy with Void builds. To start, though, your choices on barrel and magazine are pretty open, but Handling and Reload Speed are good places to put your focus; Range and Stability matter a lot less when you're not fighting other Guardians. Your main focus is on getting Repulsor Brace and Destabilizing Rounds together, which gives Claws of the Wolf some serious power in PvE. First, Destabilizing Rounds cause targets near any enemy you kill to become Volatile, which debuffs them and makes them explode, spreading around more Volatile. If you use Claws to kill a Volatile enemy, you'll trigger Repulsor Brace, which gives you an overshield. So especially when dealing with groups of weak enemies, the combination creates its own feedback loop that makes your killing more effective and your defense even stronger. Add this combo to a Void build that spreads around and takes advantage of more debuffs, and you'll get even more shields for your trouble. tags:god-pve
+dimwishlist:item=1505862304&perks=839105230,3230963543,776531651,2048641572
+dimwishlist:item=1505862304&perks=839105230,3230963543,776531651,1926441324
+dimwishlist:item=1505862304&perks=839105230,3230963543,2541826827,2048641572
+dimwishlist:item=1505862304&perks=839105230,3230963543,2541826827,1926441324
+
+
+// Claws of the Wolf - PVP (god-pvp)
+//notes: MW: Range or Reload; There are a few good combinations for Claws of the Wolf in the Crucible, depending a bit on your playstyle and what you're going for. Generally, you want to favor stats like Range and Stability in your barrel and magazine choices, although if you really like Kill Clip, try to boost Reload Speed. The main benefit of Claws of the Wolf is that, while its bullets don't hit too hard, it fires extremely quickly and pretty accurately. Thus, pairing Headseeker, which gives you increased precision damage when you land body shots, and Zen Moment, which increases your aim assist and decreases your flinch the more you land shots, leans into the accuracy Claws of the Wolf already sports. You're firing so many bullets so quickly that you're getting a lot of benefit out of the synergy. Alternatively, To The Pain, a new perk in The Final Shape, gives you a similar benefit when you're under fire, increasing your aim assist as you duel and boosting your handling--great if you need to quickly whip out a shotgun to seal the deal. Zen Moment can also pair with To The Pain, but if you'd prefer a damage perk, Rampage gives you a 10% boost when you land a kill, which can help knock down secondary targets. Kill Clip can be even better--the damage boost is 25% when you reload within three seconds of a kill--but the reload on Claws of the Wolf can be painfully slow, so Rampage's automatic activation might be the better call. tags:god-pvp
+dimwishlist:item=1505862304&perks=839105230,1885400500,3938834702,2387244414
+dimwishlist:item=1505862304&perks=839105230,1885400500,3938834702,3425386926
+dimwishlist:item=1505862304&perks=839105230,1885400500,3938834702,288411554
+dimwishlist:item=1505862304&perks=839105230,1885400500,3938834702,1748774930
+dimwishlist:item=1505862304&perks=839105230,1885400500,460017080,2387244414
+dimwishlist:item=1505862304&perks=839105230,1885400500,460017080,3425386926
+dimwishlist:item=1505862304&perks=839105230,1885400500,460017080,288411554
+dimwishlist:item=1505862304&perks=839105230,1885400500,460017080,1748774930
+dimwishlist:item=1505862304&perks=839105230,1885400500,4045335048,2387244414
+dimwishlist:item=1505862304&perks=839105230,1885400500,4045335048,3425386926
+dimwishlist:item=1505862304&perks=839105230,1885400500,4045335048,288411554
+dimwishlist:item=1505862304&perks=839105230,1885400500,4045335048,1748774930
+dimwishlist:item=1505862304&perks=839105230,1885400500,3416609154,2387244414
+dimwishlist:item=1505862304&perks=839105230,1885400500,3416609154,3425386926
+dimwishlist:item=1505862304&perks=839105230,1885400500,3416609154,288411554
+dimwishlist:item=1505862304&perks=839105230,1885400500,3416609154,1748774930
+dimwishlist:item=1505862304&perks=1482024992,1885400500,3938834702,2387244414
+dimwishlist:item=1505862304&perks=1482024992,1885400500,3938834702,3425386926
+dimwishlist:item=1505862304&perks=1482024992,1885400500,3938834702,288411554
+dimwishlist:item=1505862304&perks=1482024992,1885400500,3938834702,1748774930
+dimwishlist:item=1505862304&perks=1482024992,1885400500,460017080,2387244414
+dimwishlist:item=1505862304&perks=1482024992,1885400500,460017080,3425386926
+dimwishlist:item=1505862304&perks=1482024992,1885400500,460017080,288411554
+dimwishlist:item=1505862304&perks=1482024992,1885400500,460017080,1748774930
+dimwishlist:item=1505862304&perks=1482024992,1885400500,4045335048,2387244414
+dimwishlist:item=1505862304&perks=1482024992,1885400500,4045335048,3425386926
+dimwishlist:item=1505862304&perks=1482024992,1885400500,4045335048,288411554
+dimwishlist:item=1505862304&perks=1482024992,1885400500,4045335048,1748774930
+dimwishlist:item=1505862304&perks=1482024992,1885400500,3416609154,2387244414
+dimwishlist:item=1505862304&perks=1482024992,1885400500,3416609154,3425386926
+dimwishlist:item=1505862304&perks=1482024992,1885400500,3416609154,288411554
+dimwishlist:item=1505862304&perks=1482024992,1885400500,3416609154,1748774930
+
+
+// Claws of the Wolf - PVE (pve)
+//notes: MW: Reload; Though it's not really a PvE weapon in most cases, Claws of the Wolf does benefit from the Void double-whammy of Repulsor Brace and Destabilizing Rounds, giving it some serious synergy with Void builds. To start, though, your choices on barrel and magazine are pretty open, but Handling and Reload Speed are good places to put your focus; Range and Stability matter a lot less when you're not fighting other Guardians. Your main focus is on getting Repulsor Brace and Destabilizing Rounds together, which gives Claws of the Wolf some serious power in PvE. First, Destabilizing Rounds cause targets near any enemy you kill to become Volatile, which debuffs them and makes them explode, spreading around more Volatile. If you use Claws to kill a Volatile enemy, you'll trigger Repulsor Brace, which gives you an overshield. So especially when dealing with groups of weak enemies, the combination creates its own feedback loop that makes your killing more effective and your defense even stronger. Add this combo to a Void build that spreads around and takes advantage of more debuffs, and you'll get even more shields for your trouble. tags:pve
+dimwishlist:item=1505862304&perks=776531651,2048641572
+dimwishlist:item=1505862304&perks=776531651,1926441324
+dimwishlist:item=1505862304&perks=2541826827,2048641572
+dimwishlist:item=1505862304&perks=2541826827,1926441324
+
+
+// Claws of the Wolf - PVP (pvp)
+//notes: MW: Range or Reload; There are a few good combinations for Claws of the Wolf in the Crucible, depending a bit on your playstyle and what you're going for. Generally, you want to favor stats like Range and Stability in your barrel and magazine choices, although if you really like Kill Clip, try to boost Reload Speed. The main benefit of Claws of the Wolf is that, while its bullets don't hit too hard, it fires extremely quickly and pretty accurately. Thus, pairing Headseeker, which gives you increased precision damage when you land body shots, and Zen Moment, which increases your aim assist and decreases your flinch the more you land shots, leans into the accuracy Claws of the Wolf already sports. You're firing so many bullets so quickly that you're getting a lot of benefit out of the synergy. Alternatively, To The Pain, a new perk in The Final Shape, gives you a similar benefit when you're under fire, increasing your aim assist as you duel and boosting your handling--great if you need to quickly whip out a shotgun to seal the deal. Zen Moment can also pair with To The Pain, but if you'd prefer a damage perk, Rampage gives you a 10% boost when you land a kill, which can help knock down secondary targets. Kill Clip can be even better--the damage boost is 25% when you reload within three seconds of a kill--but the reload on Claws of the Wolf can be painfully slow, so Rampage's automatic activation might be the better call. tags:pvp
+dimwishlist:item=1505862304&perks=3938834702,2387244414
+dimwishlist:item=1505862304&perks=3938834702,3425386926
+dimwishlist:item=1505862304&perks=3938834702,288411554
+dimwishlist:item=1505862304&perks=3938834702,1748774930
+dimwishlist:item=1505862304&perks=460017080,2387244414
+dimwishlist:item=1505862304&perks=460017080,3425386926
+dimwishlist:item=1505862304&perks=460017080,288411554
+dimwishlist:item=1505862304&perks=460017080,1748774930
+dimwishlist:item=1505862304&perks=4045335048,2387244414
+dimwishlist:item=1505862304&perks=4045335048,3425386926
+dimwishlist:item=1505862304&perks=4045335048,288411554
+dimwishlist:item=1505862304&perks=4045335048,1748774930
+dimwishlist:item=1505862304&perks=3416609154,2387244414
+dimwishlist:item=1505862304&perks=3416609154,3425386926
+dimwishlist:item=1505862304&perks=3416609154,288411554
+dimwishlist:item=1505862304&perks=3416609154,1748774930
+
+
 // Ergo Sum - PVE DPS (god-pve,pve)
 //notes: Element: Void; Exotic Trait: Wolfpack Rounds; Jagged Edge is almost always perfect for Swords as it boosts our Sword damage, and Swordmaster’s Guard is best for Heavy Attack recharge rate. A Lightweight Frame is also good here, as it deals the highest base level of DPS. Making sure we have a Void element to match with Falling Guillotine is important, and Wolfpack Rounds is a must so we can boost everyone’s Sword damage. tags:god-pve,pve
 dimwishlist:item=1681583613&perks=3666208348,269888150,2753228730
