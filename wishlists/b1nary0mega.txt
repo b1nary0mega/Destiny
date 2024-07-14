@@ -421,6 +421,54 @@ dimwishlist:item=568611923&perks=3878366039,3194351027
 dimwishlist:item=568611923&perks=3878366039,2275087323
 
 
+// Deliverance - PVE (god-pve)
+//notes: MW: Charge Time; Being a Precision Frame Fusion Rifle, it comes with less Handling and a longer Charge Time than options like Riptide, meaning Fluted Barrel and a Charge Time Masterwork are preferred. Enhanced Battery provides a neutral effect adding one burst to the magazine, bumping the size to six. Regarding the perks, Demolitionist will grant 20% grenade energy on kill, which is incredible for grenade-focused builds, and Chill Clip comes with the added utility of freezing enemies. tags:god-pve
+dimwishlist:item=768621510&perks=1840239774,2680121939,3523296417,2978966579
+dimwishlist:item=768621510&perks=1840239774,2680121939,3523296417,344235611
+dimwishlist:item=768621510&perks=1840239774,2680121939,1906147653,2978966579
+dimwishlist:item=768621510&perks=1840239774,2680121939,1906147653,344235611
+
+
+// Deliverance - PVP (god-pvp)
+//notes: MW: Range; Deliverance can be built to have high range with Extended Barrel or a perfect 100 Recoil Direction and bonus Handling with Arrowhead Break. The choice is yours. Projection Fuse provides a nice bump to Range, letting you kill from far away. For perks, Heating Up and Successful Warm-Up will be the best options for general play, as they allow players to chain kills back to back easily. Successful Warm-Up also helps the lengthy Charge Time that Deliverance has. Perpetual Motion is acceptable in the first slot, too. tags:god-pvp
+dimwishlist:item=768621510&perks=839105230,2969185026,1570042021,2652708987
+dimwishlist:item=768621510&perks=839105230,2969185026,1570042021,617966211
+dimwishlist:item=768621510&perks=839105230,2969185026,2748258257,2652708987
+dimwishlist:item=768621510&perks=839105230,2969185026,2748258257,617966211
+dimwishlist:item=768621510&perks=839105230,2969185026,1428297954,2652708987
+dimwishlist:item=768621510&perks=839105230,2969185026,1428297954,617966211
+dimwishlist:item=768621510&perks=839105230,2969185026,2014892510,2652708987
+dimwishlist:item=768621510&perks=839105230,2969185026,2014892510,617966211
+dimwishlist:item=768621510&perks=1467527085,2969185026,1570042021,2652708987
+dimwishlist:item=768621510&perks=1467527085,2969185026,1570042021,617966211
+dimwishlist:item=768621510&perks=1467527085,2969185026,2748258257,2652708987
+dimwishlist:item=768621510&perks=1467527085,2969185026,2748258257,617966211
+dimwishlist:item=768621510&perks=1467527085,2969185026,1428297954,2652708987
+dimwishlist:item=768621510&perks=1467527085,2969185026,1428297954,617966211
+dimwishlist:item=768621510&perks=1467527085,2969185026,2014892510,2652708987
+dimwishlist:item=768621510&perks=1467527085,2969185026,2014892510,617966211
+
+
+// Deliverance - PVE (pve)
+//notes: MW: Charge Time; Being a Precision Frame Fusion Rifle, it comes with less Handling and a longer Charge Time than options like Riptide, meaning Fluted Barrel and a Charge Time Masterwork are preferred. Enhanced Battery provides a neutral effect adding one burst to the magazine, bumping the size to six. Regarding the perks, Demolitionist will grant 20% grenade energy on kill, which is incredible for grenade-focused builds, and Chill Clip comes with the added utility of freezing enemies. tags:pve
+dimwishlist:item=768621510&perks=3523296417,2978966579
+dimwishlist:item=768621510&perks=3523296417,344235611
+dimwishlist:item=768621510&perks=1906147653,2978966579
+dimwishlist:item=768621510&perks=1906147653,344235611
+
+
+// Deliverance - PVP (pvp)
+//notes: MW: Range; Deliverance can be built to have high range with Extended Barrel or a perfect 100 Recoil Direction and bonus Handling with Arrowhead Break. The choice is yours. Projection Fuse provides a nice bump to Range, letting you kill from far away. For perks, Heating Up and Successful Warm-Up will be the best options for general play, as they allow players to chain kills back to back easily. Successful Warm-Up also helps the lengthy Charge Time that Deliverance has. Perpetual Motion is acceptable in the first slot, too. tags:pvp
+dimwishlist:item=768621510&perks=1570042021,2652708987
+dimwishlist:item=768621510&perks=1570042021,617966211
+dimwishlist:item=768621510&perks=2748258257,2652708987
+dimwishlist:item=768621510&perks=2748258257,617966211
+dimwishlist:item=768621510&perks=1428297954,2652708987
+dimwishlist:item=768621510&perks=1428297954,617966211
+dimwishlist:item=768621510&perks=2014892510,2652708987
+dimwishlist:item=768621510&perks=2014892510,617966211
+
+
 // Gnawing Hunger - PVE (pve,god-pve)
 //notes: Tier S; Gnawing Hunger has had an incredible run since it was first introduced, and remains one of the most popular auto rifles for good reason. Incredible perks with impressive stability at 600 RPM, this is one of the best weapons in the game. tags:pve,god-pve
 dimwishlist:item=821154603&perks=1820235745,3425386926
@@ -1807,6 +1855,46 @@ dimwishlist:item=2591257541&perks=1799762209,831391274
 dimwishlist:item=2591257541&perks=1799762209,102912326
 dimwishlist:item=2591257541&perks=1008128453,831391274
 dimwishlist:item=2591257541&perks=1008128453,102912326
+
+
+// Riptide - PVE (god-pve)
+//notes: MW: Charge Time; Like all fusions, stability and recoil direction are the stats you want to boost the most. To that end, Arrowhead is the best for recoil, Polygonal for stability, and Chambered for a mix of both. As for your battery, Enhanced Battery or Accelerated Coils are your go-to. Column 3 has a host of great perks that can match any playstyle, but most players will easily gravitate towards Auto-Loading Holster, Lead from Gold, or Field Prep. If being used as an anti-champion weapon, Auto-Loading or Field Prep is the way to go, as it allows for a more consistent uptime of Chill Clip. Speaking of Chill Clip, it and Vorpal are your two best choices for Column 4. As stated earlier, Chill Clip’s ability to freeze and slow combatants means that it can stun both Overloads and Unstoppables, as well as prevent Barrier Champions from spawning their shields. Vorpal can also be useful, as while it may not stun champions, it can certainly help burst them down once they are. tags:god-pve
+dimwishlist:item=2715240478&perks=839105230,689005463,3300816228,2978966579
+dimwishlist:item=2715240478&perks=839105230,689005463,3300816228,1546637391
+dimwishlist:item=2715240478&perks=839105230,689005463,2869569095,2978966579
+dimwishlist:item=2715240478&perks=839105230,689005463,2869569095,1546637391
+dimwishlist:item=2715240478&perks=839105230,2680121939,3300816228,2978966579
+dimwishlist:item=2715240478&perks=839105230,2680121939,3300816228,1546637391
+dimwishlist:item=2715240478&perks=839105230,2680121939,2869569095,2978966579
+dimwishlist:item=2715240478&perks=839105230,2680121939,2869569095,1546637391
+
+
+// Riptide - PVP (god-pvp)
+//notes: MW: Range or Stability; If you are looking to push the range as much as possible, Extended Barrel is your go-to choice. If stability and recoil are more your speed, Arrowhead Break or Chambered Compensator are your choices. For Batteries, go with Projection Fuse for Range, or the coveted Particle Repeater for more Stability. Column 3 is dominated by Under Pressure for PvP, as its ease of use is hard to beat. Simply have less than half a magazine, and you are rewarded with a linear increase to your accuracy cone and stability, a whole 30 stability, might I add. However, Well-Rounded and Perpetual Motion also offer decent stat increases and are viable options if Under Pressure eludes you. Column 4 offers Successful Warmup, Harmony, or Cornered, allowing various playstyles. Those more confident in their gunplay might go for Successful Warmup or Harmony, allowing for a faster TTK at the expense of getting kills. More defensive players might go for Cornered to hold an entryway or shut down a push. tags:god-pvp
+dimwishlist:item=2715240478&perks=839105230,3868766766,1645158859,1799762209
+dimwishlist:item=2715240478&perks=839105230,3868766766,1645158859,438098033
+dimwishlist:item=2715240478&perks=839105230,3868766766,1428297954,1799762209
+dimwishlist:item=2715240478&perks=839105230,3868766766,1428297954,438098033
+dimwishlist:item=2715240478&perks=839105230,2969185026,1645158859,1799762209
+dimwishlist:item=2715240478&perks=839105230,2969185026,1645158859,438098033
+dimwishlist:item=2715240478&perks=839105230,2969185026,1428297954,1799762209
+dimwishlist:item=2715240478&perks=839105230,2969185026,1428297954,438098033
+
+
+// Riptide - PVE (pve)
+//notes: MW: Charge Time; Like all fusions, stability and recoil direction are the stats you want to boost the most. To that end, Arrowhead is the best for recoil, Polygonal for stability, and Chambered for a mix of both. As for your battery, Enhanced Battery or Accelerated Coils are your go-to. Column 3 has a host of great perks that can match any playstyle, but most players will easily gravitate towards Auto-Loading Holster, Lead from Gold, or Field Prep. If being used as an anti-champion weapon, Auto-Loading or Field Prep is the way to go, as it allows for a more consistent uptime of Chill Clip. Speaking of Chill Clip, it and Vorpal are your two best choices for Column 4. As stated earlier, Chill Clip’s ability to freeze and slow combatants means that it can stun both Overloads and Unstoppables, as well as prevent Barrier Champions from spawning their shields. Vorpal can also be useful, as while it may not stun champions, it can certainly help burst them down once they are. tags:pve
+dimwishlist:item=2715240478&perks=3300816228,2978966579
+dimwishlist:item=2715240478&perks=3300816228,1546637391
+dimwishlist:item=2715240478&perks=2869569095,2978966579
+dimwishlist:item=2715240478&perks=2869569095,1546637391
+
+
+// Riptide - PVP (pvp)
+//notes: MW: Range or Stability; If you are looking to push the range as much as possible, Extended Barrel is your go-to choice. If stability and recoil are more your speed, Arrowhead Break or Chambered Compensator are your choices. For Batteries, go with Projection Fuse for Range, or the coveted Particle Repeater for more Stability. Column 3 is dominated by Under Pressure for PvP, as its ease of use is hard to beat. Simply have less than half a magazine, and you are rewarded with a linear increase to your accuracy cone and stability, a whole 30 stability, might I add. However, Well-Rounded and Perpetual Motion also offer decent stat increases and are viable options if Under Pressure eludes you. Column 4 offers Successful Warmup, Harmony, or Cornered, allowing various playstyles. Those more confident in their gunplay might go for Successful Warmup or Harmony, allowing for a faster TTK at the expense of getting kills. More defensive players might go for Cornered to hold an entryway or shut down a push. tags:pvp
+dimwishlist:item=2715240478&perks=1645158859,1799762209
+dimwishlist:item=2715240478&perks=1645158859,438098033
+dimwishlist:item=2715240478&perks=1428297954,1799762209
+dimwishlist:item=2715240478&perks=1428297954,438098033
 
 
 // Midnight Coup - PVE (god-pve)
