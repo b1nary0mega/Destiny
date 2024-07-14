@@ -608,20 +608,44 @@ dimwishlist:item=1058098236&perks=3198323828,555281244
 dimwishlist:item=1058098236&perks=3198323828,332733060
 
 
-// Chroma Rush - PVE (god-pve,pve)
-//notes: Tier S; Chroma Rush has it all. Good base stats, good perks, and is part of a decent archetype. In PvE, it has a menagerie of perks to pick from, including Rampage, Adrenaline Junkie, and Kill Clip. In PvP, it can either be a consistent laser beam, or a lethal beast with different rolls. tags:god-pve,pve
+// Chroma Rush - PVE (god-pve)
+//notes: Tier S; Chroma Rush has it all. Good base stats, good perks, and is part of a decent archetype. In PvE, it has a menagerie of perks to pick from, including Rampage, Adrenaline Junkie, and Kill Clip. In PvP, it can either be a consistent laser beam, or a lethal beast with different rolls. tags:god-pve
+dimwishlist:item=1119734784&perks=839105230,1087426260,2779035018,3425386926
+dimwishlist:item=1119734784&perks=839105230,1087426260,2779035018,11612903
+dimwishlist:item=1119734784&perks=839105230,1087426260,1820235745,3425386926
+dimwishlist:item=1119734784&perks=839105230,1087426260,1820235745,11612903
+dimwishlist:item=1119734784&perks=839105230,106909392,2779035018,3425386926
+dimwishlist:item=1119734784&perks=839105230,106909392,2779035018,11612903
+dimwishlist:item=1119734784&perks=839105230,106909392,1820235745,3425386926
+dimwishlist:item=1119734784&perks=839105230,106909392,1820235745,11612903
+
+
+// Chroma Rush - PVP (god-pvp)
+//notes: Tier S; Chroma Rush has it all. Good base stats, good perks, and is part of a decent archetype. In PvE, it has a menagerie of perks to pick from, including Rampage, Adrenaline Junkie, and Kill Clip. In PvP, it can either be a consistent laser beam, or a lethal beast with different rolls. tags:god-pvp
+dimwishlist:item=1119734784&perks=839105230,3142289711,588594999,1890422124
+dimwishlist:item=1119734784&perks=839105230,3142289711,588594999,1015611457
+dimwishlist:item=1119734784&perks=839105230,3142289711,1359896290,1890422124
+dimwishlist:item=1119734784&perks=839105230,3142289711,1359896290,1015611457
+dimwishlist:item=1119734784&perks=839105230,2420895100,588594999,1890422124
+dimwishlist:item=1119734784&perks=839105230,2420895100,588594999,1015611457
+dimwishlist:item=1119734784&perks=839105230,2420895100,1359896290,1890422124
+dimwishlist:item=1119734784&perks=839105230,2420895100,1359896290,1015611457
+
+
+// Chroma Rush - PVE (pve)
+//notes: Tier S; Chroma Rush has it all. Good base stats, good perks, and is part of a decent archetype. In PvE, it has a menagerie of perks to pick from, including Rampage, Adrenaline Junkie, and Kill Clip. In PvP, it can either be a consistent laser beam, or a lethal beast with different rolls. tags:pve
 dimwishlist:item=1119734784&perks=2779035018,3425386926
 dimwishlist:item=1119734784&perks=2779035018,11612903
 dimwishlist:item=1119734784&perks=1820235745,3425386926
 dimwishlist:item=1119734784&perks=1820235745,11612903
 
 
-// Chroma Rush - PVP (god-pvp,pvp)
-//notes: Tier S; Chroma Rush has it all. Good base stats, good perks, and is part of a decent archetype. In PvE, it has a menagerie of perks to pick from, including Rampage, Adrenaline Junkie, and Kill Clip. In PvP, it can either be a consistent laser beam, or a lethal beast with different rolls. tags:god-pvp,pvp
+// Chroma Rush - PVP (pvp)
+//notes: Tier S; Chroma Rush has it all. Good base stats, good perks, and is part of a decent archetype. In PvE, it has a menagerie of perks to pick from, including Rampage, Adrenaline Junkie, and Kill Clip. In PvP, it can either be a consistent laser beam, or a lethal beast with different rolls. tags:pvp
 dimwishlist:item=1119734784&perks=588594999,1890422124
 dimwishlist:item=1119734784&perks=588594999,1015611457
-dimwishlist:item=1119734784&perks=2946784966,1890422124
-dimwishlist:item=1119734784&perks=2946784966,1015611457
+dimwishlist:item=1119734784&perks=1359896290,1890422124
+dimwishlist:item=1119734784&perks=1359896290,1015611457
 
 
 // Lost Signal - PVE (god-pve,pve)
@@ -670,6 +694,86 @@ dimwishlist:item=1197771438&perks=706527188,3523296417
 dimwishlist:item=1197771438&perks=706527188,1906147653
 dimwishlist:item=1197771438&perks=1961144892,3523296417
 dimwishlist:item=1197771438&perks=1961144892,1906147653
+
+
+// Tusk of the Boar - PVE (god-pve)
+//notes: MW: Velocity or Reload; Waveframes operate slightly differently than other grenade launchers, mainly in that you want the highest blast radius possible so that the explosion does most of the damage. So we’ll be taking Quick Launch and High-Velocity Rounds to bump up the velocity without touching the blast radius and get a small reload speed buff. For Perk 1, there’s a lot of good in this small pool. Envious Assassin is what most will want as it lacks Ambitious, but Enlightened Action is also very viable thanks to the reload speed multiplier stacking with each hit. You could even opt for Slice if you want to play into Strand, or just want more damage resistance. Perk 2 is either Chain Reaction or Hatchling for the pure ad-clear potential, but since Chain Reaction is getting nerfed in The Final Shape, Hatchling is your future-proof roll. tags:god-pve
+dimwishlist:item=1218113510&perks=3525010810,2822142346,3828510309,831391274,2120661319
+dimwishlist:item=1218113510&perks=3525010810,2822142346,3828510309,102912326,2120661319
+dimwishlist:item=1218113510&perks=3525010810,2822142346,3828510309,2396489472,2120661319
+dimwishlist:item=1218113510&perks=3525010810,2822142346,3828510309,598607952,2120661319
+dimwishlist:item=1218113510&perks=3525010810,2822142346,1771736209,831391274,2120661319
+dimwishlist:item=1218113510&perks=3525010810,2822142346,1771736209,102912326,2120661319
+dimwishlist:item=1218113510&perks=3525010810,2822142346,1771736209,2396489472,2120661319
+dimwishlist:item=1218113510&perks=3525010810,2822142346,1771736209,598607952,2120661319
+dimwishlist:item=1218113510&perks=3525010810,2822142346,968510818,831391274,2120661319
+dimwishlist:item=1218113510&perks=3525010810,2822142346,968510818,102912326,2120661319
+dimwishlist:item=1218113510&perks=3525010810,2822142346,968510818,2396489472,2120661319
+dimwishlist:item=1218113510&perks=3525010810,2822142346,968510818,598607952,2120661319
+dimwishlist:item=1218113510&perks=3525010810,2822142346,424370782,831391274,2120661319
+dimwishlist:item=1218113510&perks=3525010810,2822142346,424370782,102912326,2120661319
+dimwishlist:item=1218113510&perks=3525010810,2822142346,424370782,2396489472,2120661319
+dimwishlist:item=1218113510&perks=3525010810,2822142346,424370782,598607952,2120661319
+
+
+// Tusk of the Boar - PVP (god-pvp)
+//notes: MW: Velocity; As previously mentioned, waveframes live and die by their ability to roll with Disruption Break, at least in PvP. Since this doesn’t, we need to get creative on where this can find use. Just as with the PvE roll, we want to ensure the explosion is doing the most damage it can, so run with Quick Launch and High Velocity Rounds. Perk 1 has only two somewhat passable perks: Pulse Monitor and Slice. Pulse Monitor automatically reloads your weapon, which could let you follow up with a second shot if you’re in combat. Slice, on the other hand, will let you lower another guardian’s damage by 15%, keeping you and your teammates alive longer. Perk 2 is also lacking, with Swashbuckler and Deconstruct being the best possible. Swash can net you the swap kill, but only if you hit for max damage. Deconstruct, however, should allow you to put down those pesky Titan barricades while also getting ammo back if done right. Though, based on how it activates, that might be easier said than done. tags:god-pvp
+dimwishlist:item=1218113510&perks=3525010810,2822142346,972757866,4082225868,2120661319
+dimwishlist:item=1218113510&perks=3525010810,2822142346,972757866,1161469972,2120661319
+dimwishlist:item=1218113510&perks=3525010810,2822142346,972757866,3993379141,2120661319
+dimwishlist:item=1218113510&perks=3525010810,2822142346,972757866,1164602481,2120661319
+dimwishlist:item=1218113510&perks=3525010810,2822142346,1685378950,4082225868,2120661319
+dimwishlist:item=1218113510&perks=3525010810,2822142346,1685378950,1161469972,2120661319
+dimwishlist:item=1218113510&perks=3525010810,2822142346,1685378950,3993379141,2120661319
+dimwishlist:item=1218113510&perks=3525010810,2822142346,1685378950,1164602481,2120661319
+dimwishlist:item=1218113510&perks=3525010810,2822142346,923806249,4082225868,2120661319
+dimwishlist:item=1218113510&perks=3525010810,2822142346,923806249,1161469972,2120661319
+dimwishlist:item=1218113510&perks=3525010810,2822142346,923806249,3993379141,2120661319
+dimwishlist:item=1218113510&perks=3525010810,2822142346,923806249,1164602481,2120661319
+dimwishlist:item=1218113510&perks=3525010810,2822142346,3422796781,4082225868,2120661319
+dimwishlist:item=1218113510&perks=3525010810,2822142346,3422796781,1161469972,2120661319
+dimwishlist:item=1218113510&perks=3525010810,2822142346,3422796781,3993379141,2120661319
+dimwishlist:item=1218113510&perks=3525010810,2822142346,3422796781,1164602481,2120661319
+
+
+// Tusk of the Boar - PVE (pve)
+//notes: MW: Velocity or Reload; Waveframes operate slightly differently than other grenade launchers, mainly in that you want the highest blast radius possible so that the explosion does most of the damage. So we’ll be taking Quick Launch and High-Velocity Rounds to bump up the velocity without touching the blast radius and get a small reload speed buff. For Perk 1, there’s a lot of good in this small pool. Envious Assassin is what most will want as it lacks Ambitious, but Enlightened Action is also very viable thanks to the reload speed multiplier stacking with each hit. You could even opt for Slice if you want to play into Strand, or just want more damage resistance. Perk 2 is either Chain Reaction or Hatchling for the pure ad-clear potential, but since Chain Reaction is getting nerfed in The Final Shape, Hatchling is your future-proof roll. tags:pve
+dimwishlist:item=1218113510&perks=3828510309,831391274,2120661319
+dimwishlist:item=1218113510&perks=3828510309,102912326,2120661319
+dimwishlist:item=1218113510&perks=3828510309,2396489472,2120661319
+dimwishlist:item=1218113510&perks=3828510309,598607952,2120661319
+dimwishlist:item=1218113510&perks=1771736209,831391274,2120661319
+dimwishlist:item=1218113510&perks=1771736209,102912326,2120661319
+dimwishlist:item=1218113510&perks=1771736209,2396489472,2120661319
+dimwishlist:item=1218113510&perks=1771736209,598607952,2120661319
+dimwishlist:item=1218113510&perks=968510818,831391274,2120661319
+dimwishlist:item=1218113510&perks=968510818,102912326,2120661319
+dimwishlist:item=1218113510&perks=968510818,2396489472,2120661319
+dimwishlist:item=1218113510&perks=968510818,598607952,2120661319
+dimwishlist:item=1218113510&perks=424370782,831391274,2120661319
+dimwishlist:item=1218113510&perks=424370782,102912326,2120661319
+dimwishlist:item=1218113510&perks=424370782,2396489472,2120661319
+dimwishlist:item=1218113510&perks=424370782,598607952,2120661319
+
+
+// Tusk of the Boar - PVP (pvp)
+//notes: MW: Velocity; As previously mentioned, waveframes live and die by their ability to roll with Disruption Break, at least in PvP. Since this doesn’t, we need to get creative on where this can find use. Just as with the PvE roll, we want to ensure the explosion is doing the most damage it can, so run with Quick Launch and High Velocity Rounds. Perk 1 has only two somewhat passable perks: Pulse Monitor and Slice. Pulse Monitor automatically reloads your weapon, which could let you follow up with a second shot if you’re in combat. Slice, on the other hand, will let you lower another guardian’s damage by 15%, keeping you and your teammates alive longer. Perk 2 is also lacking, with Swashbuckler and Deconstruct being the best possible. Swash can net you the swap kill, but only if you hit for max damage. Deconstruct, however, should allow you to put down those pesky Titan barricades while also getting ammo back if done right. Though, based on how it activates, that might be easier said than done. tags:pvp
+dimwishlist:item=1218113510&perks=972757866,4082225868,2120661319
+dimwishlist:item=1218113510&perks=972757866,1161469972,2120661319
+dimwishlist:item=1218113510&perks=972757866,3993379141,2120661319
+dimwishlist:item=1218113510&perks=972757866,1164602481,2120661319
+dimwishlist:item=1218113510&perks=1685378950,4082225868,2120661319
+dimwishlist:item=1218113510&perks=1685378950,1161469972,2120661319
+dimwishlist:item=1218113510&perks=1685378950,3993379141,2120661319
+dimwishlist:item=1218113510&perks=1685378950,1164602481,2120661319
+dimwishlist:item=1218113510&perks=923806249,4082225868,2120661319
+dimwishlist:item=1218113510&perks=923806249,1161469972,2120661319
+dimwishlist:item=1218113510&perks=923806249,3993379141,2120661319
+dimwishlist:item=1218113510&perks=923806249,1164602481,2120661319
+dimwishlist:item=1218113510&perks=3422796781,4082225868,2120661319
+dimwishlist:item=1218113510&perks=3422796781,1161469972,2120661319
+dimwishlist:item=1218113510&perks=3422796781,3993379141,2120661319
+dimwishlist:item=1218113510&perks=3422796781,1164602481,2120661319
 
 
 // Hung Jury SR4 - PVE GMs (god-pve)
