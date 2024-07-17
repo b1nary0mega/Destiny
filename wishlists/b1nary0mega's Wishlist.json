@@ -4463,6 +4463,379 @@
             "tags": [
                 "PVP"
             ]
+        },
+        {
+            "description": "MW: Range; We’ll begin building Multimach CCX for PvE with Corkscrew Rifling, Flared Magwell, and a range masterwork for an even split of stats. Attrition Orbs is our general choice for column one because of its ability to combine with Armor Charge builds; however, Under-Over is an outstanding choice if you instead plan on using it to counter Champions in high-difficulty activities. As for the final column, Frenzy’s wide range of added stats makes it an outstanding pairing with either of the perks we mentioned for column one. If you’re comfortable without a potent buff to reload speed, Kinetic Tremors is an equally powerful pick for the same reason.",
+            "hash": 3211624072,
+            "name": "PVE",
+            "plugs": [
+                [
+                    4090651448
+                ],
+                [
+                    3230963543
+                ],
+                [
+                    243981275,
+                    1870851715,
+                    984655331,
+                    183938251
+                ],
+                [
+                    4104185692,
+                    3891536761,
+                    3007133316,
+                    1549370717
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "MW: Range; We’ll begin building Multimach CCX for PvE with Corkscrew Rifling, Flared Magwell, and a range masterwork for an even split of stats. Attrition Orbs is our general choice for column one because of its ability to combine with Armor Charge builds; however, Under-Over is an outstanding choice if you instead plan on using it to counter Champions in high-difficulty activities. As for the final column, Frenzy’s wide range of added stats makes it an outstanding pairing with either of the perks we mentioned for column one. If you’re comfortable without a potent buff to reload speed, Kinetic Tremors is an equally powerful pick for the same reason.",
+            "hash": 3211624072,
+            "name": "PVE",
+            "plugs": [
+                [
+                    243981275,
+                    1870851715,
+                    984655331,
+                    183938251
+                ],
+                [
+                    4104185692,
+                    3891536761,
+                    3007133316,
+                    1549370717
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "MW Range; As we said earlier, Multimach CCX isn’t nearly as potent as it once was in The Crucible. That said, there are a wide range of ways to make the weapon worth using. We’ll begin by opting for an extremely high range stat with Hammer-Forged Rifling, Accurized Rounds, and a range masterwork. Dynamic Sway Reduction and Moving Target are both outstanding in column one due to their passive stat buffs—which one you choose to seek is an entirely personal preference. Kill Clip attempts to mimic what we once had with Target Lock, which is why it’s our first choice for the final column. However, combinations of two consistency perks on SMGs have become popular over the past few months, meaning Tap the Trigger is equally potent.",
+            "hash": 3211624072,
+            "name": "PVP",
+            "plugs": [
+                [
+                    3250034553
+                ],
+                [
+                    3142289711
+                ],
+                [
+                    1359896290,
+                    588594999,
+                    3060983774,
+                    2717805783
+                ],
+                [
+                    1015611457,
+                    2923251173,
+                    1890422124,
+                    1523649716
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "MW Range; As we said earlier, Multimach CCX isn’t nearly as potent as it once was in The Crucible. That said, there are a wide range of ways to make the weapon worth using. We’ll begin by opting for an extremely high range stat with Hammer-Forged Rifling, Accurized Rounds, and a range masterwork. Dynamic Sway Reduction and Moving Target are both outstanding in column one due to their passive stat buffs—which one you choose to seek is an entirely personal preference. Kill Clip attempts to mimic what we once had with Target Lock, which is why it’s our first choice for the final column. However, combinations of two consistency perks on SMGs have become popular over the past few months, meaning Tap the Trigger is equally potent.",
+            "hash": 3211624072,
+            "name": "PVP",
+            "plugs": [
+                [
+                    1359896290,
+                    588594999,
+                    3060983774,
+                    2717805783
+                ],
+                [
+                    1015611457,
+                    2923251173,
+                    1890422124,
+                    1523649716
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "MW: Charge Time; Glacioclasm has so much going for it in PvE, to the point where there are around 5 or 6 excellent perk combinations you can go for.  Handling is the name of the game on Special Weapons inside of PvE. Having the fluidity to swap to your Fusion Rifle during a DPS phase or to burst down a tanky target quickly is crucial, so Fluted Barrel is our favorite. The battery doesn’t matter much, but Enhanced Battery simply bumps the magazine size up +1, which is always handy. Overflow and Controlled Burst provide incredible damage, as you’ll be able to dump a ton of ammo into the boss. Reservoir Burst can be paired with Overflow or Slideshot; both work excellently and allow you to get full value out of Reservoir Burst. However, Slideshot will require you to slide constantly to retain the damage bonus.",
+            "hash": 2728851518,
+            "name": "PVE",
+            "plugs": [
+                [
+                    1840239774
+                ],
+                [
+                    2680121939
+                ],
+                [
+                    3161816588,
+                    3643424744
+                ],
+                [
+                    2594592626,
+                    1427256713
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "MW: Charge Time; Glacioclasm has so much going for it in PvE, to the point where there are around 5 or 6 excellent perk combinations you can go for.  Handling is the name of the game on Special Weapons inside of PvE. Having the fluidity to swap to your Fusion Rifle during a DPS phase or to burst down a tanky target quickly is crucial, so Fluted Barrel is our favorite. The battery doesn’t matter much, but Enhanced Battery simply bumps the magazine size up +1, which is always handy. Overflow and Controlled Burst provide incredible damage, as you’ll be able to dump a ton of ammo into the boss. Reservoir Burst can be paired with Overflow or Slideshot; both work excellently and allow you to get full value out of Reservoir Burst. However, Slideshot will require you to slide constantly to retain the damage bonus.",
+            "hash": 2728851518,
+            "name": "PVE",
+            "plugs": [
+                [
+                    3161816588,
+                    3643424744
+                ],
+                [
+                    2594592626,
+                    1427256713
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "MW: Stability or Range; Even just reading Glacioclasm’s PvP perks gives me nightmares of facing a Fusion Rifle in the Crucible; this Fusion will no doubt be top of the line in PvP.  Arrowhead Break gives Glacioclasm a perfect 100 recoil direction, which means the recoil goes directly vertical, making this Fusion ridiculously consistent. This, combined with +20 stability from Particle Repeater and a Stability Masterwork, makes this Fusion Rifle very easy to use. Under Pressure provides a sizable Stability increase, bumping us up to 100 Stability when activated. Fragile Focus boosts our Range stat when active, making this Fusion Rifle consistently take enemies out at long range.",
+            "hash": 2728851518,
+            "name": "PVP",
+            "plugs": [
+                [
+                    839105230,
+                    3250034553
+                ],
+                [
+                    3868766766
+                ],
+                [
+                    3161816588,
+                    1645158859
+                ],
+                [
+                    699525795,
+                    2451262963
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "MW: Stability or Range; Even just reading Glacioclasm’s PvP perks gives me nightmares of facing a Fusion Rifle in the Crucible; this Fusion will no doubt be top of the line in PvP.  Arrowhead Break gives Glacioclasm a perfect 100 recoil direction, which means the recoil goes directly vertical, making this Fusion ridiculously consistent. This, combined with +20 stability from Particle Repeater and a Stability Masterwork, makes this Fusion Rifle very easy to use. Under Pressure provides a sizable Stability increase, bumping us up to 100 Stability when activated. Fragile Focus boosts our Range stat when active, making this Fusion Rifle consistently take enemies out at long range.",
+            "hash": 2728851518,
+            "name": "PVP",
+            "plugs": [
+                [
+                    3161816588,
+                    1645158859
+                ],
+                [
+                    699525795,
+                    2451262963
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "MW: Velocity; We’ll start with Quick Launch, Flared Magwell, and a velocity masterwork for bumps in velocity, reload speed, and handling. From there, Heal Clip and Incandescent are the two stand-outs here, synergizing nicely with a Solar build of your choosing. Also worth mentioning are Field Prep, Beacon Rounds, and Demolitionist. Field Prep provides a bump in ammo reserves that combats the lack of Lead from Gold, while Beacon Rounds greatly reduces the need to aim while clearing waves of enemies. Demolitionist is a nice substitute for Incandescent if you’re running a build with a different subclass, and is also inherently stronger on special ammo weapons! Recommended Loadout: Khvostov 7G-0X, Aberrant Action, Apex Predator.",
+            "hash": 2198166292,
+            "name": "PVE",
+            "plugs": [
+                [
+                    3525010810
+                ],
+                [
+                    3230963543
+                ],
+                [
+                    3017780555,
+                    2859149211,
+                    1135494563,
+                    4223976499
+                ],
+                [
+                    3523296417,
+                    4293542123,
+                    2675184851,
+                    1906147653
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "MW: Velocity; We’ll start with Quick Launch, Flared Magwell, and a velocity masterwork for bumps in velocity, reload speed, and handling. From there, Heal Clip and Incandescent are the two stand-outs here, synergizing nicely with a Solar build of your choosing. Also worth mentioning are Field Prep, Beacon Rounds, and Demolitionist. Field Prep provides a bump in ammo reserves that combats the lack of Lead from Gold, while Beacon Rounds greatly reduces the need to aim while clearing waves of enemies. Demolitionist is a nice substitute for Incandescent if you’re running a build with a different subclass, and is also inherently stronger on special ammo weapons! Recommended Loadout: Khvostov 7G-0X, Aberrant Action, Apex Predator.",
+            "hash": 2198166292,
+            "name": "PVE",
+            "plugs": [
+                [
+                    3017780555,
+                    2859149211,
+                    1135494563,
+                    4223976499
+                ],
+                [
+                    3523296417,
+                    4293542123,
+                    2675184851,
+                    1906147653
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "MW: Velocity; As with all rocket sidearms, Aberrant Action performs poorly in PvP. Regardless, to make it the best it can be, we’ll start with Quick Launch, High-Velocity Rounds, and a velocity masterwork for bumps in velocity and handling. Harmony is the only realistic option in the final column, allowing you to two-shot Guardians with the weapon. As for your other main perk, Beacon Rounds is usually a favorite here as it allows you to compensate less for the rocket’s travel time. However, it doesn’t synergize too well with Harmony, which is why we also mention Heal Clip.",
+            "hash": 2198166292,
+            "name": "PVP",
+            "plugs": [
+                [
+                    3525010810
+                ],
+                [
+                    2822142346
+                ],
+                [
+                    2859149211,
+                    3017780555,
+                    1135494563,
+                    4223976499
+                ],
+                [
+                    438098033,
+                    2748801589
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "MW: Velocity; As with all rocket sidearms, Aberrant Action performs poorly in PvP. Regardless, to make it the best it can be, we’ll start with Quick Launch, High-Velocity Rounds, and a velocity masterwork for bumps in velocity and handling. Harmony is the only realistic option in the final column, allowing you to two-shot Guardians with the weapon. As for your other main perk, Beacon Rounds is usually a favorite here as it allows you to compensate less for the rocket’s travel time. However, it doesn’t synergize too well with Harmony, which is why we also mention Heal Clip.",
+            "hash": 2198166292,
+            "name": "PVP",
+            "plugs": [
+                [
+                    2859149211,
+                    3017780555,
+                    1135494563,
+                    4223976499
+                ],
+                [
+                    438098033,
+                    2748801589
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "MW: Handling; To optimize total damage, we’ll start with Fluted Barrel, Liquid Coils, and a handling masterwork. While it’s not the best combo in the world, Rapid Hit and Bait and Switch are typically your best bets for your two main perks. The combination of Clown Cartridge and Reservoir Burst is also worth mentioning here, as the former grants additional shots of Reservoir’s 25% increased damage. However, unless you don’t have the weapons required to do a solid damage rotation, this pick generally isn’t worth it. Recommended Loadout: Izanagi’s Burden, Indebted Kindness, Line in the Sand.",
+            "hash": 2450049485,
+            "name": "PVE",
+            "plugs": [
+                [
+                    1840239774
+                ],
+                [
+                    1687452232
+                ],
+                [
+                    247725512,
+                    2284787283,
+                    2938480696,
+                    3563868667
+                ],
+                [
+                    1427256713,
+                    3078487919,
+                    254337357,
+                    3744057135
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "MW: Handling; To optimize total damage, we’ll start with Fluted Barrel, Liquid Coils, and a handling masterwork. While it’s not the best combo in the world, Rapid Hit and Bait and Switch are typically your best bets for your two main perks. The combination of Clown Cartridge and Reservoir Burst is also worth mentioning here, as the former grants additional shots of Reservoir’s 25% increased damage. However, unless you don’t have the weapons required to do a solid damage rotation, this pick generally isn’t worth it. Recommended Loadout: Izanagi’s Burden, Indebted Kindness, Line in the Sand.",
+            "hash": 2450049485,
+            "name": "PVE",
+            "plugs": [
+                [
+                    247725512,
+                    2284787283,
+                    2938480696,
+                    3563868667
+                ],
+                [
+                    1427256713,
+                    3078487919,
+                    254337357,
+                    3744057135
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "MW: Charge Time; In PvP, we’ll opt for decreased charge time and additional accuracy with Chambered Compensator, Accelerated Coils, and a charge time masterwork. From there, Under Pressure and Opening Shot grants us even more accuracy, which is really all you need for a heavy LFR in PvP.",
+            "hash": 2450049485,
+            "name": "PVP",
+            "plugs": [
+                [
+                    3661387068
+                ],
+                [
+                    689005463
+                ],
+                [
+                    1645158859,
+                    3755250867
+                ],
+                [
+                    47981717,
+                    1370847713
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "MW: Charge Time; In PvP, we’ll opt for decreased charge time and additional accuracy with Chambered Compensator, Accelerated Coils, and a charge time masterwork. From there, Under Pressure and Opening Shot grants us even more accuracy, which is really all you need for a heavy LFR in PvP.",
+            "hash": 2450049485,
+            "name": "PVP",
+            "plugs": [
+                [
+                    1645158859,
+                    3755250867
+                ],
+                [
+                    47981717,
+                    1370847713
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
         }
     ]
 }
