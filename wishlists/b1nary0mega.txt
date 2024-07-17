@@ -1609,6 +1609,70 @@ dimwishlist:item=2152484073&perks=2717805783,1015611457
 dimwishlist:item=2152484073&perks=2717805783,2923251173
 
 
+// Aberrant Action - PVE (god-pve)
+//notes: MW: Velocity; We’ll start with Quick Launch, Flared Magwell, and a velocity masterwork for bumps in velocity, reload speed, and handling. From there, Heal Clip and Incandescent are the two stand-outs here, synergizing nicely with a Solar build of your choosing. Also worth mentioning are Field Prep, Beacon Rounds, and Demolitionist. Field Prep provides a bump in ammo reserves that combats the lack of Lead from Gold, while Beacon Rounds greatly reduces the need to aim while clearing waves of enemies. Demolitionist is a nice substitute for Incandescent if you’re running a build with a different subclass, and is also inherently stronger on special ammo weapons! Recommended Loadout: Khvostov 7G-0X, Aberrant Action, Apex Predator. tags:god-pve
+dimwishlist:item=2198166292&perks=3525010810,3230963543,3017780555,3523296417
+dimwishlist:item=2198166292&perks=3525010810,3230963543,3017780555,4293542123
+dimwishlist:item=2198166292&perks=3525010810,3230963543,3017780555,2675184851
+dimwishlist:item=2198166292&perks=3525010810,3230963543,3017780555,1906147653
+dimwishlist:item=2198166292&perks=3525010810,3230963543,2859149211,3523296417
+dimwishlist:item=2198166292&perks=3525010810,3230963543,2859149211,4293542123
+dimwishlist:item=2198166292&perks=3525010810,3230963543,2859149211,2675184851
+dimwishlist:item=2198166292&perks=3525010810,3230963543,2859149211,1906147653
+dimwishlist:item=2198166292&perks=3525010810,3230963543,1135494563,3523296417
+dimwishlist:item=2198166292&perks=3525010810,3230963543,1135494563,4293542123
+dimwishlist:item=2198166292&perks=3525010810,3230963543,1135494563,2675184851
+dimwishlist:item=2198166292&perks=3525010810,3230963543,1135494563,1906147653
+dimwishlist:item=2198166292&perks=3525010810,3230963543,4223976499,3523296417
+dimwishlist:item=2198166292&perks=3525010810,3230963543,4223976499,4293542123
+dimwishlist:item=2198166292&perks=3525010810,3230963543,4223976499,2675184851
+dimwishlist:item=2198166292&perks=3525010810,3230963543,4223976499,1906147653
+
+
+// Aberrant Action - PVP (god-pvp)
+//notes: MW: Velocity; As with all rocket sidearms, Aberrant Action performs poorly in PvP. Regardless, to make it the best it can be, we’ll start with Quick Launch, High-Velocity Rounds, and a velocity masterwork for bumps in velocity and handling. Harmony is the only realistic option in the final column, allowing you to two-shot Guardians with the weapon. As for your other main perk, Beacon Rounds is usually a favorite here as it allows you to compensate less for the rocket’s travel time. However, it doesn’t synergize too well with Harmony, which is why we also mention Heal Clip. tags:god-pvp
+dimwishlist:item=2198166292&perks=3525010810,2822142346,2859149211,438098033
+dimwishlist:item=2198166292&perks=3525010810,2822142346,2859149211,2748801589
+dimwishlist:item=2198166292&perks=3525010810,2822142346,3017780555,438098033
+dimwishlist:item=2198166292&perks=3525010810,2822142346,3017780555,2748801589
+dimwishlist:item=2198166292&perks=3525010810,2822142346,1135494563,438098033
+dimwishlist:item=2198166292&perks=3525010810,2822142346,1135494563,2748801589
+dimwishlist:item=2198166292&perks=3525010810,2822142346,4223976499,438098033
+dimwishlist:item=2198166292&perks=3525010810,2822142346,4223976499,2748801589
+
+
+// Aberrant Action - PVE (pve)
+//notes: MW: Velocity; We’ll start with Quick Launch, Flared Magwell, and a velocity masterwork for bumps in velocity, reload speed, and handling. From there, Heal Clip and Incandescent are the two stand-outs here, synergizing nicely with a Solar build of your choosing. Also worth mentioning are Field Prep, Beacon Rounds, and Demolitionist. Field Prep provides a bump in ammo reserves that combats the lack of Lead from Gold, while Beacon Rounds greatly reduces the need to aim while clearing waves of enemies. Demolitionist is a nice substitute for Incandescent if you’re running a build with a different subclass, and is also inherently stronger on special ammo weapons! Recommended Loadout: Khvostov 7G-0X, Aberrant Action, Apex Predator. tags:pve
+dimwishlist:item=2198166292&perks=3017780555,3523296417
+dimwishlist:item=2198166292&perks=3017780555,4293542123
+dimwishlist:item=2198166292&perks=3017780555,2675184851
+dimwishlist:item=2198166292&perks=3017780555,1906147653
+dimwishlist:item=2198166292&perks=2859149211,3523296417
+dimwishlist:item=2198166292&perks=2859149211,4293542123
+dimwishlist:item=2198166292&perks=2859149211,2675184851
+dimwishlist:item=2198166292&perks=2859149211,1906147653
+dimwishlist:item=2198166292&perks=1135494563,3523296417
+dimwishlist:item=2198166292&perks=1135494563,4293542123
+dimwishlist:item=2198166292&perks=1135494563,2675184851
+dimwishlist:item=2198166292&perks=1135494563,1906147653
+dimwishlist:item=2198166292&perks=4223976499,3523296417
+dimwishlist:item=2198166292&perks=4223976499,4293542123
+dimwishlist:item=2198166292&perks=4223976499,2675184851
+dimwishlist:item=2198166292&perks=4223976499,1906147653
+
+
+// Aberrant Action - PVP (pvp)
+//notes: MW: Velocity; As with all rocket sidearms, Aberrant Action performs poorly in PvP. Regardless, to make it the best it can be, we’ll start with Quick Launch, High-Velocity Rounds, and a velocity masterwork for bumps in velocity and handling. Harmony is the only realistic option in the final column, allowing you to two-shot Guardians with the weapon. As for your other main perk, Beacon Rounds is usually a favorite here as it allows you to compensate less for the rocket’s travel time. However, it doesn’t synergize too well with Harmony, which is why we also mention Heal Clip. tags:pvp
+dimwishlist:item=2198166292&perks=2859149211,438098033
+dimwishlist:item=2198166292&perks=2859149211,2748801589
+dimwishlist:item=2198166292&perks=3017780555,438098033
+dimwishlist:item=2198166292&perks=3017780555,2748801589
+dimwishlist:item=2198166292&perks=1135494563,438098033
+dimwishlist:item=2198166292&perks=1135494563,2748801589
+dimwishlist:item=2198166292&perks=4223976499,438098033
+dimwishlist:item=2198166292&perks=4223976499,2748801589
+
+
 // Patron of Lost Causes - PVP (god-pvp)
 //notes: MW: Handling; Counterbalance Mod; Unlike with most PVP weapons, we are not focusing on the range as scout rifles have plenty of it built in. So Arrowhead Brake and Counterbalance Stock mod increase our handling and reduce our recoil to make the weapon feel incredibly accurate and snappy. Tactical Mag gives us an extra bullet while boosting our stability and reload speed. Also, To the Pain increases our handling and aim assist while we take damage ensuring we have the advantage in any duels. Lastly, Explosive Payload is our final perk choice that causes massive flinch to our enemies. Since most engagements with a scout rifle will be against other scout rifles, flinching our enemies could be the difference in winning our engagements. Scout rifles are potent long-range PVP weapons, however, they require a passive playstyle and playing at range to be effective. They pack a nice punch and are very easy to control making them great for extended-range maps. However, Patron of Lost Causes has nothing special versus other scout rifles so only collect this one if you don’t already have a great option. tags:god-pvp
 dimwishlist:item=2249996761&perks=839105230,106909392,3938834702,3038247973
@@ -1929,6 +1993,62 @@ dimwishlist:item=2372514509&perks=3198323828,1015611457
 dimwishlist:item=2372514509&perks=3198323828,2923251173
 
 
+// Line in the Sand - PVE (god-pve)
+//notes: MW: Handling; To optimize total damage, we’ll start with Fluted Barrel, Liquid Coils, and a handling masterwork. While it’s not the best combo in the world, Rapid Hit and Bait and Switch are typically your best bets for your two main perks. The combination of Clown Cartridge and Reservoir Burst is also worth mentioning here, as the former grants additional shots of Reservoir’s 25% increased damage. However, unless you don’t have the weapons required to do a solid damage rotation, this pick generally isn’t worth it. Recommended Loadout: Izanagi’s Burden, Indebted Kindness, Line in the Sand. tags:god-pve
+dimwishlist:item=2450049485&perks=1840239774,1687452232,247725512,1427256713
+dimwishlist:item=2450049485&perks=1840239774,1687452232,247725512,3078487919
+dimwishlist:item=2450049485&perks=1840239774,1687452232,247725512,254337357
+dimwishlist:item=2450049485&perks=1840239774,1687452232,247725512,3744057135
+dimwishlist:item=2450049485&perks=1840239774,1687452232,2284787283,1427256713
+dimwishlist:item=2450049485&perks=1840239774,1687452232,2284787283,3078487919
+dimwishlist:item=2450049485&perks=1840239774,1687452232,2284787283,254337357
+dimwishlist:item=2450049485&perks=1840239774,1687452232,2284787283,3744057135
+dimwishlist:item=2450049485&perks=1840239774,1687452232,2938480696,1427256713
+dimwishlist:item=2450049485&perks=1840239774,1687452232,2938480696,3078487919
+dimwishlist:item=2450049485&perks=1840239774,1687452232,2938480696,254337357
+dimwishlist:item=2450049485&perks=1840239774,1687452232,2938480696,3744057135
+dimwishlist:item=2450049485&perks=1840239774,1687452232,3563868667,1427256713
+dimwishlist:item=2450049485&perks=1840239774,1687452232,3563868667,3078487919
+dimwishlist:item=2450049485&perks=1840239774,1687452232,3563868667,254337357
+dimwishlist:item=2450049485&perks=1840239774,1687452232,3563868667,3744057135
+
+
+// Line in the Sand - PVP (god-pvp)
+//notes: MW: Charge Time; In PvP, we’ll opt for decreased charge time and additional accuracy with Chambered Compensator, Accelerated Coils, and a charge time masterwork. From there, Under Pressure and Opening Shot grants us even more accuracy, which is really all you need for a heavy LFR in PvP. tags:god-pvp
+dimwishlist:item=2450049485&perks=3661387068,689005463,1645158859,47981717
+dimwishlist:item=2450049485&perks=3661387068,689005463,1645158859,1370847713
+dimwishlist:item=2450049485&perks=3661387068,689005463,3755250867,47981717
+dimwishlist:item=2450049485&perks=3661387068,689005463,3755250867,1370847713
+
+
+// Line in the Sand - PVE (pve)
+//notes: MW: Handling; To optimize total damage, we’ll start with Fluted Barrel, Liquid Coils, and a handling masterwork. While it’s not the best combo in the world, Rapid Hit and Bait and Switch are typically your best bets for your two main perks. The combination of Clown Cartridge and Reservoir Burst is also worth mentioning here, as the former grants additional shots of Reservoir’s 25% increased damage. However, unless you don’t have the weapons required to do a solid damage rotation, this pick generally isn’t worth it. Recommended Loadout: Izanagi’s Burden, Indebted Kindness, Line in the Sand. tags:pve
+dimwishlist:item=2450049485&perks=247725512,1427256713
+dimwishlist:item=2450049485&perks=247725512,3078487919
+dimwishlist:item=2450049485&perks=247725512,254337357
+dimwishlist:item=2450049485&perks=247725512,3744057135
+dimwishlist:item=2450049485&perks=2284787283,1427256713
+dimwishlist:item=2450049485&perks=2284787283,3078487919
+dimwishlist:item=2450049485&perks=2284787283,254337357
+dimwishlist:item=2450049485&perks=2284787283,3744057135
+dimwishlist:item=2450049485&perks=2938480696,1427256713
+dimwishlist:item=2450049485&perks=2938480696,3078487919
+dimwishlist:item=2450049485&perks=2938480696,254337357
+dimwishlist:item=2450049485&perks=2938480696,3744057135
+dimwishlist:item=2450049485&perks=3563868667,1427256713
+dimwishlist:item=2450049485&perks=3563868667,3078487919
+dimwishlist:item=2450049485&perks=3563868667,254337357
+dimwishlist:item=2450049485&perks=3563868667,3744057135
+
+
+// Line in the Sand - PVP (pvp)
+//notes: MW: Charge Time; In PvP, we’ll opt for decreased charge time and additional accuracy with Chambered Compensator, Accelerated Coils, and a charge time masterwork. From there, Under Pressure and Opening Shot grants us even more accuracy, which is really all you need for a heavy LFR in PvP. tags:pvp
+dimwishlist:item=2450049485&perks=1645158859,47981717
+dimwishlist:item=2450049485&perks=1645158859,1370847713
+dimwishlist:item=2450049485&perks=3755250867,47981717
+dimwishlist:item=2450049485&perks=3755250867,1370847713
+
+
 // CALUS Mini-Tool - PVE (pve,god-pve)
 //notes: Able to roll with the excellent perk Incandescent, CALUS Mini-Tool immediately cemented itself as a top-tier pick with the release of Solar 3.0. Plus, it's one of the few top-tier craftable SMGs currently in the game, meaning it's one of the easiest to get as well. tags:pve,god-pve
 dimwishlist:item=2490988246&perks=3250034553,3142289711,588594999,4293542123
@@ -2071,6 +2191,42 @@ dimwishlist:item=2715240478&perks=1645158859,1799762209
 dimwishlist:item=2715240478&perks=1645158859,438098033
 dimwishlist:item=2715240478&perks=1428297954,1799762209
 dimwishlist:item=2715240478&perks=1428297954,438098033
+
+
+// Glacioclasm - PVE (god-pve)
+//notes: MW: Charge Time; Glacioclasm has so much going for it in PvE, to the point where there are around 5 or 6 excellent perk combinations you can go for.  Handling is the name of the game on Special Weapons inside of PvE. Having the fluidity to swap to your Fusion Rifle during a DPS phase or to burst down a tanky target quickly is crucial, so Fluted Barrel is our favorite. The battery doesn’t matter much, but Enhanced Battery simply bumps the magazine size up +1, which is always handy. Overflow and Controlled Burst provide incredible damage, as you’ll be able to dump a ton of ammo into the boss. Reservoir Burst can be paired with Overflow or Slideshot; both work excellently and allow you to get full value out of Reservoir Burst. However, Slideshot will require you to slide constantly to retain the damage bonus. tags:god-pve
+dimwishlist:item=2728851518&perks=1840239774,2680121939,3161816588,2594592626
+dimwishlist:item=2728851518&perks=1840239774,2680121939,3161816588,1427256713
+dimwishlist:item=2728851518&perks=1840239774,2680121939,3643424744,2594592626
+dimwishlist:item=2728851518&perks=1840239774,2680121939,3643424744,1427256713
+
+
+// Glacioclasm - PVP (god-pvp)
+//notes: MW: Stability or Range; Even just reading Glacioclasm’s PvP perks gives me nightmares of facing a Fusion Rifle in the Crucible; this Fusion will no doubt be top of the line in PvP.  Arrowhead Break gives Glacioclasm a perfect 100 recoil direction, which means the recoil goes directly vertical, making this Fusion ridiculously consistent. This, combined with +20 stability from Particle Repeater and a Stability Masterwork, makes this Fusion Rifle very easy to use. Under Pressure provides a sizable Stability increase, bumping us up to 100 Stability when activated. Fragile Focus boosts our Range stat when active, making this Fusion Rifle consistently take enemies out at long range. tags:god-pvp
+dimwishlist:item=2728851518&perks=839105230,3868766766,3161816588,699525795
+dimwishlist:item=2728851518&perks=839105230,3868766766,3161816588,2451262963
+dimwishlist:item=2728851518&perks=839105230,3868766766,1645158859,699525795
+dimwishlist:item=2728851518&perks=839105230,3868766766,1645158859,2451262963
+dimwishlist:item=2728851518&perks=3250034553,3868766766,3161816588,699525795
+dimwishlist:item=2728851518&perks=3250034553,3868766766,3161816588,2451262963
+dimwishlist:item=2728851518&perks=3250034553,3868766766,1645158859,699525795
+dimwishlist:item=2728851518&perks=3250034553,3868766766,1645158859,2451262963
+
+
+// Glacioclasm - PVE (pve)
+//notes: MW: Charge Time; Glacioclasm has so much going for it in PvE, to the point where there are around 5 or 6 excellent perk combinations you can go for.  Handling is the name of the game on Special Weapons inside of PvE. Having the fluidity to swap to your Fusion Rifle during a DPS phase or to burst down a tanky target quickly is crucial, so Fluted Barrel is our favorite. The battery doesn’t matter much, but Enhanced Battery simply bumps the magazine size up +1, which is always handy. Overflow and Controlled Burst provide incredible damage, as you’ll be able to dump a ton of ammo into the boss. Reservoir Burst can be paired with Overflow or Slideshot; both work excellently and allow you to get full value out of Reservoir Burst. However, Slideshot will require you to slide constantly to retain the damage bonus. tags:pve
+dimwishlist:item=2728851518&perks=3161816588,2594592626
+dimwishlist:item=2728851518&perks=3161816588,1427256713
+dimwishlist:item=2728851518&perks=3643424744,2594592626
+dimwishlist:item=2728851518&perks=3643424744,1427256713
+
+
+// Glacioclasm - PVP (pvp)
+//notes: MW: Stability or Range; Even just reading Glacioclasm’s PvP perks gives me nightmares of facing a Fusion Rifle in the Crucible; this Fusion will no doubt be top of the line in PvP.  Arrowhead Break gives Glacioclasm a perfect 100 recoil direction, which means the recoil goes directly vertical, making this Fusion ridiculously consistent. This, combined with +20 stability from Particle Repeater and a Stability Masterwork, makes this Fusion Rifle very easy to use. Under Pressure provides a sizable Stability increase, bumping us up to 100 Stability when activated. Fragile Focus boosts our Range stat when active, making this Fusion Rifle consistently take enemies out at long range. tags:pvp
+dimwishlist:item=2728851518&perks=3161816588,699525795
+dimwishlist:item=2728851518&perks=3161816588,2451262963
+dimwishlist:item=2728851518&perks=1645158859,699525795
+dimwishlist:item=2728851518&perks=1645158859,2451262963
 
 
 // Midnight Coup - PVE (god-pve)
@@ -2303,6 +2459,86 @@ dimwishlist:item=2821677368&perks=1523832109,555281244
 dimwishlist:item=2821677368&perks=1523832109,332733060
 dimwishlist:item=2821677368&perks=461595545,555281244
 dimwishlist:item=2821677368&perks=461595545,332733060
+
+
+// Multimach CCX - PVE (god-pve)
+//notes: MW: Range; We’ll begin building Multimach CCX for PvE with Corkscrew Rifling, Flared Magwell, and a range masterwork for an even split of stats. Attrition Orbs is our general choice for column one because of its ability to combine with Armor Charge builds; however, Under-Over is an outstanding choice if you instead plan on using it to counter Champions in high-difficulty activities. As for the final column, Frenzy’s wide range of added stats makes it an outstanding pairing with either of the perks we mentioned for column one. If you’re comfortable without a potent buff to reload speed, Kinetic Tremors is an equally powerful pick for the same reason. tags:god-pve
+dimwishlist:item=3211624072&perks=4090651448,3230963543,243981275,4104185692
+dimwishlist:item=3211624072&perks=4090651448,3230963543,243981275,3891536761
+dimwishlist:item=3211624072&perks=4090651448,3230963543,243981275,3007133316
+dimwishlist:item=3211624072&perks=4090651448,3230963543,243981275,1549370717
+dimwishlist:item=3211624072&perks=4090651448,3230963543,1870851715,4104185692
+dimwishlist:item=3211624072&perks=4090651448,3230963543,1870851715,3891536761
+dimwishlist:item=3211624072&perks=4090651448,3230963543,1870851715,3007133316
+dimwishlist:item=3211624072&perks=4090651448,3230963543,1870851715,1549370717
+dimwishlist:item=3211624072&perks=4090651448,3230963543,984655331,4104185692
+dimwishlist:item=3211624072&perks=4090651448,3230963543,984655331,3891536761
+dimwishlist:item=3211624072&perks=4090651448,3230963543,984655331,3007133316
+dimwishlist:item=3211624072&perks=4090651448,3230963543,984655331,1549370717
+dimwishlist:item=3211624072&perks=4090651448,3230963543,183938251,4104185692
+dimwishlist:item=3211624072&perks=4090651448,3230963543,183938251,3891536761
+dimwishlist:item=3211624072&perks=4090651448,3230963543,183938251,3007133316
+dimwishlist:item=3211624072&perks=4090651448,3230963543,183938251,1549370717
+
+
+// Multimach CCX - PVP (god-pvp)
+//notes: MW Range; As we said earlier, Multimach CCX isn’t nearly as potent as it once was in The Crucible. That said, there are a wide range of ways to make the weapon worth using. We’ll begin by opting for an extremely high range stat with Hammer-Forged Rifling, Accurized Rounds, and a range masterwork. Dynamic Sway Reduction and Moving Target are both outstanding in column one due to their passive stat buffs—which one you choose to seek is an entirely personal preference. Kill Clip attempts to mimic what we once had with Target Lock, which is why it’s our first choice for the final column. However, combinations of two consistency perks on SMGs have become popular over the past few months, meaning Tap the Trigger is equally potent. tags:god-pvp
+dimwishlist:item=3211624072&perks=3250034553,3142289711,1359896290,1015611457
+dimwishlist:item=3211624072&perks=3250034553,3142289711,1359896290,2923251173
+dimwishlist:item=3211624072&perks=3250034553,3142289711,1359896290,1890422124
+dimwishlist:item=3211624072&perks=3250034553,3142289711,1359896290,1523649716
+dimwishlist:item=3211624072&perks=3250034553,3142289711,588594999,1015611457
+dimwishlist:item=3211624072&perks=3250034553,3142289711,588594999,2923251173
+dimwishlist:item=3211624072&perks=3250034553,3142289711,588594999,1890422124
+dimwishlist:item=3211624072&perks=3250034553,3142289711,588594999,1523649716
+dimwishlist:item=3211624072&perks=3250034553,3142289711,3060983774,1015611457
+dimwishlist:item=3211624072&perks=3250034553,3142289711,3060983774,2923251173
+dimwishlist:item=3211624072&perks=3250034553,3142289711,3060983774,1890422124
+dimwishlist:item=3211624072&perks=3250034553,3142289711,3060983774,1523649716
+dimwishlist:item=3211624072&perks=3250034553,3142289711,2717805783,1015611457
+dimwishlist:item=3211624072&perks=3250034553,3142289711,2717805783,2923251173
+dimwishlist:item=3211624072&perks=3250034553,3142289711,2717805783,1890422124
+dimwishlist:item=3211624072&perks=3250034553,3142289711,2717805783,1523649716
+
+
+// Multimach CCX - PVE (pve)
+//notes: MW: Range; We’ll begin building Multimach CCX for PvE with Corkscrew Rifling, Flared Magwell, and a range masterwork for an even split of stats. Attrition Orbs is our general choice for column one because of its ability to combine with Armor Charge builds; however, Under-Over is an outstanding choice if you instead plan on using it to counter Champions in high-difficulty activities. As for the final column, Frenzy’s wide range of added stats makes it an outstanding pairing with either of the perks we mentioned for column one. If you’re comfortable without a potent buff to reload speed, Kinetic Tremors is an equally powerful pick for the same reason. tags:pve
+dimwishlist:item=3211624072&perks=243981275,4104185692
+dimwishlist:item=3211624072&perks=243981275,3891536761
+dimwishlist:item=3211624072&perks=243981275,3007133316
+dimwishlist:item=3211624072&perks=243981275,1549370717
+dimwishlist:item=3211624072&perks=1870851715,4104185692
+dimwishlist:item=3211624072&perks=1870851715,3891536761
+dimwishlist:item=3211624072&perks=1870851715,3007133316
+dimwishlist:item=3211624072&perks=1870851715,1549370717
+dimwishlist:item=3211624072&perks=984655331,4104185692
+dimwishlist:item=3211624072&perks=984655331,3891536761
+dimwishlist:item=3211624072&perks=984655331,3007133316
+dimwishlist:item=3211624072&perks=984655331,1549370717
+dimwishlist:item=3211624072&perks=183938251,4104185692
+dimwishlist:item=3211624072&perks=183938251,3891536761
+dimwishlist:item=3211624072&perks=183938251,3007133316
+dimwishlist:item=3211624072&perks=183938251,1549370717
+
+
+// Multimach CCX - PVP (pvp)
+//notes: MW Range; As we said earlier, Multimach CCX isn’t nearly as potent as it once was in The Crucible. That said, there are a wide range of ways to make the weapon worth using. We’ll begin by opting for an extremely high range stat with Hammer-Forged Rifling, Accurized Rounds, and a range masterwork. Dynamic Sway Reduction and Moving Target are both outstanding in column one due to their passive stat buffs—which one you choose to seek is an entirely personal preference. Kill Clip attempts to mimic what we once had with Target Lock, which is why it’s our first choice for the final column. However, combinations of two consistency perks on SMGs have become popular over the past few months, meaning Tap the Trigger is equally potent. tags:pvp
+dimwishlist:item=3211624072&perks=1359896290,1015611457
+dimwishlist:item=3211624072&perks=1359896290,2923251173
+dimwishlist:item=3211624072&perks=1359896290,1890422124
+dimwishlist:item=3211624072&perks=1359896290,1523649716
+dimwishlist:item=3211624072&perks=588594999,1015611457
+dimwishlist:item=3211624072&perks=588594999,2923251173
+dimwishlist:item=3211624072&perks=588594999,1890422124
+dimwishlist:item=3211624072&perks=588594999,1523649716
+dimwishlist:item=3211624072&perks=3060983774,1015611457
+dimwishlist:item=3211624072&perks=3060983774,2923251173
+dimwishlist:item=3211624072&perks=3060983774,1890422124
+dimwishlist:item=3211624072&perks=3060983774,1523649716
+dimwishlist:item=3211624072&perks=2717805783,1015611457
+dimwishlist:item=3211624072&perks=2717805783,2923251173
+dimwishlist:item=3211624072&perks=2717805783,1890422124
+dimwishlist:item=3211624072&perks=2717805783,1523649716
 
 
 // Laser Painter - PVE (god-pve)
