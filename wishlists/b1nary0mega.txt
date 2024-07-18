@@ -2785,6 +2785,54 @@ dimwishlist:item=3685470415&perks=1609056795,588594999
 dimwishlist:item=3685470415&perks=1609056795,2717805783
 
 
+// The Riposte - PVE (god-pve)
+//notes: MW: Range; Fluted Barrel is recommended due to the increase in Stability and Handling, making the gun feel smoother and easier to use. Ricochet Rounds are recommended due to the slight increase in Range, and once again, Stability. The perks recommended are the best choice in terms of PvE due to their synergy with each other. Destabilising Rounds makes the enemies volatile and Repulsor Brace will allow you to gain a Void Over Shield from killing the volatile enemy. We recommend a Range Masterwork since Stability and Handling can be compensated for with the availability of Stock options on the weapon. We recommend the Fitted Stock option as it provides a boost to both Stability and Handling stats. tags:god-pve
+dimwishlist:item=3754408118&perks=1840239774,1885400500,776531651,2048641572,4259401308
+dimwishlist:item=3754408118&perks=1840239774,1885400500,776531651,1926441324,4259401308
+dimwishlist:item=3754408118&perks=1840239774,1885400500,2541826827,2048641572,4259401308
+dimwishlist:item=3754408118&perks=1840239774,1885400500,2541826827,1926441324,4259401308
+
+
+// The Riposte - PVP (god-pvp)
+//notes: MW: Range; We recommend Corkscrew Rifling as it provides a well rounded boost to the most important stats when it comes to Crucible. For the same reason as above, we also recommend Ricochet Rounds giving the weapon some much needed Range while also providing a boost to Stability. In terms of perks, Zen Moment is the best choice for the first column as it helps the weapon with increased flinch resistance and reduces visual shake and reticle bounce. In the second column, there is a variety of good options however, we recommend Dynamic Sway Reduction as it synergises well with Zen Moment providing more Stability with each shot, and also reducing the accuracy cone making it easier to land shots. Target Lock, while not as good as it was, is also a viable option as it provides a faster time to kill against lower resilience enemies. It also makes missing headshots slightly more forgiving, as long as you don’t miss completely and lose your stacks. We recommend the Short-Action Stock as it boosts the Handling to 70 and the Stability to 67. This also allows you to use a Range Masterwork without missing out on much more of the other stats. tags:god-pvp
+dimwishlist:item=3754408118&perks=4090651448,1885400500,2387244414,365154968,1067908860
+dimwishlist:item=3754408118&perks=4090651448,1885400500,2387244414,1359896290,1067908860
+dimwishlist:item=3754408118&perks=4090651448,1885400500,2387244414,1195158366,1067908860
+dimwishlist:item=3754408118&perks=4090651448,1885400500,2387244414,2939589096,1067908860
+dimwishlist:item=3754408118&perks=4090651448,1885400500,2387244414,3060983774,1067908860
+dimwishlist:item=3754408118&perks=4090651448,1885400500,2387244414,838873202,1067908860
+dimwishlist:item=3754408118&perks=4090651448,1885400500,1748774930,365154968,1067908860
+dimwishlist:item=3754408118&perks=4090651448,1885400500,1748774930,1359896290,1067908860
+dimwishlist:item=3754408118&perks=4090651448,1885400500,1748774930,1195158366,1067908860
+dimwishlist:item=3754408118&perks=4090651448,1885400500,1748774930,2939589096,1067908860
+dimwishlist:item=3754408118&perks=4090651448,1885400500,1748774930,3060983774,1067908860
+dimwishlist:item=3754408118&perks=4090651448,1885400500,1748774930,838873202,1067908860
+
+
+// The Riposte - PVE (pve)
+//notes: MW: Range; Fluted Barrel is recommended due to the increase in Stability and Handling, making the gun feel smoother and easier to use. Ricochet Rounds are recommended due to the slight increase in Range, and once again, Stability. The perks recommended are the best choice in terms of PvE due to their synergy with each other. Destabilising Rounds makes the enemies volatile and Repulsor Brace will allow you to gain a Void Over Shield from killing the volatile enemy. We recommend a Range Masterwork since Stability and Handling can be compensated for with the availability of Stock options on the weapon. We recommend the Fitted Stock option as it provides a boost to both Stability and Handling stats. tags:pve
+dimwishlist:item=3754408118&perks=776531651,2048641572
+dimwishlist:item=3754408118&perks=776531651,1926441324
+dimwishlist:item=3754408118&perks=2541826827,2048641572
+dimwishlist:item=3754408118&perks=2541826827,1926441324
+
+
+// The Riposte - PVP (pvp)
+//notes: MW: Range; We recommend Corkscrew Rifling as it provides a well rounded boost to the most important stats when it comes to Crucible. For the same reason as above, we also recommend Ricochet Rounds giving the weapon some much needed Range while also providing a boost to Stability. In terms of perks, Zen Moment is the best choice for the first column as it helps the weapon with increased flinch resistance and reduces visual shake and reticle bounce. In the second column, there is a variety of good options however, we recommend Dynamic Sway Reduction as it synergises well with Zen Moment providing more Stability with each shot, and also reducing the accuracy cone making it easier to land shots. Target Lock, while not as good as it was, is also a viable option as it provides a faster time to kill against lower resilience enemies. It also makes missing headshots slightly more forgiving, as long as you don’t miss completely and lose your stacks. We recommend the Short-Action Stock as it boosts the Handling to 70 and the Stability to 67. This also allows you to use a Range Masterwork without missing out on much more of the other stats. tags:pvp
+dimwishlist:item=3754408118&perks=2387244414,365154968
+dimwishlist:item=3754408118&perks=2387244414,1359896290
+dimwishlist:item=3754408118&perks=2387244414,1195158366
+dimwishlist:item=3754408118&perks=2387244414,2939589096
+dimwishlist:item=3754408118&perks=2387244414,3060983774
+dimwishlist:item=3754408118&perks=2387244414,838873202
+dimwishlist:item=3754408118&perks=1748774930,365154968
+dimwishlist:item=3754408118&perks=1748774930,1359896290
+dimwishlist:item=3754408118&perks=1748774930,1195158366
+dimwishlist:item=3754408118&perks=1748774930,2939589096
+dimwishlist:item=3754408118&perks=1748774930,3060983774
+dimwishlist:item=3754408118&perks=1748774930,838873202
+
+
 // Ill Omen - PVE (god-pve)
 //notes: MW: Impact; Backup Mag Mod; Start with Hungry Edge for the higher Magazine and Ammo Capacity. Providing Ill Omen with these increases gives more Heavy and Light attacks to spend when chopping down enemies. Add Swordmaster’s Guard for increases to key stats for blocking attacks and increase Charge Rate meaning Ill Omen can get out another Heavy Attack faster.The juice for this god roll comes within its main perk selection. Start with Relentless Strikes which refunds ammo after landing consecutive Light Attacks. This is where Cold Steel comes in. This perk applies to any type of attack so Light and Heavy Attacks cause Slow to any enemy it hits. This includes when using the Heavy Attack to cast an icy disc of damage toward foes. This also has an area of effect so surrounding enemies can be slowed or killed if close to its AoE. Land enough hits and enemies can be frozen solid and it can even stun certain Champion-level enemies, making them an easy target for Fireteam members to land critical hits on to get the kill. tags:god-pve
 dimwishlist:item=3794274730&perks=436053704,269888150,1749209109,3650930298
