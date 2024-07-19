@@ -5129,6 +5129,381 @@
             "tags": [
                 "GodPVE"
             ]
+        },
+        {
+            "description": "MW: Handling; DPS; Handling is necessary on this weapon as you must swap between Cataclysmic and another gun to activate Bait and Switch, meaning Fluted Barrel and a Handling Masterwork are preferred. Enhanced Battery is essential as it allows for another activation of Fourth Time’s the Charm, effectively granting ten shots in the magazine. Fourth Time’s the Charm is excellent for the weapon’s ammo economy and provides around 12 additional shots overall, which is incredible for the weapon’s total damage. Bait and Switch is the apparent choice for perk 2, as it provides a remarkable damage bonus (35%, dropping to 30% with some nerfs).",
+            "hash": 999767358,
+            "name": "PVE",
+            "plugs": [
+                [
+                    1840239774
+                ],
+                [
+                    2680121939
+                ],
+                [
+                    1354429876,
+                    848860060
+                ],
+                [
+                    3078487919,
+                    3744057135
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "MW: Handling; DPS; Handling is necessary on this weapon as you must swap between Cataclysmic and another gun to activate Bait and Switch, meaning Fluted Barrel and a Handling Masterwork are preferred. Enhanced Battery is essential as it allows for another activation of Fourth Time’s the Charm, effectively granting ten shots in the magazine. Fourth Time’s the Charm is excellent for the weapon’s ammo economy and provides around 12 additional shots overall, which is incredible for the weapon’s total damage. Bait and Switch is the apparent choice for perk 2, as it provides a remarkable damage bonus (35%, dropping to 30% with some nerfs).",
+            "hash": 999767358,
+            "name": "PVE",
+            "plugs": [
+                [
+                    1354429876,
+                    848860060
+                ],
+                [
+                    3078487919,
+                    3744057135
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "MW: Handling or Range; DPS; ",
+            "hash": 1491665733,
+            "name": "PVE",
+            "plugs": [
+                [
+                    1467527085
+                ],
+                [
+                    2680121939
+                ],
+                [
+                    968510818,
+                    424370782
+                ],
+                [
+                    3708227201,
+                    781192741
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "MW: Handling or Range; DPS; ",
+            "hash": 1491665733,
+            "name": "PVE",
+            "plugs": [
+                [
+                    968510818,
+                    424370782
+                ],
+                [
+                    3708227201,
+                    781192741
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "MW: Reload; DPS; Arrowhead Brake will pull the Taipan’s recoil vertically while Liquid Coils will increase its Impact. The charge time will take a hit here, but it’s worth it for the extra damage. As for the other two perks, Triple Tap and Firing Line are the ideal options when doing damage with teammates. If you’re soloing content or by yourself, go for Focused Fury. As for the lack of Clown Cartridge, Triple Tap, coupled with Veist Stinger, will ensure you get out the maximum number of shots before needing to reload. This will significantly boost your boss DPS, especially when using a Boss Spec mod.",
+            "hash": 1911060537,
+            "name": "PVE",
+            "plugs": [
+                [
+                    839105230
+                ],
+                [
+                    1687452232
+                ],
+                [
+                    3400784728,
+                    573122728
+                ],
+                [
+                    1771339417,
+                    395388285
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "MW: Reload; DPS; Arrowhead Brake will pull the Taipan’s recoil vertically while Liquid Coils will increase its Impact. The charge time will take a hit here, but it’s worth it for the extra damage. As for the other two perks, Triple Tap and Firing Line are the ideal options when doing damage with teammates. If you’re soloing content or by yourself, go for Focused Fury. As for the lack of Clown Cartridge, Triple Tap, coupled with Veist Stinger, will ensure you get out the maximum number of shots before needing to reload. This will significantly boost your boss DPS, especially when using a Boss Spec mod.",
+            "hash": 1911060537,
+            "name": "PVE",
+            "plugs": [
+                [
+                    3400784728,
+                    573122728
+                ],
+                [
+                    1771339417,
+                    395388285
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "MW: Charge; DPS; Arrowhead Brake gets the recoil to be more vertical while also improving handling. Enhanced Battery gives you an additional round (make sure to take advantage of armor mods too). Auto-Loading Holster ensures the gun reloads while you’re using Primary and Special weapons while Firing Line bumps up the damage when near teammates. If you’re soloing content, consider looking for Vorpal Weapon instead of Firing Line. Clown Cartridge is another great option, though it does require manual reloads.",
+            "hash": 3652506829,
+            "name": "PVE",
+            "plugs": [
+                [
+                    839105230
+                ],
+                [
+                    2680121939
+                ],
+                [
+                    2284787283
+                ],
+                [
+                    1771339417
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "MW: Charge; DPS; Arrowhead Brake gets the recoil to be more vertical while also improving handling. Enhanced Battery gives you an additional round (make sure to take advantage of armor mods too). Auto-Loading Holster ensures the gun reloads while you’re using Primary and Special weapons while Firing Line bumps up the damage when near teammates. If you’re soloing content, consider looking for Vorpal Weapon instead of Firing Line. Clown Cartridge is another great option, though it does require manual reloads.",
+            "hash": 3652506829,
+            "name": "PVE",
+            "plugs": [
+                [
+                    2284787283
+                ],
+                [
+                    1771339417
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "Only viable option with catalyst",
+            "hash": 2591746970,
+            "name": "PVE",
+            "plugs": [
+                [
+                    265542500
+                ],
+                [
+                    3429800428
+                ],
+                [
+                    2399646028
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Just give it to me! Guard to rev, 3 light attacks, heavy attack. Smack with light attacks until you are recharged and restart cycle. Make sure to have a lucent blade mod on chest.",
+            "hash": 3487253372,
+            "name": "PVE",
+            "plugs": [
+                [
+                    3666208348
+                ],
+                [
+                    599007201
+                ],
+                [
+                    2590710093
+                ],
+                [
+                    290014589
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "MW: Impact; DPS.",
+            "hash": 3366545721,
+            "name": "PVE",
+            "plugs": [
+                [
+                    3666208348
+                ],
+                [
+                    269888150
+                ],
+                [
+                    1749209109,
+                    4085959009
+                ],
+                [
+                    3708227201,
+                    781192741
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "MW: Impact; DPS.",
+            "hash": 3366545721,
+            "name": "PVE",
+            "plugs": [
+                [
+                    1749209109,
+                    4085959009
+                ],
+                [
+                    3708227201,
+                    781192741
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "DPS; Requires catalyst or forget it. Highly recommend actium war rig on titan or dodge-reload on hunter.",
+            "hash": 3325463374,
+            "name": "DPS",
+            "plugs": [
+                [
+                    1392496348
+                ],
+                [
+                    1968497646
+                ],
+                [
+                    1419069769
+                ],
+                [
+                    2779035018
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Get the catalyst or forget it. Also, make sure to utilize manual reload between shots. This is a more advanced weapon for DPS. Make sure you're getting your melee hit in between every 3 shots; Dexterity mods are good.",
+            "hash": 3580904580,
+            "name": "DPS",
+            "plugs": [
+                [
+                    202670084
+                ],
+                [
+                    3142289711
+                ],
+                [
+                    1650852150
+                ],
+                [
+                    4259401308
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Good Solar option for secondary weapons during DPS.",
+            "hash": 3347946548,
+            "name": "DPS",
+            "plugs": [
+                [
+                    839105230
+                ],
+                [
+                    2680121939
+                ],
+                [
+                    968510818,
+                    424370782
+                ],
+                [
+                    2594592626,
+                    2037312142
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Good Solar option for secondary weapons during DPS.",
+            "hash": 3347946548,
+            "name": "DPS",
+            "plugs": [
+                [
+                    968510818,
+                    424370782
+                ],
+                [
+                    2594592626,
+                    2037312142
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "Good Arc option for secondary weapons during DPS.",
+            "hash": 3591141932,
+            "name": "DPS",
+            "plugs": [
+                [
+                    839105230
+                ],
+                [
+                    2680121939
+                ],
+                [
+                    1523832109,
+                    461595545
+                ],
+                [
+                    2594592626,
+                    2037312142
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Good Arc option for secondary weapons during DPS.",
+            "hash": 3591141932,
+            "name": "DPS",
+            "plugs": [
+                [
+                    1523832109,
+                    461595545
+                ],
+                [
+                    2594592626,
+                    2037312142
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
         }
     ]
 }
