@@ -1,5 +1,5 @@
 title:b1nary0mega's Wishlist
-description:personal favorites, blueberries, shacknews, and some oddballs. 
+description:Personally curated list of [Demi]God rolls. Mostly sourced from Blueberries.gg and tested in-game.
 
 // Controlling Vision - PVE (god-pve)
 //notes: MW: Handling; Controlling Vision is considered a well-rounded sidearm with reliable and sturdy handling. It has a good perk pool, including Rampage, which can increase damage after each kill, making it a viable option in PvE activities. tags:god-pve
@@ -478,6 +478,26 @@ dimwishlist:item=821154603&perks=1820235745,3425386926
 //notes: Tier S; Gnawing Hunger has had an incredible run since it was first introduced, and remains one of the most popular auto rifles for good reason. Incredible perks with impressive stability at 600 RPM, this is one of the best weapons in the game. tags:pvp,god-pvp
 dimwishlist:item=821154603&perks=1890422124,3425386926
 dimwishlist:item=821154603&perks=1890422124,1015611457
+
+
+// Cold Comfort - PVE (god-pve)
+//notes: MW: Handling; DPS; For our launcher barrel in column 1, we want to go for Volatile Launch. This barrel will greatly increase our blast radius and allows us to spread overall damage to more enemies simultaneously. This is perfect for clearing groups of enemies and ensuring no rockets go to waste when dealing damage to bosses. For our magazine in column 2, we want Alloy Casing to boost our reload speed and optimize our DPS. In column 3, the first perk you want is Envious Assassin. Rapidly defeating enemies with another weapon and then switching to Cold Comfort will activate this perk, immediately injecting 2 rockets into your magazine. Together, with our origin trait which also overflows the magazine, you can potentially fire up to 4 rockets without the need to reload. tags:god-pve
+dimwishlist:item=839786290&perks=1478423395,2985827016,968510818,3078487919
+
+
+// Cold Comfort - PVP (god-pvp)
+//notes: MW: Blast Radius; Since heavy ammo is rare in the Crucible and we want to make sure it doesn’t go to waste, we will focus on bumping the weapon’s blast radius. For the launcher barrel, you want Volatile Launch to greatly increase blast radius. In column 2, we want our magazine to be Black Powder to increase our blast radius even further. In the third column, we want to go with Tracking Module to ensure we do not miss our limited rocket ammunition. In the final column, we want to go with Cluster Bomb in order to spread our damage to more opponents. tags:god-pvp
+dimwishlist:item=839786290&perks=1478423395,1996142143,3977735242,1275731761
+
+
+// Cold Comfort - PVE (pve)
+//notes: MW: Handling; DPS; For our launcher barrel in column 1, we want to go for Volatile Launch. This barrel will greatly increase our blast radius and allows us to spread overall damage to more enemies simultaneously. This is perfect for clearing groups of enemies and ensuring no rockets go to waste when dealing damage to bosses. For our magazine in column 2, we want Alloy Casing to boost our reload speed and optimize our DPS. In column 3, the first perk you want is Envious Assassin. Rapidly defeating enemies with another weapon and then switching to Cold Comfort will activate this perk, immediately injecting 2 rockets into your magazine. Together, with our origin trait which also overflows the magazine, you can potentially fire up to 4 rockets without the need to reload. tags:pve
+dimwishlist:item=839786290&perks=968510818,3078487919
+
+
+// Cold Comfort - PVP (pvp)
+//notes: MW: Blast Radius; Since heavy ammo is rare in the Crucible and we want to make sure it doesn’t go to waste, we will focus on bumping the weapon’s blast radius. For the launcher barrel, you want Volatile Launch to greatly increase blast radius. In column 2, we want our magazine to be Black Powder to increase our blast radius even further. In the third column, we want to go with Tracking Module to ensure we do not miss our limited rocket ammunition. In the final column, we want to go with Cluster Bomb in order to spread our damage to more opponents. tags:pvp
+dimwishlist:item=839786290&perks=3977735242,1275731761
 
 
 // The Recluse - PVE Void (god-pve)
@@ -1409,6 +1429,62 @@ dimwishlist:item=1820994983&perks=2387244414,365154968
 dimwishlist:item=1820994983&perks=2387244414,2939589096
 dimwishlist:item=1820994983&perks=1748774930,365154968
 dimwishlist:item=1820994983&perks=1748774930,2939589096
+
+
+// Apex Predator - PVE (god-pve)
+//notes: MW: Reload or Velocity; DPS; Apex Predator is a go-to PvE rocket launcher in today’s meta. Quick Launch and Impact casing will give the weapon much-needed handling and stability to fire quickly and consistently. But if you feel like you don’t need those extra stats, you can always switch to something like an Alloy Casing for more reload speed. The golden combo for Apex Predator is Reconstruction with Bait and Switch. Reconstruction is the best perk for boss damage as Perk 1. You can go for Demolitionist or Incandescent if you want to ad clear to the rocket launcher, but that is not something we’d recommend as rocket launchers shine at boss DPS. Bait and Switch has a few decent replacements like Explosive Light or Vorpal Weapon and can be decent if you find it difficult to trigger Bait and Switch. tags:god-pve
+dimwishlist:item=1851777734&perks=3525010810,3796465595,1523832109,3078487919
+dimwishlist:item=1851777734&perks=3525010810,3796465595,1523832109,3744057135
+dimwishlist:item=1851777734&perks=3525010810,3796465595,461595545,3078487919
+dimwishlist:item=1851777734&perks=3525010810,3796465595,461595545,3744057135
+
+
+// Apex Predator - PVP (god-pvp)
+//notes: MW: Reload or Velocity; Rocket launchers are something players use sparingly in PvP. It’s just not viable when you have more flexible and faster options like grenade launchers or machine guns. Apex Predator is especially lacking with PvP perks despite being one of the most used rocket launchers. To be completely honest, almost everything Apex Predator has is garbage for PvP. For barrel and magazine, you can get away with Smart Drift Control for an overall bump in stats and High-Velocity Rounds for extra speed (both projectile and reload). It’s the perks where things get tough. In Perk 1 you can go for a Tracking Module which still works in PvP although with diminishing performance compared to PvE. As Perk 2, we’d probably recommend Vorpal Weapon or Collective Action. The issue is that most of the perks in the Perk 2 slot are very hard to take advantage of. If you can create Orbs of Power consistently in PvP, you can go for Explosive Light for that 10% damage boost. Otherwise, just look for something that synergizes with your PvP build. tags:god-pvp
+dimwishlist:item=1851777734&perks=3798852852,2822142346,1523832109,3324494224
+dimwishlist:item=1851777734&perks=3798852852,2822142346,1523832109,1546637391
+dimwishlist:item=1851777734&perks=3798852852,2822142346,1523832109,2562668800
+dimwishlist:item=1851777734&perks=3798852852,2822142346,1523832109,3418165135
+dimwishlist:item=1851777734&perks=3798852852,2822142346,3977735242,3324494224
+dimwishlist:item=1851777734&perks=3798852852,2822142346,3977735242,1546637391
+dimwishlist:item=1851777734&perks=3798852852,2822142346,3977735242,2562668800
+dimwishlist:item=1851777734&perks=3798852852,2822142346,3977735242,3418165135
+dimwishlist:item=1851777734&perks=3798852852,2822142346,406461158,3324494224
+dimwishlist:item=1851777734&perks=3798852852,2822142346,406461158,1546637391
+dimwishlist:item=1851777734&perks=3798852852,2822142346,406461158,2562668800
+dimwishlist:item=1851777734&perks=3798852852,2822142346,406461158,3418165135
+dimwishlist:item=1851777734&perks=3798852852,2822142346,461595545,3324494224
+dimwishlist:item=1851777734&perks=3798852852,2822142346,461595545,1546637391
+dimwishlist:item=1851777734&perks=3798852852,2822142346,461595545,2562668800
+dimwishlist:item=1851777734&perks=3798852852,2822142346,461595545,3418165135
+
+
+// Apex Predator - PVE (pve)
+//notes: MW: Reload or Velocity; DPS; Apex Predator is a go-to PvE rocket launcher in today’s meta. Quick Launch and Impact casing will give the weapon much-needed handling and stability to fire quickly and consistently. But if you feel like you don’t need those extra stats, you can always switch to something like an Alloy Casing for more reload speed. The golden combo for Apex Predator is Reconstruction with Bait and Switch. Reconstruction is the best perk for boss damage as Perk 1. You can go for Demolitionist or Incandescent if you want to ad clear to the rocket launcher, but that is not something we’d recommend as rocket launchers shine at boss DPS. Bait and Switch has a few decent replacements like Explosive Light or Vorpal Weapon and can be decent if you find it difficult to trigger Bait and Switch. tags:pve
+dimwishlist:item=1851777734&perks=1523832109,3078487919
+dimwishlist:item=1851777734&perks=1523832109,3744057135
+dimwishlist:item=1851777734&perks=461595545,3078487919
+dimwishlist:item=1851777734&perks=461595545,3744057135
+
+
+// Apex Predator - PVP (pvp)
+//notes: MW: Reload or Velocity; Rocket launchers are something players use sparingly in PvP. It’s just not viable when you have more flexible and faster options like grenade launchers or machine guns. Apex Predator is especially lacking with PvP perks despite being one of the most used rocket launchers. To be completely honest, almost everything Apex Predator has is garbage for PvP. For barrel and magazine, you can get away with Smart Drift Control for an overall bump in stats and High-Velocity Rounds for extra speed (both projectile and reload). It’s the perks where things get tough. In Perk 1 you can go for a Tracking Module which still works in PvP although with diminishing performance compared to PvE. As Perk 2, we’d probably recommend Vorpal Weapon or Collective Action. The issue is that most of the perks in the Perk 2 slot are very hard to take advantage of. If you can create Orbs of Power consistently in PvP, you can go for Explosive Light for that 10% damage boost. Otherwise, just look for something that synergizes with your PvP build. tags:pvp
+dimwishlist:item=1851777734&perks=1523832109,3324494224
+dimwishlist:item=1851777734&perks=1523832109,1546637391
+dimwishlist:item=1851777734&perks=1523832109,2562668800
+dimwishlist:item=1851777734&perks=1523832109,3418165135
+dimwishlist:item=1851777734&perks=3977735242,3324494224
+dimwishlist:item=1851777734&perks=3977735242,1546637391
+dimwishlist:item=1851777734&perks=3977735242,2562668800
+dimwishlist:item=1851777734&perks=3977735242,3418165135
+dimwishlist:item=1851777734&perks=406461158,3324494224
+dimwishlist:item=1851777734&perks=406461158,1546637391
+dimwishlist:item=1851777734&perks=406461158,2562668800
+dimwishlist:item=1851777734&perks=406461158,3418165135
+dimwishlist:item=1851777734&perks=461595545,3324494224
+dimwishlist:item=1851777734&perks=461595545,1546637391
+dimwishlist:item=1851777734&perks=461595545,2562668800
+dimwishlist:item=1851777734&perks=461595545,3418165135
 
 
 // Hammerhead - PVE (god-pve)
@@ -2745,6 +2821,19 @@ dimwishlist:item=3612338554&perks=2717805783,957782887
 dimwishlist:item=3612338554&perks=2717805783,4116820839
 
 
+// BrayTech Osprey - PVE (god-pve)
+//notes: MW: Handling; DPS; Quick Launch is the best barrel option because it increases handling speed and velocity. Impact Casing will also be the best magazine choice as it is a (while slight) increase in damage; however, Alloy Casing works fine, too. Typically, barrels and magazines don’t mean much, and the perks do the heavy lifting. Envious Assassin is an excellent pick for perk slot 1. However, Auto-Loading Holster could be better because it is easier to utilise in a full DPS rotation. In perk slot 2, Frenzy is a standard strong choice as it increases damage and Handling, making it an appealing option. Bipod and Lasting Impression are both solid choices, too. tags:god-pve
+dimwishlist:item=3667553455&perks=3525010810,3796465595,968510818,1439600632
+dimwishlist:item=3667553455&perks=3525010810,2822142346,968510818,1439600632
+dimwishlist:item=3667553455&perks=981914802,3796465595,968510818,1439600632
+dimwishlist:item=3667553455&perks=981914802,2822142346,968510818,1439600632
+
+
+// BrayTech Osprey - PVE (pve)
+//notes: MW: Handling; DPS; Quick Launch is the best barrel option because it increases handling speed and velocity. Impact Casing will also be the best magazine choice as it is a (while slight) increase in damage; however, Alloy Casing works fine, too. Typically, barrels and magazines don’t mean much, and the perks do the heavy lifting. Envious Assassin is an excellent pick for perk slot 1. However, Auto-Loading Holster could be better because it is easier to utilise in a full DPS rotation. In perk slot 2, Frenzy is a standard strong choice as it increases damage and Handling, making it an appealing option. Bipod and Lasting Impression are both solid choices, too. tags:pve
+dimwishlist:item=3667553455&perks=968510818,1439600632
+
+
 // Veiled Threat - PVE (god-pve,pve)
 //notes: PVE; MW Range; For our barrel, you will want Arrowhead Brake to better control that pesky auto rifle recoil and boost your weapon handling. For our magazine, we’ll want to pick Tactical Mag to increase our stability, mag size, and reload speed with the weapon. For our perks, we want Strategist and Headstone in perk columns 1 and 2, respectively. Strategist will generate class ability energy upon kills and activating your class ability will buff stability with the weapon. Headstone is the real star of the show here; coupled with Veiled Threat’s 720 RPM Rapid-Fire frame, you’ll be creating countless stasis crystals when landing headshots on your enemies. Veiled Threat will prove to be useful in crowd control. Between the radiolarian fluid damage pools created by the origin trait on offer here and the rapid creation of Stasis crystals via Headstone, you are sure to find this weapon lethal in PvE. tags:god-pve,pve
 dimwishlist:item=3685470415&perks=839105230,106909392,880644845,124408337
@@ -2783,54 +2872,6 @@ dimwishlist:item=3685470415&perks=2451262963,588594999
 dimwishlist:item=3685470415&perks=2451262963,2717805783
 dimwishlist:item=3685470415&perks=1609056795,588594999
 dimwishlist:item=3685470415&perks=1609056795,2717805783
-
-
-// The Riposte - PVE (god-pve)
-//notes: MW: Range; Fluted Barrel is recommended due to the increase in Stability and Handling, making the gun feel smoother and easier to use. Ricochet Rounds are recommended due to the slight increase in Range, and once again, Stability. The perks recommended are the best choice in terms of PvE due to their synergy with each other. Destabilising Rounds makes the enemies volatile and Repulsor Brace will allow you to gain a Void Over Shield from killing the volatile enemy. We recommend a Range Masterwork since Stability and Handling can be compensated for with the availability of Stock options on the weapon. We recommend the Fitted Stock option as it provides a boost to both Stability and Handling stats. tags:god-pve
-dimwishlist:item=3754408118&perks=1840239774,1885400500,776531651,2048641572,4259401308
-dimwishlist:item=3754408118&perks=1840239774,1885400500,776531651,1926441324,4259401308
-dimwishlist:item=3754408118&perks=1840239774,1885400500,2541826827,2048641572,4259401308
-dimwishlist:item=3754408118&perks=1840239774,1885400500,2541826827,1926441324,4259401308
-
-
-// The Riposte - PVP (god-pvp)
-//notes: MW: Range; We recommend Corkscrew Rifling as it provides a well rounded boost to the most important stats when it comes to Crucible. For the same reason as above, we also recommend Ricochet Rounds giving the weapon some much needed Range while also providing a boost to Stability. In terms of perks, Zen Moment is the best choice for the first column as it helps the weapon with increased flinch resistance and reduces visual shake and reticle bounce. In the second column, there is a variety of good options however, we recommend Dynamic Sway Reduction as it synergises well with Zen Moment providing more Stability with each shot, and also reducing the accuracy cone making it easier to land shots. Target Lock, while not as good as it was, is also a viable option as it provides a faster time to kill against lower resilience enemies. It also makes missing headshots slightly more forgiving, as long as you don’t miss completely and lose your stacks. We recommend the Short-Action Stock as it boosts the Handling to 70 and the Stability to 67. This also allows you to use a Range Masterwork without missing out on much more of the other stats. tags:god-pvp
-dimwishlist:item=3754408118&perks=4090651448,1885400500,2387244414,365154968,1067908860
-dimwishlist:item=3754408118&perks=4090651448,1885400500,2387244414,1359896290,1067908860
-dimwishlist:item=3754408118&perks=4090651448,1885400500,2387244414,1195158366,1067908860
-dimwishlist:item=3754408118&perks=4090651448,1885400500,2387244414,2939589096,1067908860
-dimwishlist:item=3754408118&perks=4090651448,1885400500,2387244414,3060983774,1067908860
-dimwishlist:item=3754408118&perks=4090651448,1885400500,2387244414,838873202,1067908860
-dimwishlist:item=3754408118&perks=4090651448,1885400500,1748774930,365154968,1067908860
-dimwishlist:item=3754408118&perks=4090651448,1885400500,1748774930,1359896290,1067908860
-dimwishlist:item=3754408118&perks=4090651448,1885400500,1748774930,1195158366,1067908860
-dimwishlist:item=3754408118&perks=4090651448,1885400500,1748774930,2939589096,1067908860
-dimwishlist:item=3754408118&perks=4090651448,1885400500,1748774930,3060983774,1067908860
-dimwishlist:item=3754408118&perks=4090651448,1885400500,1748774930,838873202,1067908860
-
-
-// The Riposte - PVE (pve)
-//notes: MW: Range; Fluted Barrel is recommended due to the increase in Stability and Handling, making the gun feel smoother and easier to use. Ricochet Rounds are recommended due to the slight increase in Range, and once again, Stability. The perks recommended are the best choice in terms of PvE due to their synergy with each other. Destabilising Rounds makes the enemies volatile and Repulsor Brace will allow you to gain a Void Over Shield from killing the volatile enemy. We recommend a Range Masterwork since Stability and Handling can be compensated for with the availability of Stock options on the weapon. We recommend the Fitted Stock option as it provides a boost to both Stability and Handling stats. tags:pve
-dimwishlist:item=3754408118&perks=776531651,2048641572
-dimwishlist:item=3754408118&perks=776531651,1926441324
-dimwishlist:item=3754408118&perks=2541826827,2048641572
-dimwishlist:item=3754408118&perks=2541826827,1926441324
-
-
-// The Riposte - PVP (pvp)
-//notes: MW: Range; We recommend Corkscrew Rifling as it provides a well rounded boost to the most important stats when it comes to Crucible. For the same reason as above, we also recommend Ricochet Rounds giving the weapon some much needed Range while also providing a boost to Stability. In terms of perks, Zen Moment is the best choice for the first column as it helps the weapon with increased flinch resistance and reduces visual shake and reticle bounce. In the second column, there is a variety of good options however, we recommend Dynamic Sway Reduction as it synergises well with Zen Moment providing more Stability with each shot, and also reducing the accuracy cone making it easier to land shots. Target Lock, while not as good as it was, is also a viable option as it provides a faster time to kill against lower resilience enemies. It also makes missing headshots slightly more forgiving, as long as you don’t miss completely and lose your stacks. We recommend the Short-Action Stock as it boosts the Handling to 70 and the Stability to 67. This also allows you to use a Range Masterwork without missing out on much more of the other stats. tags:pvp
-dimwishlist:item=3754408118&perks=2387244414,365154968
-dimwishlist:item=3754408118&perks=2387244414,1359896290
-dimwishlist:item=3754408118&perks=2387244414,1195158366
-dimwishlist:item=3754408118&perks=2387244414,2939589096
-dimwishlist:item=3754408118&perks=2387244414,3060983774
-dimwishlist:item=3754408118&perks=2387244414,838873202
-dimwishlist:item=3754408118&perks=1748774930,365154968
-dimwishlist:item=3754408118&perks=1748774930,1359896290
-dimwishlist:item=3754408118&perks=1748774930,1195158366
-dimwishlist:item=3754408118&perks=1748774930,2939589096
-dimwishlist:item=3754408118&perks=1748774930,3060983774
-dimwishlist:item=3754408118&perks=1748774930,838873202
 
 
 // Ill Omen - PVE (god-pve)
@@ -3245,6 +3286,24 @@ dimwishlist:item=3969379530&perks=1748774930,1015611457
 dimwishlist:item=3969379530&perks=1748774930,2923251173
 
 
+// Hezen Vengeance - PVE (god-pve)
+//notes: MW: Handling; DPS;  tags:god-pve
+dimwishlist:item=4050645223&perks=981914802,3796465595,3643424744,1275731761
+dimwishlist:item=4050645223&perks=981914802,3796465595,3643424744,1546637391
+dimwishlist:item=4050645223&perks=981914802,2822142346,3643424744,1275731761
+dimwishlist:item=4050645223&perks=981914802,2822142346,3643424744,1546637391
+dimwishlist:item=4050645223&perks=3525010810,3796465595,3643424744,1275731761
+dimwishlist:item=4050645223&perks=3525010810,3796465595,3643424744,1546637391
+dimwishlist:item=4050645223&perks=3525010810,2822142346,3643424744,1275731761
+dimwishlist:item=4050645223&perks=3525010810,2822142346,3643424744,1546637391
+
+
+// Hezen Vengeance - PVE (pve)
+//notes: MW: Handling; DPS;  tags:pve
+dimwishlist:item=4050645223&perks=3643424744,1275731761
+dimwishlist:item=4050645223&perks=3643424744,1546637391
+
+
 // Faith-Keeper - PVE (god-pve)
 //notes: MW: Handling; Quick Access Mod; As with most rocket launchers, Quick Launch and Impact Casing are the best minor perks as they increase handling and improve the overall damage of the rocket. Auto-Loading Holster allows you to switch to another weapon to continue firing another weapon while Faith-Keeper is reloading in the background. Explosive Light is a great damage perk that activate just by picking up Orbs of Power, something that happens often during normal gameplay. Rocket Launchers are notable for being some of the best single-target burst damage in the game. Faith-Keeper is a precision frame, so it does suffer from an overall damage loss compared to other rockets, but it is not a terrible option. Consider it a solid option when you need a void rocket. tags:god-pve
 dimwishlist:item=4195186942&perks=3525010810,3796465595,3300816228,3194351027
@@ -3355,5 +3414,22 @@ dimwishlist:item=4233375372&perks=3523296417,95528736
 dimwishlist:item=4233375372&perks=3523296417,956288240
 dimwishlist:item=4233375372&perks=1906147653,95528736
 dimwishlist:item=4233375372&perks=1906147653,956288240
+
+
+// The Hothead - PVE (god-pve)
+//notes: MW: Handling; DPS tags:god-pve
+dimwishlist:item=4255171531&perks=981914802,3796465595,3977735242,3194351027
+dimwishlist:item=4255171531&perks=981914802,3796465595,3523296417,3194351027
+dimwishlist:item=4255171531&perks=981914802,3796465595,2869569095,3194351027
+dimwishlist:item=4255171531&perks=3525010810,3796465595,3977735242,3194351027
+dimwishlist:item=4255171531&perks=3525010810,3796465595,3523296417,3194351027
+dimwishlist:item=4255171531&perks=3525010810,3796465595,2869569095,3194351027
+
+
+// The Hothead - PVE (pve)
+//notes: MW: Handling; DPS tags:pve
+dimwishlist:item=4255171531&perks=3977735242,3194351027
+dimwishlist:item=4255171531&perks=3523296417,3194351027
+dimwishlist:item=4255171531&perks=2869569095,3194351027
 
 
