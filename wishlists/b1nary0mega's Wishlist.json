@@ -4836,6 +4836,299 @@
             "tags": [
                 "PVP"
             ]
+        },
+        {
+            "description": "MW: Handling; DPS; For our launcher barrel in column 1, we want to go for Volatile Launch. This barrel will greatly increase our blast radius and allows us to spread overall damage to more enemies simultaneously. This is perfect for clearing groups of enemies and ensuring no rockets go to waste when dealing damage to bosses. For our magazine in column 2, we want Alloy Casing to boost our reload speed and optimize our DPS. In column 3, the first perk you want is Envious Assassin. Rapidly defeating enemies with another weapon and then switching to Cold Comfort will activate this perk, immediately injecting 2 rockets into your magazine. Together, with our origin trait which also overflows the magazine, you can potentially fire up to 4 rockets without the need to reload.",
+            "hash": 839786290,
+            "name": "PVE",
+            "plugs": [
+                [
+                    1478423395
+                ],
+                [
+                    2985827016
+                ],
+                [
+                    968510818
+                ],
+                [
+                    3078487919
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "MW: Handling; DPS; For our launcher barrel in column 1, we want to go for Volatile Launch. This barrel will greatly increase our blast radius and allows us to spread overall damage to more enemies simultaneously. This is perfect for clearing groups of enemies and ensuring no rockets go to waste when dealing damage to bosses. For our magazine in column 2, we want Alloy Casing to boost our reload speed and optimize our DPS. In column 3, the first perk you want is Envious Assassin. Rapidly defeating enemies with another weapon and then switching to Cold Comfort will activate this perk, immediately injecting 2 rockets into your magazine. Together, with our origin trait which also overflows the magazine, you can potentially fire up to 4 rockets without the need to reload.",
+            "hash": 839786290,
+            "name": "PVE",
+            "plugs": [
+                [
+                    968510818
+                ],
+                [
+                    3078487919
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "MW: Blast Radius; Since heavy ammo is rare in the Crucible and we want to make sure it doesn’t go to waste, we will focus on bumping the weapon’s blast radius. For the launcher barrel, you want Volatile Launch to greatly increase blast radius. In column 2, we want our magazine to be Black Powder to increase our blast radius even further. In the third column, we want to go with Tracking Module to ensure we do not miss our limited rocket ammunition. In the final column, we want to go with Cluster Bomb in order to spread our damage to more opponents.",
+            "hash": 839786290,
+            "name": "PVP",
+            "plugs": [
+                [
+                    1478423395
+                ],
+                [
+                    1996142143
+                ],
+                [
+                    3977735242
+                ],
+                [
+                    1275731761
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "MW: Blast Radius; Since heavy ammo is rare in the Crucible and we want to make sure it doesn’t go to waste, we will focus on bumping the weapon’s blast radius. For the launcher barrel, you want Volatile Launch to greatly increase blast radius. In column 2, we want our magazine to be Black Powder to increase our blast radius even further. In the third column, we want to go with Tracking Module to ensure we do not miss our limited rocket ammunition. In the final column, we want to go with Cluster Bomb in order to spread our damage to more opponents.",
+            "hash": 839786290,
+            "name": "PVP",
+            "plugs": [
+                [
+                    3977735242
+                ],
+                [
+                    1275731761
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "MW: Reload or Velocity; DPS; Apex Predator is a go-to PvE rocket launcher in today’s meta. Quick Launch and Impact casing will give the weapon much-needed handling and stability to fire quickly and consistently. But if you feel like you don’t need those extra stats, you can always switch to something like an Alloy Casing for more reload speed. The golden combo for Apex Predator is Reconstruction with Bait and Switch. Reconstruction is the best perk for boss damage as Perk 1. You can go for Demolitionist or Incandescent if you want to ad clear to the rocket launcher, but that is not something we’d recommend as rocket launchers shine at boss DPS. Bait and Switch has a few decent replacements like Explosive Light or Vorpal Weapon and can be decent if you find it difficult to trigger Bait and Switch.",
+            "hash": 1851777734,
+            "name": "PVE",
+            "plugs": [
+                [
+                    3525010810
+                ],
+                [
+                    3796465595
+                ],
+                [
+                    1523832109,
+                    461595545
+                ],
+                [
+                    3078487919,
+                    3744057135
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "MW: Reload or Velocity; DPS; Apex Predator is a go-to PvE rocket launcher in today’s meta. Quick Launch and Impact casing will give the weapon much-needed handling and stability to fire quickly and consistently. But if you feel like you don’t need those extra stats, you can always switch to something like an Alloy Casing for more reload speed. The golden combo for Apex Predator is Reconstruction with Bait and Switch. Reconstruction is the best perk for boss damage as Perk 1. You can go for Demolitionist or Incandescent if you want to ad clear to the rocket launcher, but that is not something we’d recommend as rocket launchers shine at boss DPS. Bait and Switch has a few decent replacements like Explosive Light or Vorpal Weapon and can be decent if you find it difficult to trigger Bait and Switch.",
+            "hash": 1851777734,
+            "name": "PVE",
+            "plugs": [
+                [
+                    1523832109,
+                    461595545
+                ],
+                [
+                    3078487919,
+                    3744057135
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "MW: Reload or Velocity; Rocket launchers are something players use sparingly in PvP. It’s just not viable when you have more flexible and faster options like grenade launchers or machine guns. Apex Predator is especially lacking with PvP perks despite being one of the most used rocket launchers. To be completely honest, almost everything Apex Predator has is garbage for PvP. For barrel and magazine, you can get away with Smart Drift Control for an overall bump in stats and High-Velocity Rounds for extra speed (both projectile and reload). It’s the perks where things get tough. In Perk 1 you can go for a Tracking Module which still works in PvP although with diminishing performance compared to PvE. As Perk 2, we’d probably recommend Vorpal Weapon or Collective Action. The issue is that most of the perks in the Perk 2 slot are very hard to take advantage of. If you can create Orbs of Power consistently in PvP, you can go for Explosive Light for that 10% damage boost. Otherwise, just look for something that synergizes with your PvP build.",
+            "hash": 1851777734,
+            "name": "PVP",
+            "plugs": [
+                [
+                    3798852852
+                ],
+                [
+                    2822142346
+                ],
+                [
+                    1523832109,
+                    3977735242,
+                    406461158,
+                    461595545
+                ],
+                [
+                    3324494224,
+                    1546637391,
+                    2562668800,
+                    3418165135
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "MW: Reload or Velocity; Rocket launchers are something players use sparingly in PvP. It’s just not viable when you have more flexible and faster options like grenade launchers or machine guns. Apex Predator is especially lacking with PvP perks despite being one of the most used rocket launchers. To be completely honest, almost everything Apex Predator has is garbage for PvP. For barrel and magazine, you can get away with Smart Drift Control for an overall bump in stats and High-Velocity Rounds for extra speed (both projectile and reload). It’s the perks where things get tough. In Perk 1 you can go for a Tracking Module which still works in PvP although with diminishing performance compared to PvE. As Perk 2, we’d probably recommend Vorpal Weapon or Collective Action. The issue is that most of the perks in the Perk 2 slot are very hard to take advantage of. If you can create Orbs of Power consistently in PvP, you can go for Explosive Light for that 10% damage boost. Otherwise, just look for something that synergizes with your PvP build.",
+            "hash": 1851777734,
+            "name": "PVP",
+            "plugs": [
+                [
+                    1523832109,
+                    3977735242,
+                    406461158,
+                    461595545
+                ],
+                [
+                    3324494224,
+                    1546637391,
+                    2562668800,
+                    3418165135
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "MW: Handling; DPS; ",
+            "hash": 4050645223,
+            "name": "PVE",
+            "plugs": [
+                [
+                    3643424744
+                ],
+                [
+                    1275731761,
+                    1546637391
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "MW: Handling; DPS; Quick Launch is the best barrel option because it increases handling speed and velocity. Impact Casing will also be the best magazine choice as it is a (while slight) increase in damage; however, Alloy Casing works fine, too. Typically, barrels and magazines don’t mean much, and the perks do the heavy lifting. Envious Assassin is an excellent pick for perk slot 1. However, Auto-Loading Holster could be better because it is easier to utilise in a full DPS rotation. In perk slot 2, Frenzy is a standard strong choice as it increases damage and Handling, making it an appealing option. Bipod and Lasting Impression are both solid choices, too.",
+            "hash": 3667553455,
+            "name": "PVE",
+            "plugs": [
+                [
+                    3525010810,
+                    981914802
+                ],
+                [
+                    3796465595,
+                    2822142346
+                ],
+                [
+                    968510818
+                ],
+                [
+                    1439600632
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "MW: Handling; DPS; Quick Launch is the best barrel option because it increases handling speed and velocity. Impact Casing will also be the best magazine choice as it is a (while slight) increase in damage; however, Alloy Casing works fine, too. Typically, barrels and magazines don’t mean much, and the perks do the heavy lifting. Envious Assassin is an excellent pick for perk slot 1. However, Auto-Loading Holster could be better because it is easier to utilise in a full DPS rotation. In perk slot 2, Frenzy is a standard strong choice as it increases damage and Handling, making it an appealing option. Bipod and Lasting Impression are both solid choices, too.",
+            "hash": 3667553455,
+            "name": "PVE",
+            "plugs": [
+                [
+                    968510818
+                ],
+                [
+                    1439600632
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "MW: Handling; DPS",
+            "hash": 4255171531,
+            "name": "PVE",
+            "plugs": [
+                [
+                    981914802,
+                    3525010810
+                ],
+                [
+                    3796465595
+                ],
+                [
+                    3977735242,
+                    3523296417,
+                    2869569095
+                ],
+                [
+                    3194351027
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "MW: Handling; DPS",
+            "hash": 4255171531,
+            "name": "PVE",
+            "plugs": [
+                [
+                    3977735242,
+                    3523296417,
+                    2869569095
+                ],
+                [
+                    3194351027
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "MW: Handling; DPS; ",
+            "hash": 4050645223,
+            "name": "PVE",
+            "plugs": [
+                [
+                    981914802,
+                    3525010810
+                ],
+                [
+                    3796465595,
+                    2822142346
+                ],
+                [
+                    3643424744
+                ],
+                [
+                    1275731761,
+                    1546637391
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
         }
     ]
 }
