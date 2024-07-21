@@ -5504,6 +5504,316 @@
             "tags": [
                 "PVE"
             ]
+        },
+        {
+            "description": "MW: Reload; Compared to Wilderflight, Wild Style offers a much broader scope of perks. Where Wilderflight had a lot of damage buffing perks, Wild Style has a mix of damage and utility, which makes it much more flexible, though most will probably opt to use this as a damage weapon. However, the mainstays of Hard Launch and Spike Grenades will always be needed if using this for PvE. Blinding Grenades might also benefit you if you enjoy using them, especially given that you get two for one in each activation. For Perk 1, there are a few good ones that will help buff reload speed, while Envious Assassin is your only “free reload” perk. No Auto-Loading is an interesting sight, but there’s more than enough to compensate for it. Perk 2 is going to be your damage or utility perk, with Surrounded and Incandescent filling those roles very nicely. The pairing of Danger Zone and Surrounded means you can use this almost as a shotgun, and in doing so, you take full advantage of the increased damage over regular breech loaders.",
+            "hash": 1332123064,
+            "name": "PVE",
+            "plugs": [
+                [
+                    981914802
+                ],
+                [
+                    3301904089
+                ],
+                [
+                    424370782,
+                    968510818,
+                    960810156,
+                    1077019636
+                ],
+                [
+                    4293542123,
+                    2675184851,
+                    3708227201,
+                    781192741
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "MW: Reload; Compared to Wilderflight, Wild Style offers a much broader scope of perks. Where Wilderflight had a lot of damage buffing perks, Wild Style has a mix of damage and utility, which makes it much more flexible, though most will probably opt to use this as a damage weapon. However, the mainstays of Hard Launch and Spike Grenades will always be needed if using this for PvE. Blinding Grenades might also benefit you if you enjoy using them, especially given that you get two for one in each activation. For Perk 1, there are a few good ones that will help buff reload speed, while Envious Assassin is your only “free reload” perk. No Auto-Loading is an interesting sight, but there’s more than enough to compensate for it. Perk 2 is going to be your damage or utility perk, with Surrounded and Incandescent filling those roles very nicely. The pairing of Danger Zone and Surrounded means you can use this almost as a shotgun, and in doing so, you take full advantage of the increased damage over regular breech loaders.",
+            "hash": 1332123064,
+            "name": "PVE",
+            "plugs": [
+                [
+                    424370782,
+                    968510818,
+                    960810156,
+                    1077019636
+                ],
+                [
+                    4293542123,
+                    2675184851,
+                    3708227201,
+                    781192741
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "MW: Handling or Blast; Here is where this frame fails big time compared to other special GLs. As the trajectory of the 2nd grenade appears to be slightly random, landing far-range shots with both projectiles is very challenging. Given that the damage is split between them, you would need to have both explode close to the target to break shields and since this doesn’t get Disruption Break, we’re opting for a completely different approach. Run Quick Launch for better velocity and handling, and either Spike Nades for better damage on each direct hit or High Velocity for the increased reload speed. Your best choice for Perk 1 is going to be Danger Zone. Much like in PvE, this is going to be used as a sort of GL-Shotgun hybrid, so running a perk that reduces self-damage by 40% is going to be very useful in those close-quarters fights. If you are in the 6v6 playlist, you might find Stats for All beneficial, given that people tend to group up there. Perk 2 is, again, Surrounded. A 35% buff to blast damage and 40% to direct hit means much easier clean-ups if you don’t manage the kill, which might happen often.",
+            "hash": 1332123064,
+            "name": "PVP",
+            "plugs": [
+                [
+                    3525010810
+                ],
+                [
+                    2822142346,
+                    3301904089
+                ],
+                [
+                    960810156,
+                    1077019636
+                ],
+                [
+                    3708227201,
+                    781192741
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "MW: Handling or Blast; Here is where this frame fails big time compared to other special GLs. As the trajectory of the 2nd grenade appears to be slightly random, landing far-range shots with both projectiles is very challenging. Given that the damage is split between them, you would need to have both explode close to the target to break shields and since this doesn’t get Disruption Break, we’re opting for a completely different approach. Run Quick Launch for better velocity and handling, and either Spike Nades for better damage on each direct hit or High Velocity for the increased reload speed. Your best choice for Perk 1 is going to be Danger Zone. Much like in PvE, this is going to be used as a sort of GL-Shotgun hybrid, so running a perk that reduces self-damage by 40% is going to be very useful in those close-quarters fights. If you are in the 6v6 playlist, you might find Stats for All beneficial, given that people tend to group up there. Perk 2 is, again, Surrounded. A 35% buff to blast damage and 40% to direct hit means much easier clean-ups if you don’t manage the kill, which might happen often.",
+            "hash": 1332123064,
+            "name": "PVP",
+            "plugs": [
+                [
+                    960810156,
+                    1077019636
+                ],
+                [
+                    3708227201,
+                    781192741
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "DPS",
+            "hash": 1363886209,
+            "name": "PVP",
+            "plugs": [
+                [
+                    1478423395
+                ],
+                [
+                    2985827016
+                ],
+                [
+                    3874977694
+                ],
+                [
+                    1067908860
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Just get it.",
+            "hash": 4129629253,
+            "name": "All The Things",
+            "plugs": [
+                [
+                    3250034553
+                ],
+                [
+                    1431678320
+                ],
+                [
+                    2135276011
+                ],
+                [
+                    3700496672
+                ],
+                [
+                    3465198467
+                ]
+            ],
+            "tags": [
+                "GodPVE",
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "Just get it. Make sure you have the catalyst if you're using.",
+            "hash": 427899681,
+            "name": "Good",
+            "plugs": [
+                [
+                    202670084
+                ],
+                [
+                    1561002382
+                ],
+                [
+                    1833111001
+                ],
+                [
+                    4259401308
+                ]
+            ],
+            "tags": [
+                "GodPVE",
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "Advanced damage strategy",
+            "hash": 3211806999,
+            "name": "PVE",
+            "plugs": [
+                [
+                    3661387068
+                ],
+                [
+                    3142289711
+                ],
+                [
+                    2866798147
+                ],
+                [
+                    3465198467
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 2357297366,
+            "name": "PVE and PVP",
+            "plugs": [
+                [
+                    3809316345
+                ],
+                [
+                    1996142143
+                ],
+                [
+                    745965939
+                ],
+                [
+                    3465198467
+                ]
+            ],
+            "tags": [
+                "GodPVE",
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "MW: Velocity; DPS option but not the greatest. Optimal would be Envious and Bipod, but Surrounded grants an absurd 40% increase in damage, this perk even tops S-Tier picks like Bait and Switch.",
+            "hash": 1719687748,
+            "name": "PVE",
+            "plugs": [
+                [
+                    968510818,
+                    1523832109,
+                    424370782,
+                    461595545,
+                    2284787283,
+                    3563868667
+                ],
+                [
+                    3977735242,
+                    1439600632,
+                    2282937672,
+                    406461158,
+                    3708227201,
+                    781192741
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "MW: Velocity; DPS option but not the greatest. Optimal would be Envious and Bipod, but Surrounded grants an absurd 40% increase in damage, this perk even tops S-Tier picks like Bait and Switch.",
+            "hash": 1719687748,
+            "name": "PVE",
+            "plugs": [
+                [
+                    981914802,
+                    3525010810
+                ],
+                [
+                    3796465595
+                ],
+                [
+                    2284787283,
+                    1523832109,
+                    968510818,
+                    3563868667,
+                    424370782,
+                    461595545
+                ],
+                [
+                    1439600632,
+                    3708227201,
+                    3977735242,
+                    2282937672,
+                    781192741,
+                    406461158
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "MW: Reload; Even with Chain Reaction nerf this still can feel really good. To keep speed, add in a Quick Access mod.",
+            "hash": 499245245,
+            "name": "PVE",
+            "plugs": [
+                [
+                    466087222
+                ],
+                [
+                    791862061
+                ],
+                [
+                    3978468247,
+                    906981559
+                ],
+                [
+                    2396489472,
+                    598607952
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "MW: Reload; Even with Chain Reaction nerf this still can feel really good. To keep speed, add in a Quick Access mod.",
+            "hash": 499245245,
+            "name": "PVE",
+            "plugs": [
+                [
+                    3978468247,
+                    906981559
+                ],
+                [
+                    2396489472,
+                    598607952
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
         }
     ]
 }
