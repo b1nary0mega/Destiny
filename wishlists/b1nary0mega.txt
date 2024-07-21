@@ -242,6 +242,22 @@ dimwishlist:item=496728945&perks=3416609154,3719974635
 dimwishlist:item=496728945&perks=3416609154,2799030358
 
 
+// Ded Gramarye IV - PVE (god-pve)
+//notes: MW: Reload; Even with Chain Reaction nerf this still can feel really good. To keep speed, add in a Quick Access mod. tags:god-pve
+dimwishlist:item=499245245&perks=466087222,791862061,3978468247,2396489472
+dimwishlist:item=499245245&perks=466087222,791862061,3978468247,598607952
+dimwishlist:item=499245245&perks=466087222,791862061,906981559,2396489472
+dimwishlist:item=499245245&perks=466087222,791862061,906981559,598607952
+
+
+// Ded Gramarye IV - PVE (pve)
+//notes: MW: Reload; Even with Chain Reaction nerf this still can feel really good. To keep speed, add in a Quick Access mod. tags:pve
+dimwishlist:item=499245245&perks=3978468247,2396489472
+dimwishlist:item=499245245&perks=3978468247,598607952
+dimwishlist:item=499245245&perks=906981559,2396489472
+dimwishlist:item=499245245&perks=906981559,598607952
+
+
 // Forbearance - PVE (god-pve)
 //notes: MW: Reload or Handling; Making sure that Handling is as high as possible is always good in PvE in order to make weapons feel nicer to use, so Quick Launch and High-Velocity Rounds are the best options here with a Reload Speed or Handling Masterwork. Perk 1 allows you to choose between Demolitionist and Ambitious Assassin. Demolitionist is unique to this variant of Forbearance and should definitely be the focus, as you can always choose Ambitious Assassin on your Vow of the Disciple roll. Chain Reaction is the best perk for slot 2, but One for All is usable. tags:god-pve
 dimwishlist:item=568611921&perks=3525010810,2822142346,3523296417,2396489472
