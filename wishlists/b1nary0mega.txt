@@ -33,6 +33,11 @@ dimwishlist:item=423343404&perks=2396422520,3708227201
 dimwishlist:item=423343404&perks=2396422520,781192741
 
 
+// Red Death Reformed - Good (god-pve,god-pvp)
+//notes: Just get it. Make sure you have the catalyst if you're using. tags:god-pve,god-pvp
+dimwishlist:item=427899681&perks=202670084,1561002382,1833111001,4259401308
+
+
 // Rufus's Fury - PVE (god-pve)
 //notes: MW: Stability or Range; This auto rifle is a powerhouse in PvE. For main stats, you’ll want the same ones we mentioned above—stability and range. Therefore, the first two columns of traits won’t change. As for the perks, you can go a couple of different ways here. Reconstruction and Target Lock won’t do you wrong if you want a pure workhorse weapon. But if you’re looking for excellent Strand synergy, Demolitionist and Hatchling is easily the best choice. tags:god-pve
 dimwishlist:item=484515708&perks=3250034553,1885400500,1523832109,365154968
@@ -872,6 +877,11 @@ dimwishlist:item=1332123064&perks=1077019636,3708227201
 dimwishlist:item=1332123064&perks=1077019636,781192741
 
 
+// Gjallarhorn - PVP (god-pve)
+//notes: DPS tags:god-pve
+dimwishlist:item=1363886209&perks=1478423395,2985827016,3874977694,1067908860
+
+
 // Hung Jury SR4 - PVE GMs (god-pve)
 //notes: MW: Reload; GMs; Handling and Reload Speed are important on Hung Jury, so we chose Fluted Barrel and Tactical Magazine for our barrel and magazine slots. Kinetic Tremors is a must-pick for PvE on Hung Jury as it helps deal some massive AoE damage, which is always handy on a Scout Rifle. Explosive Payload and Precision Instrument are both good options. Explosive Payload provides a more general buff, but Precision Instrument is better when using Hung Jury to take down a higher health target. Recommended Loadout: Hung Jury SR4, Cartesian Coordinate, Gjallarhorn. tags:god-pve
 dimwishlist:item=1453235079&perks=1840239774,106909392,3891536761,3038247973
@@ -1045,6 +1055,122 @@ dimwishlist:item=1681583613&perks=3666208348,269888150,519046634
 // Ergo Sum - PVP (god-pvp,pvp)
 //notes: Ergo Sum in PvP is rather niche, but it definitely has its moments where it can shine. Wave Sword Element: Arc; Exotic Trait: Arc Conductor; Frame is a must here as it can almost guarantee two kills with one special ammo if you land the Wave. This allows you to then rapidly swing onto another nearby enemy, even if you have no ammo. While this combo is deadly, it’s important to remember that you are very vulnerable while wielding a Sword, and players can keep their distance from you, so try to use cover and bait targets. tags:god-pvp,pvp
 dimwishlist:item=1681583613&perks=436053704,269888150,289811733
+
+
+// Crux Termination IV - PVE (god-pve)
+//notes: MW: Velocity; DPS option but not the greatest. Optimal would be Envious and Bipod, but Surrounded grants an absurd 40% increase in damage, this perk even tops S-Tier picks like Bait and Switch. tags:god-pve
+dimwishlist:item=1719687748&perks=981914802,3796465595,2284787283,1439600632
+dimwishlist:item=1719687748&perks=981914802,3796465595,2284787283,3708227201
+dimwishlist:item=1719687748&perks=981914802,3796465595,2284787283,3977735242
+dimwishlist:item=1719687748&perks=981914802,3796465595,2284787283,2282937672
+dimwishlist:item=1719687748&perks=981914802,3796465595,2284787283,781192741
+dimwishlist:item=1719687748&perks=981914802,3796465595,2284787283,406461158
+dimwishlist:item=1719687748&perks=981914802,3796465595,1523832109,1439600632
+dimwishlist:item=1719687748&perks=981914802,3796465595,1523832109,3708227201
+dimwishlist:item=1719687748&perks=981914802,3796465595,1523832109,3977735242
+dimwishlist:item=1719687748&perks=981914802,3796465595,1523832109,2282937672
+dimwishlist:item=1719687748&perks=981914802,3796465595,1523832109,781192741
+dimwishlist:item=1719687748&perks=981914802,3796465595,1523832109,406461158
+dimwishlist:item=1719687748&perks=981914802,3796465595,968510818,1439600632
+dimwishlist:item=1719687748&perks=981914802,3796465595,968510818,3708227201
+dimwishlist:item=1719687748&perks=981914802,3796465595,968510818,3977735242
+dimwishlist:item=1719687748&perks=981914802,3796465595,968510818,2282937672
+dimwishlist:item=1719687748&perks=981914802,3796465595,968510818,781192741
+dimwishlist:item=1719687748&perks=981914802,3796465595,968510818,406461158
+dimwishlist:item=1719687748&perks=981914802,3796465595,3563868667,1439600632
+dimwishlist:item=1719687748&perks=981914802,3796465595,3563868667,3708227201
+dimwishlist:item=1719687748&perks=981914802,3796465595,3563868667,3977735242
+dimwishlist:item=1719687748&perks=981914802,3796465595,3563868667,2282937672
+dimwishlist:item=1719687748&perks=981914802,3796465595,3563868667,781192741
+dimwishlist:item=1719687748&perks=981914802,3796465595,3563868667,406461158
+dimwishlist:item=1719687748&perks=981914802,3796465595,424370782,1439600632
+dimwishlist:item=1719687748&perks=981914802,3796465595,424370782,3708227201
+dimwishlist:item=1719687748&perks=981914802,3796465595,424370782,3977735242
+dimwishlist:item=1719687748&perks=981914802,3796465595,424370782,2282937672
+dimwishlist:item=1719687748&perks=981914802,3796465595,424370782,781192741
+dimwishlist:item=1719687748&perks=981914802,3796465595,424370782,406461158
+dimwishlist:item=1719687748&perks=981914802,3796465595,461595545,1439600632
+dimwishlist:item=1719687748&perks=981914802,3796465595,461595545,3708227201
+dimwishlist:item=1719687748&perks=981914802,3796465595,461595545,3977735242
+dimwishlist:item=1719687748&perks=981914802,3796465595,461595545,2282937672
+dimwishlist:item=1719687748&perks=981914802,3796465595,461595545,781192741
+dimwishlist:item=1719687748&perks=981914802,3796465595,461595545,406461158
+dimwishlist:item=1719687748&perks=3525010810,3796465595,2284787283,1439600632
+dimwishlist:item=1719687748&perks=3525010810,3796465595,2284787283,3708227201
+dimwishlist:item=1719687748&perks=3525010810,3796465595,2284787283,3977735242
+dimwishlist:item=1719687748&perks=3525010810,3796465595,2284787283,2282937672
+dimwishlist:item=1719687748&perks=3525010810,3796465595,2284787283,781192741
+dimwishlist:item=1719687748&perks=3525010810,3796465595,2284787283,406461158
+dimwishlist:item=1719687748&perks=3525010810,3796465595,1523832109,1439600632
+dimwishlist:item=1719687748&perks=3525010810,3796465595,1523832109,3708227201
+dimwishlist:item=1719687748&perks=3525010810,3796465595,1523832109,3977735242
+dimwishlist:item=1719687748&perks=3525010810,3796465595,1523832109,2282937672
+dimwishlist:item=1719687748&perks=3525010810,3796465595,1523832109,781192741
+dimwishlist:item=1719687748&perks=3525010810,3796465595,1523832109,406461158
+dimwishlist:item=1719687748&perks=3525010810,3796465595,968510818,1439600632
+dimwishlist:item=1719687748&perks=3525010810,3796465595,968510818,3708227201
+dimwishlist:item=1719687748&perks=3525010810,3796465595,968510818,3977735242
+dimwishlist:item=1719687748&perks=3525010810,3796465595,968510818,2282937672
+dimwishlist:item=1719687748&perks=3525010810,3796465595,968510818,781192741
+dimwishlist:item=1719687748&perks=3525010810,3796465595,968510818,406461158
+dimwishlist:item=1719687748&perks=3525010810,3796465595,3563868667,1439600632
+dimwishlist:item=1719687748&perks=3525010810,3796465595,3563868667,3708227201
+dimwishlist:item=1719687748&perks=3525010810,3796465595,3563868667,3977735242
+dimwishlist:item=1719687748&perks=3525010810,3796465595,3563868667,2282937672
+dimwishlist:item=1719687748&perks=3525010810,3796465595,3563868667,781192741
+dimwishlist:item=1719687748&perks=3525010810,3796465595,3563868667,406461158
+dimwishlist:item=1719687748&perks=3525010810,3796465595,424370782,1439600632
+dimwishlist:item=1719687748&perks=3525010810,3796465595,424370782,3708227201
+dimwishlist:item=1719687748&perks=3525010810,3796465595,424370782,3977735242
+dimwishlist:item=1719687748&perks=3525010810,3796465595,424370782,2282937672
+dimwishlist:item=1719687748&perks=3525010810,3796465595,424370782,781192741
+dimwishlist:item=1719687748&perks=3525010810,3796465595,424370782,406461158
+dimwishlist:item=1719687748&perks=3525010810,3796465595,461595545,1439600632
+dimwishlist:item=1719687748&perks=3525010810,3796465595,461595545,3708227201
+dimwishlist:item=1719687748&perks=3525010810,3796465595,461595545,3977735242
+dimwishlist:item=1719687748&perks=3525010810,3796465595,461595545,2282937672
+dimwishlist:item=1719687748&perks=3525010810,3796465595,461595545,781192741
+dimwishlist:item=1719687748&perks=3525010810,3796465595,461595545,406461158
+
+
+// Crux Termination IV - PVE (pve)
+//notes: MW: Velocity; DPS option but not the greatest. Optimal would be Envious and Bipod, but Surrounded grants an absurd 40% increase in damage, this perk even tops S-Tier picks like Bait and Switch. tags:pve
+dimwishlist:item=1719687748&perks=968510818,3977735242
+dimwishlist:item=1719687748&perks=968510818,1439600632
+dimwishlist:item=1719687748&perks=968510818,2282937672
+dimwishlist:item=1719687748&perks=968510818,406461158
+dimwishlist:item=1719687748&perks=968510818,3708227201
+dimwishlist:item=1719687748&perks=968510818,781192741
+dimwishlist:item=1719687748&perks=1523832109,3977735242
+dimwishlist:item=1719687748&perks=1523832109,1439600632
+dimwishlist:item=1719687748&perks=1523832109,2282937672
+dimwishlist:item=1719687748&perks=1523832109,406461158
+dimwishlist:item=1719687748&perks=1523832109,3708227201
+dimwishlist:item=1719687748&perks=1523832109,781192741
+dimwishlist:item=1719687748&perks=424370782,3977735242
+dimwishlist:item=1719687748&perks=424370782,1439600632
+dimwishlist:item=1719687748&perks=424370782,2282937672
+dimwishlist:item=1719687748&perks=424370782,406461158
+dimwishlist:item=1719687748&perks=424370782,3708227201
+dimwishlist:item=1719687748&perks=424370782,781192741
+dimwishlist:item=1719687748&perks=461595545,3977735242
+dimwishlist:item=1719687748&perks=461595545,1439600632
+dimwishlist:item=1719687748&perks=461595545,2282937672
+dimwishlist:item=1719687748&perks=461595545,406461158
+dimwishlist:item=1719687748&perks=461595545,3708227201
+dimwishlist:item=1719687748&perks=461595545,781192741
+dimwishlist:item=1719687748&perks=2284787283,3977735242
+dimwishlist:item=1719687748&perks=2284787283,1439600632
+dimwishlist:item=1719687748&perks=2284787283,2282937672
+dimwishlist:item=1719687748&perks=2284787283,406461158
+dimwishlist:item=1719687748&perks=2284787283,3708227201
+dimwishlist:item=1719687748&perks=2284787283,781192741
+dimwishlist:item=1719687748&perks=3563868667,3977735242
+dimwishlist:item=1719687748&perks=3563868667,1439600632
+dimwishlist:item=1719687748&perks=3563868667,2282937672
+dimwishlist:item=1719687748&perks=3563868667,406461158
+dimwishlist:item=1719687748&perks=3563868667,3708227201
+dimwishlist:item=1719687748&perks=3563868667,781192741
 
 
 // No Hesitation - PVE (god-pve,pve)
@@ -1953,6 +2079,11 @@ dimwishlist:item=2350330520&perks=3198323828,1015611457
 dimwishlist:item=2350330520&perks=3198323828,2923251173
 
 
+// Witherhoard - PVE and PVP (god-pve,god-pvp)
+//notes: tags:god-pve,god-pvp
+dimwishlist:item=2357297366&perks=3809316345,1996142143,745965939,3465198467
+
+
 // Blast Furnace - PVE (god-pve)
 //notes: MW: Handling Pulses in PvE have seen highs and lows, but Blast Furnace might be able to break the mold they have been in for quite some time. Its amazing base stats means not much needs to be kicked up, but its handling is objectively sub-par, so we’ll use Fluted Barrel to kick it up a notch. Pair it with Flared Magwell for a reload speed buff, as well as a slight stability bump. For perk 1, it’s a “no contest” for Kinetic Tremors. Shoot to Loot, while nice to have, feels like a waste when a free damage perk is in the same slot. Since Blast Furnace fires 4 shots a burst, it’ll only take 3 bursts to activate it, as opposed to 4 on all others. Perk 2 has a lot of good in it, but it’s a toss-up between Desperate Measures and One-For-All. Desperate Measures requires a kill with the weapon or abilities to activate, whereas One-For-All doesn’t, and will also activate from Kinetic Tremors. tags:god-pve
 dimwishlist:item=2372514508&perks=1840239774,1087426260,3891536761,2109543898
@@ -2730,6 +2861,11 @@ dimwishlist:item=3211624072&perks=2717805783,1890422124
 dimwishlist:item=3211624072&perks=2717805783,1523649716
 
 
+// Izanagi's Burden - PVE (god-pve)
+//notes: Advanced damage strategy tags:god-pve
+dimwishlist:item=3211806999&perks=3661387068,3142289711,2866798147,3465198467
+
+
 // Laser Painter - PVE (god-pve)
 //notes: MW: Range;  tags:god-pve
 dimwishlist:item=3221722018&perks=839105230,689005463,247725512,2896038713,3988215619
@@ -3488,6 +3624,11 @@ dimwishlist:item=4050645223&perks=3525010810,2822142346,3643424744,1546637391
 //notes: MW: Handling; DPS;  tags:pve
 dimwishlist:item=4050645223&perks=3643424744,1275731761
 dimwishlist:item=4050645223&perks=3643424744,1546637391
+
+
+// Khvostov 7G-0X - All The Things (god-pve,god-pvp)
+//notes: Just get it. tags:god-pve,god-pvp
+dimwishlist:item=4129629253&perks=3250034553,1431678320,2135276011,3700496672,3465198467
 
 
 // Faith-Keeper - PVE (god-pve)
