@@ -1,6 +1,22 @@
 title:b1nary0mega's Wishlist
 description:Personally curated list of [Demi]God rolls. Mostly sourced from Blueberries.gg and tested in-game.
 
+// Temptation's Hook - PVE (god-pve)
+//notes: MW: Impact and throw on a Backup Mag or Quick Access Sling. tags:god-pve
+dimwishlist:item=35794111&perks=3666208348,52780822,2590710093,3913600130
+dimwishlist:item=35794111&perks=3666208348,52780822,2590710093,1546637391
+dimwishlist:item=35794111&perks=3666208348,52780822,1749209109,3913600130
+dimwishlist:item=35794111&perks=3666208348,52780822,1749209109,1546637391
+
+
+// Temptation's Hook - PVE (pve)
+//notes: MW: Impact and throw on a Backup Mag or Quick Access Sling. tags:pve
+dimwishlist:item=35794111&perks=2590710093,3913600130
+dimwishlist:item=35794111&perks=2590710093,1546637391
+dimwishlist:item=35794111&perks=1749209109,3913600130
+dimwishlist:item=35794111&perks=1749209109,1546637391
+
+
 // Controlling Vision - PVE (god-pve)
 //notes: MW: Handling; Controlling Vision is considered a well-rounded sidearm with reliable and sturdy handling. It has a good perk pool, including Rampage, which can increase damage after each kill, making it a viable option in PvE activities. tags:god-pve
 dimwishlist:item=423343404&perks=839105230,1431678320,1195158366,3708227201
