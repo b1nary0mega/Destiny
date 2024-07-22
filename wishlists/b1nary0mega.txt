@@ -537,6 +537,38 @@ dimwishlist:item=839786290&perks=968510818,3078487919
 dimwishlist:item=839786290&perks=3977735242,1275731761
 
 
+// Marsilion-C - PVE (god-pve)
+//notes: MW: Velocity; This gun is very strong in PvE. The perks this weapon has can make for some interesting combinations. The main thing that separates this Grenade Launcher from the rest is the origin trait Hakke Breach Armaments: This weapon deals increased damage against vehicles, turrets, barricades, and Stasis crystals. A majority of the bosses in Destiny 2 count as Vehicles which makes this Grenade Launcher do extra damage to them passively. tags:god-pve
+dimwishlist:item=867154247&perks=981914802,3301904089,2869569095,3194351027
+dimwishlist:item=867154247&perks=981914802,3301904089,2869569095,2275087323
+dimwishlist:item=867154247&perks=981914802,3301904089,2308090567,3194351027
+dimwishlist:item=867154247&perks=981914802,3301904089,2308090567,2275087323
+
+
+// Marsilion-C - PVE2 (god-pve)
+//notes: MW: Velocity; This gun is very strong in PvE. The perks this weapon has can make for some interesting combinations. The main thing that separates this Grenade Launcher from the rest is the origin trait Hakke Breach Armaments: This weapon deals increased damage against vehicles, turrets, barricades, and Stasis crystals. A majority of the bosses in Destiny 2 count as Vehicles which makes this Grenade Launcher do extra damage to them passively. tags:god-pve
+dimwishlist:item=867154247&perks=981914802,3301904089,968510818,3751912585
+dimwishlist:item=867154247&perks=981914802,3301904089,968510818,331667533
+dimwishlist:item=867154247&perks=981914802,3301904089,424370782,3751912585
+dimwishlist:item=867154247&perks=981914802,3301904089,424370782,331667533
+
+
+// Marsilion-C - PVE (pve)
+//notes: MW: Velocity; This gun is very strong in PvE. The perks this weapon has can make for some interesting combinations. The main thing that separates this Grenade Launcher from the rest is the origin trait Hakke Breach Armaments: This weapon deals increased damage against vehicles, turrets, barricades, and Stasis crystals. A majority of the bosses in Destiny 2 count as Vehicles which makes this Grenade Launcher do extra damage to them passively. tags:pve
+dimwishlist:item=867154247&perks=2869569095,3194351027
+dimwishlist:item=867154247&perks=2869569095,2275087323
+dimwishlist:item=867154247&perks=2308090567,3194351027
+dimwishlist:item=867154247&perks=2308090567,2275087323
+
+
+// Marsilion-C - PVE2 (pve)
+//notes: MW: Velocity; This gun is very strong in PvE. The perks this weapon has can make for some interesting combinations. The main thing that separates this Grenade Launcher from the rest is the origin trait Hakke Breach Armaments: This weapon deals increased damage against vehicles, turrets, barricades, and Stasis crystals. A majority of the bosses in Destiny 2 count as Vehicles which makes this Grenade Launcher do extra damage to them passively. tags:pve
+dimwishlist:item=867154247&perks=968510818,3751912585
+dimwishlist:item=867154247&perks=968510818,331667533
+dimwishlist:item=867154247&perks=424370782,3751912585
+dimwishlist:item=867154247&perks=424370782,331667533
+
+
 // Cataclysmic - PVE (god-pve)
 //notes: MW: Handling; DPS; Handling is necessary on this weapon as you must swap between Cataclysmic and another gun to activate Bait and Switch, meaning Fluted Barrel and a Handling Masterwork are preferred. Enhanced Battery is essential as it allows for another activation of Fourth Time’s the Charm, effectively granting ten shots in the magazine. Fourth Time’s the Charm is excellent for the weapon’s ammo economy and provides around 12 additional shots overall, which is incredible for the weapon’s total damage. Bait and Switch is the apparent choice for perk 2, as it provides a remarkable damage bonus (35%, dropping to 30% with some nerfs). tags:god-pve
 dimwishlist:item=999767358&perks=1840239774,2680121939,1354429876,3078487919
