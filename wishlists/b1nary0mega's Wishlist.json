@@ -5814,6 +5814,696 @@
             "tags": [
                 "PVE"
             ]
+        },
+        {
+            "description": "MW: Stability; Red death is better option; Handling and Reload Speed are very important on Corrasion and in PvE in general, meaning that Fluted Barrel and Flared Magwell are the best bets for our Barrel and Magazine slots. A Stability masterwork rounds out the weapon as Enlightened Action provides both Handling and Reload Speed.In perk slot one, Enlightened Action is the clear winner as it makes this weapon feel much nicer to use due to the bump in Reload Speed and Handling.",
+            "hash": 2126178511,
+            "name": "PVE",
+            "plugs": [
+                [
+                    1840239774
+                ],
+                [
+                    3230963543
+                ],
+                [
+                    3828510309,
+                    1771736209
+                ],
+                [
+                    2173046394,
+                    4104185692,
+                    1720528630,
+                    3007133316
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "MW: Stability; Red death is better option; Handling and Reload Speed are very important on Corrasion and in PvE in general, meaning that Fluted Barrel and Flared Magwell are the best bets for our Barrel and Magazine slots. A Stability masterwork rounds out the weapon as Enlightened Action provides both Handling and Reload Speed.In perk slot one, Enlightened Action is the clear winner as it makes this weapon feel much nicer to use due to the bump in Reload Speed and Handling.",
+            "hash": 2126178511,
+            "name": "PVE",
+            "plugs": [
+                [
+                    3828510309,
+                    1771736209
+                ],
+                [
+                    2173046394,
+                    4104185692,
+                    1720528630,
+                    3007133316
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "MW: Stability or Handling; Stability is important for a weapon like this, so Smallbore, Steady Rounds, and Stability masterwork are all valuable choices. However, some may prefer a Handling masterwork for more fluidity on the weapon. Perpetual Motion is the best pick for perk slot one, as it provides a bump to all stats, but High-Impact Reserves could make the weapon more forgiving in terms of body-shot time to kill if you miss a few shots. Eye of the Storm is the best perk in slot two, as it drastically improves the dueling potential of the weapon, making it much more consistent.",
+            "hash": 2126178511,
+            "name": "PVP",
+            "plugs": [
+                [
+                    1482024992
+                ],
+                [
+                    3177308360
+                ],
+                [
+                    2213355989,
+                    1428297954,
+                    2014892510,
+                    2002547233
+                ],
+                [
+                    699525795,
+                    3719974635
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "MW: Stability or Handling; Stability is important for a weapon like this, so Smallbore, Steady Rounds, and Stability masterwork are all valuable choices. However, some may prefer a Handling masterwork for more fluidity on the weapon. Perpetual Motion is the best pick for perk slot one, as it provides a bump to all stats, but High-Impact Reserves could make the weapon more forgiving in terms of body-shot time to kill if you miss a few shots. Eye of the Storm is the best perk in slot two, as it drastically improves the dueling potential of the weapon, making it much more consistent.",
+            "hash": 2126178511,
+            "name": "PVP",
+            "plugs": [
+                [
+                    2213355989,
+                    1428297954,
+                    2014892510,
+                    2002547233
+                ],
+                [
+                    699525795,
+                    3719974635
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "MW: Range; Heliocentric QSc has tons of options for PvE, making it easier to find a good roll than a bad one. Either way, let’s take a look at the best combinations the weapon has to offer. We’ll start with Smallbore, Flared Magwell, and a range masterwork to gain a nice mix of extra range, stability, and reload speed. From there, Demolitionist and Heal Clip are both outstanding first column picks, even if you don’t have a specific build in mind. As for the final column of perks, Frenzy is great for general potency if you’re just looking for something to casually demolish enemies with. Incandescent is the other stand-out here, allowing for potent synergy with Solar builds.",
+            "hash": 3998080529,
+            "name": "PVE",
+            "plugs": [
+                [
+                    1482024992
+                ],
+                [
+                    3230963543
+                ],
+                [
+                    3017780555,
+                    3523296417,
+                    4223976499,
+                    1906147653
+                ],
+                [
+                    4293542123,
+                    4104185692,
+                    2675184851,
+                    3007133316
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "MW: Range; Heliocentric QSc has tons of options for PvE, making it easier to find a good roll than a bad one. Either way, let’s take a look at the best combinations the weapon has to offer. We’ll start with Smallbore, Flared Magwell, and a range masterwork to gain a nice mix of extra range, stability, and reload speed. From there, Demolitionist and Heal Clip are both outstanding first column picks, even if you don’t have a specific build in mind. As for the final column of perks, Frenzy is great for general potency if you’re just looking for something to casually demolish enemies with. Incandescent is the other stand-out here, allowing for potent synergy with Solar builds.",
+            "hash": 3998080529,
+            "name": "PVE",
+            "plugs": [
+                [
+                    3017780555,
+                    3523296417,
+                    4223976499,
+                    1906147653
+                ],
+                [
+                    4293542123,
+                    4104185692,
+                    2675184851,
+                    3007133316
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "MW: Range; While Heliocentric QSc is extremely potent in PvE, its true claim to fame is its general consistency and potency within The Crucible. We’ll start by seeking as much range as possible through Hammer-Forged Rifling, Accurized Rounds, and a range masterwork. From there, Moving Target is our top pick for the first column perk, although you can’t go wrong with any of the perks here. As for the final column, Kill Clip is our personal choice due to its general consistency and synergy with Heal Clip (arguably the second-best perk in column one). However, many also swear by Precision Instrument, which is absurdly strong but does require you to be more accurate with your shots.",
+            "hash": 3998080529,
+            "name": "PVP",
+            "plugs": [
+                [
+                    3250034553
+                ],
+                [
+                    3142289711
+                ],
+                [
+                    3017780555,
+                    588594999,
+                    4223976499,
+                    2717805783
+                ],
+                [
+                    1015611457,
+                    555281244,
+                    2923251173,
+                    332733060
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "MW: Range; While Heliocentric QSc is extremely potent in PvE, its true claim to fame is its general consistency and potency within The Crucible. We’ll start by seeking as much range as possible through Hammer-Forged Rifling, Accurized Rounds, and a range masterwork. From there, Moving Target is our top pick for the first column perk, although you can’t go wrong with any of the perks here. As for the final column, Kill Clip is our personal choice due to its general consistency and synergy with Heal Clip (arguably the second-best perk in column one). However, many also swear by Precision Instrument, which is absurdly strong but does require you to be more accurate with your shots.",
+            "hash": 3998080529,
+            "name": "PVP",
+            "plugs": [
+                [
+                    3017780555,
+                    588594999,
+                    4223976499,
+                    2717805783
+                ],
+                [
+                    1015611457,
+                    555281244,
+                    2923251173,
+                    332733060
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "MW: Impact and throw on a Backup Mag or Quick Access Sling.",
+            "hash": 35794111,
+            "name": "PVE",
+            "plugs": [
+                [
+                    3666208348
+                ],
+                [
+                    52780822
+                ],
+                [
+                    2590710093,
+                    1749209109
+                ],
+                [
+                    3913600130,
+                    1546637391
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "MW: Impact and throw on a Backup Mag or Quick Access Sling.",
+            "hash": 35794111,
+            "name": "PVE",
+            "plugs": [
+                [
+                    2590710093,
+                    1749209109
+                ],
+                [
+                    3913600130,
+                    1546637391
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "MW: Velocity; This gun is very strong in PvE. The perks this weapon has can make for some interesting combinations. The main thing that separates this Grenade Launcher from the rest is the origin trait Hakke Breach Armaments: This weapon deals increased damage against vehicles, turrets, barricades, and Stasis crystals. A majority of the bosses in Destiny 2 count as Vehicles which makes this Grenade Launcher do extra damage to them passively.",
+            "hash": 867154247,
+            "name": "PVE",
+            "plugs": [
+                [
+                    981914802
+                ],
+                [
+                    3301904089
+                ],
+                [
+                    2869569095,
+                    2308090567
+                ],
+                [
+                    3194351027,
+                    2275087323
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "MW: Velocity; This gun is very strong in PvE. The perks this weapon has can make for some interesting combinations. The main thing that separates this Grenade Launcher from the rest is the origin trait Hakke Breach Armaments: This weapon deals increased damage against vehicles, turrets, barricades, and Stasis crystals. A majority of the bosses in Destiny 2 count as Vehicles which makes this Grenade Launcher do extra damage to them passively.",
+            "hash": 867154247,
+            "name": "PVE2",
+            "plugs": [
+                [
+                    981914802
+                ],
+                [
+                    3301904089
+                ],
+                [
+                    968510818,
+                    424370782
+                ],
+                [
+                    3751912585,
+                    331667533
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "MW: Velocity; This gun is very strong in PvE. The perks this weapon has can make for some interesting combinations. The main thing that separates this Grenade Launcher from the rest is the origin trait Hakke Breach Armaments: This weapon deals increased damage against vehicles, turrets, barricades, and Stasis crystals. A majority of the bosses in Destiny 2 count as Vehicles which makes this Grenade Launcher do extra damage to them passively.",
+            "hash": 867154247,
+            "name": "PVE",
+            "plugs": [
+                [
+                    2869569095,
+                    2308090567
+                ],
+                [
+                    3194351027,
+                    2275087323
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "MW: Velocity; This gun is very strong in PvE. The perks this weapon has can make for some interesting combinations. The main thing that separates this Grenade Launcher from the rest is the origin trait Hakke Breach Armaments: This weapon deals increased damage against vehicles, turrets, barricades, and Stasis crystals. A majority of the bosses in Destiny 2 count as Vehicles which makes this Grenade Launcher do extra damage to them passively.",
+            "hash": 867154247,
+            "name": "PVE2",
+            "plugs": [
+                [
+                    968510818,
+                    424370782
+                ],
+                [
+                    3751912585,
+                    331667533
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "MW: Reload or Handling: Mod: Quick Access; It’s no secret PvE is where Perfect Paradox will do its best work. Its perks and frame are most suited to getting into the thick of battle and causing some massive damage, just like Saint-14 would want from his favorite weapon. Start with Barrel Shroud to kick this god roll off. The main loop of Perfect Paradox will be to get in the faces of enemies while quickly switching to this Shotgun for damage so the Stability to keep shots straight and Handling to keep that swift feel are essential. Apply Tactical Mag for another round of Stability and a bonus to Reload Speed which will pair perfectly with the Dual Loader perk to ensure the Magazine stays full. The first main perk is Dual Loader, which puts two shots in the Magazine at a time when reloading. This ensures Perfect Paradox can be refilled to capacity quickly, leaving you ready to unload upon the next target. Finish off with One-Two Punch, an exceptional perk that tops off the aggressive playstyle this god roll requires. With so many powered melee options, the best example being through the Prismatic subclass, landing every pellet in a shot can open up major damage potential to tear through some of the toughest opponents.",
+            "hash": 1298672084,
+            "name": "PVE",
+            "plugs": [
+                [
+                    1300023272
+                ],
+                [
+                    106909392
+                ],
+                [
+                    25606670,
+                    3143051906
+                ],
+                [
+                    2679249093,
+                    788178929
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "MW: Reload or Handling: Mod: Quick Access; It’s no secret PvE is where Perfect Paradox will do its best work. Its perks and frame are most suited to getting into the thick of battle and causing some massive damage, just like Saint-14 would want from his favorite weapon. Start with Barrel Shroud to kick this god roll off. The main loop of Perfect Paradox will be to get in the faces of enemies while quickly switching to this Shotgun for damage so the Stability to keep shots straight and Handling to keep that swift feel are essential. Apply Tactical Mag for another round of Stability and a bonus to Reload Speed which will pair perfectly with the Dual Loader perk to ensure the Magazine stays full. The first main perk is Dual Loader, which puts two shots in the Magazine at a time when reloading. This ensures Perfect Paradox can be refilled to capacity quickly, leaving you ready to unload upon the next target. Finish off with One-Two Punch, an exceptional perk that tops off the aggressive playstyle this god roll requires. With so many powered melee options, the best example being through the Prismatic subclass, landing every pellet in a shot can open up major damage potential to tear through some of the toughest opponents.",
+            "hash": 1298672084,
+            "name": "PVE",
+            "plugs": [
+                [
+                    25606670,
+                    3143051906
+                ],
+                [
+                    2679249093,
+                    788178929
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "MW: Range; Mod: Quick Access; Perfect Paradox may come across as a PvE weapon but it does hold some of the best perks to take into The Crucible and this god roll breaks down how to set it up to dominate the arena. Lethality at distance is essential for a PvP Shotgun so the start point combines Smallbore in the Barrel and Accurized Rounds for the Magazine. The instant +17 to Range improves a quite low base stat. Stability adds a bonus to weapon control which is handy on a Rapid-Fire Frame as the quick shots can easily bounce away from the target. The main perks go further into the Range stat and help boost accuracy starting with Slideshot. When hunting down an opponent in The Crucible, remembering to slide before engaging is key to getting major advantages. The added Stability helps control follow-up shots if the first doesn’t grab an instant kill. Finish off with Opening Shot with the main pull being the accuracy bonuses and a major boost to Range. This god roll combines each perk to devastating effect allowing this Shotgun to fire shots quickly and with deadly accuracy to Guardians who normally would be out of its usual effective range.",
+            "hash": 1298672084,
+            "name": "PVP",
+            "plugs": [
+                [
+                    1482024992
+                ],
+                [
+                    3142289711
+                ],
+                [
+                    3161816588,
+                    191144788
+                ],
+                [
+                    47981717,
+                    1370847713
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "MW: Range; Mod: Quick Access; Perfect Paradox may come across as a PvE weapon but it does hold some of the best perks to take into The Crucible and this god roll breaks down how to set it up to dominate the arena. Lethality at distance is essential for a PvP Shotgun so the start point combines Smallbore in the Barrel and Accurized Rounds for the Magazine. The instant +17 to Range improves a quite low base stat. Stability adds a bonus to weapon control which is handy on a Rapid-Fire Frame as the quick shots can easily bounce away from the target. The main perks go further into the Range stat and help boost accuracy starting with Slideshot. When hunting down an opponent in The Crucible, remembering to slide before engaging is key to getting major advantages. The added Stability helps control follow-up shots if the first doesn’t grab an instant kill. Finish off with Opening Shot with the main pull being the accuracy bonuses and a major boost to Range. This god roll combines each perk to devastating effect allowing this Shotgun to fire shots quickly and with deadly accuracy to Guardians who normally would be out of its usual effective range.",
+            "hash": 1298672084,
+            "name": "PVP",
+            "plugs": [
+                [
+                    3161816588,
+                    191144788
+                ],
+                [
+                    47981717,
+                    1370847713
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "MW: StabilityWe’ll begin with Fluted Barrel, Appended Mag, and a stability masterwork for increased handling, stability, and magazine capacity. From there, Enlightened Action or Envious Assassin paired with Incandescent is our pick for general play, even if you aren’t using a Solar build (Incandescent/Scorch is a potent enough debuff on its own). However, if you’re looking for a more damage-centric option, One for All is solid as well, especially when combined with Stats for All in the first column. Recommended Loadout: Midnight Coup, Still Hunt, Speleologist.",
+            "hash": 412251536,
+            "name": "PVE",
+            "plugs": [
+                [
+                    1840239774
+                ],
+                [
+                    1087426260
+                ],
+                [
+                    3828510309,
+                    1771736209,
+                    968510818,
+                    424370782
+                ],
+                [
+                    4293542123,
+                    4049631843,
+                    2675184851,
+                    859780267
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "MW: StabilityWe’ll begin with Fluted Barrel, Appended Mag, and a stability masterwork for increased handling, stability, and magazine capacity. From there, Enlightened Action or Envious Assassin paired with Incandescent is our pick for general play, even if you aren’t using a Solar build (Incandescent/Scorch is a potent enough debuff on its own). However, if you’re looking for a more damage-centric option, One for All is solid as well, especially when combined with Stats for All in the first column. Recommended Loadout: Midnight Coup, Still Hunt, Speleologist.",
+            "hash": 412251536,
+            "name": "PVE",
+            "plugs": [
+                [
+                    3828510309,
+                    1771736209,
+                    968510818,
+                    424370782
+                ],
+                [
+                    4293542123,
+                    4049631843,
+                    2675184851,
+                    859780267
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "MW: Stability; For The Crucible, we’ll start by maximizing stability with Polygonal Rifling, Steady Rounds, and a stability masterwork. For the same reason, we’ll go with Slideways, although Firmly Planted is a solid substitute if it fits your playstyle more. As for the final column, we’ll opt for Target Lock for the increased damage, although Incandescent can prove useful in 6v6 Control if enemies are grouped up.",
+            "hash": 412251536,
+            "name": "PVP",
+            "plugs": [
+                [
+                    1392496348
+                ],
+                [
+                    3177308360
+                ],
+                [
+                    2039302152,
+                    280464955,
+                    2396422520,
+                    3920370755
+                ],
+                [
+                    365154968,
+                    4293542123,
+                    2939589096,
+                    2675184851
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "MW: Stability; For The Crucible, we’ll start by maximizing stability with Polygonal Rifling, Steady Rounds, and a stability masterwork. For the same reason, we’ll go with Slideways, although Firmly Planted is a solid substitute if it fits your playstyle more. As for the final column, we’ll opt for Target Lock for the increased damage, although Incandescent can prove useful in 6v6 Control if enemies are grouped up.",
+            "hash": 412251536,
+            "name": "PVP",
+            "plugs": [
+                [
+                    2039302152,
+                    280464955,
+                    2396422520,
+                    3920370755
+                ],
+                [
+                    365154968,
+                    4293542123,
+                    2939589096,
+                    2675184851
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "MW: Reload; We’ll start with Fluted Barrel, Enhanced Battery, and a reload speed masterwork for a solid sweep of increased stats. From there, Shoot to Loot’s general utility trumps other options in the third column, save for Repulsor Brace if you’re rocking a Void build. The final column features One for All, which is the strongest pick for general gameplay by far. However, Demolitionist and Destabilizing Rounds are worth mentioning if you’re looking for buildcrafting options instead. Recommended Loadout: The Mountaintop, Chronophage, Microcosm.",
+            "hash": 1886840007,
+            "name": "PVE",
+            "plugs": [
+                [
+                    1840239774
+                ],
+                [
+                    2680121939
+                ],
+                [
+                    3700496672,
+                    2840833776,
+                    776531651,
+                    2541826827
+                ],
+                [
+                    4049631843,
+                    3523296417,
+                    859780267,
+                    1906147653
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "MW: Reload; We’ll start with Fluted Barrel, Enhanced Battery, and a reload speed masterwork for a solid sweep of increased stats. From there, Shoot to Loot’s general utility trumps other options in the third column, save for Repulsor Brace if you’re rocking a Void build. The final column features One for All, which is the strongest pick for general gameplay by far. However, Demolitionist and Destabilizing Rounds are worth mentioning if you’re looking for buildcrafting options instead. Recommended Loadout: The Mountaintop, Chronophage, Microcosm.",
+            "hash": 1886840007,
+            "name": "PVE",
+            "plugs": [
+                [
+                    3700496672,
+                    2840833776,
+                    776531651,
+                    2541826827
+                ],
+                [
+                    4049631843,
+                    3523296417,
+                    859780267,
+                    1906147653
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "MW: Range; In PvP, our main goal is to simply increase as many stats as we can. As a result, we’ll go with Smallbore, Tactical Mag, Elemental Capacitor, and a range masterwork. For our final perk in the fourth column, we’ll opt for High Ground, granting an easy (although situational) increase in damage. Desperate Measures can also be used here if you prefer.",
+            "hash": 1886840007,
+            "name": "PVP",
+            "plugs": [
+                [
+                    1482024992
+                ],
+                [
+                    732557052
+                ],
+                [
+                    3511092054,
+                    711234314
+                ],
+                [
+                    2109543898,
+                    2319119708,
+                    2799030358,
+                    2140591236
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "MW: Range; In PvP, our main goal is to simply increase as many stats as we can. As a result, we’ll go with Smallbore, Tactical Mag, Elemental Capacitor, and a range masterwork. For our final perk in the fourth column, we’ll opt for High Ground, granting an easy (although situational) increase in damage. Desperate Measures can also be used here if you prefer.",
+            "hash": 1886840007,
+            "name": "PVP",
+            "plugs": [
+                [
+                    3511092054,
+                    711234314
+                ],
+                [
+                    2109543898,
+                    2319119708,
+                    2799030358,
+                    2140591236
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "MW: Velocity; We’ll start by maxing out Martyr’s velocity stat with Quick Launch, High-Velocity Rounds, and a velocity masterwork. This also gives added handling, which helps you quickly swap between this weapon and your primary or heavy. Heal Clip is the star of the third column, which synergizes perfectly with the weapon’s single-shot magazine. Demolitionist is also worth mentioning, pairing well with builds and removing the need to think about your grenade recharge rate. As for the final column, Incandescent is unique to this weapon and proves extremely useful for both general ad clear and Solar build synergy. Recommended Loadout: Khvostov 7G-0X, Martyr’s Retribution, Apex Predator.",
+            "hash": 2584830733,
+            "name": "PVE",
+            "plugs": [
+                [
+                    3525010810
+                ],
+                [
+                    2822142346
+                ],
+                [
+                    3523296417,
+                    3017780555,
+                    1906147653,
+                    4223976499
+                ],
+                [
+                    4293542123,
+                    2675184851
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "MW: Velocity; We’ll start by maxing out Martyr’s velocity stat with Quick Launch, High-Velocity Rounds, and a velocity masterwork. This also gives added handling, which helps you quickly swap between this weapon and your primary or heavy. Heal Clip is the star of the third column, which synergizes perfectly with the weapon’s single-shot magazine. Demolitionist is also worth mentioning, pairing well with builds and removing the need to think about your grenade recharge rate. As for the final column, Incandescent is unique to this weapon and proves extremely useful for both general ad clear and Solar build synergy. Recommended Loadout: Khvostov 7G-0X, Martyr’s Retribution, Apex Predator.",
+            "hash": 2584830733,
+            "name": "PVE",
+            "plugs": [
+                [
+                    3523296417,
+                    3017780555,
+                    1906147653,
+                    4223976499
+                ],
+                [
+                    4293542123,
+                    2675184851
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "MW: Velocity; As for The Crucible, we’ll once again begin with Quick Launch, High-Velocity Rounds, and a velocity masterwork to max out our velocity stat. From there, nearly every main perk featured on this weapon isn’t built for PvP, so no matter what you run, Martyr’s simply won’t be efficient in The Crucible’s sandbox. Regardless, we’ll choose Heal Clip, and either Desperate Measures or Vorpal Weapon for some added healing and bonus damage.",
+            "hash": 2584830733,
+            "name": "PVP",
+            "plugs": [
+                [
+                    3525010810
+                ],
+                [
+                    2822142346
+                ],
+                [
+                    3017780555,
+                    4223976499
+                ],
+                [
+                    2109543898,
+                    1546637391,
+                    2799030358,
+                    3418165135
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "MW: Velocity; As for The Crucible, we’ll once again begin with Quick Launch, High-Velocity Rounds, and a velocity masterwork to max out our velocity stat. From there, nearly every main perk featured on this weapon isn’t built for PvP, so no matter what you run, Martyr’s simply won’t be efficient in The Crucible’s sandbox. Regardless, we’ll choose Heal Clip, and either Desperate Measures or Vorpal Weapon for some added healing and bonus damage.",
+            "hash": 2584830733,
+            "name": "PVP",
+            "plugs": [
+                [
+                    3017780555,
+                    4223976499
+                ],
+                [
+                    2109543898,
+                    1546637391,
+                    2799030358,
+                    3418165135
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
         }
     ]
 }
