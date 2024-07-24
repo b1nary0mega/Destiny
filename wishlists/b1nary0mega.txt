@@ -17,6 +17,86 @@ dimwishlist:item=35794111&perks=1749209109,3913600130
 dimwishlist:item=35794111&perks=1749209109,1546637391
 
 
+// Speleologist - PVE (god-pve)
+//notes: MW: StabilityWe’ll begin with Fluted Barrel, Appended Mag, and a stability masterwork for increased handling, stability, and magazine capacity. From there, Enlightened Action or Envious Assassin paired with Incandescent is our pick for general play, even if you aren’t using a Solar build (Incandescent/Scorch is a potent enough debuff on its own). However, if you’re looking for a more damage-centric option, One for All is solid as well, especially when combined with Stats for All in the first column. Recommended Loadout: Midnight Coup, Still Hunt, Speleologist. tags:god-pve
+dimwishlist:item=412251536&perks=1840239774,1087426260,3828510309,4293542123
+dimwishlist:item=412251536&perks=1840239774,1087426260,3828510309,4049631843
+dimwishlist:item=412251536&perks=1840239774,1087426260,3828510309,2675184851
+dimwishlist:item=412251536&perks=1840239774,1087426260,3828510309,859780267
+dimwishlist:item=412251536&perks=1840239774,1087426260,1771736209,4293542123
+dimwishlist:item=412251536&perks=1840239774,1087426260,1771736209,4049631843
+dimwishlist:item=412251536&perks=1840239774,1087426260,1771736209,2675184851
+dimwishlist:item=412251536&perks=1840239774,1087426260,1771736209,859780267
+dimwishlist:item=412251536&perks=1840239774,1087426260,968510818,4293542123
+dimwishlist:item=412251536&perks=1840239774,1087426260,968510818,4049631843
+dimwishlist:item=412251536&perks=1840239774,1087426260,968510818,2675184851
+dimwishlist:item=412251536&perks=1840239774,1087426260,968510818,859780267
+dimwishlist:item=412251536&perks=1840239774,1087426260,424370782,4293542123
+dimwishlist:item=412251536&perks=1840239774,1087426260,424370782,4049631843
+dimwishlist:item=412251536&perks=1840239774,1087426260,424370782,2675184851
+dimwishlist:item=412251536&perks=1840239774,1087426260,424370782,859780267
+
+
+// Speleologist - PVP (god-pvp)
+//notes: MW: Stability; For The Crucible, we’ll start by maximizing stability with Polygonal Rifling, Steady Rounds, and a stability masterwork. For the same reason, we’ll go with Slideways, although Firmly Planted is a solid substitute if it fits your playstyle more. As for the final column, we’ll opt for Target Lock for the increased damage, although Incandescent can prove useful in 6v6 Control if enemies are grouped up. tags:god-pvp
+dimwishlist:item=412251536&perks=1392496348,3177308360,2039302152,365154968
+dimwishlist:item=412251536&perks=1392496348,3177308360,2039302152,4293542123
+dimwishlist:item=412251536&perks=1392496348,3177308360,2039302152,2939589096
+dimwishlist:item=412251536&perks=1392496348,3177308360,2039302152,2675184851
+dimwishlist:item=412251536&perks=1392496348,3177308360,280464955,365154968
+dimwishlist:item=412251536&perks=1392496348,3177308360,280464955,4293542123
+dimwishlist:item=412251536&perks=1392496348,3177308360,280464955,2939589096
+dimwishlist:item=412251536&perks=1392496348,3177308360,280464955,2675184851
+dimwishlist:item=412251536&perks=1392496348,3177308360,2396422520,365154968
+dimwishlist:item=412251536&perks=1392496348,3177308360,2396422520,4293542123
+dimwishlist:item=412251536&perks=1392496348,3177308360,2396422520,2939589096
+dimwishlist:item=412251536&perks=1392496348,3177308360,2396422520,2675184851
+dimwishlist:item=412251536&perks=1392496348,3177308360,3920370755,365154968
+dimwishlist:item=412251536&perks=1392496348,3177308360,3920370755,4293542123
+dimwishlist:item=412251536&perks=1392496348,3177308360,3920370755,2939589096
+dimwishlist:item=412251536&perks=1392496348,3177308360,3920370755,2675184851
+
+
+// Speleologist - PVE (pve)
+//notes: MW: StabilityWe’ll begin with Fluted Barrel, Appended Mag, and a stability masterwork for increased handling, stability, and magazine capacity. From there, Enlightened Action or Envious Assassin paired with Incandescent is our pick for general play, even if you aren’t using a Solar build (Incandescent/Scorch is a potent enough debuff on its own). However, if you’re looking for a more damage-centric option, One for All is solid as well, especially when combined with Stats for All in the first column. Recommended Loadout: Midnight Coup, Still Hunt, Speleologist. tags:pve
+dimwishlist:item=412251536&perks=3828510309,4293542123
+dimwishlist:item=412251536&perks=3828510309,4049631843
+dimwishlist:item=412251536&perks=3828510309,2675184851
+dimwishlist:item=412251536&perks=3828510309,859780267
+dimwishlist:item=412251536&perks=1771736209,4293542123
+dimwishlist:item=412251536&perks=1771736209,4049631843
+dimwishlist:item=412251536&perks=1771736209,2675184851
+dimwishlist:item=412251536&perks=1771736209,859780267
+dimwishlist:item=412251536&perks=968510818,4293542123
+dimwishlist:item=412251536&perks=968510818,4049631843
+dimwishlist:item=412251536&perks=968510818,2675184851
+dimwishlist:item=412251536&perks=968510818,859780267
+dimwishlist:item=412251536&perks=424370782,4293542123
+dimwishlist:item=412251536&perks=424370782,4049631843
+dimwishlist:item=412251536&perks=424370782,2675184851
+dimwishlist:item=412251536&perks=424370782,859780267
+
+
+// Speleologist - PVP (pvp)
+//notes: MW: Stability; For The Crucible, we’ll start by maximizing stability with Polygonal Rifling, Steady Rounds, and a stability masterwork. For the same reason, we’ll go with Slideways, although Firmly Planted is a solid substitute if it fits your playstyle more. As for the final column, we’ll opt for Target Lock for the increased damage, although Incandescent can prove useful in 6v6 Control if enemies are grouped up. tags:pvp
+dimwishlist:item=412251536&perks=2039302152,365154968
+dimwishlist:item=412251536&perks=2039302152,4293542123
+dimwishlist:item=412251536&perks=2039302152,2939589096
+dimwishlist:item=412251536&perks=2039302152,2675184851
+dimwishlist:item=412251536&perks=280464955,365154968
+dimwishlist:item=412251536&perks=280464955,4293542123
+dimwishlist:item=412251536&perks=280464955,2939589096
+dimwishlist:item=412251536&perks=280464955,2675184851
+dimwishlist:item=412251536&perks=2396422520,365154968
+dimwishlist:item=412251536&perks=2396422520,4293542123
+dimwishlist:item=412251536&perks=2396422520,2939589096
+dimwishlist:item=412251536&perks=2396422520,2675184851
+dimwishlist:item=412251536&perks=3920370755,365154968
+dimwishlist:item=412251536&perks=3920370755,4293542123
+dimwishlist:item=412251536&perks=3920370755,2939589096
+dimwishlist:item=412251536&perks=3920370755,2675184851
+
+
 // Controlling Vision - PVE (god-pve)
 //notes: MW: Handling; Controlling Vision is considered a well-rounded sidearm with reliable and sturdy handling. It has a good perk pool, including Rampage, which can increase damage after each kill, making it a viable option in PvE activities. tags:god-pve
 dimwishlist:item=423343404&perks=839105230,1431678320,1195158366,3708227201
@@ -879,6 +959,38 @@ dimwishlist:item=1218113510&perks=3422796781,4082225868,2120661319
 dimwishlist:item=1218113510&perks=3422796781,1161469972,2120661319
 dimwishlist:item=1218113510&perks=3422796781,3993379141,2120661319
 dimwishlist:item=1218113510&perks=3422796781,1164602481,2120661319
+
+
+// Perfect Paradox - PVE (god-pve)
+//notes: MW: Reload or Handling: Mod: Quick Access; It’s no secret PvE is where Perfect Paradox will do its best work. Its perks and frame are most suited to getting into the thick of battle and causing some massive damage, just like Saint-14 would want from his favorite weapon. Start with Barrel Shroud to kick this god roll off. The main loop of Perfect Paradox will be to get in the faces of enemies while quickly switching to this Shotgun for damage so the Stability to keep shots straight and Handling to keep that swift feel are essential. Apply Tactical Mag for another round of Stability and a bonus to Reload Speed which will pair perfectly with the Dual Loader perk to ensure the Magazine stays full. The first main perk is Dual Loader, which puts two shots in the Magazine at a time when reloading. This ensures Perfect Paradox can be refilled to capacity quickly, leaving you ready to unload upon the next target. Finish off with One-Two Punch, an exceptional perk that tops off the aggressive playstyle this god roll requires. With so many powered melee options, the best example being through the Prismatic subclass, landing every pellet in a shot can open up major damage potential to tear through some of the toughest opponents. tags:god-pve
+dimwishlist:item=1298672084&perks=1300023272,106909392,25606670,2679249093
+dimwishlist:item=1298672084&perks=1300023272,106909392,25606670,788178929
+dimwishlist:item=1298672084&perks=1300023272,106909392,3143051906,2679249093
+dimwishlist:item=1298672084&perks=1300023272,106909392,3143051906,788178929
+
+
+// Perfect Paradox - PVP (god-pvp)
+//notes: MW: Range; Mod: Quick Access; Perfect Paradox may come across as a PvE weapon but it does hold some of the best perks to take into The Crucible and this god roll breaks down how to set it up to dominate the arena. Lethality at distance is essential for a PvP Shotgun so the start point combines Smallbore in the Barrel and Accurized Rounds for the Magazine. The instant +17 to Range improves a quite low base stat. Stability adds a bonus to weapon control which is handy on a Rapid-Fire Frame as the quick shots can easily bounce away from the target. The main perks go further into the Range stat and help boost accuracy starting with Slideshot. When hunting down an opponent in The Crucible, remembering to slide before engaging is key to getting major advantages. The added Stability helps control follow-up shots if the first doesn’t grab an instant kill. Finish off with Opening Shot with the main pull being the accuracy bonuses and a major boost to Range. This god roll combines each perk to devastating effect allowing this Shotgun to fire shots quickly and with deadly accuracy to Guardians who normally would be out of its usual effective range. tags:god-pvp
+dimwishlist:item=1298672084&perks=1482024992,3142289711,3161816588,47981717
+dimwishlist:item=1298672084&perks=1482024992,3142289711,3161816588,1370847713
+dimwishlist:item=1298672084&perks=1482024992,3142289711,191144788,47981717
+dimwishlist:item=1298672084&perks=1482024992,3142289711,191144788,1370847713
+
+
+// Perfect Paradox - PVE (pve)
+//notes: MW: Reload or Handling: Mod: Quick Access; It’s no secret PvE is where Perfect Paradox will do its best work. Its perks and frame are most suited to getting into the thick of battle and causing some massive damage, just like Saint-14 would want from his favorite weapon. Start with Barrel Shroud to kick this god roll off. The main loop of Perfect Paradox will be to get in the faces of enemies while quickly switching to this Shotgun for damage so the Stability to keep shots straight and Handling to keep that swift feel are essential. Apply Tactical Mag for another round of Stability and a bonus to Reload Speed which will pair perfectly with the Dual Loader perk to ensure the Magazine stays full. The first main perk is Dual Loader, which puts two shots in the Magazine at a time when reloading. This ensures Perfect Paradox can be refilled to capacity quickly, leaving you ready to unload upon the next target. Finish off with One-Two Punch, an exceptional perk that tops off the aggressive playstyle this god roll requires. With so many powered melee options, the best example being through the Prismatic subclass, landing every pellet in a shot can open up major damage potential to tear through some of the toughest opponents. tags:pve
+dimwishlist:item=1298672084&perks=25606670,2679249093
+dimwishlist:item=1298672084&perks=25606670,788178929
+dimwishlist:item=1298672084&perks=3143051906,2679249093
+dimwishlist:item=1298672084&perks=3143051906,788178929
+
+
+// Perfect Paradox - PVP (pvp)
+//notes: MW: Range; Mod: Quick Access; Perfect Paradox may come across as a PvE weapon but it does hold some of the best perks to take into The Crucible and this god roll breaks down how to set it up to dominate the arena. Lethality at distance is essential for a PvP Shotgun so the start point combines Smallbore in the Barrel and Accurized Rounds for the Magazine. The instant +17 to Range improves a quite low base stat. Stability adds a bonus to weapon control which is handy on a Rapid-Fire Frame as the quick shots can easily bounce away from the target. The main perks go further into the Range stat and help boost accuracy starting with Slideshot. When hunting down an opponent in The Crucible, remembering to slide before engaging is key to getting major advantages. The added Stability helps control follow-up shots if the first doesn’t grab an instant kill. Finish off with Opening Shot with the main pull being the accuracy bonuses and a major boost to Range. This god roll combines each perk to devastating effect allowing this Shotgun to fire shots quickly and with deadly accuracy to Guardians who normally would be out of its usual effective range. tags:pvp
+dimwishlist:item=1298672084&perks=3161816588,47981717
+dimwishlist:item=1298672084&perks=3161816588,1370847713
+dimwishlist:item=1298672084&perks=191144788,47981717
+dimwishlist:item=1298672084&perks=191144788,1370847713
 
 
 // Wild Style - PVE (god-pve)
@@ -1769,6 +1881,70 @@ dimwishlist:item=1851777734&perks=461595545,2562668800
 dimwishlist:item=1851777734&perks=461595545,3418165135
 
 
+// Chronophage - PVE (god-pve)
+//notes: MW: Reload; We’ll start with Fluted Barrel, Enhanced Battery, and a reload speed masterwork for a solid sweep of increased stats. From there, Shoot to Loot’s general utility trumps other options in the third column, save for Repulsor Brace if you’re rocking a Void build. The final column features One for All, which is the strongest pick for general gameplay by far. However, Demolitionist and Destabilizing Rounds are worth mentioning if you’re looking for buildcrafting options instead. Recommended Loadout: The Mountaintop, Chronophage, Microcosm. tags:god-pve
+dimwishlist:item=1886840007&perks=1840239774,2680121939,3700496672,4049631843
+dimwishlist:item=1886840007&perks=1840239774,2680121939,3700496672,3523296417
+dimwishlist:item=1886840007&perks=1840239774,2680121939,3700496672,859780267
+dimwishlist:item=1886840007&perks=1840239774,2680121939,3700496672,1906147653
+dimwishlist:item=1886840007&perks=1840239774,2680121939,2840833776,4049631843
+dimwishlist:item=1886840007&perks=1840239774,2680121939,2840833776,3523296417
+dimwishlist:item=1886840007&perks=1840239774,2680121939,2840833776,859780267
+dimwishlist:item=1886840007&perks=1840239774,2680121939,2840833776,1906147653
+dimwishlist:item=1886840007&perks=1840239774,2680121939,776531651,4049631843
+dimwishlist:item=1886840007&perks=1840239774,2680121939,776531651,3523296417
+dimwishlist:item=1886840007&perks=1840239774,2680121939,776531651,859780267
+dimwishlist:item=1886840007&perks=1840239774,2680121939,776531651,1906147653
+dimwishlist:item=1886840007&perks=1840239774,2680121939,2541826827,4049631843
+dimwishlist:item=1886840007&perks=1840239774,2680121939,2541826827,3523296417
+dimwishlist:item=1886840007&perks=1840239774,2680121939,2541826827,859780267
+dimwishlist:item=1886840007&perks=1840239774,2680121939,2541826827,1906147653
+
+
+// Chronophage - PVP (god-pvp)
+//notes: MW: Range; In PvP, our main goal is to simply increase as many stats as we can. As a result, we’ll go with Smallbore, Tactical Mag, Elemental Capacitor, and a range masterwork. For our final perk in the fourth column, we’ll opt for High Ground, granting an easy (although situational) increase in damage. Desperate Measures can also be used here if you prefer. tags:god-pvp
+dimwishlist:item=1886840007&perks=1482024992,732557052,3511092054,2109543898
+dimwishlist:item=1886840007&perks=1482024992,732557052,3511092054,2319119708
+dimwishlist:item=1886840007&perks=1482024992,732557052,3511092054,2799030358
+dimwishlist:item=1886840007&perks=1482024992,732557052,3511092054,2140591236
+dimwishlist:item=1886840007&perks=1482024992,732557052,711234314,2109543898
+dimwishlist:item=1886840007&perks=1482024992,732557052,711234314,2319119708
+dimwishlist:item=1886840007&perks=1482024992,732557052,711234314,2799030358
+dimwishlist:item=1886840007&perks=1482024992,732557052,711234314,2140591236
+
+
+// Chronophage - PVE (pve)
+//notes: MW: Reload; We’ll start with Fluted Barrel, Enhanced Battery, and a reload speed masterwork for a solid sweep of increased stats. From there, Shoot to Loot’s general utility trumps other options in the third column, save for Repulsor Brace if you’re rocking a Void build. The final column features One for All, which is the strongest pick for general gameplay by far. However, Demolitionist and Destabilizing Rounds are worth mentioning if you’re looking for buildcrafting options instead. Recommended Loadout: The Mountaintop, Chronophage, Microcosm. tags:pve
+dimwishlist:item=1886840007&perks=3700496672,4049631843
+dimwishlist:item=1886840007&perks=3700496672,3523296417
+dimwishlist:item=1886840007&perks=3700496672,859780267
+dimwishlist:item=1886840007&perks=3700496672,1906147653
+dimwishlist:item=1886840007&perks=2840833776,4049631843
+dimwishlist:item=1886840007&perks=2840833776,3523296417
+dimwishlist:item=1886840007&perks=2840833776,859780267
+dimwishlist:item=1886840007&perks=2840833776,1906147653
+dimwishlist:item=1886840007&perks=776531651,4049631843
+dimwishlist:item=1886840007&perks=776531651,3523296417
+dimwishlist:item=1886840007&perks=776531651,859780267
+dimwishlist:item=1886840007&perks=776531651,1906147653
+dimwishlist:item=1886840007&perks=2541826827,4049631843
+dimwishlist:item=1886840007&perks=2541826827,3523296417
+dimwishlist:item=1886840007&perks=2541826827,859780267
+dimwishlist:item=1886840007&perks=2541826827,1906147653
+
+
+// Chronophage - PVP (pvp)
+//notes: MW: Range; In PvP, our main goal is to simply increase as many stats as we can. As a result, we’ll go with Smallbore, Tactical Mag, Elemental Capacitor, and a range masterwork. For our final perk in the fourth column, we’ll opt for High Ground, granting an easy (although situational) increase in damage. Desperate Measures can also be used here if you prefer. tags:pvp
+dimwishlist:item=1886840007&perks=3511092054,2109543898
+dimwishlist:item=1886840007&perks=3511092054,2319119708
+dimwishlist:item=1886840007&perks=3511092054,2799030358
+dimwishlist:item=1886840007&perks=3511092054,2140591236
+dimwishlist:item=1886840007&perks=711234314,2109543898
+dimwishlist:item=1886840007&perks=711234314,2319119708
+dimwishlist:item=1886840007&perks=711234314,2799030358
+dimwishlist:item=1886840007&perks=711234314,2140591236
+
+
 // Hammerhead - PVE (god-pve)
 //notes: MW: Handling; We’ll opt for Arrowhead Break, Appended Mag, and a Handling masterwork to get more handling and a more manageable recoil. From there, Rampage and Killing Tally is our preferred combo, as it is what makes the Hammerhead unique. Plus, this is the perfect combo if you want to go all in on the damage output. Rewind Rounds and Killing Tally is also an excellent combination, but there’s tons of room for mixing it up here. Fourth Time’s the Charm, Feeding Frenzy, and Envious Assassin all provide similar benefits to Rewind Rounds. Onslaught is also worth mentioning in the final column, which just got re-released and pairs perfectly with something like Rampage. Recommended Loadout: The Mountaintop, Sunshot, Hammerhead. tags:god-pve
 dimwishlist:item=1896309757&perks=839105230,2420895100,3425386926,557221067
@@ -2506,6 +2682,54 @@ dimwishlist:item=2490988246&perks=494941759,4293542123
 dimwishlist:item=2490988246&perks=494941759,2675184851
 dimwishlist:item=2490988246&perks=2717805783,4293542123
 dimwishlist:item=2490988246&perks=2717805783,2675184851
+
+
+// Martyr's Retribution - PVE (god-pve)
+//notes: MW: Velocity; We’ll start by maxing out Martyr’s velocity stat with Quick Launch, High-Velocity Rounds, and a velocity masterwork. This also gives added handling, which helps you quickly swap between this weapon and your primary or heavy. Heal Clip is the star of the third column, which synergizes perfectly with the weapon’s single-shot magazine. Demolitionist is also worth mentioning, pairing well with builds and removing the need to think about your grenade recharge rate. As for the final column, Incandescent is unique to this weapon and proves extremely useful for both general ad clear and Solar build synergy. Recommended Loadout: Khvostov 7G-0X, Martyr’s Retribution, Apex Predator. tags:god-pve
+dimwishlist:item=2584830733&perks=3525010810,2822142346,3523296417,4293542123
+dimwishlist:item=2584830733&perks=3525010810,2822142346,3523296417,2675184851
+dimwishlist:item=2584830733&perks=3525010810,2822142346,3017780555,4293542123
+dimwishlist:item=2584830733&perks=3525010810,2822142346,3017780555,2675184851
+dimwishlist:item=2584830733&perks=3525010810,2822142346,1906147653,4293542123
+dimwishlist:item=2584830733&perks=3525010810,2822142346,1906147653,2675184851
+dimwishlist:item=2584830733&perks=3525010810,2822142346,4223976499,4293542123
+dimwishlist:item=2584830733&perks=3525010810,2822142346,4223976499,2675184851
+
+
+// Martyr's Retribution - PVP (god-pvp)
+//notes: MW: Velocity; As for The Crucible, we’ll once again begin with Quick Launch, High-Velocity Rounds, and a velocity masterwork to max out our velocity stat. From there, nearly every main perk featured on this weapon isn’t built for PvP, so no matter what you run, Martyr’s simply won’t be efficient in The Crucible’s sandbox. Regardless, we’ll choose Heal Clip, and either Desperate Measures or Vorpal Weapon for some added healing and bonus damage. tags:god-pvp
+dimwishlist:item=2584830733&perks=3525010810,2822142346,3017780555,2109543898
+dimwishlist:item=2584830733&perks=3525010810,2822142346,3017780555,1546637391
+dimwishlist:item=2584830733&perks=3525010810,2822142346,3017780555,2799030358
+dimwishlist:item=2584830733&perks=3525010810,2822142346,3017780555,3418165135
+dimwishlist:item=2584830733&perks=3525010810,2822142346,4223976499,2109543898
+dimwishlist:item=2584830733&perks=3525010810,2822142346,4223976499,1546637391
+dimwishlist:item=2584830733&perks=3525010810,2822142346,4223976499,2799030358
+dimwishlist:item=2584830733&perks=3525010810,2822142346,4223976499,3418165135
+
+
+// Martyr's Retribution - PVE (pve)
+//notes: MW: Velocity; We’ll start by maxing out Martyr’s velocity stat with Quick Launch, High-Velocity Rounds, and a velocity masterwork. This also gives added handling, which helps you quickly swap between this weapon and your primary or heavy. Heal Clip is the star of the third column, which synergizes perfectly with the weapon’s single-shot magazine. Demolitionist is also worth mentioning, pairing well with builds and removing the need to think about your grenade recharge rate. As for the final column, Incandescent is unique to this weapon and proves extremely useful for both general ad clear and Solar build synergy. Recommended Loadout: Khvostov 7G-0X, Martyr’s Retribution, Apex Predator. tags:pve
+dimwishlist:item=2584830733&perks=3523296417,4293542123
+dimwishlist:item=2584830733&perks=3523296417,2675184851
+dimwishlist:item=2584830733&perks=3017780555,4293542123
+dimwishlist:item=2584830733&perks=3017780555,2675184851
+dimwishlist:item=2584830733&perks=1906147653,4293542123
+dimwishlist:item=2584830733&perks=1906147653,2675184851
+dimwishlist:item=2584830733&perks=4223976499,4293542123
+dimwishlist:item=2584830733&perks=4223976499,2675184851
+
+
+// Martyr's Retribution - PVP (pvp)
+//notes: MW: Velocity; As for The Crucible, we’ll once again begin with Quick Launch, High-Velocity Rounds, and a velocity masterwork to max out our velocity stat. From there, nearly every main perk featured on this weapon isn’t built for PvP, so no matter what you run, Martyr’s simply won’t be efficient in The Crucible’s sandbox. Regardless, we’ll choose Heal Clip, and either Desperate Measures or Vorpal Weapon for some added healing and bonus damage. tags:pvp
+dimwishlist:item=2584830733&perks=3017780555,2109543898
+dimwishlist:item=2584830733&perks=3017780555,1546637391
+dimwishlist:item=2584830733&perks=3017780555,2799030358
+dimwishlist:item=2584830733&perks=3017780555,3418165135
+dimwishlist:item=2584830733&perks=4223976499,2109543898
+dimwishlist:item=2584830733&perks=4223976499,1546637391
+dimwishlist:item=2584830733&perks=4223976499,2799030358
+dimwishlist:item=2584830733&perks=4223976499,3418165135
 
 
 // Scintillation - PVE (god-pve)
