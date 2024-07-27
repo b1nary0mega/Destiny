@@ -2303,28 +2303,60 @@ dimwishlist:item=2249996761&perks=2938480696,3891536761
 dimwishlist:item=2249996761&perks=2938480696,1549370717
 
 
-// Breachlight - PVE Grenade Build (pve)
-//notes: PVE Grenade Build tags:pve
-dimwishlist:item=2328923181&perks=3523296417,11612903
-dimwishlist:item=2328923181&perks=3523296417,2422968039
-dimwishlist:item=2328923181&perks=1906147653,11612903
-dimwishlist:item=2328923181&perks=1906147653,2422968039
+// Breachlight - PVE Grenade Build (god-pve)
+//notes: PVE Grenade Build. Aim for Fluted Barrel, Tactical Mag, and a reload speed masterwork for a nice sweep of stat bonuses. tags:god-pve
+dimwishlist:item=2328923181&perks=4090651448,106909392,3523296417,11612903
+dimwishlist:item=2328923181&perks=4090651448,106909392,3523296417,2422968039
+dimwishlist:item=2328923181&perks=4090651448,106909392,1906147653,11612903
+dimwishlist:item=2328923181&perks=4090651448,106909392,1906147653,2422968039
+dimwishlist:item=2328923181&perks=1840239774,106909392,3523296417,11612903
+dimwishlist:item=2328923181&perks=1840239774,106909392,3523296417,2422968039
+dimwishlist:item=2328923181&perks=1840239774,106909392,1906147653,11612903
+dimwishlist:item=2328923181&perks=1840239774,106909392,1906147653,2422968039
 
 
-// Breachlight - PVE Melee Build (pve)
-//notes: PVE Melee Build tags:pve
-dimwishlist:item=2328923181&perks=691659142,4082225868
-dimwishlist:item=2328923181&perks=691659142,1161469972
-dimwishlist:item=2328923181&perks=536173722,4082225868
-dimwishlist:item=2328923181&perks=536173722,1161469972
+// Breachlight - PVE Melee Build (god-pve)
+//notes: PVE Melee Build. Aim for Fluted Barrel, Tactical Mag, and a reload speed masterwork for a nice sweep of stat bonuses. tags:god-pve
+dimwishlist:item=2328923181&perks=4090651448,106909392,691659142,4082225868
+dimwishlist:item=2328923181&perks=4090651448,106909392,691659142,1161469972
+dimwishlist:item=2328923181&perks=4090651448,106909392,536173722,4082225868
+dimwishlist:item=2328923181&perks=4090651448,106909392,536173722,1161469972
+dimwishlist:item=2328923181&perks=1840239774,106909392,691659142,4082225868
+dimwishlist:item=2328923181&perks=1840239774,106909392,691659142,1161469972
+dimwishlist:item=2328923181&perks=1840239774,106909392,536173722,4082225868
+dimwishlist:item=2328923181&perks=1840239774,106909392,536173722,1161469972
 
 
-// Breachlight - PVE Strand Build (pve)
-//notes: PVE Strand Build tags:pve
-dimwishlist:item=2328923181&perks=923806249,831391274
-dimwishlist:item=2328923181&perks=923806249,102912326
-dimwishlist:item=2328923181&perks=3422796781,831391274
-dimwishlist:item=2328923181&perks=3422796781,102912326
+// Breachlight - PVE Strand Build (god-pve)
+//notes: PVE Strand Build. Aim for Fluted Barrel, Tactical Mag, and a reload speed masterwork for a nice sweep of stat bonuses. tags:god-pve
+dimwishlist:item=2328923181&perks=4090651448,106909392,923806249,831391274
+dimwishlist:item=2328923181&perks=4090651448,106909392,923806249,102912326
+dimwishlist:item=2328923181&perks=4090651448,106909392,3422796781,831391274
+dimwishlist:item=2328923181&perks=4090651448,106909392,3422796781,102912326
+dimwishlist:item=2328923181&perks=1840239774,106909392,923806249,831391274
+dimwishlist:item=2328923181&perks=1840239774,106909392,923806249,102912326
+dimwishlist:item=2328923181&perks=1840239774,106909392,3422796781,831391274
+dimwishlist:item=2328923181&perks=1840239774,106909392,3422796781,102912326
+
+
+// Breachlight - PVE (god-pve)
+//notes: MW: Reload; We’ll start our PvE roll with Fluted Barrel, Tactical Mag, and a reload speed masterwork for a nice sweep of stat bonuses. The masterwork can easily be replaced with something else if you prefer, but in our eyes, nothing else is really necessary. As for the main perks, we prefer Demolitionist in the first column and Desperate Measures in the second. The latter excels due to its relatively long timer (7s) and synergizes relatively well with Demolitionist. However, the tried and true combo of Demolitionist and Adrenaline Junkie also proves potent if that’s more your style. Recommended Loadout: Breachlight, Still Hunt, Apex Predator. tags:god-pve
+dimwishlist:item=2328923181&perks=4090651448,106909392,3523296417,2109543898
+dimwishlist:item=2328923181&perks=4090651448,106909392,3523296417,11612903
+dimwishlist:item=2328923181&perks=4090651448,106909392,3523296417,2799030358
+dimwishlist:item=2328923181&perks=4090651448,106909392,3523296417,2422968039
+dimwishlist:item=2328923181&perks=4090651448,106909392,1906147653,2109543898
+dimwishlist:item=2328923181&perks=4090651448,106909392,1906147653,11612903
+dimwishlist:item=2328923181&perks=4090651448,106909392,1906147653,2799030358
+dimwishlist:item=2328923181&perks=4090651448,106909392,1906147653,2422968039
+dimwishlist:item=2328923181&perks=1840239774,106909392,3523296417,2109543898
+dimwishlist:item=2328923181&perks=1840239774,106909392,3523296417,11612903
+dimwishlist:item=2328923181&perks=1840239774,106909392,3523296417,2799030358
+dimwishlist:item=2328923181&perks=1840239774,106909392,3523296417,2422968039
+dimwishlist:item=2328923181&perks=1840239774,106909392,1906147653,2109543898
+dimwishlist:item=2328923181&perks=1840239774,106909392,1906147653,11612903
+dimwishlist:item=2328923181&perks=1840239774,106909392,1906147653,2799030358
+dimwishlist:item=2328923181&perks=1840239774,106909392,1906147653,2422968039
 
 
 // Breachlight - PVP (pvp)
@@ -2333,6 +2365,42 @@ dimwishlist:item=2328923181&perks=4071163871,1546637391
 dimwishlist:item=2328923181&perks=4071163871,3418165135
 dimwishlist:item=2328923181&perks=494941759,1546637391
 dimwishlist:item=2328923181&perks=494941759,3418165135
+
+
+// Breachlight - PVE Grenade Build (pve)
+//notes: PVE Grenade Build. Aim for Fluted Barrel, Tactical Mag, and a reload speed masterwork for a nice sweep of stat bonuses. tags:pve
+dimwishlist:item=2328923181&perks=3523296417,11612903
+dimwishlist:item=2328923181&perks=3523296417,2422968039
+dimwishlist:item=2328923181&perks=1906147653,11612903
+dimwishlist:item=2328923181&perks=1906147653,2422968039
+
+
+// Breachlight - PVE Melee Build (pve)
+//notes: PVE Melee Build. Aim for Fluted Barrel, Tactical Mag, and a reload speed masterwork for a nice sweep of stat bonuses. tags:pve
+dimwishlist:item=2328923181&perks=691659142,4082225868
+dimwishlist:item=2328923181&perks=691659142,1161469972
+dimwishlist:item=2328923181&perks=536173722,4082225868
+dimwishlist:item=2328923181&perks=536173722,1161469972
+
+
+// Breachlight - PVE Strand Build (pve)
+//notes: PVE Strand Build. Aim for Fluted Barrel, Tactical Mag, and a reload speed masterwork for a nice sweep of stat bonuses. tags:pve
+dimwishlist:item=2328923181&perks=923806249,831391274
+dimwishlist:item=2328923181&perks=923806249,102912326
+dimwishlist:item=2328923181&perks=3422796781,831391274
+dimwishlist:item=2328923181&perks=3422796781,102912326
+
+
+// Breachlight - PVE (pve)
+//notes: MW: Reload; We’ll start our PvE roll with Fluted Barrel, Tactical Mag, and a reload speed masterwork for a nice sweep of stat bonuses. The masterwork can easily be replaced with something else if you prefer, but in our eyes, nothing else is really necessary. As for the main perks, we prefer Demolitionist in the first column and Desperate Measures in the second. The latter excels due to its relatively long timer (7s) and synergizes relatively well with Demolitionist. However, the tried and true combo of Demolitionist and Adrenaline Junkie also proves potent if that’s more your style. Recommended Loadout: Breachlight, Still Hunt, Apex Predator. tags:pve
+dimwishlist:item=2328923181&perks=3523296417,2109543898
+dimwishlist:item=2328923181&perks=3523296417,11612903
+dimwishlist:item=2328923181&perks=3523296417,2799030358
+dimwishlist:item=2328923181&perks=3523296417,2422968039
+dimwishlist:item=2328923181&perks=1906147653,2109543898
+dimwishlist:item=2328923181&perks=1906147653,11612903
+dimwishlist:item=2328923181&perks=1906147653,2799030358
+dimwishlist:item=2328923181&perks=1906147653,2422968039
 
 
 // Sightline Survey - PVE (god-pve,pve)
