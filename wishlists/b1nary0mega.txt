@@ -3185,6 +3185,62 @@ dimwishlist:item=2821677368&perks=461595545,555281244
 dimwishlist:item=2821677368&perks=461595545,332733060
 
 
+// The Slammer - PVE (god-pve)
+//notes: MW: Handling; Not much has changed about swords when it comes to what the best blade is. While some might want more ammo for potentially long droughts of Heavy drops, a co-ordinated team makes that irrelevant, so Jagged Edge’s extra damage for less ammo isn’t a huge loss. With charge rate being the only thing to matter outside of damage, Swordmaster’s Guard buffs all charge related stats at the cost of less guard efficiency. For the perks, it’s really up to how you want to use this sword. If you don’t have either Half Truths or The Other Half, you might be inclined for an Eager Edge roll to experience the joys of zipping across the room. But if damage is your game, then the de facto god roll of Relentless Strikes and Bait and Switch is what you want. Relentless returns ammo to the sword every 3rd strike, and Bait and Switch gives a sweet 30% damage buff. You could even go One-for-All instead of BnS for the hack-and-slash fantasy, or Cold Steel for a high risk anti-Champion playstyle. tags:god-pve
+dimwishlist:item=2889501828&perks=3666208348,269888150,1749209109,3078487919
+dimwishlist:item=2889501828&perks=3666208348,269888150,1749209109,3650930298
+dimwishlist:item=2889501828&perks=3666208348,269888150,1749209109,405677814
+dimwishlist:item=2889501828&perks=3666208348,269888150,1749209109,3744057135
+dimwishlist:item=2889501828&perks=3666208348,269888150,2077819806,3078487919
+dimwishlist:item=2889501828&perks=3666208348,269888150,2077819806,3650930298
+dimwishlist:item=2889501828&perks=3666208348,269888150,2077819806,405677814
+dimwishlist:item=2889501828&perks=3666208348,269888150,2077819806,3744057135
+dimwishlist:item=2889501828&perks=3666208348,269888150,4085959009,3078487919
+dimwishlist:item=2889501828&perks=3666208348,269888150,4085959009,3650930298
+dimwishlist:item=2889501828&perks=3666208348,269888150,4085959009,405677814
+dimwishlist:item=2889501828&perks=3666208348,269888150,4085959009,3744057135
+dimwishlist:item=2889501828&perks=3666208348,269888150,1618208178,3078487919
+dimwishlist:item=2889501828&perks=3666208348,269888150,1618208178,3650930298
+dimwishlist:item=2889501828&perks=3666208348,269888150,1618208178,405677814
+dimwishlist:item=2889501828&perks=3666208348,269888150,1618208178,3744057135
+
+
+// The Slammer - PVP (god-pvp)
+//notes: MW: Impact; As far as PvP is concerned, swords are towards the bottom of usage, with the two most used being the only ones with Eager Edge. This isn’t surprising given the risk involved, and even with the increase to guard’s damage resistance, you’ll find yourself dead more often than not. To make the most out of this sword, really any blade will cut it, as a single swing can take out most guardians. If you want to buff the damage, Jagged is your best friend, especially since you won’t be hitting max ammo to even see the lack of reserves. Heavy Guard works very well here as it supes up your guard stats at the cost of slower energy charge. Perk 1 is, of course, Eager Edge. Like all melee weapons in shooters, the lack of range is what makes swords high risk, high reward, but Eager Edge sheds that restriction. Having an 80% increased lunge range means far off targets can either be killed or closed in on in the blink of an eye, which is exactly what this needed. Cold Steel for Perk 2 is probably the only viable option as it can be used to possibly slow down people in Supers, but realistically, anything goes here. tags:god-pvp
+dimwishlist:item=2889501828&perks=3666208348,2349202967,2077819806,3650930298
+dimwishlist:item=2889501828&perks=3666208348,2349202967,2077819806,405677814
+dimwishlist:item=2889501828&perks=3666208348,2349202967,1618208178,3650930298
+dimwishlist:item=2889501828&perks=3666208348,2349202967,1618208178,405677814
+
+
+// The Slammer - PVE (pve)
+//notes: MW: Handling; Not much has changed about swords when it comes to what the best blade is. While some might want more ammo for potentially long droughts of Heavy drops, a co-ordinated team makes that irrelevant, so Jagged Edge’s extra damage for less ammo isn’t a huge loss. With charge rate being the only thing to matter outside of damage, Swordmaster’s Guard buffs all charge related stats at the cost of less guard efficiency. For the perks, it’s really up to how you want to use this sword. If you don’t have either Half Truths or The Other Half, you might be inclined for an Eager Edge roll to experience the joys of zipping across the room. But if damage is your game, then the de facto god roll of Relentless Strikes and Bait and Switch is what you want. Relentless returns ammo to the sword every 3rd strike, and Bait and Switch gives a sweet 30% damage buff. You could even go One-for-All instead of BnS for the hack-and-slash fantasy, or Cold Steel for a high risk anti-Champion playstyle. tags:pve
+dimwishlist:item=2889501828&perks=1749209109,3078487919
+dimwishlist:item=2889501828&perks=1749209109,3650930298
+dimwishlist:item=2889501828&perks=1749209109,405677814
+dimwishlist:item=2889501828&perks=1749209109,3744057135
+dimwishlist:item=2889501828&perks=2077819806,3078487919
+dimwishlist:item=2889501828&perks=2077819806,3650930298
+dimwishlist:item=2889501828&perks=2077819806,405677814
+dimwishlist:item=2889501828&perks=2077819806,3744057135
+dimwishlist:item=2889501828&perks=4085959009,3078487919
+dimwishlist:item=2889501828&perks=4085959009,3650930298
+dimwishlist:item=2889501828&perks=4085959009,405677814
+dimwishlist:item=2889501828&perks=4085959009,3744057135
+dimwishlist:item=2889501828&perks=1618208178,3078487919
+dimwishlist:item=2889501828&perks=1618208178,3650930298
+dimwishlist:item=2889501828&perks=1618208178,405677814
+dimwishlist:item=2889501828&perks=1618208178,3744057135
+
+
+// The Slammer - PVP (pvp)
+//notes: MW: Impact; As far as PvP is concerned, swords are towards the bottom of usage, with the two most used being the only ones with Eager Edge. This isn’t surprising given the risk involved, and even with the increase to guard’s damage resistance, you’ll find yourself dead more often than not. To make the most out of this sword, really any blade will cut it, as a single swing can take out most guardians. If you want to buff the damage, Jagged is your best friend, especially since you won’t be hitting max ammo to even see the lack of reserves. Heavy Guard works very well here as it supes up your guard stats at the cost of slower energy charge. Perk 1 is, of course, Eager Edge. Like all melee weapons in shooters, the lack of range is what makes swords high risk, high reward, but Eager Edge sheds that restriction. Having an 80% increased lunge range means far off targets can either be killed or closed in on in the blink of an eye, which is exactly what this needed. Cold Steel for Perk 2 is probably the only viable option as it can be used to possibly slow down people in Supers, but realistically, anything goes here. tags:pvp
+dimwishlist:item=2889501828&perks=2077819806,3650930298
+dimwishlist:item=2889501828&perks=2077819806,405677814
+dimwishlist:item=2889501828&perks=1618208178,3650930298
+dimwishlist:item=2889501828&perks=1618208178,405677814
+
+
 // Multimach CCX - PVE (god-pve)
 //notes: MW: Range; We’ll begin building Multimach CCX for PvE with Corkscrew Rifling, Flared Magwell, and a range masterwork for an even split of stats. Attrition Orbs is our general choice for column one because of its ability to combine with Armor Charge builds; however, Under-Over is an outstanding choice if you instead plan on using it to counter Champions in high-difficulty activities. As for the final column, Frenzy’s wide range of added stats makes it an outstanding pairing with either of the perks we mentioned for column one. If you’re comfortable without a potent buff to reload speed, Kinetic Tremors is an equally powerful pick for the same reason. tags:god-pve
 dimwishlist:item=3211624072&perks=4090651448,3230963543,243981275,4104185692
