@@ -1,5 +1,5 @@
 {
-    "description": "Personally curated list of [Demi]God rolls. Mostly sourced from Blueberries.gg and tested in-game.",
+    "description": "Personally curated list of [Demi]God rolls. Mostly sourced from Blueberries.gg, Shacknews, Streamers (Mactics, Datto, & Azteccross), and tested in-game.",
     "name": "b1nary0mega's Wishlist",
     "data": [
         {
@@ -945,10 +945,17 @@
             ]
         },
         {
-            "description": "PVE Grenade Build",
+            "description": "PVE Grenade Build. Aim for Fluted Barrel, Tactical Mag, and a reload speed masterwork for a nice sweep of stat bonuses.",
             "hash": 2328923181,
             "name": "PVE Grenade Build",
             "plugs": [
+                [
+                    4090651448,
+                    1840239774
+                ],
+                [
+                    106909392
+                ],
                 [
                     3523296417,
                     1906147653
@@ -959,14 +966,21 @@
                 ]
             ],
             "tags": [
-                "PVE"
+                "GodPVE"
             ]
         },
         {
-            "description": "PVE Melee Build",
+            "description": "PVE Melee Build. Aim for Fluted Barrel, Tactical Mag, and a reload speed masterwork for a nice sweep of stat bonuses.",
             "hash": 2328923181,
             "name": "PVE Melee Build",
             "plugs": [
+                [
+                    4090651448,
+                    1840239774
+                ],
+                [
+                    106909392
+                ],
                 [
                     691659142,
                     536173722
@@ -977,14 +991,21 @@
                 ]
             ],
             "tags": [
-                "PVE"
+                "GodPVE"
             ]
         },
         {
-            "description": "PVE Strand Build",
+            "description": "PVE Strand Build. Aim for Fluted Barrel, Tactical Mag, and a reload speed masterwork for a nice sweep of stat bonuses.",
             "hash": 2328923181,
             "name": "PVE Strand Build",
             "plugs": [
+                [
+                    4090651448,
+                    1840239774
+                ],
+                [
+                    106909392
+                ],
                 [
                     923806249,
                     3422796781
@@ -995,7 +1016,7 @@
                 ]
             ],
             "tags": [
-                "PVE"
+                "GodPVE"
             ]
         },
         {
@@ -2371,7 +2392,9 @@
                     3425386926,
                     288411554,
                     3418782618,
-                    1563455254
+                    1563455254,
+                    1354429876,
+                    848860060
                 ],
                 [
                     557221067,
@@ -2393,7 +2416,9 @@
                     3425386926,
                     288411554,
                     3418782618,
-                    1563455254
+                    1563455254,
+                    1354429876,
+                    848860060
                 ],
                 [
                     557221067,
@@ -6499,6 +6524,391 @@
                     1546637391,
                     2799030358,
                     3418165135
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "PVE Grenade Build. Aim for Fluted Barrel, Tactical Mag, and a reload speed masterwork for a nice sweep of stat bonuses.",
+            "hash": 2328923181,
+            "name": "PVE Grenade Build",
+            "plugs": [
+                [
+                    3523296417,
+                    1906147653
+                ],
+                [
+                    11612903,
+                    2422968039
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "PVE Melee Build. Aim for Fluted Barrel, Tactical Mag, and a reload speed masterwork for a nice sweep of stat bonuses.",
+            "hash": 2328923181,
+            "name": "PVE Melee Build",
+            "plugs": [
+                [
+                    691659142,
+                    536173722
+                ],
+                [
+                    4082225868,
+                    1161469972
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "PVE Strand Build. Aim for Fluted Barrel, Tactical Mag, and a reload speed masterwork for a nice sweep of stat bonuses.",
+            "hash": 2328923181,
+            "name": "PVE Strand Build",
+            "plugs": [
+                [
+                    923806249,
+                    3422796781
+                ],
+                [
+                    831391274,
+                    102912326
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "MW: Reload; We’ll start our PvE roll with Fluted Barrel, Tactical Mag, and a reload speed masterwork for a nice sweep of stat bonuses. The masterwork can easily be replaced with something else if you prefer, but in our eyes, nothing else is really necessary. As for the main perks, we prefer Demolitionist in the first column and Desperate Measures in the second. The latter excels due to its relatively long timer (7s) and synergizes relatively well with Demolitionist. However, the tried and true combo of Demolitionist and Adrenaline Junkie also proves potent if that’s more your style. Recommended Loadout: Breachlight, Still Hunt, Apex Predator.",
+            "hash": 2328923181,
+            "name": "PVE",
+            "plugs": [
+                [
+                    4090651448,
+                    1840239774
+                ],
+                [
+                    106909392
+                ],
+                [
+                    3523296417,
+                    1906147653
+                ],
+                [
+                    2109543898,
+                    11612903,
+                    2799030358,
+                    2422968039
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "MW: Reload; We’ll start our PvE roll with Fluted Barrel, Tactical Mag, and a reload speed masterwork for a nice sweep of stat bonuses. The masterwork can easily be replaced with something else if you prefer, but in our eyes, nothing else is really necessary. As for the main perks, we prefer Demolitionist in the first column and Desperate Measures in the second. The latter excels due to its relatively long timer (7s) and synergizes relatively well with Demolitionist. However, the tried and true combo of Demolitionist and Adrenaline Junkie also proves potent if that’s more your style. Recommended Loadout: Breachlight, Still Hunt, Apex Predator.",
+            "hash": 2328923181,
+            "name": "PVE",
+            "plugs": [
+                [
+                    3523296417,
+                    1906147653
+                ],
+                [
+                    2109543898,
+                    11612903,
+                    2799030358,
+                    2422968039
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "MW: Handling; Not much has changed about swords when it comes to what the best blade is. While some might want more ammo for potentially long droughts of Heavy drops, a co-ordinated team makes that irrelevant, so Jagged Edge’s extra damage for less ammo isn’t a huge loss. With charge rate being the only thing to matter outside of damage, Swordmaster’s Guard buffs all charge related stats at the cost of less guard efficiency. For the perks, it’s really up to how you want to use this sword. If you don’t have either Half Truths or The Other Half, you might be inclined for an Eager Edge roll to experience the joys of zipping across the room. But if damage is your game, then the de facto god roll of Relentless Strikes and Bait and Switch is what you want. Relentless returns ammo to the sword every 3rd strike, and Bait and Switch gives a sweet 30% damage buff. You could even go One-for-All instead of BnS for the hack-and-slash fantasy, or Cold Steel for a high risk anti-Champion playstyle.",
+            "hash": 2889501828,
+            "name": "PVE",
+            "plugs": [
+                [
+                    3666208348
+                ],
+                [
+                    269888150
+                ],
+                [
+                    1749209109,
+                    2077819806,
+                    4085959009,
+                    1618208178
+                ],
+                [
+                    3078487919,
+                    3650930298,
+                    405677814,
+                    3744057135
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "MW: Handling; Not much has changed about swords when it comes to what the best blade is. While some might want more ammo for potentially long droughts of Heavy drops, a co-ordinated team makes that irrelevant, so Jagged Edge’s extra damage for less ammo isn’t a huge loss. With charge rate being the only thing to matter outside of damage, Swordmaster’s Guard buffs all charge related stats at the cost of less guard efficiency. For the perks, it’s really up to how you want to use this sword. If you don’t have either Half Truths or The Other Half, you might be inclined for an Eager Edge roll to experience the joys of zipping across the room. But if damage is your game, then the de facto god roll of Relentless Strikes and Bait and Switch is what you want. Relentless returns ammo to the sword every 3rd strike, and Bait and Switch gives a sweet 30% damage buff. You could even go One-for-All instead of BnS for the hack-and-slash fantasy, or Cold Steel for a high risk anti-Champion playstyle.",
+            "hash": 2889501828,
+            "name": "PVE",
+            "plugs": [
+                [
+                    1749209109,
+                    2077819806,
+                    4085959009,
+                    1618208178
+                ],
+                [
+                    3078487919,
+                    3650930298,
+                    405677814,
+                    3744057135
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "MW: Impact; As far as PvP is concerned, swords are towards the bottom of usage, with the two most used being the only ones with Eager Edge. This isn’t surprising given the risk involved, and even with the increase to guard’s damage resistance, you’ll find yourself dead more often than not. To make the most out of this sword, really any blade will cut it, as a single swing can take out most guardians. If you want to buff the damage, Jagged is your best friend, especially since you won’t be hitting max ammo to even see the lack of reserves. Heavy Guard works very well here as it supes up your guard stats at the cost of slower energy charge. Perk 1 is, of course, Eager Edge. Like all melee weapons in shooters, the lack of range is what makes swords high risk, high reward, but Eager Edge sheds that restriction. Having an 80% increased lunge range means far off targets can either be killed or closed in on in the blink of an eye, which is exactly what this needed. Cold Steel for Perk 2 is probably the only viable option as it can be used to possibly slow down people in Supers, but realistically, anything goes here.",
+            "hash": 2889501828,
+            "name": "PVP",
+            "plugs": [
+                [
+                    3666208348
+                ],
+                [
+                    2349202967
+                ],
+                [
+                    2077819806,
+                    1618208178
+                ],
+                [
+                    3650930298,
+                    405677814
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "MW: Impact; As far as PvP is concerned, swords are towards the bottom of usage, with the two most used being the only ones with Eager Edge. This isn’t surprising given the risk involved, and even with the increase to guard’s damage resistance, you’ll find yourself dead more often than not. To make the most out of this sword, really any blade will cut it, as a single swing can take out most guardians. If you want to buff the damage, Jagged is your best friend, especially since you won’t be hitting max ammo to even see the lack of reserves. Heavy Guard works very well here as it supes up your guard stats at the cost of slower energy charge. Perk 1 is, of course, Eager Edge. Like all melee weapons in shooters, the lack of range is what makes swords high risk, high reward, but Eager Edge sheds that restriction. Having an 80% increased lunge range means far off targets can either be killed or closed in on in the blink of an eye, which is exactly what this needed. Cold Steel for Perk 2 is probably the only viable option as it can be used to possibly slow down people in Supers, but realistically, anything goes here.",
+            "hash": 2889501828,
+            "name": "PVP",
+            "plugs": [
+                [
+                    2077819806,
+                    1618208178
+                ],
+                [
+                    3650930298,
+                    405677814
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 3628991658,
+            "name": "Good",
+            "plugs": [
+                [
+                    3250034553
+                ],
+                [
+                    3142289711
+                ],
+                [
+                    320534106
+                ],
+                [
+                    4259401308
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Good for debuffing",
+            "hash": 3580904581,
+            "name": "Good",
+            "plugs": [
+                [
+                    1467527085
+                ],
+                [
+                    3868766766
+                ],
+                [
+                    25692695
+                ],
+                [
+                    3465198467
+                ]
+            ],
+            "tags": [
+                "GodPVE",
+                "PVE"
+            ]
+        },
+        {
+            "description": "Great rocket especially against Solar shields",
+            "hash": 17096506,
+            "name": "Good",
+            "plugs": [
+                [
+                    1478423395
+                ],
+                [
+                    1996142143
+                ],
+                [
+                    2727957645
+                ],
+                [
+                    1067908860
+                ]
+            ],
+            "tags": [
+                "GodPVE",
+                "PVE"
+            ]
+        },
+        {
+            "description": "Absolute necessity for Titan melee build, specifically BoW.",
+            "hash": 4068264807,
+            "name": "Good",
+            "plugs": [
+                [
+                    1840239774
+                ],
+                [
+                    1561002382
+                ],
+                [
+                    2814973067
+                ],
+                [
+                    3465198467
+                ]
+            ],
+            "tags": [
+                "GodPVE",
+                "PVE"
+            ]
+        },
+        {
+            "description": "MW: Handling; We’ll opt for Arrowhead Break, Appended Mag, and a Handling masterwork to get more handling and a more manageable recoil. From there, Rampage and Killing Tally is our preferred combo, as it is what makes the Hammerhead unique. Plus, this is the perfect combo if you want to go all in on the damage output. Rewind Rounds and Killing Tally is also an excellent combination, but there’s tons of room for mixing it up here. Fourth Time’s the Charm, Feeding Frenzy, and Envious Assassin all provide similar benefits to Rewind Rounds. Onslaught is also worth mentioning in the final column, which just got re-released and pairs perfectly with something like Rampage. Recommended Loadout: The Mountaintop, Sunshot, Hammerhead.",
+            "hash": 211732170,
+            "name": "PVE",
+            "plugs": [
+                [
+                    839105230
+                ],
+                [
+                    2420895100,
+                    1087426260
+                ],
+                [
+                    3425386926,
+                    288411554,
+                    1354429876,
+                    848860060,
+                    3418782618,
+                    1563455254
+                ],
+                [
+                    557221067,
+                    2896748467,
+                    95528736,
+                    956288240
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "MW: Handling; We’ll opt for Arrowhead Break, Appended Mag, and a Handling masterwork to get more handling and a more manageable recoil. From there, Rampage and Killing Tally is our preferred combo, as it is what makes the Hammerhead unique. Plus, this is the perfect combo if you want to go all in on the damage output. Rewind Rounds and Killing Tally is also an excellent combination, but there’s tons of room for mixing it up here. Fourth Time’s the Charm, Feeding Frenzy, and Envious Assassin all provide similar benefits to Rewind Rounds. Onslaught is also worth mentioning in the final column, which just got re-released and pairs perfectly with something like Rampage. Recommended Loadout: The Mountaintop, Sunshot, Hammerhead.",
+            "hash": 211732170,
+            "name": "PVE",
+            "plugs": [
+                [
+                    3425386926,
+                    288411554,
+                    1354429876,
+                    848860060,
+                    3418782618,
+                    1563455254
+                ],
+                [
+                    557221067,
+                    2896748467,
+                    95528736,
+                    956288240
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "MW: Stability; We’ll begin by opting for higher stability through Arrowhead Break, Ricochet Rounds, and a Stability masterwork. Rampage may seem like a strange choice for perk one, but its increased damage is realistically the best thing you can get out of this column for The Crucible. As for the final column, we chose Tap the Trigger since two damage perks seemed like overkill. However, if you want to try for an extremely short TTK instead of wanting more consistency, exploring other offerings in this column isn’t a bad idea.",
+            "hash": 211732170,
+            "name": "PVP",
+            "plugs": [
+                [
+                    839105230
+                ],
+                [
+                    1885400500
+                ],
+                [
+                    3425386926,
+                    1870851715,
+                    288411554,
+                    183938251
+                ],
+                [
+                    1890422124,
+                    1523649716
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "MW: Stability; We’ll begin by opting for higher stability through Arrowhead Break, Ricochet Rounds, and a Stability masterwork. Rampage may seem like a strange choice for perk one, but its increased damage is realistically the best thing you can get out of this column for The Crucible. As for the final column, we chose Tap the Trigger since two damage perks seemed like overkill. However, if you want to try for an extremely short TTK instead of wanting more consistency, exploring other offerings in this column isn’t a bad idea.",
+            "hash": 211732170,
+            "name": "PVP",
+            "plugs": [
+                [
+                    3425386926,
+                    1870851715,
+                    288411554,
+                    183938251
+                ],
+                [
+                    1890422124,
+                    1523649716
                 ]
             ],
             "tags": [
