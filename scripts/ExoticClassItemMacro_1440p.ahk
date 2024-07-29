@@ -1,10 +1,10 @@
-﻿#SingleInstance force
+#SingleInstance force
 
 ; Creator: SevenOilRigs :3
 ; 800 dpi
 ; 7 sensitivity
 ; 144 fps
-; 2560 x 1440 resolution
+; 1920 x 1080 resolution
 ; press [ when you are in the landing to start macro
 ; press Esc to stop macro
 
@@ -19,9 +19,9 @@ return
 [::
 Loop     				; Infinite loop to go to Orbit
 {
-	Loop 40 			; Reloading the Landing 40 times
+	Loop 80 			; Reloading the Landing 80 times
 	{
-		Send, b			; Keybind for Map
+		Send, 7			; Keybind for Map
 		Sleep, 1500
 		Mouse_Move(0,500)
 		Sleep, 1500 * (A_ScreenHeight / 1080)
@@ -59,7 +59,7 @@ Loop     				; Infinite loop to go to Orbit
 	Sleep 4000
 	Send {8 Up}
 	Sleep 10000
-	Send {b}				; Keybind for Map
+	Send {7}				; Keybind for Map
 	Sleep 1000
 	MouseMove, 1285, 640, 0
 	Sleep 1500
