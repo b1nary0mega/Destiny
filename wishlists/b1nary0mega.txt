@@ -22,6 +22,110 @@ dimwishlist:item=35794111&perks=1749209109,3913600130
 dimwishlist:item=35794111&perks=1749209109,1546637391
 
 
+// Hammerhead - PVE (god-pve)
+//notes: MW: Handling; We’ll opt for Arrowhead Break, Appended Mag, and a Handling masterwork to get more handling and a more manageable recoil. From there, Rampage and Killing Tally is our preferred combo, as it is what makes the Hammerhead unique. Plus, this is the perfect combo if you want to go all in on the damage output. Rewind Rounds and Killing Tally is also an excellent combination, but there’s tons of room for mixing it up here. Fourth Time’s the Charm, Feeding Frenzy, and Envious Assassin all provide similar benefits to Rewind Rounds. Onslaught is also worth mentioning in the final column, which just got re-released and pairs perfectly with something like Rampage. Recommended Loadout: The Mountaintop, Sunshot, Hammerhead. tags:god-pve
+dimwishlist:item=211732170&perks=839105230,2420895100,3425386926,557221067
+dimwishlist:item=211732170&perks=839105230,2420895100,3425386926,2896748467
+dimwishlist:item=211732170&perks=839105230,2420895100,3425386926,95528736
+dimwishlist:item=211732170&perks=839105230,2420895100,3425386926,956288240
+dimwishlist:item=211732170&perks=839105230,2420895100,288411554,557221067
+dimwishlist:item=211732170&perks=839105230,2420895100,288411554,2896748467
+dimwishlist:item=211732170&perks=839105230,2420895100,288411554,95528736
+dimwishlist:item=211732170&perks=839105230,2420895100,288411554,956288240
+dimwishlist:item=211732170&perks=839105230,2420895100,1354429876,557221067
+dimwishlist:item=211732170&perks=839105230,2420895100,1354429876,2896748467
+dimwishlist:item=211732170&perks=839105230,2420895100,1354429876,95528736
+dimwishlist:item=211732170&perks=839105230,2420895100,1354429876,956288240
+dimwishlist:item=211732170&perks=839105230,2420895100,848860060,557221067
+dimwishlist:item=211732170&perks=839105230,2420895100,848860060,2896748467
+dimwishlist:item=211732170&perks=839105230,2420895100,848860060,95528736
+dimwishlist:item=211732170&perks=839105230,2420895100,848860060,956288240
+dimwishlist:item=211732170&perks=839105230,2420895100,3418782618,557221067
+dimwishlist:item=211732170&perks=839105230,2420895100,3418782618,2896748467
+dimwishlist:item=211732170&perks=839105230,2420895100,3418782618,95528736
+dimwishlist:item=211732170&perks=839105230,2420895100,3418782618,956288240
+dimwishlist:item=211732170&perks=839105230,2420895100,1563455254,557221067
+dimwishlist:item=211732170&perks=839105230,2420895100,1563455254,2896748467
+dimwishlist:item=211732170&perks=839105230,2420895100,1563455254,95528736
+dimwishlist:item=211732170&perks=839105230,2420895100,1563455254,956288240
+dimwishlist:item=211732170&perks=839105230,1087426260,3425386926,557221067
+dimwishlist:item=211732170&perks=839105230,1087426260,3425386926,2896748467
+dimwishlist:item=211732170&perks=839105230,1087426260,3425386926,95528736
+dimwishlist:item=211732170&perks=839105230,1087426260,3425386926,956288240
+dimwishlist:item=211732170&perks=839105230,1087426260,288411554,557221067
+dimwishlist:item=211732170&perks=839105230,1087426260,288411554,2896748467
+dimwishlist:item=211732170&perks=839105230,1087426260,288411554,95528736
+dimwishlist:item=211732170&perks=839105230,1087426260,288411554,956288240
+dimwishlist:item=211732170&perks=839105230,1087426260,1354429876,557221067
+dimwishlist:item=211732170&perks=839105230,1087426260,1354429876,2896748467
+dimwishlist:item=211732170&perks=839105230,1087426260,1354429876,95528736
+dimwishlist:item=211732170&perks=839105230,1087426260,1354429876,956288240
+dimwishlist:item=211732170&perks=839105230,1087426260,848860060,557221067
+dimwishlist:item=211732170&perks=839105230,1087426260,848860060,2896748467
+dimwishlist:item=211732170&perks=839105230,1087426260,848860060,95528736
+dimwishlist:item=211732170&perks=839105230,1087426260,848860060,956288240
+dimwishlist:item=211732170&perks=839105230,1087426260,3418782618,557221067
+dimwishlist:item=211732170&perks=839105230,1087426260,3418782618,2896748467
+dimwishlist:item=211732170&perks=839105230,1087426260,3418782618,95528736
+dimwishlist:item=211732170&perks=839105230,1087426260,3418782618,956288240
+dimwishlist:item=211732170&perks=839105230,1087426260,1563455254,557221067
+dimwishlist:item=211732170&perks=839105230,1087426260,1563455254,2896748467
+dimwishlist:item=211732170&perks=839105230,1087426260,1563455254,95528736
+dimwishlist:item=211732170&perks=839105230,1087426260,1563455254,956288240
+
+
+// Hammerhead - PVP (god-pvp)
+//notes: MW: Stability; We’ll begin by opting for higher stability through Arrowhead Break, Ricochet Rounds, and a Stability masterwork. Rampage may seem like a strange choice for perk one, but its increased damage is realistically the best thing you can get out of this column for The Crucible. As for the final column, we chose Tap the Trigger since two damage perks seemed like overkill. However, if you want to try for an extremely short TTK instead of wanting more consistency, exploring other offerings in this column isn’t a bad idea. tags:god-pvp
+dimwishlist:item=211732170&perks=839105230,1885400500,3425386926,1890422124
+dimwishlist:item=211732170&perks=839105230,1885400500,3425386926,1523649716
+dimwishlist:item=211732170&perks=839105230,1885400500,1870851715,1890422124
+dimwishlist:item=211732170&perks=839105230,1885400500,1870851715,1523649716
+dimwishlist:item=211732170&perks=839105230,1885400500,288411554,1890422124
+dimwishlist:item=211732170&perks=839105230,1885400500,288411554,1523649716
+dimwishlist:item=211732170&perks=839105230,1885400500,183938251,1890422124
+dimwishlist:item=211732170&perks=839105230,1885400500,183938251,1523649716
+
+
+// Hammerhead - PVE (pve)
+//notes: MW: Handling; We’ll opt for Arrowhead Break, Appended Mag, and a Handling masterwork to get more handling and a more manageable recoil. From there, Rampage and Killing Tally is our preferred combo, as it is what makes the Hammerhead unique. Plus, this is the perfect combo if you want to go all in on the damage output. Rewind Rounds and Killing Tally is also an excellent combination, but there’s tons of room for mixing it up here. Fourth Time’s the Charm, Feeding Frenzy, and Envious Assassin all provide similar benefits to Rewind Rounds. Onslaught is also worth mentioning in the final column, which just got re-released and pairs perfectly with something like Rampage. Recommended Loadout: The Mountaintop, Sunshot, Hammerhead. tags:pve
+dimwishlist:item=211732170&perks=3425386926,557221067
+dimwishlist:item=211732170&perks=3425386926,2896748467
+dimwishlist:item=211732170&perks=3425386926,95528736
+dimwishlist:item=211732170&perks=3425386926,956288240
+dimwishlist:item=211732170&perks=288411554,557221067
+dimwishlist:item=211732170&perks=288411554,2896748467
+dimwishlist:item=211732170&perks=288411554,95528736
+dimwishlist:item=211732170&perks=288411554,956288240
+dimwishlist:item=211732170&perks=1354429876,557221067
+dimwishlist:item=211732170&perks=1354429876,2896748467
+dimwishlist:item=211732170&perks=1354429876,95528736
+dimwishlist:item=211732170&perks=1354429876,956288240
+dimwishlist:item=211732170&perks=848860060,557221067
+dimwishlist:item=211732170&perks=848860060,2896748467
+dimwishlist:item=211732170&perks=848860060,95528736
+dimwishlist:item=211732170&perks=848860060,956288240
+dimwishlist:item=211732170&perks=3418782618,557221067
+dimwishlist:item=211732170&perks=3418782618,2896748467
+dimwishlist:item=211732170&perks=3418782618,95528736
+dimwishlist:item=211732170&perks=3418782618,956288240
+dimwishlist:item=211732170&perks=1563455254,557221067
+dimwishlist:item=211732170&perks=1563455254,2896748467
+dimwishlist:item=211732170&perks=1563455254,95528736
+dimwishlist:item=211732170&perks=1563455254,956288240
+
+
+// Hammerhead - PVP (pvp)
+//notes: MW: Stability; We’ll begin by opting for higher stability through Arrowhead Break, Ricochet Rounds, and a Stability masterwork. Rampage may seem like a strange choice for perk one, but its increased damage is realistically the best thing you can get out of this column for The Crucible. As for the final column, we chose Tap the Trigger since two damage perks seemed like overkill. However, if you want to try for an extremely short TTK instead of wanting more consistency, exploring other offerings in this column isn’t a bad idea. tags:pvp
+dimwishlist:item=211732170&perks=3425386926,1890422124
+dimwishlist:item=211732170&perks=3425386926,1523649716
+dimwishlist:item=211732170&perks=1870851715,1890422124
+dimwishlist:item=211732170&perks=1870851715,1523649716
+dimwishlist:item=211732170&perks=288411554,1890422124
+dimwishlist:item=211732170&perks=288411554,1523649716
+dimwishlist:item=211732170&perks=183938251,1890422124
+dimwishlist:item=211732170&perks=183938251,1523649716
+
+
 // Speleologist - PVE (god-pve)
 //notes: MW: StabilityWe’ll begin with Fluted Barrel, Appended Mag, and a stability masterwork for increased handling, stability, and magazine capacity. From there, Enlightened Action or Envious Assassin paired with Incandescent is our pick for general play, even if you aren’t using a Solar build (Incandescent/Scorch is a potent enough debuff on its own). However, if you’re looking for a more damage-centric option, One for All is solid as well, especially when combined with Stats for All in the first column. Recommended Loadout: Midnight Coup, Still Hunt, Speleologist. tags:god-pve
 dimwishlist:item=412251536&perks=1840239774,1087426260,3828510309,4293542123
