@@ -3374,6 +3374,102 @@ dimwishlist:item=2889501828&perks=1618208178,3650930298
 dimwishlist:item=2889501828&perks=1618208178,405677814
 
 
+// The Recluse - PVP Void (god-pve)
+//notes: MW: Range or Stability; Void Build; As a compliment for your Void build, The Recluse is pretty easy: just look for subclass-related perks like Repulsor Brace, Destabilizing Rounds, and the new Desperate Measures. We find Desperate Measures to be significantly more potent than Destabilizing Rounds here, but it entirely depends on how your chosen build functions. Recommended Loadout: Scatter Signal or Tusk of the Boar, The Recluse, Commemoration. tags:god-pve
+dimwishlist:item=3098328572&perks=1482024992,3230963543,776531651,2048641572
+dimwishlist:item=3098328572&perks=1482024992,3230963543,776531651,1926441324
+dimwishlist:item=3098328572&perks=1482024992,3230963543,776531651,2109543898
+dimwishlist:item=3098328572&perks=1482024992,3230963543,776531651,2799030358
+dimwishlist:item=3098328572&perks=1482024992,3230963543,2541826827,2048641572
+dimwishlist:item=3098328572&perks=1482024992,3230963543,2541826827,1926441324
+dimwishlist:item=3098328572&perks=1482024992,3230963543,2541826827,2109543898
+dimwishlist:item=3098328572&perks=1482024992,3230963543,2541826827,2799030358
+
+
+// The Recluse - PVE (god-pve)
+//notes: MW: Range or Stability; If you’re looking for raw power, Frenzy is a clear choice in the final column due to its multitude of buffs (even though other picks offer more damage). As for column one, there really isn’t anything outstanding or synergistic—that’s why we opt for Repulsor Brace since you’re likely to encounter Void debuffs from your team regardless of your chosen subclass. In contrast, if you instead feel comfortable getting up close and personal with your enemies, the combination of Threat Detector and Surrounded can’t be overlooked. While it does place you in a risky spot, both perks are extremely potent and synergize perfectly with one another. Recommended Loadout: Scatter Signal, The Recluse, Apex Predator. tags:god-pve
+dimwishlist:item=3098328572&perks=1482024992,3230963543,776531651,3708227201
+dimwishlist:item=3098328572&perks=1482024992,3230963543,776531651,4104185692
+dimwishlist:item=3098328572&perks=1482024992,3230963543,776531651,781192741
+dimwishlist:item=3098328572&perks=1482024992,3230963543,776531651,3007133316
+dimwishlist:item=3098328572&perks=1482024992,3230963543,4071163871,3708227201
+dimwishlist:item=3098328572&perks=1482024992,3230963543,4071163871,4104185692
+dimwishlist:item=3098328572&perks=1482024992,3230963543,4071163871,781192741
+dimwishlist:item=3098328572&perks=1482024992,3230963543,4071163871,3007133316
+dimwishlist:item=3098328572&perks=1482024992,3230963543,2541826827,3708227201
+dimwishlist:item=3098328572&perks=1482024992,3230963543,2541826827,4104185692
+dimwishlist:item=3098328572&perks=1482024992,3230963543,2541826827,781192741
+dimwishlist:item=3098328572&perks=1482024992,3230963543,2541826827,3007133316
+dimwishlist:item=3098328572&perks=1482024992,3230963543,494941759,3708227201
+dimwishlist:item=3098328572&perks=1482024992,3230963543,494941759,4104185692
+dimwishlist:item=3098328572&perks=1482024992,3230963543,494941759,781192741
+dimwishlist:item=3098328572&perks=1482024992,3230963543,494941759,3007133316
+
+
+// The Recluse - PVP Trials (god-pvp)
+//notes: MW: Range; 3v3; For our 3v3 roll, we’re simply looking at any perk that increases The Recluse’s consistency. Through our chosen set of perks (Dynamic Sway Reduction, Tap the Trigger, and a potent barrel and magazine), you won’t be gaining any extra damage but instead more accuracy for each shot you fire. tags:god-pvp
+dimwishlist:item=3098328572&perks=3250034553,1885400500,1359896290,1890422124
+dimwishlist:item=3098328572&perks=3250034553,1885400500,1359896290,1523649716
+dimwishlist:item=3098328572&perks=3250034553,1885400500,3060983774,1890422124
+dimwishlist:item=3098328572&perks=3250034553,1885400500,3060983774,1523649716
+
+
+// The Recluse - PVP (god-pvp)
+//notes: MW: Range; 6v6; Generally speaking, 6v6 Crucible modes cater more toward kill-activated perks rather than neutral ones. For that reason, we recommend Master of Arms in the final column—while not the strongest, it’s the best thing The Recluse offers. For the first column, nothing really stands out, so we recommend Dynamic Sway Reduction (that said, if another neutral perk fits your style more, this one can be easily swapped). tags:god-pvp
+dimwishlist:item=3098328572&perks=3250034553,1885400500,1359896290,3081867624
+dimwishlist:item=3098328572&perks=3250034553,1885400500,1359896290,2963273944
+dimwishlist:item=3098328572&perks=3250034553,1885400500,3060983774,3081867624
+dimwishlist:item=3098328572&perks=3250034553,1885400500,3060983774,2963273944
+
+
+// The Recluse - PVP Void (pve)
+//notes: MW: Range or Stability; Void Build; As a compliment for your Void build, The Recluse is pretty easy: just look for subclass-related perks like Repulsor Brace, Destabilizing Rounds, and the new Desperate Measures. We find Desperate Measures to be significantly more potent than Destabilizing Rounds here, but it entirely depends on how your chosen build functions. Recommended Loadout: Scatter Signal or Tusk of the Boar, The Recluse, Commemoration. tags:pve
+dimwishlist:item=3098328572&perks=776531651,2048641572
+dimwishlist:item=3098328572&perks=776531651,1926441324
+dimwishlist:item=3098328572&perks=776531651,2109543898
+dimwishlist:item=3098328572&perks=776531651,2799030358
+dimwishlist:item=3098328572&perks=2541826827,2048641572
+dimwishlist:item=3098328572&perks=2541826827,1926441324
+dimwishlist:item=3098328572&perks=2541826827,2109543898
+dimwishlist:item=3098328572&perks=2541826827,2799030358
+
+
+// The Recluse - PVE (pve)
+//notes: MW: Range or Stability; If you’re looking for raw power, Frenzy is a clear choice in the final column due to its multitude of buffs (even though other picks offer more damage). As for column one, there really isn’t anything outstanding or synergistic—that’s why we opt for Repulsor Brace since you’re likely to encounter Void debuffs from your team regardless of your chosen subclass. In contrast, if you instead feel comfortable getting up close and personal with your enemies, the combination of Threat Detector and Surrounded can’t be overlooked. While it does place you in a risky spot, both perks are extremely potent and synergize perfectly with one another. Recommended Loadout: Scatter Signal, The Recluse, Apex Predator. tags:pve
+dimwishlist:item=3098328572&perks=776531651,3708227201
+dimwishlist:item=3098328572&perks=776531651,4104185692
+dimwishlist:item=3098328572&perks=776531651,781192741
+dimwishlist:item=3098328572&perks=776531651,3007133316
+dimwishlist:item=3098328572&perks=4071163871,3708227201
+dimwishlist:item=3098328572&perks=4071163871,4104185692
+dimwishlist:item=3098328572&perks=4071163871,781192741
+dimwishlist:item=3098328572&perks=4071163871,3007133316
+dimwishlist:item=3098328572&perks=2541826827,3708227201
+dimwishlist:item=3098328572&perks=2541826827,4104185692
+dimwishlist:item=3098328572&perks=2541826827,781192741
+dimwishlist:item=3098328572&perks=2541826827,3007133316
+dimwishlist:item=3098328572&perks=494941759,3708227201
+dimwishlist:item=3098328572&perks=494941759,4104185692
+dimwishlist:item=3098328572&perks=494941759,781192741
+dimwishlist:item=3098328572&perks=494941759,3007133316
+
+
+// The Recluse - PVP Trials (pvp)
+//notes: MW: Range; 3v3; For our 3v3 roll, we’re simply looking at any perk that increases The Recluse’s consistency. Through our chosen set of perks (Dynamic Sway Reduction, Tap the Trigger, and a potent barrel and magazine), you won’t be gaining any extra damage but instead more accuracy for each shot you fire. tags:pvp
+dimwishlist:item=3098328572&perks=1359896290,1890422124
+dimwishlist:item=3098328572&perks=1359896290,1523649716
+dimwishlist:item=3098328572&perks=3060983774,1890422124
+dimwishlist:item=3098328572&perks=3060983774,1523649716
+
+
+// The Recluse - PVP (pvp)
+//notes: MW: Range; 6v6; Generally speaking, 6v6 Crucible modes cater more toward kill-activated perks rather than neutral ones. For that reason, we recommend Master of Arms in the final column—while not the strongest, it’s the best thing The Recluse offers. For the first column, nothing really stands out, so we recommend Dynamic Sway Reduction (that said, if another neutral perk fits your style more, this one can be easily swapped). tags:pvp
+dimwishlist:item=3098328572&perks=1359896290,3081867624
+dimwishlist:item=3098328572&perks=1359896290,2963273944
+dimwishlist:item=3098328572&perks=3060983774,3081867624
+dimwishlist:item=3098328572&perks=3060983774,2963273944
+
+
 // Multimach CCX - PVE (god-pve)
 //notes: MW: Range; We’ll begin building Multimach CCX for PvE with Corkscrew Rifling, Flared Magwell, and a range masterwork for an even split of stats. Attrition Orbs is our general choice for column one because of its ability to combine with Armor Charge builds; however, Under-Over is an outstanding choice if you instead plan on using it to counter Champions in high-difficulty activities. As for the final column, Frenzy’s wide range of added stats makes it an outstanding pairing with either of the perks we mentioned for column one. If you’re comfortable without a potent buff to reload speed, Kinetic Tremors is an equally powerful pick for the same reason. tags:god-pve
 dimwishlist:item=3211624072&perks=4090651448,3230963543,243981275,4104185692
