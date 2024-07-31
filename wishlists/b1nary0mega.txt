@@ -902,6 +902,19 @@ dimwishlist:item=1058098236&perks=3198323828,555281244
 dimwishlist:item=1058098236&perks=3198323828,332733060
 
 
+// BrayTech Osprey (Adept) - PVE (god-pve)
+//notes: MW: Handling; DPS; Quick Launch is the best barrel option because it increases handling speed and velocity. Impact Casing will also be the best magazine choice as it is a (while slight) increase in damage; however, Alloy Casing works fine, too. Typically, barrels and magazines don’t mean much, and the perks do the heavy lifting. Envious Assassin is an excellent pick for perk slot 1. However, Auto-Loading Holster could be better because it is easier to utilize in a full DPS rotation. In perk slot 2, Frenzy is a standard strong choice as it increases damage and Handling, making it an appealing option. Bipod and Lasting Impression are both solid choices, too. tags:god-pve
+dimwishlist:item=1064132738&perks=981914802,2822142346,968510818,1439600632
+dimwishlist:item=1064132738&perks=981914802,3796465595,968510818,1439600632
+dimwishlist:item=1064132738&perks=3525010810,2822142346,968510818,1439600632
+dimwishlist:item=1064132738&perks=3525010810,3796465595,968510818,1439600632
+
+
+// BrayTech Osprey (Adept) - PVE (pve)
+//notes: MW: Handling; DPS; Quick Launch is the best barrel option because it increases handling speed and velocity. Impact Casing will also be the best magazine choice as it is a (while slight) increase in damage; however, Alloy Casing works fine, too. Typically, barrels and magazines don’t mean much, and the perks do the heavy lifting. Envious Assassin is an excellent pick for perk slot 1. However, Auto-Loading Holster could be better because it is easier to utilize in a full DPS rotation. In perk slot 2, Frenzy is a standard strong choice as it increases damage and Handling, making it an appealing option. Bipod and Lasting Impression are both solid choices, too. tags:pve
+dimwishlist:item=1064132738&perks=968510818,1439600632
+
+
 // Chroma Rush - PVE (god-pve)
 //notes: Tier S; Chroma Rush has it all. Good base stats, good perks, and is part of a decent archetype. In PvE, it has a menagerie of perks to pick from, including Rampage, Adrenaline Junkie, and Kill Clip. In PvP, it can either be a consistent laser beam, or a lethal beast with different rolls. tags:god-pve
 dimwishlist:item=1119734784&perks=839105230,1087426260,2779035018,3425386926
