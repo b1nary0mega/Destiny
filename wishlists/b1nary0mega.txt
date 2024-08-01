@@ -126,6 +126,32 @@ dimwishlist:item=211732170&perks=183938251,1890422124
 dimwishlist:item=211732170&perks=183938251,1523649716
 
 
+// Horror's Least - PVP (god-pvp)
+//notes: MW: Range; Able to dominate in the Crucible at mid-range, Horror's Least is one of the best pulse rifles in the game. With great stats, an Adept variant, and a well-rounded perk pool, this weapon is a beast and worth grinding if you're a pulse rifle fan. tags:god-pvp
+dimwishlist:item=216983039&perks=1482024992,3142289711,1428297954,1015611457
+dimwishlist:item=216983039&perks=1482024992,3142289711,1428297954,2896038713
+dimwishlist:item=216983039&perks=1482024992,3142289711,1428297954,4104185692
+dimwishlist:item=216983039&perks=1482024992,3142289711,1570042021,1015611457
+dimwishlist:item=216983039&perks=1482024992,3142289711,1570042021,2896038713
+dimwishlist:item=216983039&perks=1482024992,3142289711,1570042021,4104185692
+dimwishlist:item=216983039&perks=4090651448,3142289711,1428297954,1015611457
+dimwishlist:item=216983039&perks=4090651448,3142289711,1428297954,2896038713
+dimwishlist:item=216983039&perks=4090651448,3142289711,1428297954,4104185692
+dimwishlist:item=216983039&perks=4090651448,3142289711,1570042021,1015611457
+dimwishlist:item=216983039&perks=4090651448,3142289711,1570042021,2896038713
+dimwishlist:item=216983039&perks=4090651448,3142289711,1570042021,4104185692
+
+
+// Horror's Least - PVP (pvp)
+//notes: MW: Range; Able to dominate in the Crucible at mid-range, Horror's Least is one of the best pulse rifles in the game. With great stats, an Adept variant, and a well-rounded perk pool, this weapon is a beast and worth grinding if you're a pulse rifle fan. tags:pvp
+dimwishlist:item=216983039&perks=1428297954,1015611457
+dimwishlist:item=216983039&perks=1428297954,2896038713
+dimwishlist:item=216983039&perks=1428297954,4104185692
+dimwishlist:item=216983039&perks=1570042021,1015611457
+dimwishlist:item=216983039&perks=1570042021,2896038713
+dimwishlist:item=216983039&perks=1570042021,4104185692
+
+
 // Speleologist - PVE (god-pve)
 //notes: MW: StabilityWe’ll begin with Fluted Barrel, Appended Mag, and a stability masterwork for increased handling, stability, and magazine capacity. From there, Enlightened Action or Envious Assassin paired with Incandescent is our pick for general play, even if you aren’t using a Solar build (Incandescent/Scorch is a potent enough debuff on its own). However, if you’re looking for a more damage-centric option, One for All is solid as well, especially when combined with Stats for All in the first column. Recommended Loadout: Midnight Coup, Still Hunt, Speleologist. tags:god-pve
 dimwishlist:item=412251536&perks=1840239774,1087426260,3828510309,4293542123
@@ -868,6 +894,54 @@ dimwishlist:item=1050806815&perks=1359896290,3081867624
 dimwishlist:item=1050806815&perks=1359896290,2963273944
 dimwishlist:item=1050806815&perks=3060983774,3081867624
 dimwishlist:item=1050806815&perks=3060983774,2963273944
+
+
+// Shadow Price (Adept) - PVE (god-pve)
+//notes: MW: Handling; Handling is often nice to have on weapons in PvE to make them feel nicer to use, meaning that we will opt for Fluted Barrel and a Handling Masterwork. For our magazine, because we have Stats For All, we can afford to go for a magazine-boosting option like Appended Mag. However, if Strategist is chosen, Flared Magwell will be a nicer pick. For our perks, Stats For All makes this weapon feel a lot less clunky due to the bump to Handling and Reload Speed. This pairs brilliantly with Voltshot, as the jolting damage from this perk will activate Stats For All, making them synergise excellently. Alternatively, Strategist and Demolitionist can be used together to create an incredibly high ability-uptime build as Strategist feeds into your Class Ability, and Demolitionist fuels your Grenade energy. tags:god-pve
+dimwishlist:item=1056103557&perks=1840239774,1087426260,880644845,2173046394
+dimwishlist:item=1056103557&perks=1840239774,1087426260,880644845,1720528630
+dimwishlist:item=1056103557&perks=1840239774,1087426260,880644845,3523296417
+dimwishlist:item=1056103557&perks=1840239774,1087426260,880644845,1906147653
+dimwishlist:item=1056103557&perks=1840239774,1087426260,3120212825,2173046394
+dimwishlist:item=1056103557&perks=1840239774,1087426260,3120212825,1720528630
+dimwishlist:item=1056103557&perks=1840239774,1087426260,3120212825,3523296417
+dimwishlist:item=1056103557&perks=1840239774,1087426260,3120212825,1906147653
+dimwishlist:item=1056103557&perks=1840239774,3230963543,880644845,2173046394
+dimwishlist:item=1056103557&perks=1840239774,3230963543,880644845,1720528630
+dimwishlist:item=1056103557&perks=1840239774,3230963543,880644845,3523296417
+dimwishlist:item=1056103557&perks=1840239774,3230963543,880644845,1906147653
+dimwishlist:item=1056103557&perks=1840239774,3230963543,3120212825,2173046394
+dimwishlist:item=1056103557&perks=1840239774,3230963543,3120212825,1720528630
+dimwishlist:item=1056103557&perks=1840239774,3230963543,3120212825,3523296417
+dimwishlist:item=1056103557&perks=1840239774,3230963543,3120212825,1906147653
+
+
+// Shadow Price (Adept) - PVP (god-pvp)
+//notes: MW: Stability or Range; Shadow Price is massively carried by its weapon archetype and decent stats, as Smallbore, Accurised Rounds, and a Stability or Range masterwork can make this weapon have some solid stats. For perk 1, Strategist is the best option as it will feed back our Class Ability, which can provide some versatility and allow players to play around their abilities a bit more. Gutshot Straight is the best option in slot 2 as it can provide some lenience for players that may not be as accurate. However, it is mainly the best optionas as other perks in this column are simply not well-suited for PvP. tags:god-pvp
+dimwishlist:item=1056103557&perks=1482024992,3142289711,880644845,1365187766
+dimwishlist:item=1056103557&perks=1482024992,3142289711,880644845,4200236906
+dimwishlist:item=1056103557&perks=1482024992,3142289711,3120212825,1365187766
+dimwishlist:item=1056103557&perks=1482024992,3142289711,3120212825,4200236906
+
+
+// Shadow Price (Adept) - PVE (pve)
+//notes: MW: Handling; Handling is often nice to have on weapons in PvE to make them feel nicer to use, meaning that we will opt for Fluted Barrel and a Handling Masterwork. For our magazine, because we have Stats For All, we can afford to go for a magazine-boosting option like Appended Mag. However, if Strategist is chosen, Flared Magwell will be a nicer pick. For our perks, Stats For All makes this weapon feel a lot less clunky due to the bump to Handling and Reload Speed. This pairs brilliantly with Voltshot, as the jolting damage from this perk will activate Stats For All, making them synergise excellently. Alternatively, Strategist and Demolitionist can be used together to create an incredibly high ability-uptime build as Strategist feeds into your Class Ability, and Demolitionist fuels your Grenade energy. tags:pve
+dimwishlist:item=1056103557&perks=880644845,2173046394
+dimwishlist:item=1056103557&perks=880644845,1720528630
+dimwishlist:item=1056103557&perks=880644845,3523296417
+dimwishlist:item=1056103557&perks=880644845,1906147653
+dimwishlist:item=1056103557&perks=3120212825,2173046394
+dimwishlist:item=1056103557&perks=3120212825,1720528630
+dimwishlist:item=1056103557&perks=3120212825,3523296417
+dimwishlist:item=1056103557&perks=3120212825,1906147653
+
+
+// Shadow Price (Adept) - PVP (pvp)
+//notes: MW: Stability or Range; Shadow Price is massively carried by its weapon archetype and decent stats, as Smallbore, Accurised Rounds, and a Stability or Range masterwork can make this weapon have some solid stats. For perk 1, Strategist is the best option as it will feed back our Class Ability, which can provide some versatility and allow players to play around their abilities a bit more. Gutshot Straight is the best option in slot 2 as it can provide some lenience for players that may not be as accurate. However, it is mainly the best optionas as other perks in this column are simply not well-suited for PvP. tags:pvp
+dimwishlist:item=1056103557&perks=880644845,1365187766
+dimwishlist:item=1056103557&perks=880644845,4200236906
+dimwishlist:item=1056103557&perks=3120212825,1365187766
+dimwishlist:item=1056103557&perks=3120212825,4200236906
 
 
 // Timeworn Wayfarer - PVE (god-pve,pve)
@@ -2449,6 +2523,54 @@ dimwishlist:item=2249996761&perks=2938480696,3891536761
 dimwishlist:item=2249996761&perks=2938480696,1549370717
 
 
+// Shadow Price - PVE (god-pve)
+//notes: MW: Handling; Handling is often nice to have on weapons in PvE to make them feel nicer to use, meaning that we will opt for Fluted Barrel and a Handling Masterwork. For our magazine, because we have Stats For All, we can afford to go for a magazine-boosting option like Appended Mag. However, if Strategist is chosen, Flared Magwell will be a nicer pick. For our perks, Stats For All makes this weapon feel a lot less clunky due to the bump to Handling and Reload Speed. This pairs brilliantly with Voltshot, as the jolting damage from this perk will activate Stats For All, making them synergise excellently. Alternatively, Strategist and Demolitionist can be used together to create an incredibly high ability-uptime build as Strategist feeds into your Class Ability, and Demolitionist fuels your Grenade energy. tags:god-pve
+dimwishlist:item=2322926844&perks=1840239774,1087426260,880644845,2173046394
+dimwishlist:item=2322926844&perks=1840239774,1087426260,880644845,3523296417
+dimwishlist:item=2322926844&perks=1840239774,1087426260,880644845,1720528630
+dimwishlist:item=2322926844&perks=1840239774,1087426260,880644845,1906147653
+dimwishlist:item=2322926844&perks=1840239774,1087426260,3120212825,2173046394
+dimwishlist:item=2322926844&perks=1840239774,1087426260,3120212825,3523296417
+dimwishlist:item=2322926844&perks=1840239774,1087426260,3120212825,1720528630
+dimwishlist:item=2322926844&perks=1840239774,1087426260,3120212825,1906147653
+dimwishlist:item=2322926844&perks=1840239774,3230963543,880644845,2173046394
+dimwishlist:item=2322926844&perks=1840239774,3230963543,880644845,3523296417
+dimwishlist:item=2322926844&perks=1840239774,3230963543,880644845,1720528630
+dimwishlist:item=2322926844&perks=1840239774,3230963543,880644845,1906147653
+dimwishlist:item=2322926844&perks=1840239774,3230963543,3120212825,2173046394
+dimwishlist:item=2322926844&perks=1840239774,3230963543,3120212825,3523296417
+dimwishlist:item=2322926844&perks=1840239774,3230963543,3120212825,1720528630
+dimwishlist:item=2322926844&perks=1840239774,3230963543,3120212825,1906147653
+
+
+// Shadow Price - PVP (god-pvp)
+//notes: MW: Stability or Range; Shadow Price is massively carried by its weapon archetype and decent stats, as Smallbore, Accurised Rounds, and a Stability or Range masterwork can make this weapon have some solid stats. For perk 1, Strategist is the best option as it will feed back our Class Ability, which can provide some versatility and allow players to play around their abilities a bit more. Gutshot Straight is the best option in slot 2 as it can provide some lenience for players that may not be as accurate. However, it is mainly the best optionas as other perks in this column are simply not well-suited for PvP. tags:god-pvp
+dimwishlist:item=2322926844&perks=1482024992,3142289711,880644845,1365187766
+dimwishlist:item=2322926844&perks=1482024992,3142289711,880644845,4200236906
+dimwishlist:item=2322926844&perks=1482024992,3142289711,3120212825,1365187766
+dimwishlist:item=2322926844&perks=1482024992,3142289711,3120212825,4200236906
+
+
+// Shadow Price - PVE (pve)
+//notes: MW: Handling; Handling is often nice to have on weapons in PvE to make them feel nicer to use, meaning that we will opt for Fluted Barrel and a Handling Masterwork. For our magazine, because we have Stats For All, we can afford to go for a magazine-boosting option like Appended Mag. However, if Strategist is chosen, Flared Magwell will be a nicer pick. For our perks, Stats For All makes this weapon feel a lot less clunky due to the bump to Handling and Reload Speed. This pairs brilliantly with Voltshot, as the jolting damage from this perk will activate Stats For All, making them synergise excellently. Alternatively, Strategist and Demolitionist can be used together to create an incredibly high ability-uptime build as Strategist feeds into your Class Ability, and Demolitionist fuels your Grenade energy. tags:pve
+dimwishlist:item=2322926844&perks=880644845,2173046394
+dimwishlist:item=2322926844&perks=880644845,1720528630
+dimwishlist:item=2322926844&perks=880644845,3523296417
+dimwishlist:item=2322926844&perks=880644845,1906147653
+dimwishlist:item=2322926844&perks=3120212825,2173046394
+dimwishlist:item=2322926844&perks=3120212825,1720528630
+dimwishlist:item=2322926844&perks=3120212825,3523296417
+dimwishlist:item=2322926844&perks=3120212825,1906147653
+
+
+// Shadow Price - PVP (pvp)
+//notes: MW: Stability or Range; Shadow Price is massively carried by its weapon archetype and decent stats, as Smallbore, Accurised Rounds, and a Stability or Range masterwork can make this weapon have some solid stats. For perk 1, Strategist is the best option as it will feed back our Class Ability, which can provide some versatility and allow players to play around their abilities a bit more. Gutshot Straight is the best option in slot 2 as it can provide some lenience for players that may not be as accurate. However, it is mainly the best optionas as other perks in this column are simply not well-suited for PvP. tags:pvp
+dimwishlist:item=2322926844&perks=880644845,1365187766
+dimwishlist:item=2322926844&perks=880644845,4200236906
+dimwishlist:item=2322926844&perks=3120212825,1365187766
+dimwishlist:item=2322926844&perks=3120212825,4200236906
+
+
 // Breachlight - PVE Grenade Build (god-pve)
 //notes: PVE Grenade Build. Aim for Fluted Barrel, Tactical Mag, and a reload speed masterwork for a nice sweep of stat bonuses. tags:god-pve
 dimwishlist:item=2328923181&perks=4090651448,106909392,3523296417,11612903
@@ -2982,14 +3104,6 @@ dimwishlist:item=2591257541&perks=839105230,1483536627,3418782618,3708227201
 dimwishlist:item=2591257541&perks=839105230,1483536627,3418782618,781192741
 
 
-// Scintillation - PVP (god-pvp)
-//notes: MW: Charge or Range; Targeting Adj; Start with Smallbore for its bumps to Stability and Range. The Stability helps keep the reticle central after each shot and the Range ensures accuracy by keeping the reticle tight to opponents when aiming for headshots at longer distances. Add Accelerated Coils to get shots off faster, giving opponents less time to maneuver out of sight. The main perks of Scintillation for this god roll combine to reward a run-and-gun playstyle for Guardians who like to get in the thick of it and show an accurate hand. Cornered is the first pick for its decrease to Charge Time when near enemies. As Scintillation is a one-shot to the head for the kill weapon, the combination of perks means getting off a shot so quickly can instantly remove an enemy from the arena before they can even react to this onrushing Power weapon. Finish off with Hatchling which not only enhances a potential Strand build focused on Hatchlings, it also produces them from kills which can cause havoc to enemies as the Threadling chases them down and causes a good chunk of damage if it latches on.  tags:god-pvp
-dimwishlist:item=2591257541&perks=1482024992,689005463,1799762209,831391274
-dimwishlist:item=2591257541&perks=1482024992,689005463,1799762209,102912326
-dimwishlist:item=2591257541&perks=1482024992,689005463,1008128453,831391274
-dimwishlist:item=2591257541&perks=1482024992,689005463,1008128453,102912326
-
-
 // Scintillation - PVE (pve)
 //notes: MW: Charge Time; Backup Mag; Bringing some of the highest damage in recent years, Linear Fusion Rifles still hold a solid place in the sandbox for providing great damage output and feeling great to use. This Scintillation PvE god roll taps into some of the best features a Linear Fusion Rifle can carry. An essential perk to start with is Arrowhead Brake, which ensures Recoil reaches maximum efficiency at 100 and keeps shots vertical after each round fired. The added Handling ensures Scintillation is ready to go quickly when called into action. Add Ionized Battery in the second slot to increase the Magazine size. This extra shot is an essential part of building this god roll when combined with the main perk set. The main perk set is a tried and tested powerful combination in the current sandbox that can easily take down some of the toughest enemies. Start with Envious Assassin which has the potential to double the Magazine size and number of shots carried. This means with the Backup Mag mod and Ionized Battery, the total shot count can reach 14. Throw on Bait and Switch for the final perk to have the potential setup of a 30 percent damage increase for almost every shot. This then ties in perfectly with the Veist Stinger Origin Trait which can then further Reload the Magazine as the shot count gets lower. This god roll means Scintillation can do some serious damage when it all comes together. tags:pve
 dimwishlist:item=2591257541&perks=968510818,3078487919
@@ -3008,14 +3122,6 @@ dimwishlist:item=2591257541&perks=3418782618,3078487919
 dimwishlist:item=2591257541&perks=3418782618,3744057135
 dimwishlist:item=2591257541&perks=3418782618,3708227201
 dimwishlist:item=2591257541&perks=3418782618,781192741
-
-
-// Scintillation - PVP (pvp)
-//notes: MW: Charge or Range; Targeting Adj; Start with Smallbore for its bumps to Stability and Range. The Stability helps keep the reticle central after each shot and the Range ensures accuracy by keeping the reticle tight to opponents when aiming for headshots at longer distances. Add Accelerated Coils to get shots off faster, giving opponents less time to maneuver out of sight. The main perks of Scintillation for this god roll combine to reward a run-and-gun playstyle for Guardians who like to get in the thick of it and show an accurate hand. Cornered is the first pick for its decrease to Charge Time when near enemies. As Scintillation is a one-shot to the head for the kill weapon, the combination of perks means getting off a shot so quickly can instantly remove an enemy from the arena before they can even react to this onrushing Power weapon. Finish off with Hatchling which not only enhances a potential Strand build focused on Hatchlings, it also produces them from kills which can cause havoc to enemies as the Threadling chases them down and causes a good chunk of damage if it latches on.  tags:pvp
-dimwishlist:item=2591257541&perks=1799762209,831391274
-dimwishlist:item=2591257541&perks=1799762209,102912326
-dimwishlist:item=2591257541&perks=1008128453,831391274
-dimwishlist:item=2591257541&perks=1008128453,102912326
 
 
 // Leviathan's Breath - PVE (god-pve)
@@ -3481,6 +3587,10 @@ dimwishlist:item=3098328572&perks=1359896290,3081867624
 dimwishlist:item=3098328572&perks=1359896290,2963273944
 dimwishlist:item=3098328572&perks=3060983774,3081867624
 dimwishlist:item=3098328572&perks=3060983774,2963273944
+
+
+// Final Warning - Exotic ()
+dimwishlist:item=3121540812&perks=3250034553,3230963543,1302052952,3438534621
 
 
 // Multimach CCX - PVE (god-pve)
