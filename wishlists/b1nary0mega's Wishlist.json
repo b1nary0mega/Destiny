@@ -1,5 +1,5 @@
 {
-    "description": "Personally curated list of [Demi]God rolls. Mostly sourced from Blueberries.gg, Shacknews, Streamers (Mactics, Datto, & Azteccross), and tested in-game.",
+    "description": "Personally curated list of [Demi]God rolls. Mostly sourced from Blueberries.gg and tested in-game.",
     "name": "b1nary0mega's Wishlist",
     "data": [
         {
@@ -3089,48 +3089,6 @@
             ],
             "tags": [
                 "PVE"
-            ]
-        },
-        {
-            "description": "MW: Charge or Range; Targeting Adj; Start with Smallbore for its bumps to Stability and Range. The Stability helps keep the reticle central after each shot and the Range ensures accuracy by keeping the reticle tight to opponents when aiming for headshots at longer distances. Add Accelerated Coils to get shots off faster, giving opponents less time to maneuver out of sight. The main perks of Scintillation for this god roll combine to reward a run-and-gun playstyle for Guardians who like to get in the thick of it and show an accurate hand. Cornered is the first pick for its decrease to Charge Time when near enemies. As Scintillation is a one-shot to the head for the kill weapon, the combination of perks means getting off a shot so quickly can instantly remove an enemy from the arena before they can even react to this onrushing Power weapon. Finish off with Hatchling which not only enhances a potential Strand build focused on Hatchlings, it also produces them from kills which can cause havoc to enemies as the Threadling chases them down and causes a good chunk of damage if it latches on. ",
-            "hash": 2591257541,
-            "name": "PVP",
-            "plugs": [
-                [
-                    1482024992
-                ],
-                [
-                    689005463
-                ],
-                [
-                    1799762209,
-                    1008128453
-                ],
-                [
-                    831391274,
-                    102912326
-                ]
-            ],
-            "tags": [
-                "GodPVP"
-            ]
-        },
-        {
-            "description": "MW: Charge or Range; Targeting Adj; Start with Smallbore for its bumps to Stability and Range. The Stability helps keep the reticle central after each shot and the Range ensures accuracy by keeping the reticle tight to opponents when aiming for headshots at longer distances. Add Accelerated Coils to get shots off faster, giving opponents less time to maneuver out of sight. The main perks of Scintillation for this god roll combine to reward a run-and-gun playstyle for Guardians who like to get in the thick of it and show an accurate hand. Cornered is the first pick for its decrease to Charge Time when near enemies. As Scintillation is a one-shot to the head for the kill weapon, the combination of perks means getting off a shot so quickly can instantly remove an enemy from the arena before they can even react to this onrushing Power weapon. Finish off with Hatchling which not only enhances a potential Strand build focused on Hatchlings, it also produces them from kills which can cause havoc to enemies as the Threadling chases them down and causes a good chunk of damage if it latches on. ",
-            "hash": 2591257541,
-            "name": "PVP",
-            "plugs": [
-                [
-                    1799762209,
-                    1008128453
-                ],
-                [
-                    831391274,
-                    102912326
-                ]
-            ],
-            "tags": [
-                "PVP"
             ]
         },
         {
@@ -6909,6 +6867,469 @@
                 [
                     1890422124,
                     1523649716
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "MW: Range or Stability; Void Build; As a compliment for your Void build, The Recluse is pretty easy: just look for subclass-related perks like Repulsor Brace, Destabilizing Rounds, and the new Desperate Measures. We find Desperate Measures to be significantly more potent than Destabilizing Rounds here, but it entirely depends on how your chosen build functions. Recommended Loadout: Scatter Signal or Tusk of the Boar, The Recluse, Commemoration.",
+            "hash": 3098328572,
+            "name": "PVP Void",
+            "plugs": [
+                [
+                    1482024992
+                ],
+                [
+                    3230963543
+                ],
+                [
+                    776531651,
+                    2541826827
+                ],
+                [
+                    2048641572,
+                    1926441324,
+                    2109543898,
+                    2799030358
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "MW: Range or Stability; Void Build; As a compliment for your Void build, The Recluse is pretty easy: just look for subclass-related perks like Repulsor Brace, Destabilizing Rounds, and the new Desperate Measures. We find Desperate Measures to be significantly more potent than Destabilizing Rounds here, but it entirely depends on how your chosen build functions. Recommended Loadout: Scatter Signal or Tusk of the Boar, The Recluse, Commemoration.",
+            "hash": 3098328572,
+            "name": "PVP Void",
+            "plugs": [
+                [
+                    776531651,
+                    2541826827
+                ],
+                [
+                    2048641572,
+                    1926441324,
+                    2109543898,
+                    2799030358
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "MW: Range or Stability; If you’re looking for raw power, Frenzy is a clear choice in the final column due to its multitude of buffs (even though other picks offer more damage). As for column one, there really isn’t anything outstanding or synergistic—that’s why we opt for Repulsor Brace since you’re likely to encounter Void debuffs from your team regardless of your chosen subclass. In contrast, if you instead feel comfortable getting up close and personal with your enemies, the combination of Threat Detector and Surrounded can’t be overlooked. While it does place you in a risky spot, both perks are extremely potent and synergize perfectly with one another. Recommended Loadout: Scatter Signal, The Recluse, Apex Predator.",
+            "hash": 3098328572,
+            "name": "PVE",
+            "plugs": [
+                [
+                    1482024992
+                ],
+                [
+                    3230963543
+                ],
+                [
+                    776531651,
+                    4071163871,
+                    2541826827,
+                    494941759
+                ],
+                [
+                    3708227201,
+                    4104185692,
+                    781192741,
+                    3007133316
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "MW: Range or Stability; If you’re looking for raw power, Frenzy is a clear choice in the final column due to its multitude of buffs (even though other picks offer more damage). As for column one, there really isn’t anything outstanding or synergistic—that’s why we opt for Repulsor Brace since you’re likely to encounter Void debuffs from your team regardless of your chosen subclass. In contrast, if you instead feel comfortable getting up close and personal with your enemies, the combination of Threat Detector and Surrounded can’t be overlooked. While it does place you in a risky spot, both perks are extremely potent and synergize perfectly with one another. Recommended Loadout: Scatter Signal, The Recluse, Apex Predator.",
+            "hash": 3098328572,
+            "name": "PVE",
+            "plugs": [
+                [
+                    776531651,
+                    4071163871,
+                    2541826827,
+                    494941759
+                ],
+                [
+                    3708227201,
+                    4104185692,
+                    781192741,
+                    3007133316
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "MW: Range; 3v3; For our 3v3 roll, we’re simply looking at any perk that increases The Recluse’s consistency. Through our chosen set of perks (Dynamic Sway Reduction, Tap the Trigger, and a potent barrel and magazine), you won’t be gaining any extra damage but instead more accuracy for each shot you fire.",
+            "hash": 3098328572,
+            "name": "PVP Trials",
+            "plugs": [
+                [
+                    3250034553
+                ],
+                [
+                    1885400500
+                ],
+                [
+                    1359896290,
+                    3060983774
+                ],
+                [
+                    1890422124,
+                    1523649716
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "MW: Range; 3v3; For our 3v3 roll, we’re simply looking at any perk that increases The Recluse’s consistency. Through our chosen set of perks (Dynamic Sway Reduction, Tap the Trigger, and a potent barrel and magazine), you won’t be gaining any extra damage but instead more accuracy for each shot you fire.",
+            "hash": 3098328572,
+            "name": "PVP Trials",
+            "plugs": [
+                [
+                    1359896290,
+                    3060983774
+                ],
+                [
+                    1890422124,
+                    1523649716
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "MW: Range; 6v6; Generally speaking, 6v6 Crucible modes cater more toward kill-activated perks rather than neutral ones. For that reason, we recommend Master of Arms in the final column—while not the strongest, it’s the best thing The Recluse offers. For the first column, nothing really stands out, so we recommend Dynamic Sway Reduction (that said, if another neutral perk fits your style more, this one can be easily swapped).",
+            "hash": 3098328572,
+            "name": "PVP",
+            "plugs": [
+                [
+                    3250034553
+                ],
+                [
+                    1885400500
+                ],
+                [
+                    1359896290,
+                    3060983774
+                ],
+                [
+                    3081867624,
+                    2963273944
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "MW: Range; 6v6; Generally speaking, 6v6 Crucible modes cater more toward kill-activated perks rather than neutral ones. For that reason, we recommend Master of Arms in the final column—while not the strongest, it’s the best thing The Recluse offers. For the first column, nothing really stands out, so we recommend Dynamic Sway Reduction (that said, if another neutral perk fits your style more, this one can be easily swapped).",
+            "hash": 3098328572,
+            "name": "PVP",
+            "plugs": [
+                [
+                    1359896290,
+                    3060983774
+                ],
+                [
+                    3081867624,
+                    2963273944
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "MW: Handling; DPS; Quick Launch is the best barrel option because it increases handling speed and velocity. Impact Casing will also be the best magazine choice as it is a (while slight) increase in damage; however, Alloy Casing works fine, too. Typically, barrels and magazines don’t mean much, and the perks do the heavy lifting. Envious Assassin is an excellent pick for perk slot 1. However, Auto-Loading Holster could be better because it is easier to utilize in a full DPS rotation. In perk slot 2, Frenzy is a standard strong choice as it increases damage and Handling, making it an appealing option. Bipod and Lasting Impression are both solid choices, too.",
+            "hash": 1064132738,
+            "name": "PVE",
+            "plugs": [
+                [
+                    981914802,
+                    3525010810
+                ],
+                [
+                    2822142346,
+                    3796465595
+                ],
+                [
+                    968510818
+                ],
+                [
+                    1439600632
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "MW: Handling; DPS; Quick Launch is the best barrel option because it increases handling speed and velocity. Impact Casing will also be the best magazine choice as it is a (while slight) increase in damage; however, Alloy Casing works fine, too. Typically, barrels and magazines don’t mean much, and the perks do the heavy lifting. Envious Assassin is an excellent pick for perk slot 1. However, Auto-Loading Holster could be better because it is easier to utilize in a full DPS rotation. In perk slot 2, Frenzy is a standard strong choice as it increases damage and Handling, making it an appealing option. Bipod and Lasting Impression are both solid choices, too.",
+            "hash": 1064132738,
+            "name": "PVE",
+            "plugs": [
+                [
+                    968510818
+                ],
+                [
+                    1439600632
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 3121540812,
+            "name": "Exotic",
+            "plugs": [
+                [
+                    3250034553
+                ],
+                [
+                    3230963543
+                ],
+                [
+                    1302052952
+                ],
+                [
+                    3438534621
+                ]
+            ],
+            "tags": []
+        },
+        {
+            "description": "MW: Handling; Handling is often nice to have on weapons in PvE to make them feel nicer to use, meaning that we will opt for Fluted Barrel and a Handling Masterwork. For our magazine, because we have Stats For All, we can afford to go for a magazine-boosting option like Appended Mag. However, if Strategist is chosen, Flared Magwell will be a nicer pick. For our perks, Stats For All makes this weapon feel a lot less clunky due to the bump to Handling and Reload Speed. This pairs brilliantly with Voltshot, as the jolting damage from this perk will activate Stats For All, making them synergise excellently. Alternatively, Strategist and Demolitionist can be used together to create an incredibly high ability-uptime build as Strategist feeds into your Class Ability, and Demolitionist fuels your Grenade energy.",
+            "hash": 2322926844,
+            "name": "PVE",
+            "plugs": [
+                [
+                    1840239774
+                ],
+                [
+                    1087426260,
+                    3230963543
+                ],
+                [
+                    880644845,
+                    3120212825
+                ],
+                [
+                    2173046394,
+                    3523296417,
+                    1720528630,
+                    1906147653
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "MW: Handling; Handling is often nice to have on weapons in PvE to make them feel nicer to use, meaning that we will opt for Fluted Barrel and a Handling Masterwork. For our magazine, because we have Stats For All, we can afford to go for a magazine-boosting option like Appended Mag. However, if Strategist is chosen, Flared Magwell will be a nicer pick. For our perks, Stats For All makes this weapon feel a lot less clunky due to the bump to Handling and Reload Speed. This pairs brilliantly with Voltshot, as the jolting damage from this perk will activate Stats For All, making them synergise excellently. Alternatively, Strategist and Demolitionist can be used together to create an incredibly high ability-uptime build as Strategist feeds into your Class Ability, and Demolitionist fuels your Grenade energy.",
+            "hash": 2322926844,
+            "name": "PVE",
+            "plugs": [
+                [
+                    880644845,
+                    3120212825
+                ],
+                [
+                    2173046394,
+                    1720528630,
+                    3523296417,
+                    1906147653
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "MW: Stability or Range; Shadow Price is massively carried by its weapon archetype and decent stats, as Smallbore, Accurised Rounds, and a Stability or Range masterwork can make this weapon have some solid stats. For perk 1, Strategist is the best option as it will feed back our Class Ability, which can provide some versatility and allow players to play around their abilities a bit more. Gutshot Straight is the best option in slot 2 as it can provide some lenience for players that may not be as accurate. However, it is mainly the best optionas as other perks in this column are simply not well-suited for PvP.",
+            "hash": 2322926844,
+            "name": "PVP",
+            "plugs": [
+                [
+                    1482024992
+                ],
+                [
+                    3142289711
+                ],
+                [
+                    880644845,
+                    3120212825
+                ],
+                [
+                    1365187766,
+                    4200236906
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "MW: Handling; Handling is often nice to have on weapons in PvE to make them feel nicer to use, meaning that we will opt for Fluted Barrel and a Handling Masterwork. For our magazine, because we have Stats For All, we can afford to go for a magazine-boosting option like Appended Mag. However, if Strategist is chosen, Flared Magwell will be a nicer pick. For our perks, Stats For All makes this weapon feel a lot less clunky due to the bump to Handling and Reload Speed. This pairs brilliantly with Voltshot, as the jolting damage from this perk will activate Stats For All, making them synergise excellently. Alternatively, Strategist and Demolitionist can be used together to create an incredibly high ability-uptime build as Strategist feeds into your Class Ability, and Demolitionist fuels your Grenade energy.",
+            "hash": 1056103557,
+            "name": "PVE",
+            "plugs": [
+                [
+                    1840239774
+                ],
+                [
+                    1087426260,
+                    3230963543
+                ],
+                [
+                    880644845,
+                    3120212825
+                ],
+                [
+                    2173046394,
+                    1720528630,
+                    3523296417,
+                    1906147653
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "MW: Stability or Range; Shadow Price is massively carried by its weapon archetype and decent stats, as Smallbore, Accurised Rounds, and a Stability or Range masterwork can make this weapon have some solid stats. For perk 1, Strategist is the best option as it will feed back our Class Ability, which can provide some versatility and allow players to play around their abilities a bit more. Gutshot Straight is the best option in slot 2 as it can provide some lenience for players that may not be as accurate. However, it is mainly the best optionas as other perks in this column are simply not well-suited for PvP.",
+            "hash": 2322926844,
+            "name": "PVP",
+            "plugs": [
+                [
+                    880644845,
+                    3120212825
+                ],
+                [
+                    1365187766,
+                    4200236906
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "MW: Handling; Handling is often nice to have on weapons in PvE to make them feel nicer to use, meaning that we will opt for Fluted Barrel and a Handling Masterwork. For our magazine, because we have Stats For All, we can afford to go for a magazine-boosting option like Appended Mag. However, if Strategist is chosen, Flared Magwell will be a nicer pick. For our perks, Stats For All makes this weapon feel a lot less clunky due to the bump to Handling and Reload Speed. This pairs brilliantly with Voltshot, as the jolting damage from this perk will activate Stats For All, making them synergise excellently. Alternatively, Strategist and Demolitionist can be used together to create an incredibly high ability-uptime build as Strategist feeds into your Class Ability, and Demolitionist fuels your Grenade energy.",
+            "hash": 1056103557,
+            "name": "PVE",
+            "plugs": [
+                [
+                    880644845,
+                    3120212825
+                ],
+                [
+                    2173046394,
+                    1720528630,
+                    3523296417,
+                    1906147653
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "MW: Stability or Range; Shadow Price is massively carried by its weapon archetype and decent stats, as Smallbore, Accurised Rounds, and a Stability or Range masterwork can make this weapon have some solid stats. For perk 1, Strategist is the best option as it will feed back our Class Ability, which can provide some versatility and allow players to play around their abilities a bit more. Gutshot Straight is the best option in slot 2 as it can provide some lenience for players that may not be as accurate. However, it is mainly the best optionas as other perks in this column are simply not well-suited for PvP.",
+            "hash": 1056103557,
+            "name": "PVP",
+            "plugs": [
+                [
+                    1482024992
+                ],
+                [
+                    3142289711
+                ],
+                [
+                    880644845,
+                    3120212825
+                ],
+                [
+                    1365187766,
+                    4200236906
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "MW: Stability or Range; Shadow Price is massively carried by its weapon archetype and decent stats, as Smallbore, Accurised Rounds, and a Stability or Range masterwork can make this weapon have some solid stats. For perk 1, Strategist is the best option as it will feed back our Class Ability, which can provide some versatility and allow players to play around their abilities a bit more. Gutshot Straight is the best option in slot 2 as it can provide some lenience for players that may not be as accurate. However, it is mainly the best optionas as other perks in this column are simply not well-suited for PvP.",
+            "hash": 1056103557,
+            "name": "PVP",
+            "plugs": [
+                [
+                    880644845,
+                    3120212825
+                ],
+                [
+                    1365187766,
+                    4200236906
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "MW: Range; Able to dominate in the Crucible at mid-range, Horror's Least is one of the best pulse rifles in the game. With great stats, an Adept variant, and a well-rounded perk pool, this weapon is a beast and worth grinding if you're a pulse rifle fan.",
+            "hash": 216983039,
+            "name": "PVP",
+            "plugs": [
+                [
+                    1482024992,
+                    4090651448
+                ],
+                [
+                    3142289711
+                ],
+                [
+                    1428297954,
+                    1570042021
+                ],
+                [
+                    1015611457,
+                    2896038713,
+                    4104185692
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "MW: Range; Able to dominate in the Crucible at mid-range, Horror's Least is one of the best pulse rifles in the game. With great stats, an Adept variant, and a well-rounded perk pool, this weapon is a beast and worth grinding if you're a pulse rifle fan.",
+            "hash": 216983039,
+            "name": "PVP",
+            "plugs": [
+                [
+                    1428297954,
+                    1570042021
+                ],
+                [
+                    1015611457,
+                    2896038713,
+                    4104185692
                 ]
             ],
             "tags": [
