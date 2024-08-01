@@ -10,4 +10,4 @@ If you don't understand how DIM wishlists work, let me [teach you how to fish](h
 
 ## How
 
-IF after the above disclaimer you still want to utilize my Wish List, then you can add 'https://raw.githubusercontent.com/b1nary0mega/Destiny/main/wishlists/b1nary0mega.txt' to your [DIM Wishlist](https://app.destinyitemmanager.com/settings#wishlist).
+IF after the above disclaimer you still want to utilize my Wish List, then you can add `https://raw.githubusercontent.com/b1nary0mega/Destiny/main/wishlists/b1nary0mega.txt` to your [DIM Wishlist](https://app.destinyitemmanager.com/settings#wishlist).
