@@ -6,7 +6,7 @@
 - A lot of stuff is automated and has, on rare occassions, presented unintended errors; use at your own risk.
 - Updates are irregular and vary on when the programs find something worth saving; use at your own risk.
 
-If you don't understand how DIM wishlists work, let me \`[teach you how to fish](https://gprivate.com/6cje7)\'.
+If you don't understand how DIM wishlists work, let me [teach you how to fish](https://gprivate.com/6cje7).
 
 ## How
 
