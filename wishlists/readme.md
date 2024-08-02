@@ -10,7 +10,7 @@ Here are some items to try and be on the watch for. I would consider them staple
 
 ## Weapons
 
-- 01 - Eager Edge Sword (Half-Truths, Falling Guilloten)
+- 01 - Eager Edge Sword (Half-Truths, Falling Guillotine)
 - 02 - Rocket Sidearm (Indebted Kindness, The Call, Aberrant Action)
 - 03 - Waveframe Grenade Launcher (Forbarence - ambitious assassin + chain reaction)
 - 04 - Sunshot
