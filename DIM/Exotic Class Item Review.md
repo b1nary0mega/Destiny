@@ -2,6 +2,8 @@ While the data below is largely based on Mactics review, I've also personally te
 
 Personally, as there are 64 possible combinations for each exotic class item and you never know when/what the meta is going to change to, I will personally be keeping a single copy of each one I can collect.
 
+One last note, I only play Hunter and Titan. You're on your own if you're a ~~heathen~~ Warlock.
+
 without further ado...
 
 ---
