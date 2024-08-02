@@ -6,7 +6,7 @@ This is my primary wishlist, replacing the default DIM [Voltron List](https://gi
 
 ---
 
-Here are some items to try and be on the watch for. I would consider them staples/standards.
+Here are some items to be on the lookout for. I would consider these staples.
 
 ## Weapons
 
