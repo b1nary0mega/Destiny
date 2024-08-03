@@ -3806,9 +3806,7 @@ dimwishlist:item=3366545721&perks=4085959009,781192741
 // Indebted Kindness - PVE (god-pve)
 //notes: MW: Velocity; Regardless of what activity you’re thinking of playing, Indebted Kindness’ most important stat is velocity. Because of this, we’ll be using Quick Launch, High-Velocity Rounds, a velocity masterwork, and Impulse Amplifier. Beacon Rounds, a perk currently exclusive to rocket-assisted sidearms, is also a great choice for perk one. For the final column of perks, Voltshot is what many are seeking. Surrounded is also great for total damage if you can get it to proc, but those are really the only two perks worth keeping an eye out for in this column. tags:god-pve
 dimwishlist:item=3381450498&perks=3525010810,2822142346,951095735,2173046394
-dimwishlist:item=3381450498&perks=3525010810,2822142346,951095735,3708227201
 dimwishlist:item=3381450498&perks=3525010810,2822142346,2859149211,2173046394
-dimwishlist:item=3381450498&perks=3525010810,2822142346,2859149211,3708227201
 
 
 // Indebted Kindness - PVP (god-pvp)
@@ -3820,9 +3818,7 @@ dimwishlist:item=3381450498&perks=3525010810,2822142346,951095735,3673922083
 // Indebted Kindness - PVE (pve)
 //notes: MW: Velocity; Regardless of what activity you’re thinking of playing, Indebted Kindness’ most important stat is velocity. Because of this, we’ll be using Quick Launch, High-Velocity Rounds, a velocity masterwork, and Impulse Amplifier. Beacon Rounds, a perk currently exclusive to rocket-assisted sidearms, is also a great choice for perk one. For the final column of perks, Voltshot is what many are seeking. Surrounded is also great for total damage if you can get it to proc, but those are really the only two perks worth keeping an eye out for in this column. tags:pve
 dimwishlist:item=3381450498&perks=951095735,2173046394
-dimwishlist:item=3381450498&perks=951095735,3708227201
 dimwishlist:item=3381450498&perks=2859149211,2173046394
-dimwishlist:item=3381450498&perks=2859149211,3708227201
 
 
 // Indebted Kindness - PVP (pvp)
