@@ -1,6 +1,6 @@
 {
-    "description": "Personally curated list of [Demi]God rolls. Mostly sourced from Blueberries.gg and tested in-game.",
-    "name": "b1nary0mega's Wishlist",
+    "description": "Personally curated lists of [Demi]God rolls and game staples. Mostly sourced from Blueberries, meta, and game testing.",
+    "name": "b1nary0mega's Wishlists",
     "data": [
         {
             "description": "Tier S; Gnawing Hunger has had an incredible run since it was first introduced, and remains one of the most popular auto rifles for good reason. Incredible perks with impressive stability at 600 RPM, this is one of the best weapons in the game.",
@@ -3965,8 +3965,7 @@
                     2859149211
                 ],
                 [
-                    2173046394,
-                    3708227201
+                    2173046394
                 ]
             ],
             "tags": [
@@ -3983,8 +3982,7 @@
                     2859149211
                 ],
                 [
-                    2173046394,
-                    3708227201
+                    2173046394
                 ]
             ],
             "tags": [
@@ -7335,6 +7333,53 @@
             "tags": [
                 "PVP"
             ]
+        },
+        {
+            "description": "Jagged Edge and Swordmaster’s Guard are the preferred picks for Swords as they increase damage by the highest amount, but Honed Edge isn’t awful, either. You could also look at Hungry Edge (additional ammo) and Balanced Guard (balanced overall defense).",
+            "hash": 3257091166,
+            "name": "Utility",
+            "plugs": [
+                [
+                    1749209109,
+                    4085959009
+                ],
+                [
+                    2077819806,
+                    1618208178
+                ]
+            ],
+            "tags": []
+        },
+        {
+            "description": "Jagged Edge and Swordmaster’s Guard are the preferred picks for Swords as they increase damage by the highest amount, but Honed Edge isn’t awful, either. You could also look at Hungry Edge (additional ammo) and Balanced Guard (balanced overall defense).",
+            "hash": 1815105249,
+            "name": "Utility",
+            "plugs": [
+                [
+                    1749209109,
+                    4085959009
+                ],
+                [
+                    2077819806,
+                    1618208178
+                ]
+            ],
+            "tags": []
+        },
+        {
+            "description": "MW: Velocity",
+            "hash": 3381450498,
+            "name": "PVE",
+            "plugs": [
+                [
+                    2859149211,
+                    951095735
+                ],
+                [
+                    2173046394
+                ]
+            ],
+            "tags": []
         }
     ]
 }
