@@ -1414,6 +1414,16 @@ dimwishlist:item=1505862304&perks=3416609154,288411554
 dimwishlist:item=1505862304&perks=3416609154,1748774930
 
 
+// Harsh Language - PVE (god-pve)
+//notes: MW: Velocity or Reload; Harsh Language is, arguably, one of the best non-exotic grenade launchers to date. The god roll of Envious Assassin and Destabilizing Rounds means this is functionally a Void Forbearance, perfect for build synergy. It's only downside? World Loot Drop. tags:god-pve
+dimwishlist:item=1606497639&perks=3525010810,2822142346,968510818,2048641572
+
+
+// Harsh Language - PVE (pve)
+//notes: MW: Velocity or Reload; Harsh Language is, arguably, one of the best non-exotic grenade launchers to date. The god roll of Envious Assassin and Destabilizing Rounds means this is functionally a Void Forbearance, perfect for build synergy. It's only downside? World Loot Drop. tags:pve
+dimwishlist:item=1606497639&perks=968510818,2048641572
+
+
 // Ergo Sum - PVE DPS (god-pve,pve)
 //notes: Element: Void; Exotic Trait: Wolfpack Rounds; Jagged Edge is almost always perfect for Swords as it boosts our Sword damage, and Swordmaster’s Guard is best for Heavy Attack recharge rate. A Lightweight Frame is also good here, as it deals the highest base level of DPS. Making sure we have a Void element to match with Falling Guillotine is important, and Wolfpack Rounds is a must so we can boost everyone’s Sword damage. tags:god-pve,pve
 dimwishlist:item=1681583613&perks=3666208348,269888150,2753228730
