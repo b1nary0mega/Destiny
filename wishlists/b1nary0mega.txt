@@ -3046,6 +3046,46 @@ dimwishlist:item=2490988246&perks=2717805783,4293542123
 dimwishlist:item=2490988246&perks=2717805783,2675184851
 
 
+// Scatter Signal - PVE (god-pve)
+//notes: MW: Charge; Scatter Signal is arguably one of the best Fusion Rifles in the game, and as such, we need to push its strengths to the limit to obtain its optimal form. It has some great base Range and Stability, but its Recoil Direction is slightly erratic. To remedy that, throw on Arrowhead Break for a substantial boost to recoil and a decent boost to Handling. For battery, there’s no better PvE choice than Accelerated Coils. It might drop the Impact stat down slightly, but it’s nowhere close to being a noticeable difference. For perks, Scatter has a few to choose from, but there’s only two in each column worth recommending for PvE. In Column 3, choose between Slice or Overflow. Overflow is great for those extended damage phases or for when you really don’t have time to reload, and Slice is great for keeping yourself alive by applying Sever to targets, reducing their damage by 30%! For Column 4, you could keep the Strand synergy going by choosing Hatchling, but most will want Controlled Burst for that extra 20% damage. tags:god-pve
+dimwishlist:item=2558925366&perks=839105230,689005463,3643424744,2594592626
+dimwishlist:item=2558925366&perks=839105230,689005463,3643424744,831391274
+dimwishlist:item=2558925366&perks=839105230,689005463,3643424744,2037312142
+dimwishlist:item=2558925366&perks=839105230,689005463,3643424744,102912326
+dimwishlist:item=2558925366&perks=839105230,689005463,923806249,2594592626
+dimwishlist:item=2558925366&perks=839105230,689005463,923806249,831391274
+dimwishlist:item=2558925366&perks=839105230,689005463,923806249,2037312142
+dimwishlist:item=2558925366&perks=839105230,689005463,923806249,102912326
+dimwishlist:item=2558925366&perks=839105230,689005463,3422796781,2594592626
+dimwishlist:item=2558925366&perks=839105230,689005463,3422796781,831391274
+dimwishlist:item=2558925366&perks=839105230,689005463,3422796781,2037312142
+dimwishlist:item=2558925366&perks=839105230,689005463,3422796781,102912326
+dimwishlist:item=2558925366&perks=839105230,689005463,2682205016,2594592626
+dimwishlist:item=2558925366&perks=839105230,689005463,2682205016,831391274
+dimwishlist:item=2558925366&perks=839105230,689005463,2682205016,2037312142
+dimwishlist:item=2558925366&perks=839105230,689005463,2682205016,102912326
+
+
+// Scatter Signal - PVE (pve)
+//notes: MW: Charge; Scatter Signal is arguably one of the best Fusion Rifles in the game, and as such, we need to push its strengths to the limit to obtain its optimal form. It has some great base Range and Stability, but its Recoil Direction is slightly erratic. To remedy that, throw on Arrowhead Break for a substantial boost to recoil and a decent boost to Handling. For battery, there’s no better PvE choice than Accelerated Coils. It might drop the Impact stat down slightly, but it’s nowhere close to being a noticeable difference. For perks, Scatter has a few to choose from, but there’s only two in each column worth recommending for PvE. In Column 3, choose between Slice or Overflow. Overflow is great for those extended damage phases or for when you really don’t have time to reload, and Slice is great for keeping yourself alive by applying Sever to targets, reducing their damage by 30%! For Column 4, you could keep the Strand synergy going by choosing Hatchling, but most will want Controlled Burst for that extra 20% damage. tags:pve
+dimwishlist:item=2558925366&perks=3643424744,2594592626
+dimwishlist:item=2558925366&perks=3643424744,831391274
+dimwishlist:item=2558925366&perks=3643424744,2037312142
+dimwishlist:item=2558925366&perks=3643424744,102912326
+dimwishlist:item=2558925366&perks=923806249,2594592626
+dimwishlist:item=2558925366&perks=923806249,831391274
+dimwishlist:item=2558925366&perks=923806249,2037312142
+dimwishlist:item=2558925366&perks=923806249,102912326
+dimwishlist:item=2558925366&perks=3422796781,2594592626
+dimwishlist:item=2558925366&perks=3422796781,831391274
+dimwishlist:item=2558925366&perks=3422796781,2037312142
+dimwishlist:item=2558925366&perks=3422796781,102912326
+dimwishlist:item=2558925366&perks=2682205016,2594592626
+dimwishlist:item=2558925366&perks=2682205016,831391274
+dimwishlist:item=2558925366&perks=2682205016,2037312142
+dimwishlist:item=2558925366&perks=2682205016,102912326
+
+
 // Martyr's Retribution - PVE (god-pve)
 //notes: MW: Velocity; We’ll start by maxing out Martyr’s velocity stat with Quick Launch, High-Velocity Rounds, and a velocity masterwork. This also gives added handling, which helps you quickly swap between this weapon and your primary or heavy. Heal Clip is the star of the third column, which synergizes perfectly with the weapon’s single-shot magazine. Demolitionist is also worth mentioning, pairing well with builds and removing the need to think about your grenade recharge rate. As for the final column, Incandescent is unique to this weapon and proves extremely useful for both general ad clear and Solar build synergy. Recommended Loadout: Khvostov 7G-0X, Martyr’s Retribution, Apex Predator. tags:god-pve
 dimwishlist:item=2584830733&perks=3525010810,2822142346,3523296417,4293542123
