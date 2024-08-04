@@ -22,6 +22,10 @@ dimwishlist:item=35794111&perks=1749209109,3913600130
 dimwishlist:item=35794111&perks=1749209109,1546637391
 
 
+// Malfeasance - Exotic ()
+dimwishlist:item=204878059&perks=4090651448,2420895100,2130042297,1012699414
+
+
 // Hammerhead - PVE (god-pve)
 //notes: MW: Handling; We’ll opt for Arrowhead Break, Appended Mag, and a Handling masterwork to get more handling and a more manageable recoil. From there, Rampage and Killing Tally is our preferred combo, as it is what makes the Hammerhead unique. Plus, this is the perfect combo if you want to go all in on the damage output. Rewind Rounds and Killing Tally is also an excellent combination, but there’s tons of room for mixing it up here. Fourth Time’s the Charm, Feeding Frenzy, and Envious Assassin all provide similar benefits to Rewind Rounds. Onslaught is also worth mentioning in the final column, which just got re-released and pairs perfectly with something like Rampage. Recommended Loadout: The Mountaintop, Sunshot, Hammerhead. tags:god-pve
 dimwishlist:item=211732170&perks=839105230,2420895100,3425386926,557221067
@@ -798,6 +802,10 @@ dimwishlist:item=999767358&perks=1354429876,3078487919
 dimwishlist:item=999767358&perks=1354429876,3744057135
 dimwishlist:item=999767358&perks=848860060,3078487919
 dimwishlist:item=999767358&perks=848860060,3744057135
+
+
+// Necrochasm - Exotic ()
+dimwishlist:item=1034055198&perks=839105230,1885400500,525593296,990298390
 
 
 // The Recluse - PVE Void (god-pve)
@@ -2437,6 +2445,10 @@ dimwishlist:item=2152484073&perks=2717805783,1015611457
 dimwishlist:item=2152484073&perks=2717805783,2923251173
 
 
+// Forerunner - Exotic ()
+dimwishlist:item=2179048386&perks=1482024992,3230963543,2795311559,3326204863
+
+
 // Aberrant Action - PVE (god-pve)
 //notes: MW: Velocity; We’ll start with Quick Launch, Flared Magwell, and a velocity masterwork for bumps in velocity, reload speed, and handling. From there, Heal Clip and Incandescent are the two stand-outs here, synergizing nicely with a Solar build of your choosing. Also worth mentioning are Field Prep, Beacon Rounds, and Demolitionist. Field Prep provides a bump in ammo reserves that combats the lack of Lead from Gold, while Beacon Rounds greatly reduces the need to aim while clearing waves of enemies. Demolitionist is a nice substitute for Incandescent if you’re running a build with a different subclass, and is also inherently stronger on special ammo weapons! Recommended Loadout: Khvostov 7G-0X, Aberrant Action, Apex Predator. tags:god-pve
 dimwishlist:item=2198166292&perks=3525010810,3230963543,3017780555,3523296417
@@ -2716,6 +2728,10 @@ dimwishlist:item=2350330520&perks=3198323828,2923251173
 // Witherhoard - PVE and PVP (god-pve,god-pvp)
 //notes: tags:god-pve,god-pvp
 dimwishlist:item=2357297366&perks=3809316345,1996142143,745965939,3465198467
+
+
+// Rat King - Exotic ()
+dimwishlist:item=2362471601&perks=1482024992,106909392,861489047,3326204863
 
 
 // Blast Furnace - PVE (god-pve)
@@ -3137,6 +3153,22 @@ dimwishlist:item=2591257541&perks=3418782618,781192741
 // Leviathan's Breath - PVE (god-pve)
 //notes: Only viable option with catalyst tags:god-pve
 dimwishlist:item=2591746970&perks=265542500,3429800428,2399646028
+
+
+// BxR-55 Battler - PVE (god-pve)
+//notes: MW: Stability; The BxR-55 Battler already feels solid in PVE, but the right perks can really turn it into a minion-slaying machine. Those rocking Solar Warlocks, especially when using Starfire Protocol, can enjoy a near-bottomless clip.Straight off, the Barrel and Magazine options are chosen to help straighten up the recoil direction to be perfectly vertical while also pushing out the effective range. This will help the Pulse Rifle deal more damage over greater distances, which is often the trouble with PVE content. For the perks, Demolitionist remains a great option as there are often plenty of enemies to defeat, allowing you to generate a grenade quickly. The second perk is Incandescent, a recent addition with Solar 3.0. This will help you spread scorch through the dense collection of enemies, which will inevitably lead to ignitions. tags:god-pve
+dimwishlist:item=2708806099&perks=839105230,1885400500,3523296417,4293542123
+dimwishlist:item=2708806099&perks=839105230,1885400500,3523296417,2675184851
+dimwishlist:item=2708806099&perks=839105230,1885400500,1906147653,4293542123
+dimwishlist:item=2708806099&perks=839105230,1885400500,1906147653,2675184851
+
+
+// BxR-55 Battler - PVE (pve)
+//notes: MW: Stability; The BxR-55 Battler already feels solid in PVE, but the right perks can really turn it into a minion-slaying machine. Those rocking Solar Warlocks, especially when using Starfire Protocol, can enjoy a near-bottomless clip.Straight off, the Barrel and Magazine options are chosen to help straighten up the recoil direction to be perfectly vertical while also pushing out the effective range. This will help the Pulse Rifle deal more damage over greater distances, which is often the trouble with PVE content. For the perks, Demolitionist remains a great option as there are often plenty of enemies to defeat, allowing you to generate a grenade quickly. The second perk is Incandescent, a recent addition with Solar 3.0. This will help you spread scorch through the dense collection of enemies, which will inevitably lead to ignitions. tags:pve
+dimwishlist:item=2708806099&perks=3523296417,4293542123
+dimwishlist:item=2708806099&perks=3523296417,2675184851
+dimwishlist:item=2708806099&perks=1906147653,4293542123
+dimwishlist:item=2708806099&perks=1906147653,2675184851
 
 
 // Riptide - PVE (god-pve)
