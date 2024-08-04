@@ -3848,6 +3848,122 @@ dimwishlist:item=3232203524&perks=494941759,47981717
 dimwishlist:item=3232203524&perks=494941759,1370847713
 
 
+// Warden's Law (Adept) - PVE (god-pve)
+//notes: MW: Reload; Because Warden’s Law lacks an elemental damage type, it’s immediately outclassed by numerous other options. That is, except for one special case: pairing the weapon with Lucky Pants. For Hunters, using a Warden’s Law with Fourth Time’s the Charm and Vorpal Weapon with Lucky Pants allows the weapon to do some significant damage for a primary weapon. While dealing optimal damage with this setup requires you to rotate between heavy (and sometimes special) ammo weapons as well, it’s easily the main draw to Warden’s Law in high-end PvE. If you’re instead looking to run this weapon casually, Perpetual Motion or Fourth Time’s the Charm with Frenzy is your best bet. tags:god-pve
+dimwishlist:item=3250744600&perks=1392496348,3230963543,1354429876,1546637391
+dimwishlist:item=3250744600&perks=1392496348,3230963543,1354429876,3418165135
+dimwishlist:item=3250744600&perks=1392496348,3230963543,1354429876,4104185692
+dimwishlist:item=3250744600&perks=1392496348,3230963543,1354429876,3007133316
+dimwishlist:item=3250744600&perks=1392496348,3230963543,848860060,1546637391
+dimwishlist:item=3250744600&perks=1392496348,3230963543,848860060,3418165135
+dimwishlist:item=3250744600&perks=1392496348,3230963543,848860060,4104185692
+dimwishlist:item=3250744600&perks=1392496348,3230963543,848860060,3007133316
+dimwishlist:item=3250744600&perks=1392496348,3230963543,1428297954,1546637391
+dimwishlist:item=3250744600&perks=1392496348,3230963543,1428297954,3418165135
+dimwishlist:item=3250744600&perks=1392496348,3230963543,1428297954,4104185692
+dimwishlist:item=3250744600&perks=1392496348,3230963543,1428297954,3007133316
+dimwishlist:item=3250744600&perks=1392496348,3230963543,2014892510,1546637391
+dimwishlist:item=3250744600&perks=1392496348,3230963543,2014892510,3418165135
+dimwishlist:item=3250744600&perks=1392496348,3230963543,2014892510,4104185692
+dimwishlist:item=3250744600&perks=1392496348,3230963543,2014892510,3007133316
+dimwishlist:item=3250744600&perks=1392496348,106909392,1354429876,1546637391
+dimwishlist:item=3250744600&perks=1392496348,106909392,1354429876,3418165135
+dimwishlist:item=3250744600&perks=1392496348,106909392,1354429876,4104185692
+dimwishlist:item=3250744600&perks=1392496348,106909392,1354429876,3007133316
+dimwishlist:item=3250744600&perks=1392496348,106909392,848860060,1546637391
+dimwishlist:item=3250744600&perks=1392496348,106909392,848860060,3418165135
+dimwishlist:item=3250744600&perks=1392496348,106909392,848860060,4104185692
+dimwishlist:item=3250744600&perks=1392496348,106909392,848860060,3007133316
+dimwishlist:item=3250744600&perks=1392496348,106909392,1428297954,1546637391
+dimwishlist:item=3250744600&perks=1392496348,106909392,1428297954,3418165135
+dimwishlist:item=3250744600&perks=1392496348,106909392,1428297954,4104185692
+dimwishlist:item=3250744600&perks=1392496348,106909392,1428297954,3007133316
+dimwishlist:item=3250744600&perks=1392496348,106909392,2014892510,1546637391
+dimwishlist:item=3250744600&perks=1392496348,106909392,2014892510,3418165135
+dimwishlist:item=3250744600&perks=1392496348,106909392,2014892510,4104185692
+dimwishlist:item=3250744600&perks=1392496348,106909392,2014892510,3007133316
+dimwishlist:item=3250744600&perks=1482024992,3230963543,1354429876,1546637391
+dimwishlist:item=3250744600&perks=1482024992,3230963543,1354429876,3418165135
+dimwishlist:item=3250744600&perks=1482024992,3230963543,1354429876,4104185692
+dimwishlist:item=3250744600&perks=1482024992,3230963543,1354429876,3007133316
+dimwishlist:item=3250744600&perks=1482024992,3230963543,848860060,1546637391
+dimwishlist:item=3250744600&perks=1482024992,3230963543,848860060,3418165135
+dimwishlist:item=3250744600&perks=1482024992,3230963543,848860060,4104185692
+dimwishlist:item=3250744600&perks=1482024992,3230963543,848860060,3007133316
+dimwishlist:item=3250744600&perks=1482024992,3230963543,1428297954,1546637391
+dimwishlist:item=3250744600&perks=1482024992,3230963543,1428297954,3418165135
+dimwishlist:item=3250744600&perks=1482024992,3230963543,1428297954,4104185692
+dimwishlist:item=3250744600&perks=1482024992,3230963543,1428297954,3007133316
+dimwishlist:item=3250744600&perks=1482024992,3230963543,2014892510,1546637391
+dimwishlist:item=3250744600&perks=1482024992,3230963543,2014892510,3418165135
+dimwishlist:item=3250744600&perks=1482024992,3230963543,2014892510,4104185692
+dimwishlist:item=3250744600&perks=1482024992,3230963543,2014892510,3007133316
+dimwishlist:item=3250744600&perks=1482024992,106909392,1354429876,1546637391
+dimwishlist:item=3250744600&perks=1482024992,106909392,1354429876,3418165135
+dimwishlist:item=3250744600&perks=1482024992,106909392,1354429876,4104185692
+dimwishlist:item=3250744600&perks=1482024992,106909392,1354429876,3007133316
+dimwishlist:item=3250744600&perks=1482024992,106909392,848860060,1546637391
+dimwishlist:item=3250744600&perks=1482024992,106909392,848860060,3418165135
+dimwishlist:item=3250744600&perks=1482024992,106909392,848860060,4104185692
+dimwishlist:item=3250744600&perks=1482024992,106909392,848860060,3007133316
+dimwishlist:item=3250744600&perks=1482024992,106909392,1428297954,1546637391
+dimwishlist:item=3250744600&perks=1482024992,106909392,1428297954,3418165135
+dimwishlist:item=3250744600&perks=1482024992,106909392,1428297954,4104185692
+dimwishlist:item=3250744600&perks=1482024992,106909392,1428297954,3007133316
+dimwishlist:item=3250744600&perks=1482024992,106909392,2014892510,1546637391
+dimwishlist:item=3250744600&perks=1482024992,106909392,2014892510,3418165135
+dimwishlist:item=3250744600&perks=1482024992,106909392,2014892510,4104185692
+dimwishlist:item=3250744600&perks=1482024992,106909392,2014892510,3007133316
+
+
+// Warden's Law (Adept) - PVP (god-pvp)
+//notes: MW: Range; Warden’s Law shines a bit more in The Crucible than it does in PvE. To fully optimize the weapon for PvP, we’ll start with barrels and magazines that increase range and stability: Polygonal Rifling and Accurized Rounds. For column 3, Moving Target is generally the best pick, but Discord and Perpetual Motion can also work if you can play into them. The final column is really where Warden’s Law gets interesting. With Kill Clip active, this weapon can two-tap any Guardian under Tier 10 Resilience. This reduces the weapon’s time to kill to 0.50s, which is absurd given Kill Clip’s consistency. tags:god-pvp
+dimwishlist:item=3250744600&perks=1392496348,3142289711,588594999,1015611457
+dimwishlist:item=3250744600&perks=1392496348,3142289711,588594999,2923251173
+dimwishlist:item=3250744600&perks=1392496348,3142289711,2717805783,1015611457
+dimwishlist:item=3250744600&perks=1392496348,3142289711,2717805783,2923251173
+dimwishlist:item=3250744600&perks=1392496348,3230963543,588594999,1015611457
+dimwishlist:item=3250744600&perks=1392496348,3230963543,588594999,2923251173
+dimwishlist:item=3250744600&perks=1392496348,3230963543,2717805783,1015611457
+dimwishlist:item=3250744600&perks=1392496348,3230963543,2717805783,2923251173
+dimwishlist:item=3250744600&perks=3250034553,3142289711,588594999,1015611457
+dimwishlist:item=3250744600&perks=3250034553,3142289711,588594999,2923251173
+dimwishlist:item=3250744600&perks=3250034553,3142289711,2717805783,1015611457
+dimwishlist:item=3250744600&perks=3250034553,3142289711,2717805783,2923251173
+dimwishlist:item=3250744600&perks=3250034553,3230963543,588594999,1015611457
+dimwishlist:item=3250744600&perks=3250034553,3230963543,588594999,2923251173
+dimwishlist:item=3250744600&perks=3250034553,3230963543,2717805783,1015611457
+dimwishlist:item=3250744600&perks=3250034553,3230963543,2717805783,2923251173
+
+
+// Warden's Law (Adept) - PVE (pve)
+//notes: MW: Reload; Because Warden’s Law lacks an elemental damage type, it’s immediately outclassed by numerous other options. That is, except for one special case: pairing the weapon with Lucky Pants. For Hunters, using a Warden’s Law with Fourth Time’s the Charm and Vorpal Weapon with Lucky Pants allows the weapon to do some significant damage for a primary weapon. While dealing optimal damage with this setup requires you to rotate between heavy (and sometimes special) ammo weapons as well, it’s easily the main draw to Warden’s Law in high-end PvE. If you’re instead looking to run this weapon casually, Perpetual Motion or Fourth Time’s the Charm with Frenzy is your best bet. tags:pve
+dimwishlist:item=3250744600&perks=1354429876,1546637391
+dimwishlist:item=3250744600&perks=1354429876,3418165135
+dimwishlist:item=3250744600&perks=1354429876,4104185692
+dimwishlist:item=3250744600&perks=1354429876,3007133316
+dimwishlist:item=3250744600&perks=848860060,1546637391
+dimwishlist:item=3250744600&perks=848860060,3418165135
+dimwishlist:item=3250744600&perks=848860060,4104185692
+dimwishlist:item=3250744600&perks=848860060,3007133316
+dimwishlist:item=3250744600&perks=1428297954,1546637391
+dimwishlist:item=3250744600&perks=1428297954,3418165135
+dimwishlist:item=3250744600&perks=1428297954,4104185692
+dimwishlist:item=3250744600&perks=1428297954,3007133316
+dimwishlist:item=3250744600&perks=2014892510,1546637391
+dimwishlist:item=3250744600&perks=2014892510,3418165135
+dimwishlist:item=3250744600&perks=2014892510,4104185692
+dimwishlist:item=3250744600&perks=2014892510,3007133316
+
+
+// Warden's Law (Adept) - PVP (pvp)
+//notes: MW: Range; Warden’s Law shines a bit more in The Crucible than it does in PvE. To fully optimize the weapon for PvP, we’ll start with barrels and magazines that increase range and stability: Polygonal Rifling and Accurized Rounds. For column 3, Moving Target is generally the best pick, but Discord and Perpetual Motion can also work if you can play into them. The final column is really where Warden’s Law gets interesting. With Kill Clip active, this weapon can two-tap any Guardian under Tier 10 Resilience. This reduces the weapon’s time to kill to 0.50s, which is absurd given Kill Clip’s consistency. tags:pvp
+dimwishlist:item=3250744600&perks=588594999,1015611457
+dimwishlist:item=3250744600&perks=588594999,2923251173
+dimwishlist:item=3250744600&perks=2717805783,1015611457
+dimwishlist:item=3250744600&perks=2717805783,2923251173
+
+
 // Thunderlord - DPS (god-pve)
 //notes: DPS; Requires catalyst or forget it. Highly recommend actium war rig on titan or dodge-reload on hunter. tags:god-pve
 dimwishlist:item=3325463374&perks=1392496348,1968497646,1419069769,2779035018
