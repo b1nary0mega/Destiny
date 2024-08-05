@@ -4072,6 +4072,18 @@ dimwishlist:item=3605603507&perks=3250034553,1885400500,1906147653,1890422124
 dimwishlist:item=3605603507&perks=3250034553,1885400500,1906147653,1523649716
 
 
+// Pro Memoria - Crafted (god-pve)
+//notes: MW: Handling; Based on rec's from clannies. tags:god-pve
+dimwishlist:item=3605603507&perks=1840239774,2420895100,1523832109,3744057135
+dimwishlist:item=3605603507&perks=1840239774,2420895100,1523832109,3078487919
+dimwishlist:item=3605603507&perks=1840239774,2420895100,1523832109,2799030358
+dimwishlist:item=3605603507&perks=1840239774,2420895100,1523832109,2109543898
+dimwishlist:item=3605603507&perks=1840239774,2420895100,461595545,3744057135
+dimwishlist:item=3605603507&perks=1840239774,2420895100,461595545,3078487919
+dimwishlist:item=3605603507&perks=1840239774,2420895100,461595545,2799030358
+dimwishlist:item=3605603507&perks=1840239774,2420895100,461595545,2109543898
+
+
 // Pro Memoria - PVE Demi-God (pve)
 //notes: PVE; MW Stability; For our barrel, you will want Fluted Barrel to increase your stability and handling of the weapon. This will help make sure you can keep the kickback of the weapon under control as you unload the clip into your enemies. For our magazine, we’ll want to pick Ricochet Rounds to increase stability and control recoil even further, with a small boost to the range. For our perks, we want Demolitionist and Frenzy in perk columns 1 and 2 respectively. Demolitionist will generate grenade ability energy upon kills with the weapon and kills with your grenade ability will reload the weapon from reserves. Frenzy will enable increased damage, handling, and reload speed after being in combat for an extended period of time. Overall, the combination of Demolitionist and Frenzy makes this a particularly dangerous Machine Gun, great at both crowd control and dealing damage. tags:pve
 dimwishlist:item=3605603507&perks=3523296417,4104185692
