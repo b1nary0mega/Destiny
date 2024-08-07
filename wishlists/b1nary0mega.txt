@@ -2625,6 +2625,38 @@ dimwishlist:item=2322926844&perks=3120212825,1365187766
 dimwishlist:item=2322926844&perks=3120212825,4200236906
 
 
+// Fortunate Star - PVE Void (god-pve)
+//notes: MW: Handling; With a combination of Agile Bowstring, Compact Arrow Shaft, and Handling Masterwork, we can boost Fortunate Star to a smooth 100 handling that feels lovely to use. We like the Void Repulsor Brace and Destabilizing Rounds combo for our perk combinations. Destabilizing Rounds provides some AoE through the volatile explosions, allowing it to clear out groups of enemies more efficiently than just firing the bow itself. However, if you aren’t interested in leaning fully into Void, Archer’s Tempo and Golden Tricorn are acceptable alternatives due to the draw speed from Archer’s Tempo and up to a 50% damage buff with Golden Tricorn. tags:god-pve
+dimwishlist:item=2326578623&perks=3768438372,16392701,2541826827,2048641572
+dimwishlist:item=2326578623&perks=3768438372,16392701,2541826827,1926441324
+dimwishlist:item=2326578623&perks=3768438372,16392701,776531651,2048641572
+dimwishlist:item=2326578623&perks=3768438372,16392701,776531651,1926441324
+
+
+// Fortunate Star - PVE (god-pve)
+//notes: MW: Handling; With a combination of Agile Bowstring, Compact Arrow Shaft, and Handling Masterwork, we can boost Fortunate Star to a smooth 100 handling that feels lovely to use. We like the Void Repulsor Brace and Destabilizing Rounds combo for our perk combinations. Destabilizing Rounds provides some AoE through the volatile explosions, allowing it to clear out groups of enemies more efficiently than just firing the bow itself. However, if you aren’t interested in leaning fully into Void, Archer’s Tempo and Golden Tricorn are acceptable alternatives due to the draw speed from Archer’s Tempo and up to a 50% damage buff with Golden Tricorn. tags:god-pve
+dimwishlist:item=2326578623&perks=3768438372,16392701,201365942,2610012052
+dimwishlist:item=2326578623&perks=3768438372,16392701,201365942,4290541820
+dimwishlist:item=2326578623&perks=3768438372,16392701,3523746922,2610012052
+dimwishlist:item=2326578623&perks=3768438372,16392701,3523746922,4290541820
+
+
+// Fortunate Star - PVE Void (pve)
+//notes: MW: Handling; With a combination of Agile Bowstring, Compact Arrow Shaft, and Handling Masterwork, we can boost Fortunate Star to a smooth 100 handling that feels lovely to use. We like the Void Repulsor Brace and Destabilizing Rounds combo for our perk combinations. Destabilizing Rounds provides some AoE through the volatile explosions, allowing it to clear out groups of enemies more efficiently than just firing the bow itself. However, if you aren’t interested in leaning fully into Void, Archer’s Tempo and Golden Tricorn are acceptable alternatives due to the draw speed from Archer’s Tempo and up to a 50% damage buff with Golden Tricorn. tags:pve
+dimwishlist:item=2326578623&perks=2541826827,2048641572
+dimwishlist:item=2326578623&perks=2541826827,1926441324
+dimwishlist:item=2326578623&perks=776531651,2048641572
+dimwishlist:item=2326578623&perks=776531651,1926441324
+
+
+// Fortunate Star - PVE (pve)
+//notes: MW: Handling; With a combination of Agile Bowstring, Compact Arrow Shaft, and Handling Masterwork, we can boost Fortunate Star to a smooth 100 handling that feels lovely to use. We like the Void Repulsor Brace and Destabilizing Rounds combo for our perk combinations. Destabilizing Rounds provides some AoE through the volatile explosions, allowing it to clear out groups of enemies more efficiently than just firing the bow itself. However, if you aren’t interested in leaning fully into Void, Archer’s Tempo and Golden Tricorn are acceptable alternatives due to the draw speed from Archer’s Tempo and up to a 50% damage buff with Golden Tricorn. tags:pve
+dimwishlist:item=2326578623&perks=201365942,2610012052
+dimwishlist:item=2326578623&perks=201365942,4290541820
+dimwishlist:item=2326578623&perks=3523746922,2610012052
+dimwishlist:item=2326578623&perks=3523746922,4290541820
+
+
 // Breachlight - PVE Grenade Build (god-pve)
 //notes: PVE Grenade Build. Aim for Fluted Barrel, Tactical Mag, and a reload speed masterwork for a nice sweep of stat bonuses. tags:god-pve
 dimwishlist:item=2328923181&perks=4090651448,106909392,3523296417,11612903
@@ -4803,9 +4835,77 @@ dimwishlist:item=4050645223&perks=3643424744,1546637391
 dimwishlist:item=4068264807&perks=1840239774,1561002382,2814973067,3465198467
 
 
+// Crowning Duologue - PVE (god-pve)
+//notes: MW: Reload or Velocity; If you plan to use Crowning Duologue in PvE for damaging tough enemies and bosses, then it has a number of decent DPS rolls. If you're looking for pure damage, then Reconstruction plus Bait and Switch is your best bet. The first is essentially a better version of Auto-Loading Holster that will reload your rocket launcher up to two rockets, while Bait and Switch is still among the best damage perks in the game, offering a 30% buff for ten seconds upon dealing damage with your other two weapons.  tags:god-pve
+dimwishlist:item=4106757302&perks=3798852852,2985827016,1523832109,968510818
+dimwishlist:item=4106757302&perks=3798852852,2985827016,1523832109,3078487919
+dimwishlist:item=4106757302&perks=3798852852,2985827016,1523832109,1439600632
+dimwishlist:item=4106757302&perks=3798852852,2985827016,1523832109,424370782
+dimwishlist:item=4106757302&perks=3798852852,2985827016,1523832109,3744057135
+dimwishlist:item=4106757302&perks=3798852852,2985827016,1523832109,2282937672
+dimwishlist:item=4106757302&perks=3798852852,2985827016,461595545,968510818
+dimwishlist:item=4106757302&perks=3798852852,2985827016,461595545,3078487919
+dimwishlist:item=4106757302&perks=3798852852,2985827016,461595545,1439600632
+dimwishlist:item=4106757302&perks=3798852852,2985827016,461595545,424370782
+dimwishlist:item=4106757302&perks=3798852852,2985827016,461595545,3744057135
+dimwishlist:item=4106757302&perks=3798852852,2985827016,461595545,2282937672
+dimwishlist:item=4106757302&perks=3798852852,3796465595,1523832109,968510818
+dimwishlist:item=4106757302&perks=3798852852,3796465595,1523832109,3078487919
+dimwishlist:item=4106757302&perks=3798852852,3796465595,1523832109,1439600632
+dimwishlist:item=4106757302&perks=3798852852,3796465595,1523832109,424370782
+dimwishlist:item=4106757302&perks=3798852852,3796465595,1523832109,3744057135
+dimwishlist:item=4106757302&perks=3798852852,3796465595,1523832109,2282937672
+dimwishlist:item=4106757302&perks=3798852852,3796465595,461595545,968510818
+dimwishlist:item=4106757302&perks=3798852852,3796465595,461595545,3078487919
+dimwishlist:item=4106757302&perks=3798852852,3796465595,461595545,1439600632
+dimwishlist:item=4106757302&perks=3798852852,3796465595,461595545,424370782
+dimwishlist:item=4106757302&perks=3798852852,3796465595,461595545,3744057135
+dimwishlist:item=4106757302&perks=3798852852,3796465595,461595545,2282937672
+
+
+// Crowning Duologue - PVE (pve)
+//notes: MW: Reload or Velocity; If you plan to use Crowning Duologue in PvE for damaging tough enemies and bosses, then it has a number of decent DPS rolls. If you're looking for pure damage, then Reconstruction plus Bait and Switch is your best bet. The first is essentially a better version of Auto-Loading Holster that will reload your rocket launcher up to two rockets, while Bait and Switch is still among the best damage perks in the game, offering a 30% buff for ten seconds upon dealing damage with your other two weapons.  tags:pve
+dimwishlist:item=4106757302&perks=1523832109,968510818
+dimwishlist:item=4106757302&perks=1523832109,3078487919
+dimwishlist:item=4106757302&perks=1523832109,1439600632
+dimwishlist:item=4106757302&perks=1523832109,424370782
+dimwishlist:item=4106757302&perks=1523832109,3744057135
+dimwishlist:item=4106757302&perks=1523832109,2282937672
+dimwishlist:item=4106757302&perks=461595545,968510818
+dimwishlist:item=4106757302&perks=461595545,3078487919
+dimwishlist:item=4106757302&perks=461595545,1439600632
+dimwishlist:item=4106757302&perks=461595545,424370782
+dimwishlist:item=4106757302&perks=461595545,3744057135
+dimwishlist:item=4106757302&perks=461595545,2282937672
+
+
 // Khvostov 7G-0X - All The Things (god-pve,god-pvp)
 //notes: Just get it. tags:god-pve,god-pvp
 dimwishlist:item=4129629253&perks=3250034553,1431678320,2135276011,3700496672,3465198467
+
+
+// Compass Rose - PVP (god-pvp)
+//notes: MW: Range; The barrel choice on this Shotgun is incredibly interesting. While we think Smallbore is the safest option all-around due to the small bump to Stability and Range, there is an argument to be made for Full Bore. Slickdraw boosts our Handling high enough, and the extra range from Full Bore could be good, too. Fluted Barrel is another option that is good if you decide to go for Threat Detector over Slickdraw so you have better base handling. Accurised Rounds is a no-brainer for the magazine slot due to the flat increase in Compass Rose’s range. Slickdraw is a very exciting perk to have on a Shotgun because it boosts our Handling to 100 while also improving the ready animation speed. However, if you don’t like the feel of Slickdraw, Threat Detector is a suitable alternative. Opening Shot is the winner in the second perk slot because it maxes out our range stat, capping it at 6.71m. However, Snapshot Sights is a personal favorite of mine as it simply makes any and all weapons feel amazing to use, so definitely consider that as an alternative. tags:god-pvp
+dimwishlist:item=4169225313&perks=1482024992,3142289711,1821614984,47981717
+dimwishlist:item=4169225313&perks=1482024992,3142289711,1821614984,1370847713
+dimwishlist:item=4169225313&perks=1482024992,3142289711,1821614984,957782887
+dimwishlist:item=4169225313&perks=1482024992,3142289711,1821614984,4116820839
+dimwishlist:item=4169225313&perks=1482024992,3142289711,1942880504,47981717
+dimwishlist:item=4169225313&perks=1482024992,3142289711,1942880504,1370847713
+dimwishlist:item=4169225313&perks=1482024992,3142289711,1942880504,957782887
+dimwishlist:item=4169225313&perks=1482024992,3142289711,1942880504,4116820839
+
+
+// Compass Rose - PVP (pvp)
+//notes: MW: Range; The barrel choice on this Shotgun is incredibly interesting. While we think Smallbore is the safest option all-around due to the small bump to Stability and Range, there is an argument to be made for Full Bore. Slickdraw boosts our Handling high enough, and the extra range from Full Bore could be good, too. Fluted Barrel is another option that is good if you decide to go for Threat Detector over Slickdraw so you have better base handling. Accurised Rounds is a no-brainer for the magazine slot due to the flat increase in Compass Rose’s range. Slickdraw is a very exciting perk to have on a Shotgun because it boosts our Handling to 100 while also improving the ready animation speed. However, if you don’t like the feel of Slickdraw, Threat Detector is a suitable alternative. Opening Shot is the winner in the second perk slot because it maxes out our range stat, capping it at 6.71m. However, Snapshot Sights is a personal favorite of mine as it simply makes any and all weapons feel amazing to use, so definitely consider that as an alternative. tags:pvp
+dimwishlist:item=4169225313&perks=1821614984,47981717
+dimwishlist:item=4169225313&perks=1821614984,1370847713
+dimwishlist:item=4169225313&perks=1821614984,957782887
+dimwishlist:item=4169225313&perks=1821614984,4116820839
+dimwishlist:item=4169225313&perks=1942880504,47981717
+dimwishlist:item=4169225313&perks=1942880504,1370847713
+dimwishlist:item=4169225313&perks=1942880504,957782887
+dimwishlist:item=4169225313&perks=1942880504,4116820839
 
 
 // Faith-Keeper - PVE (god-pve)
