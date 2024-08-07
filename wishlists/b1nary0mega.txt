@@ -2279,6 +2279,38 @@ dimwishlist:item=1911060537&perks=573122728,1771339417
 dimwishlist:item=1911060537&perks=573122728,395388285
 
 
+// Pre Astyanax IV (Adept) - PVE (god-pve)
+//notes: MW: Draw Time; In PvE, Pre Astyanax IV performs the same as Strident Whistle but with a newer and more refined perk pool. The bowstring and arrow don’t matter much (especially in PvE), but we prefer the ones that decrease Draw Time without sacrificing too much Accuracy. Column 3 is somewhat of a no-brainer with Archer’s Tempo; the other perks here aren’t that exciting. The final column, however, is an entirely different story. With the exception of Opening Shot, every perk is extremely powerful in PvE. From the build potential Incandescent and Collective Action provide to Precision Instrument’s pure power, your choice here relies slightly on your playstyle. tags:god-pve
+dimwishlist:item=2063217087&perks=2801223209,3827198035,201365942,2652708987
+dimwishlist:item=2063217087&perks=2801223209,3827198035,201365942,555281244
+dimwishlist:item=2063217087&perks=2801223209,3827198035,201365942,617966211
+dimwishlist:item=2063217087&perks=2801223209,3827198035,201365942,332733060
+dimwishlist:item=2063217087&perks=2801223209,3827198035,3523746922,2652708987
+dimwishlist:item=2063217087&perks=2801223209,3827198035,3523746922,555281244
+dimwishlist:item=2063217087&perks=2801223209,3827198035,3523746922,617966211
+dimwishlist:item=2063217087&perks=2801223209,3827198035,3523746922,332733060
+dimwishlist:item=2063217087&perks=4067834857,3827198035,201365942,2652708987
+dimwishlist:item=2063217087&perks=4067834857,3827198035,201365942,555281244
+dimwishlist:item=2063217087&perks=4067834857,3827198035,201365942,617966211
+dimwishlist:item=2063217087&perks=4067834857,3827198035,201365942,332733060
+dimwishlist:item=2063217087&perks=4067834857,3827198035,3523746922,2652708987
+dimwishlist:item=2063217087&perks=4067834857,3827198035,3523746922,555281244
+dimwishlist:item=2063217087&perks=4067834857,3827198035,3523746922,617966211
+dimwishlist:item=2063217087&perks=4067834857,3827198035,3523746922,332733060
+
+
+// Pre Astyanax IV (Adept) - PVE (pve)
+//notes: MW: Draw Time; In PvE, Pre Astyanax IV performs the same as Strident Whistle but with a newer and more refined perk pool. The bowstring and arrow don’t matter much (especially in PvE), but we prefer the ones that decrease Draw Time without sacrificing too much Accuracy. Column 3 is somewhat of a no-brainer with Archer’s Tempo; the other perks here aren’t that exciting. The final column, however, is an entirely different story. With the exception of Opening Shot, every perk is extremely powerful in PvE. From the build potential Incandescent and Collective Action provide to Precision Instrument’s pure power, your choice here relies slightly on your playstyle. tags:pve
+dimwishlist:item=2063217087&perks=201365942,2652708987
+dimwishlist:item=2063217087&perks=201365942,555281244
+dimwishlist:item=2063217087&perks=201365942,617966211
+dimwishlist:item=2063217087&perks=201365942,332733060
+dimwishlist:item=2063217087&perks=3523746922,2652708987
+dimwishlist:item=2063217087&perks=3523746922,555281244
+dimwishlist:item=2063217087&perks=3523746922,617966211
+dimwishlist:item=2063217087&perks=3523746922,332733060
+
+
 // Corrasion - PVE (god-pve)
 //notes: MW: Stability; Red death is better option; Handling and Reload Speed are very important on Corrasion and in PvE in general, meaning that Fluted Barrel and Flared Magwell are the best bets for our Barrel and Magazine slots. A Stability masterwork rounds out the weapon as Enlightened Action provides both Handling and Reload Speed.In perk slot one, Enlightened Action is the clear winner as it makes this weapon feel much nicer to use due to the bump in Reload Speed and Handling. tags:god-pve
 dimwishlist:item=2126178511&perks=1840239774,3230963543,3828510309,2173046394
@@ -3573,6 +3605,38 @@ dimwishlist:item=2889501828&perks=2077819806,3650930298
 dimwishlist:item=2889501828&perks=2077819806,405677814
 dimwishlist:item=2889501828&perks=1618208178,3650930298
 dimwishlist:item=2889501828&perks=1618208178,405677814
+
+
+// Pre Astyanax IV - PVE (god-pve)
+//notes: MW: Draw Time; In PvE, Pre Astyanax IV performs the same as Strident Whistle but with a newer and more refined perk pool. The bowstring and arrow don’t matter much (especially in PvE), but we prefer the ones that decrease Draw Time without sacrificing too much Accuracy. Column 3 is somewhat of a no-brainer with Archer’s Tempo; the other perks here aren’t that exciting. The final column, however, is an entirely different story. With the exception of Opening Shot, every perk is extremely powerful in PvE. From the build potential Incandescent and Collective Action provide to Precision Instrument’s pure power, your choice here relies slightly on your playstyle. tags:god-pve
+dimwishlist:item=2932922810&perks=4067834857,3827198035,201365942,555281244
+dimwishlist:item=2932922810&perks=4067834857,3827198035,201365942,2652708987
+dimwishlist:item=2932922810&perks=4067834857,3827198035,201365942,617966211
+dimwishlist:item=2932922810&perks=4067834857,3827198035,201365942,332733060
+dimwishlist:item=2932922810&perks=4067834857,3827198035,3523746922,555281244
+dimwishlist:item=2932922810&perks=4067834857,3827198035,3523746922,2652708987
+dimwishlist:item=2932922810&perks=4067834857,3827198035,3523746922,617966211
+dimwishlist:item=2932922810&perks=4067834857,3827198035,3523746922,332733060
+dimwishlist:item=2932922810&perks=2801223209,3827198035,201365942,555281244
+dimwishlist:item=2932922810&perks=2801223209,3827198035,201365942,2652708987
+dimwishlist:item=2932922810&perks=2801223209,3827198035,201365942,617966211
+dimwishlist:item=2932922810&perks=2801223209,3827198035,201365942,332733060
+dimwishlist:item=2932922810&perks=2801223209,3827198035,3523746922,555281244
+dimwishlist:item=2932922810&perks=2801223209,3827198035,3523746922,2652708987
+dimwishlist:item=2932922810&perks=2801223209,3827198035,3523746922,617966211
+dimwishlist:item=2932922810&perks=2801223209,3827198035,3523746922,332733060
+
+
+// Pre Astyanax IV - PVE (pve)
+//notes: MW: Draw Time; In PvE, Pre Astyanax IV performs the same as Strident Whistle but with a newer and more refined perk pool. The bowstring and arrow don’t matter much (especially in PvE), but we prefer the ones that decrease Draw Time without sacrificing too much Accuracy. Column 3 is somewhat of a no-brainer with Archer’s Tempo; the other perks here aren’t that exciting. The final column, however, is an entirely different story. With the exception of Opening Shot, every perk is extremely powerful in PvE. From the build potential Incandescent and Collective Action provide to Precision Instrument’s pure power, your choice here relies slightly on your playstyle. tags:pve
+dimwishlist:item=2932922810&perks=201365942,555281244
+dimwishlist:item=2932922810&perks=201365942,2652708987
+dimwishlist:item=2932922810&perks=201365942,617966211
+dimwishlist:item=2932922810&perks=201365942,332733060
+dimwishlist:item=2932922810&perks=3523746922,555281244
+dimwishlist:item=2932922810&perks=3523746922,2652708987
+dimwishlist:item=2932922810&perks=3523746922,617966211
+dimwishlist:item=2932922810&perks=3523746922,332733060
 
 
 // The Recluse - PVP Void (god-pve)
