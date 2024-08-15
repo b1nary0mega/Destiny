@@ -677,6 +677,90 @@ dimwishlist:item=568611923&perks=3878366039,3194351027
 dimwishlist:item=568611923&perks=3878366039,2275087323
 
 
+// Something New - Ability Regen (god-pve)
+//notes: MW: Handling or Stability; Fantastic perk combination for ability regeneration. tags:god-pve
+dimwishlist:item=586671776&perks=1840239774,1087426260,3523296417,3592538738
+dimwishlist:item=586671776&perks=1840239774,1087426260,3523296417,2675361166
+dimwishlist:item=586671776&perks=1840239774,1087426260,1906147653,3592538738
+dimwishlist:item=586671776&perks=1840239774,1087426260,1906147653,2675361166
+dimwishlist:item=586671776&perks=1840239774,106909392,3523296417,3592538738
+dimwishlist:item=586671776&perks=1840239774,106909392,3523296417,2675361166
+dimwishlist:item=586671776&perks=1840239774,106909392,1906147653,3592538738
+dimwishlist:item=586671776&perks=1840239774,106909392,1906147653,2675361166
+
+
+// Something New - Stasis build (god-pve)
+//notes: MW: Handling or Stability; Fantastic perk combination for Stasis builds. tags:god-pve
+dimwishlist:item=586671776&perks=1840239774,1087426260,3523296417,124408337
+dimwishlist:item=586671776&perks=1840239774,1087426260,3523296417,1171887445
+dimwishlist:item=586671776&perks=1840239774,1087426260,1906147653,124408337
+dimwishlist:item=586671776&perks=1840239774,1087426260,1906147653,1171887445
+dimwishlist:item=586671776&perks=1840239774,1087426260,4245865861,124408337
+dimwishlist:item=586671776&perks=1840239774,1087426260,4245865861,1171887445
+dimwishlist:item=586671776&perks=1840239774,1087426260,1820235745,124408337
+dimwishlist:item=586671776&perks=1840239774,1087426260,1820235745,1171887445
+dimwishlist:item=586671776&perks=1840239774,106909392,3523296417,124408337
+dimwishlist:item=586671776&perks=1840239774,106909392,3523296417,1171887445
+dimwishlist:item=586671776&perks=1840239774,106909392,1906147653,124408337
+dimwishlist:item=586671776&perks=1840239774,106909392,1906147653,1171887445
+dimwishlist:item=586671776&perks=1840239774,106909392,4245865861,124408337
+dimwishlist:item=586671776&perks=1840239774,106909392,4245865861,1171887445
+dimwishlist:item=586671776&perks=1840239774,106909392,1820235745,124408337
+dimwishlist:item=586671776&perks=1840239774,106909392,1820235745,1171887445
+
+
+// Something New - PVE (god-pve)
+//notes: MW: Handling or Stability; For PvE, our primary goal is to make the weapon feel smoother to use. As a result, we’ll opt for Fluted Barrel, Tactical Mag, and either a handling or stability masterwork (purely dependent on your preference). Demolitionist is a rare sight in the third column, so we’ll opt for that. This is especially strong when combined with Frenzy in the final column, which increases all the stats that matter. tags:god-pve
+dimwishlist:item=586671776&perks=1840239774,106909392,3523296417,4104185692
+dimwishlist:item=586671776&perks=1840239774,106909392,3523296417,3007133316
+dimwishlist:item=586671776&perks=1840239774,106909392,1906147653,4104185692
+dimwishlist:item=586671776&perks=1840239774,106909392,1906147653,3007133316
+dimwishlist:item=586671776&perks=1840239774,106909392,247725512,4104185692
+dimwishlist:item=586671776&perks=1840239774,106909392,247725512,3007133316
+dimwishlist:item=586671776&perks=1840239774,106909392,2938480696,4104185692
+dimwishlist:item=586671776&perks=1840239774,106909392,2938480696,3007133316
+dimwishlist:item=586671776&perks=1840239774,1087426260,3523296417,4104185692
+dimwishlist:item=586671776&perks=1840239774,1087426260,3523296417,3007133316
+dimwishlist:item=586671776&perks=1840239774,1087426260,1906147653,4104185692
+dimwishlist:item=586671776&perks=1840239774,1087426260,1906147653,3007133316
+dimwishlist:item=586671776&perks=1840239774,1087426260,247725512,4104185692
+dimwishlist:item=586671776&perks=1840239774,1087426260,247725512,3007133316
+dimwishlist:item=586671776&perks=1840239774,1087426260,2938480696,4104185692
+dimwishlist:item=586671776&perks=1840239774,1087426260,2938480696,3007133316
+
+
+// Something New - Ability Regen (pve)
+//notes: MW: Handling or Stability; Fantastic perk combination for ability regeneration. tags:pve
+dimwishlist:item=586671776&perks=3523296417,3592538738
+dimwishlist:item=586671776&perks=3523296417,2675361166
+dimwishlist:item=586671776&perks=1906147653,3592538738
+dimwishlist:item=586671776&perks=1906147653,2675361166
+
+
+// Something New - Stasis build (pve)
+//notes: MW: Handling or Stability; Fantastic perk combination for Stasis builds. tags:pve
+dimwishlist:item=586671776&perks=3523296417,124408337
+dimwishlist:item=586671776&perks=3523296417,1171887445
+dimwishlist:item=586671776&perks=1906147653,124408337
+dimwishlist:item=586671776&perks=1906147653,1171887445
+dimwishlist:item=586671776&perks=4245865861,124408337
+dimwishlist:item=586671776&perks=4245865861,1171887445
+dimwishlist:item=586671776&perks=1820235745,124408337
+dimwishlist:item=586671776&perks=1820235745,1171887445
+
+
+// Something New - PVE (pve)
+//notes: MW: Handling or Stability; For PvE, our primary goal is to make the weapon feel smoother to use. As a result, we’ll opt for Fluted Barrel, Tactical Mag, and either a handling or stability masterwork (purely dependent on your preference). Demolitionist is a rare sight in the third column, so we’ll opt for that. This is especially strong when combined with Frenzy in the final column, which increases all the stats that matter. tags:pve
+dimwishlist:item=586671776&perks=3523296417,4104185692
+dimwishlist:item=586671776&perks=3523296417,3007133316
+dimwishlist:item=586671776&perks=1906147653,4104185692
+dimwishlist:item=586671776&perks=1906147653,3007133316
+dimwishlist:item=586671776&perks=247725512,4104185692
+dimwishlist:item=586671776&perks=247725512,3007133316
+dimwishlist:item=586671776&perks=2938480696,4104185692
+dimwishlist:item=586671776&perks=2938480696,3007133316
+
+
 // Deliverance - PVE (god-pve)
 //notes: MW: Charge Time; Being a Precision Frame Fusion Rifle, it comes with less Handling and a longer Charge Time than options like Riptide, meaning Fluted Barrel and a Charge Time Masterwork are preferred. Enhanced Battery provides a neutral effect adding one burst to the magazine, bumping the size to six. Regarding the perks, Demolitionist will grant 20% grenade energy on kill, which is incredible for grenade-focused builds, and Chill Clip comes with the added utility of freezing enemies. tags:god-pve
 dimwishlist:item=768621510&perks=1840239774,2680121939,3523296417,2978966579
