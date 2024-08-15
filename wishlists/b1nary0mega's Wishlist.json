@@ -7335,6 +7335,750 @@
             ]
         },
         {
+            "description": "MW: Velocity or Reload; Harsh Language is, arguably, one of the best non-exotic grenade launchers to date. The god roll of Envious Assassin and Destabilizing Rounds means this is functionally a Void Forbearance, perfect for build synergy. It's only downside? World Loot Drop.",
+            "hash": 1606497639,
+            "name": "PVE",
+            "plugs": [
+                [
+                    3525010810
+                ],
+                [
+                    2822142346
+                ],
+                [
+                    968510818
+                ],
+                [
+                    2048641572
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "MW: Velocity or Reload; Harsh Language is, arguably, one of the best non-exotic grenade launchers to date. The god roll of Envious Assassin and Destabilizing Rounds means this is functionally a Void Forbearance, perfect for build synergy. It's only downside? World Loot Drop.",
+            "hash": 1606497639,
+            "name": "PVE",
+            "plugs": [
+                [
+                    968510818
+                ],
+                [
+                    2048641572
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "MW: Stability; The BxR-55 Battler already feels solid in PVE, but the right perks can really turn it into a minion-slaying machine. Those rocking Solar Warlocks, especially when using Starfire Protocol, can enjoy a near-bottomless clip.Straight off, the Barrel and Magazine options are chosen to help straighten up the recoil direction to be perfectly vertical while also pushing out the effective range. This will help the Pulse Rifle deal more damage over greater distances, which is often the trouble with PVE content. For the perks, Demolitionist remains a great option as there are often plenty of enemies to defeat, allowing you to generate a grenade quickly. The second perk is Incandescent, a recent addition with Solar 3.0. This will help you spread scorch through the dense collection of enemies, which will inevitably lead to ignitions.",
+            "hash": 2708806099,
+            "name": "PVE",
+            "plugs": [
+                [
+                    839105230
+                ],
+                [
+                    1885400500
+                ],
+                [
+                    3523296417,
+                    1906147653
+                ],
+                [
+                    4293542123,
+                    2675184851
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "MW: Stability; The BxR-55 Battler already feels solid in PVE, but the right perks can really turn it into a minion-slaying machine. Those rocking Solar Warlocks, especially when using Starfire Protocol, can enjoy a near-bottomless clip.Straight off, the Barrel and Magazine options are chosen to help straighten up the recoil direction to be perfectly vertical while also pushing out the effective range. This will help the Pulse Rifle deal more damage over greater distances, which is often the trouble with PVE content. For the perks, Demolitionist remains a great option as there are often plenty of enemies to defeat, allowing you to generate a grenade quickly. The second perk is Incandescent, a recent addition with Solar 3.0. This will help you spread scorch through the dense collection of enemies, which will inevitably lead to ignitions.",
+            "hash": 2708806099,
+            "name": "PVE",
+            "plugs": [
+                [
+                    3523296417,
+                    1906147653
+                ],
+                [
+                    4293542123,
+                    2675184851
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 2362471601,
+            "name": "Exotic",
+            "plugs": [
+                [
+                    1482024992
+                ],
+                [
+                    106909392
+                ],
+                [
+                    861489047
+                ],
+                [
+                    3326204863
+                ]
+            ],
+            "tags": []
+        },
+        {
+            "description": "",
+            "hash": 2179048386,
+            "name": "Exotic",
+            "plugs": [
+                [
+                    1482024992
+                ],
+                [
+                    3230963543
+                ],
+                [
+                    2795311559
+                ],
+                [
+                    3326204863
+                ]
+            ],
+            "tags": []
+        },
+        {
+            "description": "",
+            "hash": 204878059,
+            "name": "Exotic",
+            "plugs": [
+                [
+                    4090651448
+                ],
+                [
+                    2420895100
+                ],
+                [
+                    2130042297
+                ],
+                [
+                    1012699414
+                ]
+            ],
+            "tags": []
+        },
+        {
+            "description": "",
+            "hash": 1034055198,
+            "name": "Exotic",
+            "plugs": [
+                [
+                    839105230
+                ],
+                [
+                    1885400500
+                ],
+                [
+                    525593296
+                ],
+                [
+                    990298390
+                ]
+            ],
+            "tags": []
+        },
+        {
+            "description": "MW: Charge; Scatter Signal is arguably one of the best Fusion Rifles in the game, and as such, we need to push its strengths to the limit to obtain its optimal form. It has some great base Range and Stability, but its Recoil Direction is slightly erratic. To remedy that, throw on Arrowhead Break for a substantial boost to recoil and a decent boost to Handling. For battery, there’s no better PvE choice than Accelerated Coils. It might drop the Impact stat down slightly, but it’s nowhere close to being a noticeable difference. For perks, Scatter has a few to choose from, but there’s only two in each column worth recommending for PvE. In Column 3, choose between Slice or Overflow. Overflow is great for those extended damage phases or for when you really don’t have time to reload, and Slice is great for keeping yourself alive by applying Sever to targets, reducing their damage by 30%! For Column 4, you could keep the Strand synergy going by choosing Hatchling, but most will want Controlled Burst for that extra 20% damage.",
+            "hash": 2558925366,
+            "name": "PVE",
+            "plugs": [
+                [
+                    839105230
+                ],
+                [
+                    689005463
+                ],
+                [
+                    3643424744,
+                    923806249,
+                    3422796781,
+                    2682205016
+                ],
+                [
+                    2594592626,
+                    831391274,
+                    2037312142,
+                    102912326
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "MW: Charge; Scatter Signal is arguably one of the best Fusion Rifles in the game, and as such, we need to push its strengths to the limit to obtain its optimal form. It has some great base Range and Stability, but its Recoil Direction is slightly erratic. To remedy that, throw on Arrowhead Break for a substantial boost to recoil and a decent boost to Handling. For battery, there’s no better PvE choice than Accelerated Coils. It might drop the Impact stat down slightly, but it’s nowhere close to being a noticeable difference. For perks, Scatter has a few to choose from, but there’s only two in each column worth recommending for PvE. In Column 3, choose between Slice or Overflow. Overflow is great for those extended damage phases or for when you really don’t have time to reload, and Slice is great for keeping yourself alive by applying Sever to targets, reducing their damage by 30%! For Column 4, you could keep the Strand synergy going by choosing Hatchling, but most will want Controlled Burst for that extra 20% damage.",
+            "hash": 2558925366,
+            "name": "PVE",
+            "plugs": [
+                [
+                    3643424744,
+                    923806249,
+                    3422796781,
+                    2682205016
+                ],
+                [
+                    2594592626,
+                    831391274,
+                    2037312142,
+                    102912326
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "MW: Reload; Because Warden’s Law lacks an elemental damage type, it’s immediately outclassed by numerous other options. That is, except for one special case: pairing the weapon with Lucky Pants. For Hunters, using a Warden’s Law with Fourth Time’s the Charm and Vorpal Weapon with Lucky Pants allows the weapon to do some significant damage for a primary weapon. While dealing optimal damage with this setup requires you to rotate between heavy (and sometimes special) ammo weapons as well, it’s easily the main draw to Warden’s Law in high-end PvE. If you’re instead looking to run this weapon casually, Perpetual Motion or Fourth Time’s the Charm with Frenzy is your best bet.",
+            "hash": 3250744600,
+            "name": "PVE",
+            "plugs": [
+                [
+                    1392496348,
+                    1482024992
+                ],
+                [
+                    3230963543,
+                    106909392
+                ],
+                [
+                    1354429876,
+                    848860060,
+                    1428297954,
+                    2014892510
+                ],
+                [
+                    1546637391,
+                    3418165135,
+                    4104185692,
+                    3007133316
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "MW: Reload; Because Warden’s Law lacks an elemental damage type, it’s immediately outclassed by numerous other options. That is, except for one special case: pairing the weapon with Lucky Pants. For Hunters, using a Warden’s Law with Fourth Time’s the Charm and Vorpal Weapon with Lucky Pants allows the weapon to do some significant damage for a primary weapon. While dealing optimal damage with this setup requires you to rotate between heavy (and sometimes special) ammo weapons as well, it’s easily the main draw to Warden’s Law in high-end PvE. If you’re instead looking to run this weapon casually, Perpetual Motion or Fourth Time’s the Charm with Frenzy is your best bet.",
+            "hash": 3250744600,
+            "name": "PVE",
+            "plugs": [
+                [
+                    1354429876,
+                    848860060,
+                    1428297954,
+                    2014892510
+                ],
+                [
+                    1546637391,
+                    3418165135,
+                    4104185692,
+                    3007133316
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "MW: Range; Warden’s Law shines a bit more in The Crucible than it does in PvE. To fully optimize the weapon for PvP, we’ll start with barrels and magazines that increase range and stability: Polygonal Rifling and Accurized Rounds. For column 3, Moving Target is generally the best pick, but Discord and Perpetual Motion can also work if you can play into them. The final column is really where Warden’s Law gets interesting. With Kill Clip active, this weapon can two-tap any Guardian under Tier 10 Resilience. This reduces the weapon’s time to kill to 0.50s, which is absurd given Kill Clip’s consistency.",
+            "hash": 3250744600,
+            "name": "PVP",
+            "plugs": [
+                [
+                    1392496348,
+                    3250034553
+                ],
+                [
+                    3142289711,
+                    3230963543
+                ],
+                [
+                    588594999,
+                    2717805783
+                ],
+                [
+                    1015611457,
+                    2923251173
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "MW: Range; Warden’s Law shines a bit more in The Crucible than it does in PvE. To fully optimize the weapon for PvP, we’ll start with barrels and magazines that increase range and stability: Polygonal Rifling and Accurized Rounds. For column 3, Moving Target is generally the best pick, but Discord and Perpetual Motion can also work if you can play into them. The final column is really where Warden’s Law gets interesting. With Kill Clip active, this weapon can two-tap any Guardian under Tier 10 Resilience. This reduces the weapon’s time to kill to 0.50s, which is absurd given Kill Clip’s consistency.",
+            "hash": 3250744600,
+            "name": "PVP",
+            "plugs": [
+                [
+                    588594999,
+                    2717805783
+                ],
+                [
+                    1015611457,
+                    2923251173
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "MW: Handling; Based on rec's from clannies.",
+            "hash": 3605603507,
+            "name": "Crafted",
+            "plugs": [
+                [
+                    1840239774
+                ],
+                [
+                    2420895100
+                ],
+                [
+                    1523832109,
+                    461595545
+                ],
+                [
+                    3744057135,
+                    3078487919,
+                    2799030358,
+                    2109543898
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "MW: Draw Time; In PvE, Pre Astyanax IV performs the same as Strident Whistle but with a newer and more refined perk pool. The bowstring and arrow don’t matter much (especially in PvE), but we prefer the ones that decrease Draw Time without sacrificing too much Accuracy. Column 3 is somewhat of a no-brainer with Archer’s Tempo; the other perks here aren’t that exciting. The final column, however, is an entirely different story. With the exception of Opening Shot, every perk is extremely powerful in PvE. From the build potential Incandescent and Collective Action provide to Precision Instrument’s pure power, your choice here relies slightly on your playstyle.",
+            "hash": 2932922810,
+            "name": "PVE",
+            "plugs": [
+                [
+                    4067834857,
+                    2801223209
+                ],
+                [
+                    3827198035
+                ],
+                [
+                    201365942,
+                    3523746922
+                ],
+                [
+                    555281244,
+                    2652708987,
+                    617966211,
+                    332733060
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "MW: Draw Time; In PvE, Pre Astyanax IV performs the same as Strident Whistle but with a newer and more refined perk pool. The bowstring and arrow don’t matter much (especially in PvE), but we prefer the ones that decrease Draw Time without sacrificing too much Accuracy. Column 3 is somewhat of a no-brainer with Archer’s Tempo; the other perks here aren’t that exciting. The final column, however, is an entirely different story. With the exception of Opening Shot, every perk is extremely powerful in PvE. From the build potential Incandescent and Collective Action provide to Precision Instrument’s pure power, your choice here relies slightly on your playstyle.",
+            "hash": 2932922810,
+            "name": "PVE",
+            "plugs": [
+                [
+                    201365942,
+                    3523746922
+                ],
+                [
+                    555281244,
+                    2652708987,
+                    617966211,
+                    332733060
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "MW: Draw Time; In PvE, Pre Astyanax IV performs the same as Strident Whistle but with a newer and more refined perk pool. The bowstring and arrow don’t matter much (especially in PvE), but we prefer the ones that decrease Draw Time without sacrificing too much Accuracy. Column 3 is somewhat of a no-brainer with Archer’s Tempo; the other perks here aren’t that exciting. The final column, however, is an entirely different story. With the exception of Opening Shot, every perk is extremely powerful in PvE. From the build potential Incandescent and Collective Action provide to Precision Instrument’s pure power, your choice here relies slightly on your playstyle.",
+            "hash": 2063217087,
+            "name": "PVE",
+            "plugs": [
+                [
+                    2801223209,
+                    4067834857
+                ],
+                [
+                    3827198035
+                ],
+                [
+                    201365942,
+                    3523746922
+                ],
+                [
+                    2652708987,
+                    555281244,
+                    617966211,
+                    332733060
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "MW: Draw Time; In PvE, Pre Astyanax IV performs the same as Strident Whistle but with a newer and more refined perk pool. The bowstring and arrow don’t matter much (especially in PvE), but we prefer the ones that decrease Draw Time without sacrificing too much Accuracy. Column 3 is somewhat of a no-brainer with Archer’s Tempo; the other perks here aren’t that exciting. The final column, however, is an entirely different story. With the exception of Opening Shot, every perk is extremely powerful in PvE. From the build potential Incandescent and Collective Action provide to Precision Instrument’s pure power, your choice here relies slightly on your playstyle.",
+            "hash": 2063217087,
+            "name": "PVE",
+            "plugs": [
+                [
+                    201365942,
+                    3523746922
+                ],
+                [
+                    2652708987,
+                    555281244,
+                    617966211,
+                    332733060
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "MW: Handling; With a combination of Agile Bowstring, Compact Arrow Shaft, and Handling Masterwork, we can boost Fortunate Star to a smooth 100 handling that feels lovely to use. We like the Void Repulsor Brace and Destabilizing Rounds combo for our perk combinations. Destabilizing Rounds provides some AoE through the volatile explosions, allowing it to clear out groups of enemies more efficiently than just firing the bow itself. However, if you aren’t interested in leaning fully into Void, Archer’s Tempo and Golden Tricorn are acceptable alternatives due to the draw speed from Archer’s Tempo and up to a 50% damage buff with Golden Tricorn.",
+            "hash": 2326578623,
+            "name": "PVE Void",
+            "plugs": [
+                [
+                    3768438372
+                ],
+                [
+                    16392701
+                ],
+                [
+                    2541826827,
+                    776531651
+                ],
+                [
+                    2048641572,
+                    1926441324
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "MW: Handling; With a combination of Agile Bowstring, Compact Arrow Shaft, and Handling Masterwork, we can boost Fortunate Star to a smooth 100 handling that feels lovely to use. We like the Void Repulsor Brace and Destabilizing Rounds combo for our perk combinations. Destabilizing Rounds provides some AoE through the volatile explosions, allowing it to clear out groups of enemies more efficiently than just firing the bow itself. However, if you aren’t interested in leaning fully into Void, Archer’s Tempo and Golden Tricorn are acceptable alternatives due to the draw speed from Archer’s Tempo and up to a 50% damage buff with Golden Tricorn.",
+            "hash": 2326578623,
+            "name": "PVE",
+            "plugs": [
+                [
+                    3768438372
+                ],
+                [
+                    16392701
+                ],
+                [
+                    201365942,
+                    3523746922
+                ],
+                [
+                    2610012052,
+                    4290541820
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "MW: Handling; With a combination of Agile Bowstring, Compact Arrow Shaft, and Handling Masterwork, we can boost Fortunate Star to a smooth 100 handling that feels lovely to use. We like the Void Repulsor Brace and Destabilizing Rounds combo for our perk combinations. Destabilizing Rounds provides some AoE through the volatile explosions, allowing it to clear out groups of enemies more efficiently than just firing the bow itself. However, if you aren’t interested in leaning fully into Void, Archer’s Tempo and Golden Tricorn are acceptable alternatives due to the draw speed from Archer’s Tempo and up to a 50% damage buff with Golden Tricorn.",
+            "hash": 2326578623,
+            "name": "PVE Void",
+            "plugs": [
+                [
+                    2541826827,
+                    776531651
+                ],
+                [
+                    2048641572,
+                    1926441324
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "MW: Handling; With a combination of Agile Bowstring, Compact Arrow Shaft, and Handling Masterwork, we can boost Fortunate Star to a smooth 100 handling that feels lovely to use. We like the Void Repulsor Brace and Destabilizing Rounds combo for our perk combinations. Destabilizing Rounds provides some AoE through the volatile explosions, allowing it to clear out groups of enemies more efficiently than just firing the bow itself. However, if you aren’t interested in leaning fully into Void, Archer’s Tempo and Golden Tricorn are acceptable alternatives due to the draw speed from Archer’s Tempo and up to a 50% damage buff with Golden Tricorn.",
+            "hash": 2326578623,
+            "name": "PVE",
+            "plugs": [
+                [
+                    201365942,
+                    3523746922
+                ],
+                [
+                    2610012052,
+                    4290541820
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "MW: Range; The barrel choice on this Shotgun is incredibly interesting. While we think Smallbore is the safest option all-around due to the small bump to Stability and Range, there is an argument to be made for Full Bore. Slickdraw boosts our Handling high enough, and the extra range from Full Bore could be good, too. Fluted Barrel is another option that is good if you decide to go for Threat Detector over Slickdraw so you have better base handling. Accurised Rounds is a no-brainer for the magazine slot due to the flat increase in Compass Rose’s range. Slickdraw is a very exciting perk to have on a Shotgun because it boosts our Handling to 100 while also improving the ready animation speed. However, if you don’t like the feel of Slickdraw, Threat Detector is a suitable alternative. Opening Shot is the winner in the second perk slot because it maxes out our range stat, capping it at 6.71m. However, Snapshot Sights is a personal favorite of mine as it simply makes any and all weapons feel amazing to use, so definitely consider that as an alternative.",
+            "hash": 4169225313,
+            "name": "PVP",
+            "plugs": [
+                [
+                    1482024992
+                ],
+                [
+                    3142289711
+                ],
+                [
+                    1821614984,
+                    1942880504
+                ],
+                [
+                    47981717,
+                    1370847713,
+                    957782887,
+                    4116820839
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "MW: Range; The barrel choice on this Shotgun is incredibly interesting. While we think Smallbore is the safest option all-around due to the small bump to Stability and Range, there is an argument to be made for Full Bore. Slickdraw boosts our Handling high enough, and the extra range from Full Bore could be good, too. Fluted Barrel is another option that is good if you decide to go for Threat Detector over Slickdraw so you have better base handling. Accurised Rounds is a no-brainer for the magazine slot due to the flat increase in Compass Rose’s range. Slickdraw is a very exciting perk to have on a Shotgun because it boosts our Handling to 100 while also improving the ready animation speed. However, if you don’t like the feel of Slickdraw, Threat Detector is a suitable alternative. Opening Shot is the winner in the second perk slot because it maxes out our range stat, capping it at 6.71m. However, Snapshot Sights is a personal favorite of mine as it simply makes any and all weapons feel amazing to use, so definitely consider that as an alternative.",
+            "hash": 4169225313,
+            "name": "PVP",
+            "plugs": [
+                [
+                    1821614984,
+                    1942880504
+                ],
+                [
+                    47981717,
+                    1370847713,
+                    957782887,
+                    4116820839
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "MW: Reload or Velocity; If you plan to use Crowning Duologue in PvE for damaging tough enemies and bosses, then it has a number of decent DPS rolls. If you're looking for pure damage, then Reconstruction plus Bait and Switch is your best bet. The first is essentially a better version of Auto-Loading Holster that will reload your rocket launcher up to two rockets, while Bait and Switch is still among the best damage perks in the game, offering a 30% buff for ten seconds upon dealing damage with your other two weapons. ",
+            "hash": 4106757302,
+            "name": "PVE",
+            "plugs": [
+                [
+                    3798852852
+                ],
+                [
+                    2985827016,
+                    3796465595
+                ],
+                [
+                    1523832109,
+                    461595545
+                ],
+                [
+                    968510818,
+                    3078487919,
+                    1439600632,
+                    424370782,
+                    3744057135,
+                    2282937672
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "MW: Reload or Velocity; If you plan to use Crowning Duologue in PvE for damaging tough enemies and bosses, then it has a number of decent DPS rolls. If you're looking for pure damage, then Reconstruction plus Bait and Switch is your best bet. The first is essentially a better version of Auto-Loading Holster that will reload your rocket launcher up to two rockets, while Bait and Switch is still among the best damage perks in the game, offering a 30% buff for ten seconds upon dealing damage with your other two weapons. ",
+            "hash": 4106757302,
+            "name": "PVE",
+            "plugs": [
+                [
+                    1523832109,
+                    461595545
+                ],
+                [
+                    968510818,
+                    3078487919,
+                    1439600632,
+                    424370782,
+                    3744057135,
+                    2282937672
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "MW: Handling or Stability; Fantastic perk combination for ability regeneration.",
+            "hash": 586671776,
+            "name": "Ability Regen",
+            "plugs": [
+                [
+                    1840239774
+                ],
+                [
+                    1087426260,
+                    106909392
+                ],
+                [
+                    3523296417,
+                    1906147653
+                ],
+                [
+                    3592538738,
+                    2675361166
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "MW: Handling or Stability; Fantastic perk combination for ability regeneration.",
+            "hash": 586671776,
+            "name": "Ability Regen",
+            "plugs": [
+                [
+                    3523296417,
+                    1906147653
+                ],
+                [
+                    3592538738,
+                    2675361166
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "MW: Handling or Stability; Fantastic perk combination for Stasis builds.",
+            "hash": 586671776,
+            "name": "Stasis build",
+            "plugs": [
+                [
+                    1840239774
+                ],
+                [
+                    1087426260,
+                    106909392
+                ],
+                [
+                    3523296417,
+                    1906147653,
+                    4245865861,
+                    1820235745
+                ],
+                [
+                    124408337,
+                    1171887445
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "MW: Handling or Stability; Fantastic perk combination for Stasis builds.",
+            "hash": 586671776,
+            "name": "Stasis build",
+            "plugs": [
+                [
+                    3523296417,
+                    1906147653,
+                    4245865861,
+                    1820235745
+                ],
+                [
+                    124408337,
+                    1171887445
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "MW: Handling or Stability; For PvE, our primary goal is to make the weapon feel smoother to use. As a result, we’ll opt for Fluted Barrel, Tactical Mag, and either a handling or stability masterwork (purely dependent on your preference). Demolitionist is a rare sight in the third column, so we’ll opt for that. This is especially strong when combined with Frenzy in the final column, which increases all the stats that matter.",
+            "hash": 586671776,
+            "name": "PVE",
+            "plugs": [
+                [
+                    1840239774
+                ],
+                [
+                    106909392,
+                    1087426260
+                ],
+                [
+                    3523296417,
+                    1906147653,
+                    247725512,
+                    2938480696
+                ],
+                [
+                    4104185692,
+                    3007133316
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "MW: Handling or Stability; For PvE, our primary goal is to make the weapon feel smoother to use. As a result, we’ll opt for Fluted Barrel, Tactical Mag, and either a handling or stability masterwork (purely dependent on your preference). Demolitionist is a rare sight in the third column, so we’ll opt for that. This is especially strong when combined with Frenzy in the final column, which increases all the stats that matter.",
+            "hash": 586671776,
+            "name": "PVE",
+            "plugs": [
+                [
+                    3523296417,
+                    1906147653,
+                    247725512,
+                    2938480696
+                ],
+                [
+                    4104185692,
+                    3007133316
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
             "description": "Jagged Edge and Swordmaster’s Guard are the preferred picks for Swords as they increase damage by the highest amount, but Honed Edge isn’t awful, either. You could also look at Hungry Edge (additional ammo) and Balanced Guard (balanced overall defense).",
             "hash": 3257091166,
             "name": "Utility",
