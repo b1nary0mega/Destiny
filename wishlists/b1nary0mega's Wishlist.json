@@ -1,6 +1,6 @@
 {
     "description": "Personally curated lists of [Demi]God rolls and game staples. Mostly sourced from Blueberries, meta, and game testing.",
-    "name": "b1nary0mega's Wishlists",
+    "name": "b1nary0mega's Wishlist",
     "data": [
         {
             "description": "Tier S; Gnawing Hunger has had an incredible run since it was first introduced, and remains one of the most popular auto rifles for good reason. Incredible perks with impressive stability at 600 RPM, this is one of the best weapons in the game.",
@@ -8072,6 +8072,163 @@
                 [
                     4104185692,
                     3007133316
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "MW: Velocity; While there’s no way that Undercurrent can top meta picks, attempting to get as close to there as possible is your best bet. Quick Launch, High-Velocity Rounds, and a velocity masterwork are all no-brainers since velocity is the most important stat here. Ambitious Assassin is the clear choice for general gameplay in the first column, while Demolitionist and Lead from Gold are niche but potent in the right situation.  For the final column, Voltshot almost functions as a budget version of Chain Reaction. If you instead want something a bit more generic, One for All and Adrenaline Junkie work well.",
+            "hash": 3686538757,
+            "name": "PVE",
+            "plugs": [
+                [
+                    3525010810
+                ],
+                [
+                    2822142346
+                ],
+                [
+                    3523296417,
+                    2010801679,
+                    1906147653,
+                    3797647183
+                ],
+                [
+                    2173046394,
+                    1720528630,
+                    4049631843,
+                    859780267
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "MW: Velocity; While there’s no way that Undercurrent can top meta picks, attempting to get as close to there as possible is your best bet. Quick Launch, High-Velocity Rounds, and a velocity masterwork are all no-brainers since velocity is the most important stat here. Ambitious Assassin is the clear choice for general gameplay in the first column, while Demolitionist and Lead from Gold are niche but potent in the right situation.  For the final column, Voltshot almost functions as a budget version of Chain Reaction. If you instead want something a bit more generic, One for All and Adrenaline Junkie work well.",
+            "hash": 3686538757,
+            "name": "PVE",
+            "plugs": [
+                [
+                    3523296417,
+                    2010801679,
+                    1906147653,
+                    3797647183
+                ],
+                [
+                    2173046394,
+                    1720528630,
+                    4049631843,
+                    859780267
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 3686538757,
+            "name": "",
+            "plugs": [],
+            "tags": []
+        },
+        {
+            "description": "MW: Velocity; While there’s no way that Undercurrent can top meta picks, attempting to get as close to there as possible is your best bet. Quick Launch, High-Velocity Rounds, and a velocity masterwork are all no-brainers since velocity is the most important stat here. Ambitious Assassin is the clear choice for general gameplay in the first column, while Demolitionist and Lead from Gold are niche but potent in the right situation.  For the final column, Voltshot almost functions as a budget version of Chain Reaction. If you instead want something a bit more generic, One for All and Adrenaline Junkie work well.",
+            "hash": 817909300,
+            "name": "PVE",
+            "plugs": [
+                [
+                    3525010810
+                ],
+                [
+                    2822142346
+                ],
+                [
+                    2010801679,
+                    3523296417,
+                    3797647183,
+                    1906147653
+                ],
+                [
+                    1720528630,
+                    4049631843,
+                    859780267,
+                    2173046394
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "MW: Velocity; While there’s no way that Undercurrent can top meta picks, attempting to get as close to there as possible is your best bet. Quick Launch, High-Velocity Rounds, and a velocity masterwork are all no-brainers since velocity is the most important stat here. Ambitious Assassin is the clear choice for general gameplay in the first column, while Demolitionist and Lead from Gold are niche but potent in the right situation.  For the final column, Voltshot almost functions as a budget version of Chain Reaction. If you instead want something a bit more generic, One for All and Adrenaline Junkie work well.",
+            "hash": 817909300,
+            "name": "PVE",
+            "plugs": [
+                [
+                    2010801679,
+                    3523296417,
+                    3797647183,
+                    1906147653
+                ],
+                [
+                    1720528630,
+                    4049631843,
+                    859780267,
+                    2173046394
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "MW: Charge; Adept: Charge; The Scintillation Adept’s God roll consists of the Vice string, Bait and Switch, Rewind Rounds, Accelerated Coils, Fluted Barrel, and the Adept charge time weapon mod.",
+            "hash": 1492522228,
+            "name": "PVE",
+            "plugs": [
+                [
+                    1840239774
+                ],
+                [
+                    689005463
+                ],
+                [
+                    3418782618,
+                    1563455254
+                ],
+                [
+                    3078487919,
+                    3744057135
+                ],
+                [
+                    3988215619
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "MW: Charge; Adept: Charge; The Scintillation Adept’s God roll consists of the Vice string, Bait and Switch, Rewind Rounds, Accelerated Coils, Fluted Barrel, and the Adept charge time weapon mod.",
+            "hash": 1492522228,
+            "name": "PVE",
+            "plugs": [
+                [
+                    3418782618,
+                    1563455254
+                ],
+                [
+                    3078487919,
+                    3744057135,
+                    1427256713,
+                    254337357
+                ],
+                [
+                    3988215619
                 ]
             ],
             "tags": [
