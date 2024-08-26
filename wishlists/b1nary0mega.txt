@@ -2465,6 +2465,14 @@ dimwishlist:item=2126178511&perks=1840239774,3230963543,1771736209,2173046394
 dimwishlist:item=2126178511&perks=1840239774,3230963543,1771736209,4104185692
 dimwishlist:item=2126178511&perks=1840239774,3230963543,1771736209,1720528630
 dimwishlist:item=2126178511&perks=1840239774,3230963543,1771736209,3007133316
+dimwishlist:item=2126178511&perks=1840239774,3230963543,691659142,2173046394
+dimwishlist:item=2126178511&perks=1840239774,3230963543,691659142,4104185692
+dimwishlist:item=2126178511&perks=1840239774,3230963543,691659142,1720528630
+dimwishlist:item=2126178511&perks=1840239774,3230963543,691659142,3007133316
+dimwishlist:item=2126178511&perks=1840239774,3230963543,536173722,2173046394
+dimwishlist:item=2126178511&perks=1840239774,3230963543,536173722,4104185692
+dimwishlist:item=2126178511&perks=1840239774,3230963543,536173722,1720528630
+dimwishlist:item=2126178511&perks=1840239774,3230963543,536173722,3007133316
 
 
 // Corrasion - PVP (god-pvp)
@@ -2479,18 +2487,6 @@ dimwishlist:item=2126178511&perks=1482024992,3177308360,2002547233,699525795
 dimwishlist:item=2126178511&perks=1482024992,3177308360,2002547233,3719974635
 
 
-// Corrasion - PVE (pve)
-//notes: MW: Stability; Red death is better option; Handling and Reload Speed are very important on Corrasion and in PvE in general, meaning that Fluted Barrel and Flared Magwell are the best bets for our Barrel and Magazine slots. A Stability masterwork rounds out the weapon as Enlightened Action provides both Handling and Reload Speed.In perk slot one, Enlightened Action is the clear winner as it makes this weapon feel much nicer to use due to the bump in Reload Speed and Handling. tags:pve
-dimwishlist:item=2126178511&perks=3828510309,2173046394
-dimwishlist:item=2126178511&perks=3828510309,4104185692
-dimwishlist:item=2126178511&perks=3828510309,1720528630
-dimwishlist:item=2126178511&perks=3828510309,3007133316
-dimwishlist:item=2126178511&perks=1771736209,2173046394
-dimwishlist:item=2126178511&perks=1771736209,4104185692
-dimwishlist:item=2126178511&perks=1771736209,1720528630
-dimwishlist:item=2126178511&perks=1771736209,3007133316
-
-
 // Corrasion - PVP (pvp)
 //notes: MW: Stability or Handling; Stability is important for a weapon like this, so Smallbore, Steady Rounds, and Stability masterwork are all valuable choices. However, some may prefer a Handling masterwork for more fluidity on the weapon. Perpetual Motion is the best pick for perk slot one, as it provides a bump to all stats, but High-Impact Reserves could make the weapon more forgiving in terms of body-shot time to kill if you miss a few shots. Eye of the Storm is the best perk in slot two, as it drastically improves the dueling potential of the weapon, making it much more consistent. tags:pvp
 dimwishlist:item=2126178511&perks=2213355989,699525795
@@ -2501,6 +2497,26 @@ dimwishlist:item=2126178511&perks=2014892510,699525795
 dimwishlist:item=2126178511&perks=2014892510,3719974635
 dimwishlist:item=2126178511&perks=2002547233,699525795
 dimwishlist:item=2126178511&perks=2002547233,3719974635
+
+
+// Corrasion - PVE (pve)
+//notes: MW: Stability; Red death is better option; Handling and Reload Speed are very important on Corrasion and in PvE in general, meaning that Fluted Barrel and Flared Magwell are the best bets for our Barrel and Magazine slots. A Stability masterwork rounds out the weapon as Enlightened Action provides both Handling and Reload Speed.In perk slot one, Enlightened Action is the clear winner as it makes this weapon feel much nicer to use due to the bump in Reload Speed and Handling. tags:pve
+dimwishlist:item=2126178511&perks=3828510309,2173046394
+dimwishlist:item=2126178511&perks=3828510309,4104185692
+dimwishlist:item=2126178511&perks=3828510309,1720528630
+dimwishlist:item=2126178511&perks=3828510309,3007133316
+dimwishlist:item=2126178511&perks=1771736209,2173046394
+dimwishlist:item=2126178511&perks=1771736209,4104185692
+dimwishlist:item=2126178511&perks=1771736209,1720528630
+dimwishlist:item=2126178511&perks=1771736209,3007133316
+dimwishlist:item=2126178511&perks=691659142,2173046394
+dimwishlist:item=2126178511&perks=691659142,4104185692
+dimwishlist:item=2126178511&perks=691659142,1720528630
+dimwishlist:item=2126178511&perks=691659142,3007133316
+dimwishlist:item=2126178511&perks=536173722,2173046394
+dimwishlist:item=2126178511&perks=536173722,4104185692
+dimwishlist:item=2126178511&perks=536173722,1720528630
+dimwishlist:item=2126178511&perks=536173722,3007133316
 
 
 // Warden's Law - PVE (god-pve)
