@@ -290,3 +290,21 @@ Here are some items to be on the lookout for. I would consider these staples.
 (exactname:stoicism exactperk:"spirit of the ophidian" exactperk:"spirit of the horn" ) OR 
 (exactname:stoicism exactperk:"spirit of the ophidian" exactperk:"spirit of verity")
 ```
+
+---
+
+# DPS
+
+## Hunter
+[Still Hunt Cycling](https://www.youtube.com/watch?v=hWGDIC4JWQw&t=1059s)
+: [Loadout](https://www.youtube.com/watch?v=hWGDIC4JWQw&t=1059s)
+
+1. Grenage
+2. Dodge
+3. Rocket
+4. Still Hunt == 1 bullet
+5. Rocket
+6. Smoke Bomb
+7. Rocket
+8. Still Hunt 3 shots - Cancel Animation (Prismatic or Golden Gun)
+
