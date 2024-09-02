@@ -1048,14 +1048,6 @@ dimwishlist:item=1056103557&perks=1840239774,3230963543,3120212825,3523296417
 dimwishlist:item=1056103557&perks=1840239774,3230963543,3120212825,1906147653
 
 
-// Shadow Price (Adept) - PVP (god-pvp)
-//notes: MW: Stability or Range; Shadow Price is massively carried by its weapon archetype and decent stats, as Smallbore, Accurised Rounds, and a Stability or Range masterwork can make this weapon have some solid stats. For perk 1, Strategist is the best option as it will feed back our Class Ability, which can provide some versatility and allow players to play around their abilities a bit more. Gutshot Straight is the best option in slot 2 as it can provide some lenience for players that may not be as accurate. However, it is mainly the best optionas as other perks in this column are simply not well-suited for PvP. tags:god-pvp
-dimwishlist:item=1056103557&perks=1482024992,3142289711,880644845,1365187766
-dimwishlist:item=1056103557&perks=1482024992,3142289711,880644845,4200236906
-dimwishlist:item=1056103557&perks=1482024992,3142289711,3120212825,1365187766
-dimwishlist:item=1056103557&perks=1482024992,3142289711,3120212825,4200236906
-
-
 // Shadow Price (Adept) - PVE (pve)
 //notes: MW: Handling; Handling is often nice to have on weapons in PvE to make them feel nicer to use, meaning that we will opt for Fluted Barrel and a Handling Masterwork. For our magazine, because we have Stats For All, we can afford to go for a magazine-boosting option like Appended Mag. However, if Strategist is chosen, Flared Magwell will be a nicer pick. For our perks, Stats For All makes this weapon feel a lot less clunky due to the bump to Handling and Reload Speed. This pairs brilliantly with Voltshot, as the jolting damage from this perk will activate Stats For All, making them synergise excellently. Alternatively, Strategist and Demolitionist can be used together to create an incredibly high ability-uptime build as Strategist feeds into your Class Ability, and Demolitionist fuels your Grenade energy. tags:pve
 dimwishlist:item=1056103557&perks=880644845,2173046394
@@ -1066,14 +1058,6 @@ dimwishlist:item=1056103557&perks=3120212825,2173046394
 dimwishlist:item=1056103557&perks=3120212825,1720528630
 dimwishlist:item=1056103557&perks=3120212825,3523296417
 dimwishlist:item=1056103557&perks=3120212825,1906147653
-
-
-// Shadow Price (Adept) - PVP (pvp)
-//notes: MW: Stability or Range; Shadow Price is massively carried by its weapon archetype and decent stats, as Smallbore, Accurised Rounds, and a Stability or Range masterwork can make this weapon have some solid stats. For perk 1, Strategist is the best option as it will feed back our Class Ability, which can provide some versatility and allow players to play around their abilities a bit more. Gutshot Straight is the best option in slot 2 as it can provide some lenience for players that may not be as accurate. However, it is mainly the best optionas as other perks in this column are simply not well-suited for PvP. tags:pvp
-dimwishlist:item=1056103557&perks=880644845,1365187766
-dimwishlist:item=1056103557&perks=880644845,4200236906
-dimwishlist:item=1056103557&perks=3120212825,1365187766
-dimwishlist:item=1056103557&perks=3120212825,4200236906
 
 
 // Timeworn Wayfarer - PVE (god-pve,pve)
@@ -2757,14 +2741,6 @@ dimwishlist:item=2322926844&perks=1840239774,3230963543,3120212825,1720528630
 dimwishlist:item=2322926844&perks=1840239774,3230963543,3120212825,1906147653
 
 
-// Shadow Price - PVP (god-pvp)
-//notes: MW: Stability or Range; Shadow Price is massively carried by its weapon archetype and decent stats, as Smallbore, Accurised Rounds, and a Stability or Range masterwork can make this weapon have some solid stats. For perk 1, Strategist is the best option as it will feed back our Class Ability, which can provide some versatility and allow players to play around their abilities a bit more. Gutshot Straight is the best option in slot 2 as it can provide some lenience for players that may not be as accurate. However, it is mainly the best optionas as other perks in this column are simply not well-suited for PvP. tags:god-pvp
-dimwishlist:item=2322926844&perks=1482024992,3142289711,880644845,1365187766
-dimwishlist:item=2322926844&perks=1482024992,3142289711,880644845,4200236906
-dimwishlist:item=2322926844&perks=1482024992,3142289711,3120212825,1365187766
-dimwishlist:item=2322926844&perks=1482024992,3142289711,3120212825,4200236906
-
-
 // Shadow Price - PVE (pve)
 //notes: MW: Handling; Handling is often nice to have on weapons in PvE to make them feel nicer to use, meaning that we will opt for Fluted Barrel and a Handling Masterwork. For our magazine, because we have Stats For All, we can afford to go for a magazine-boosting option like Appended Mag. However, if Strategist is chosen, Flared Magwell will be a nicer pick. For our perks, Stats For All makes this weapon feel a lot less clunky due to the bump to Handling and Reload Speed. This pairs brilliantly with Voltshot, as the jolting damage from this perk will activate Stats For All, making them synergise excellently. Alternatively, Strategist and Demolitionist can be used together to create an incredibly high ability-uptime build as Strategist feeds into your Class Ability, and Demolitionist fuels your Grenade energy. tags:pve
 dimwishlist:item=2322926844&perks=880644845,2173046394
@@ -2775,14 +2751,6 @@ dimwishlist:item=2322926844&perks=3120212825,2173046394
 dimwishlist:item=2322926844&perks=3120212825,1720528630
 dimwishlist:item=2322926844&perks=3120212825,3523296417
 dimwishlist:item=2322926844&perks=3120212825,1906147653
-
-
-// Shadow Price - PVP (pvp)
-//notes: MW: Stability or Range; Shadow Price is massively carried by its weapon archetype and decent stats, as Smallbore, Accurised Rounds, and a Stability or Range masterwork can make this weapon have some solid stats. For perk 1, Strategist is the best option as it will feed back our Class Ability, which can provide some versatility and allow players to play around their abilities a bit more. Gutshot Straight is the best option in slot 2 as it can provide some lenience for players that may not be as accurate. However, it is mainly the best optionas as other perks in this column are simply not well-suited for PvP. tags:pvp
-dimwishlist:item=2322926844&perks=880644845,1365187766
-dimwishlist:item=2322926844&perks=880644845,4200236906
-dimwishlist:item=2322926844&perks=3120212825,1365187766
-dimwishlist:item=2322926844&perks=3120212825,4200236906
 
 
 // Fortunate Star - PVE Void (god-pve)
@@ -4261,6 +4229,8 @@ dimwishlist:item=3366545721&perks=4085959009,781192741
 //notes: MW: Velocity; Regardless of what activity you’re thinking of playing, Indebted Kindness’ most important stat is velocity. Because of this, we’ll be using Quick Launch, High-Velocity Rounds, a velocity masterwork, and Impulse Amplifier. Beacon Rounds, a perk currently exclusive to rocket-assisted sidearms, is also a great choice for perk one. For the final column of perks, Voltshot is what many are seeking. Surrounded is also great for total damage if you can get it to proc, but those are really the only two perks worth keeping an eye out for in this column. tags:god-pve
 dimwishlist:item=3381450498&perks=3525010810,2822142346,951095735,2173046394
 dimwishlist:item=3381450498&perks=3525010810,2822142346,2859149211,2173046394
+dimwishlist:item=3381450498&perks=3525010810,106909392,951095735,2173046394
+dimwishlist:item=3381450498&perks=3525010810,106909392,2859149211,2173046394
 
 
 // Indebted Kindness - PVP (god-pvp)
