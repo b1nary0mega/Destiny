@@ -1,5 +1,5 @@
 title:b1nary0mega's Wishlist
-description:Personally curated list of [Demi]God rolls. Mostly sourced from Blueberries.gg and tested in-game.
+description:Personally curated lists of [Demi]God rolls and game staples. Mostly sourced from Blueberries, meta, and game testing.
 
 // Dragon's Breath - Good (god-pve,pve)
 //notes: Great rocket especially against Solar shields tags:god-pve,pve
@@ -20,6 +20,22 @@ dimwishlist:item=35794111&perks=2590710093,3913600130
 dimwishlist:item=35794111&perks=2590710093,1546637391
 dimwishlist:item=35794111&perks=1749209109,3913600130
 dimwishlist:item=35794111&perks=1749209109,1546637391
+
+
+// Uzume RR4 - PVE (god-pve)
+//notes: MW: Handling; There are a couple of great combinations on an Uzume RR4 god roll, but this one focuses on Precision Instrument to boost your damage output. Uzume RR4 has a rather vertical recoil pattern, with the reticle bouncing to the left or right only slightly. Due to this, you can afford to use another option like Fluted Barrel. This will increase the Handling, allowing you to whip it out and aim at a crit-spot much faster. When it comes to the first perk and Magazine option, Clown Cartridge provides either on par or better ammo returns when compared to Fourth Time’s the Charm. Couple this with Tactical Mag for another round, a decrease to how long it takes to reload, and a little bump in Stability. For the final perk, Precision Instrument is a ramping damage boost that rewards ongoing critical hits. Keep landing those headshots to get a percentage bump to your damage, up to a maximum of 25 percent at six stacks. Just note you’ll lose all progress if you miss. A Handling Masterwork will make this feel snappier and an Adept Big Ones Spec mod will let you deal better damage to Majors and Bosses. tags:god-pve
+dimwishlist:item=42874240&perks=1840239774,106909392,2284787283,555281244
+dimwishlist:item=42874240&perks=1840239774,106909392,2284787283,332733060
+dimwishlist:item=42874240&perks=1840239774,106909392,3563868667,555281244
+dimwishlist:item=42874240&perks=1840239774,106909392,3563868667,332733060
+
+
+// Uzume RR4 - PVE (pve)
+//notes: MW: Handling; There are a couple of great combinations on an Uzume RR4 god roll, but this one focuses on Precision Instrument to boost your damage output. Uzume RR4 has a rather vertical recoil pattern, with the reticle bouncing to the left or right only slightly. Due to this, you can afford to use another option like Fluted Barrel. This will increase the Handling, allowing you to whip it out and aim at a crit-spot much faster. When it comes to the first perk and Magazine option, Clown Cartridge provides either on par or better ammo returns when compared to Fourth Time’s the Charm. Couple this with Tactical Mag for another round, a decrease to how long it takes to reload, and a little bump in Stability. For the final perk, Precision Instrument is a ramping damage boost that rewards ongoing critical hits. Keep landing those headshots to get a percentage bump to your damage, up to a maximum of 25 percent at six stacks. Just note you’ll lose all progress if you miss. A Handling Masterwork will make this feel snappier and an Adept Big Ones Spec mod will let you deal better damage to Majors and Bosses. tags:pve
+dimwishlist:item=42874240&perks=2284787283,555281244
+dimwishlist:item=42874240&perks=2284787283,332733060
+dimwishlist:item=42874240&perks=3563868667,555281244
+dimwishlist:item=42874240&perks=3563868667,332733060
 
 
 // Malfeasance - Exotic ()
@@ -1048,6 +1064,14 @@ dimwishlist:item=1056103557&perks=1840239774,3230963543,3120212825,3523296417
 dimwishlist:item=1056103557&perks=1840239774,3230963543,3120212825,1906147653
 
 
+// Shadow Price (Adept) - PVP (god-pvp)
+//notes: MW: Stability or Range; Shadow Price is massively carried by its weapon archetype and decent stats, as Smallbore, Accurised Rounds, and a Stability or Range masterwork can make this weapon have some solid stats. For perk 1, Strategist is the best option as it will feed back our Class Ability, which can provide some versatility and allow players to play around their abilities a bit more. Gutshot Straight is the best option in slot 2 as it can provide some lenience for players that may not be as accurate. However, it is mainly the best optionas as other perks in this column are simply not well-suited for PvP. tags:god-pvp
+dimwishlist:item=1056103557&perks=1482024992,3142289711,880644845,1365187766
+dimwishlist:item=1056103557&perks=1482024992,3142289711,880644845,4200236906
+dimwishlist:item=1056103557&perks=1482024992,3142289711,3120212825,1365187766
+dimwishlist:item=1056103557&perks=1482024992,3142289711,3120212825,4200236906
+
+
 // Shadow Price (Adept) - PVE (pve)
 //notes: MW: Handling; Handling is often nice to have on weapons in PvE to make them feel nicer to use, meaning that we will opt for Fluted Barrel and a Handling Masterwork. For our magazine, because we have Stats For All, we can afford to go for a magazine-boosting option like Appended Mag. However, if Strategist is chosen, Flared Magwell will be a nicer pick. For our perks, Stats For All makes this weapon feel a lot less clunky due to the bump to Handling and Reload Speed. This pairs brilliantly with Voltshot, as the jolting damage from this perk will activate Stats For All, making them synergise excellently. Alternatively, Strategist and Demolitionist can be used together to create an incredibly high ability-uptime build as Strategist feeds into your Class Ability, and Demolitionist fuels your Grenade energy. tags:pve
 dimwishlist:item=1056103557&perks=880644845,2173046394
@@ -1058,6 +1082,14 @@ dimwishlist:item=1056103557&perks=3120212825,2173046394
 dimwishlist:item=1056103557&perks=3120212825,1720528630
 dimwishlist:item=1056103557&perks=3120212825,3523296417
 dimwishlist:item=1056103557&perks=3120212825,1906147653
+
+
+// Shadow Price (Adept) - PVP (pvp)
+//notes: MW: Stability or Range; Shadow Price is massively carried by its weapon archetype and decent stats, as Smallbore, Accurised Rounds, and a Stability or Range masterwork can make this weapon have some solid stats. For perk 1, Strategist is the best option as it will feed back our Class Ability, which can provide some versatility and allow players to play around their abilities a bit more. Gutshot Straight is the best option in slot 2 as it can provide some lenience for players that may not be as accurate. However, it is mainly the best optionas as other perks in this column are simply not well-suited for PvP. tags:pvp
+dimwishlist:item=1056103557&perks=880644845,1365187766
+dimwishlist:item=1056103557&perks=880644845,4200236906
+dimwishlist:item=1056103557&perks=3120212825,1365187766
+dimwishlist:item=1056103557&perks=3120212825,4200236906
 
 
 // Timeworn Wayfarer - PVE (god-pve,pve)
@@ -2135,6 +2167,14 @@ dimwishlist:item=1815105249&perks=3418165135,2077819806
 dimwishlist:item=1815105249&perks=3418165135,1618208178
 
 
+// Falling Guillotine - Utility ()
+//notes: Jagged Edge and Swordmaster’s Guard are the preferred picks for Swords as they increase damage by the highest amount, but Honed Edge isn’t awful, either. You could also look at Hungry Edge (additional ammo) and Balanced Guard (balanced overall defense).
+dimwishlist:item=1815105249&perks=1749209109,2077819806
+dimwishlist:item=1815105249&perks=1749209109,1618208178
+dimwishlist:item=1815105249&perks=4085959009,2077819806
+dimwishlist:item=1815105249&perks=4085959009,1618208178
+
+
 // The Summoner - PVE (god-pve,pve)
 //notes: MW Stability or Handling; Backup Mag; Start with Arrowhead Brake to control The Summoner's high amount of Recoil and make it much more vertical when firing. The added Handling is a welcome bonus for ease of use when cycling through a loadout. Add in Ricochet Rounds for solid boosts to Stability and Range, helping keep The Summoner accurate and feeling sticky when spraying bullets at enemies. he main perks on this god roll bounce off each other to great effect, especially paired with a solid Solar or Prismatic build. Heal Clip ensures that kills are rewarded with healing when reloading afterward and also provides these bonuses to Fireteam members close by. Then Incandescent applies Scorch and eventually Ignite to cause room-clearing explosions. All enemies defeated by this count for Heal Clip when reloading which makes The Summoner a workhorse when tearing through waves of foes.   tags:god-pve,pve
 dimwishlist:item=1820994983&perks=839105230,1885400500,3017780555,4293542123
@@ -2449,14 +2489,6 @@ dimwishlist:item=2126178511&perks=1840239774,3230963543,1771736209,2173046394
 dimwishlist:item=2126178511&perks=1840239774,3230963543,1771736209,4104185692
 dimwishlist:item=2126178511&perks=1840239774,3230963543,1771736209,1720528630
 dimwishlist:item=2126178511&perks=1840239774,3230963543,1771736209,3007133316
-dimwishlist:item=2126178511&perks=1840239774,3230963543,691659142,2173046394
-dimwishlist:item=2126178511&perks=1840239774,3230963543,691659142,4104185692
-dimwishlist:item=2126178511&perks=1840239774,3230963543,691659142,1720528630
-dimwishlist:item=2126178511&perks=1840239774,3230963543,691659142,3007133316
-dimwishlist:item=2126178511&perks=1840239774,3230963543,536173722,2173046394
-dimwishlist:item=2126178511&perks=1840239774,3230963543,536173722,4104185692
-dimwishlist:item=2126178511&perks=1840239774,3230963543,536173722,1720528630
-dimwishlist:item=2126178511&perks=1840239774,3230963543,536173722,3007133316
 
 
 // Corrasion - PVP (god-pvp)
@@ -2471,18 +2503,6 @@ dimwishlist:item=2126178511&perks=1482024992,3177308360,2002547233,699525795
 dimwishlist:item=2126178511&perks=1482024992,3177308360,2002547233,3719974635
 
 
-// Corrasion - PVP (pvp)
-//notes: MW: Stability or Handling; Stability is important for a weapon like this, so Smallbore, Steady Rounds, and Stability masterwork are all valuable choices. However, some may prefer a Handling masterwork for more fluidity on the weapon. Perpetual Motion is the best pick for perk slot one, as it provides a bump to all stats, but High-Impact Reserves could make the weapon more forgiving in terms of body-shot time to kill if you miss a few shots. Eye of the Storm is the best perk in slot two, as it drastically improves the dueling potential of the weapon, making it much more consistent. tags:pvp
-dimwishlist:item=2126178511&perks=2213355989,699525795
-dimwishlist:item=2126178511&perks=2213355989,3719974635
-dimwishlist:item=2126178511&perks=1428297954,699525795
-dimwishlist:item=2126178511&perks=1428297954,3719974635
-dimwishlist:item=2126178511&perks=2014892510,699525795
-dimwishlist:item=2126178511&perks=2014892510,3719974635
-dimwishlist:item=2126178511&perks=2002547233,699525795
-dimwishlist:item=2126178511&perks=2002547233,3719974635
-
-
 // Corrasion - PVE (pve)
 //notes: MW: Stability; Red death is better option; Handling and Reload Speed are very important on Corrasion and in PvE in general, meaning that Fluted Barrel and Flared Magwell are the best bets for our Barrel and Magazine slots. A Stability masterwork rounds out the weapon as Enlightened Action provides both Handling and Reload Speed.In perk slot one, Enlightened Action is the clear winner as it makes this weapon feel much nicer to use due to the bump in Reload Speed and Handling. tags:pve
 dimwishlist:item=2126178511&perks=3828510309,2173046394
@@ -2493,14 +2513,18 @@ dimwishlist:item=2126178511&perks=1771736209,2173046394
 dimwishlist:item=2126178511&perks=1771736209,4104185692
 dimwishlist:item=2126178511&perks=1771736209,1720528630
 dimwishlist:item=2126178511&perks=1771736209,3007133316
-dimwishlist:item=2126178511&perks=691659142,2173046394
-dimwishlist:item=2126178511&perks=691659142,4104185692
-dimwishlist:item=2126178511&perks=691659142,1720528630
-dimwishlist:item=2126178511&perks=691659142,3007133316
-dimwishlist:item=2126178511&perks=536173722,2173046394
-dimwishlist:item=2126178511&perks=536173722,4104185692
-dimwishlist:item=2126178511&perks=536173722,1720528630
-dimwishlist:item=2126178511&perks=536173722,3007133316
+
+
+// Corrasion - PVP (pvp)
+//notes: MW: Stability or Handling; Stability is important for a weapon like this, so Smallbore, Steady Rounds, and Stability masterwork are all valuable choices. However, some may prefer a Handling masterwork for more fluidity on the weapon. Perpetual Motion is the best pick for perk slot one, as it provides a bump to all stats, but High-Impact Reserves could make the weapon more forgiving in terms of body-shot time to kill if you miss a few shots. Eye of the Storm is the best perk in slot two, as it drastically improves the dueling potential of the weapon, making it much more consistent. tags:pvp
+dimwishlist:item=2126178511&perks=2213355989,699525795
+dimwishlist:item=2126178511&perks=2213355989,3719974635
+dimwishlist:item=2126178511&perks=1428297954,699525795
+dimwishlist:item=2126178511&perks=1428297954,3719974635
+dimwishlist:item=2126178511&perks=2014892510,699525795
+dimwishlist:item=2126178511&perks=2014892510,3719974635
+dimwishlist:item=2126178511&perks=2002547233,699525795
+dimwishlist:item=2126178511&perks=2002547233,3719974635
 
 
 // Warden's Law - PVE (god-pve)
@@ -2741,6 +2765,14 @@ dimwishlist:item=2322926844&perks=1840239774,3230963543,3120212825,1720528630
 dimwishlist:item=2322926844&perks=1840239774,3230963543,3120212825,1906147653
 
 
+// Shadow Price - PVP (god-pvp)
+//notes: MW: Stability or Range; Shadow Price is massively carried by its weapon archetype and decent stats, as Smallbore, Accurised Rounds, and a Stability or Range masterwork can make this weapon have some solid stats. For perk 1, Strategist is the best option as it will feed back our Class Ability, which can provide some versatility and allow players to play around their abilities a bit more. Gutshot Straight is the best option in slot 2 as it can provide some lenience for players that may not be as accurate. However, it is mainly the best optionas as other perks in this column are simply not well-suited for PvP. tags:god-pvp
+dimwishlist:item=2322926844&perks=1482024992,3142289711,880644845,1365187766
+dimwishlist:item=2322926844&perks=1482024992,3142289711,880644845,4200236906
+dimwishlist:item=2322926844&perks=1482024992,3142289711,3120212825,1365187766
+dimwishlist:item=2322926844&perks=1482024992,3142289711,3120212825,4200236906
+
+
 // Shadow Price - PVE (pve)
 //notes: MW: Handling; Handling is often nice to have on weapons in PvE to make them feel nicer to use, meaning that we will opt for Fluted Barrel and a Handling Masterwork. For our magazine, because we have Stats For All, we can afford to go for a magazine-boosting option like Appended Mag. However, if Strategist is chosen, Flared Magwell will be a nicer pick. For our perks, Stats For All makes this weapon feel a lot less clunky due to the bump to Handling and Reload Speed. This pairs brilliantly with Voltshot, as the jolting damage from this perk will activate Stats For All, making them synergise excellently. Alternatively, Strategist and Demolitionist can be used together to create an incredibly high ability-uptime build as Strategist feeds into your Class Ability, and Demolitionist fuels your Grenade energy. tags:pve
 dimwishlist:item=2322926844&perks=880644845,2173046394
@@ -2751,6 +2783,14 @@ dimwishlist:item=2322926844&perks=3120212825,2173046394
 dimwishlist:item=2322926844&perks=3120212825,1720528630
 dimwishlist:item=2322926844&perks=3120212825,3523296417
 dimwishlist:item=2322926844&perks=3120212825,1906147653
+
+
+// Shadow Price - PVP (pvp)
+//notes: MW: Stability or Range; Shadow Price is massively carried by its weapon archetype and decent stats, as Smallbore, Accurised Rounds, and a Stability or Range masterwork can make this weapon have some solid stats. For perk 1, Strategist is the best option as it will feed back our Class Ability, which can provide some versatility and allow players to play around their abilities a bit more. Gutshot Straight is the best option in slot 2 as it can provide some lenience for players that may not be as accurate. However, it is mainly the best optionas as other perks in this column are simply not well-suited for PvP. tags:pvp
+dimwishlist:item=2322926844&perks=880644845,1365187766
+dimwishlist:item=2322926844&perks=880644845,4200236906
+dimwishlist:item=2322926844&perks=3120212825,1365187766
+dimwishlist:item=2322926844&perks=3120212825,4200236906
 
 
 // Fortunate Star - PVE Void (god-pve)
@@ -4188,6 +4228,14 @@ dimwishlist:item=3250744600&perks=2717805783,1015611457
 dimwishlist:item=3250744600&perks=2717805783,2923251173
 
 
+// Half-Truths - Utility ()
+//notes: Jagged Edge and Swordmaster’s Guard are the preferred picks for Swords as they increase damage by the highest amount, but Honed Edge isn’t awful, either. You could also look at Hungry Edge (additional ammo) and Balanced Guard (balanced overall defense).
+dimwishlist:item=3257091166&perks=1749209109,2077819806
+dimwishlist:item=3257091166&perks=1749209109,1618208178
+dimwishlist:item=3257091166&perks=4085959009,2077819806
+dimwishlist:item=3257091166&perks=4085959009,1618208178
+
+
 // Thunderlord - DPS (god-pve)
 //notes: DPS; Requires catalyst or forget it. Highly recommend actium war rig on titan or dodge-reload on hunter. tags:god-pve
 dimwishlist:item=3325463374&perks=1392496348,1968497646,1419069769,2779035018
@@ -4229,8 +4277,6 @@ dimwishlist:item=3366545721&perks=4085959009,781192741
 //notes: MW: Velocity; Regardless of what activity you’re thinking of playing, Indebted Kindness’ most important stat is velocity. Because of this, we’ll be using Quick Launch, High-Velocity Rounds, a velocity masterwork, and Impulse Amplifier. Beacon Rounds, a perk currently exclusive to rocket-assisted sidearms, is also a great choice for perk one. For the final column of perks, Voltshot is what many are seeking. Surrounded is also great for total damage if you can get it to proc, but those are really the only two perks worth keeping an eye out for in this column. tags:god-pve
 dimwishlist:item=3381450498&perks=3525010810,2822142346,951095735,2173046394
 dimwishlist:item=3381450498&perks=3525010810,2822142346,2859149211,2173046394
-dimwishlist:item=3381450498&perks=3525010810,106909392,951095735,2173046394
-dimwishlist:item=3381450498&perks=3525010810,106909392,2859149211,2173046394
 
 
 // Indebted Kindness - PVP (god-pvp)
@@ -4249,6 +4295,12 @@ dimwishlist:item=3381450498&perks=2859149211,2173046394
 //notes: MW: Velocity; Regardless of what perks you have on the weapon, Indebted Kindness just isn’t that strong for PvP. However, if you are set on using it for one reason or another, you’ll want to spec into some of the same things here as in PvE. Once again, we’ll start by going for high velocity with Quick Launch, High-Velocity Rounds, and Impulse Amplifier. Beacon Rounds is also a good substitute here, assuming you can get a kill with the weapon before entering another engagement. The final column is extremely weak, only containing the mediocre picks of Adagio and Surrounded. Beyond these, however, you more than likely won’t even feel the traits in this column working in your gameplay. tags:pvp
 dimwishlist:item=3381450498&perks=2859149211,3673922083
 dimwishlist:item=3381450498&perks=951095735,3673922083
+
+
+// Indebted Kindness - PVE ()
+//notes: MW: Velocity
+dimwishlist:item=3381450498&perks=2859149211,2173046394
+dimwishlist:item=3381450498&perks=951095735,2173046394
 
 
 // The Lament - PVE (god-pve)
@@ -4324,6 +4376,22 @@ dimwishlist:item=3605603507&perks=3523296417,1890422124
 dimwishlist:item=3605603507&perks=3523296417,1523649716
 dimwishlist:item=3605603507&perks=1906147653,1890422124
 dimwishlist:item=3605603507&perks=1906147653,1523649716
+
+
+// Uzume RR4 (Adept) - PVE (god-pve)
+//notes: MW: Handling; There are a couple of great combinations on an Uzume RR4 god roll, but this one focuses on Precision Instrument to boost your damage output. Uzume RR4 has a rather vertical recoil pattern, with the reticle bouncing to the left or right only slightly. Due to this, you can afford to use another option like Fluted Barrel. This will increase the Handling, allowing you to whip it out and aim at a crit-spot much faster. When it comes to the first perk and Magazine option, Clown Cartridge provides either on par or better ammo returns when compared to Fourth Time’s the Charm. Couple this with Tactical Mag for another round, a decrease to how long it takes to reload, and a little bump in Stability. For the final perk, Precision Instrument is a ramping damage boost that rewards ongoing critical hits. Keep landing those headshots to get a percentage bump to your damage, up to a maximum of 25 percent at six stacks. Just note you’ll lose all progress if you miss. A Handling Masterwork will make this feel snappier and an Adept Big Ones Spec mod will let you deal better damage to Majors and Bosses. tags:god-pve
+dimwishlist:item=3610521673&perks=1840239774,106909392,2284787283,555281244
+dimwishlist:item=3610521673&perks=1840239774,106909392,2284787283,332733060
+dimwishlist:item=3610521673&perks=1840239774,106909392,3563868667,555281244
+dimwishlist:item=3610521673&perks=1840239774,106909392,3563868667,332733060
+
+
+// Uzume RR4 (Adept) - PVE (pve)
+//notes: MW: Handling; There are a couple of great combinations on an Uzume RR4 god roll, but this one focuses on Precision Instrument to boost your damage output. Uzume RR4 has a rather vertical recoil pattern, with the reticle bouncing to the left or right only slightly. Due to this, you can afford to use another option like Fluted Barrel. This will increase the Handling, allowing you to whip it out and aim at a crit-spot much faster. When it comes to the first perk and Magazine option, Clown Cartridge provides either on par or better ammo returns when compared to Fourth Time’s the Charm. Couple this with Tactical Mag for another round, a decrease to how long it takes to reload, and a little bump in Stability. For the final perk, Precision Instrument is a ramping damage boost that rewards ongoing critical hits. Keep landing those headshots to get a percentage bump to your damage, up to a maximum of 25 percent at six stacks. Just note you’ll lose all progress if you miss. A Handling Masterwork will make this feel snappier and an Adept Big Ones Spec mod will let you deal better damage to Majors and Bosses. tags:pve
+dimwishlist:item=3610521673&perks=2284787283,555281244
+dimwishlist:item=3610521673&perks=2284787283,332733060
+dimwishlist:item=3610521673&perks=3563868667,555281244
+dimwishlist:item=3610521673&perks=3563868667,332733060
 
 
 // Succession - PVE (god-pve)
