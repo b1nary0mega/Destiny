@@ -3270,6 +3270,46 @@ dimwishlist:item=2450049485&perks=3755250867,47981717
 dimwishlist:item=2450049485&perks=3755250867,1370847713
 
 
+// Uzume RR4 - PVE (god-pve)
+//notes: MW: Handling; There are a couple of great combinations on an Uzume RR4 god roll, but this one focuses on Precision Instrument to boost your damage output. Uzume RR4 has a rather vertical recoil pattern, with the reticle bouncing to the left or right only slightly. Due to this, you can afford to use another option like Fluted Barrel. This will increase the Handling, allowing you to whip it out and aim at a crit-spot much faster. When it comes to the first perk and Magazine option, Clown Cartridge provides either on par or better ammo returns when compared to Fourth Time’s the Charm. Couple this with Tactical Mag for another round, a decrease to how long it takes to reload, and a little bump in Stability. For the final perk, Precision Instrument is a ramping damage boost that rewards ongoing critical hits. Keep landing those headshots to get a percentage bump to your damage, up to a maximum of 25 percent at six stacks. Just note you’ll lose all progress if you miss. A Handling Masterwork will make this feel snappier and an Adept Big Ones Spec mod will let you deal better damage to Majors and Bosses. tags:god-pve
+dimwishlist:item=2450917538&perks=1840239774,106909392,2284787283,555281244
+dimwishlist:item=2450917538&perks=1840239774,106909392,2284787283,332733060
+dimwishlist:item=2450917538&perks=1840239774,106909392,3563868667,555281244
+dimwishlist:item=2450917538&perks=1840239774,106909392,3563868667,332733060
+
+
+// Uzume RR4 - PVE (god-pve)
+//notes: MW: Handling; There are a couple of great combinations on an Uzume RR4 god roll, but this one focuses on Precision Instrument to boost your damage output. Uzume RR4 has a rather vertical recoil pattern, with the reticle bouncing to the left or right only slightly. Due to this, you can afford to use another option like Fluted Barrel. This will increase the Handling, allowing you to whip it out and aim at a crit-spot much faster. When it comes to the first perk and Magazine option, Clown Cartridge provides either on par or better ammo returns when compared to Fourth Time’s the Charm. Couple this with Tactical Mag for another round, a decrease to how long it takes to reload, and a little bump in Stability. For the final perk, Precision Instrument is a ramping damage boost that rewards ongoing critical hits. Keep landing those headshots to get a percentage bump to your damage, up to a maximum of 25 percent at six stacks. Just note you’ll lose all progress if you miss. A Handling Masterwork will make this feel snappier and an Adept Big Ones Spec mod will let you deal better damage to Majors and Bosses. tags:god-pve
+dimwishlist:item=2450917538&perks=1840239774,106909392,3978468247,3038247973
+dimwishlist:item=2450917538&perks=1840239774,106909392,3978468247,4293542123
+dimwishlist:item=2450917538&perks=1840239774,106909392,3978468247,64866129
+dimwishlist:item=2450917538&perks=1840239774,106909392,3978468247,2675184851
+dimwishlist:item=2450917538&perks=1840239774,106909392,906981559,3038247973
+dimwishlist:item=2450917538&perks=1840239774,106909392,906981559,4293542123
+dimwishlist:item=2450917538&perks=1840239774,106909392,906981559,64866129
+dimwishlist:item=2450917538&perks=1840239774,106909392,906981559,2675184851
+
+
+// Uzume RR4 - PVE (pve)
+//notes: MW: Handling; There are a couple of great combinations on an Uzume RR4 god roll, but this one focuses on Precision Instrument to boost your damage output. Uzume RR4 has a rather vertical recoil pattern, with the reticle bouncing to the left or right only slightly. Due to this, you can afford to use another option like Fluted Barrel. This will increase the Handling, allowing you to whip it out and aim at a crit-spot much faster. When it comes to the first perk and Magazine option, Clown Cartridge provides either on par or better ammo returns when compared to Fourth Time’s the Charm. Couple this with Tactical Mag for another round, a decrease to how long it takes to reload, and a little bump in Stability. For the final perk, Precision Instrument is a ramping damage boost that rewards ongoing critical hits. Keep landing those headshots to get a percentage bump to your damage, up to a maximum of 25 percent at six stacks. Just note you’ll lose all progress if you miss. A Handling Masterwork will make this feel snappier and an Adept Big Ones Spec mod will let you deal better damage to Majors and Bosses. tags:pve
+dimwishlist:item=2450917538&perks=2284787283,555281244
+dimwishlist:item=2450917538&perks=2284787283,332733060
+dimwishlist:item=2450917538&perks=3563868667,555281244
+dimwishlist:item=2450917538&perks=3563868667,332733060
+
+
+// Uzume RR4 - PVE (pve)
+//notes: MW: Handling; There are a couple of great combinations on an Uzume RR4 god roll, but this one focuses on Precision Instrument to boost your damage output. Uzume RR4 has a rather vertical recoil pattern, with the reticle bouncing to the left or right only slightly. Due to this, you can afford to use another option like Fluted Barrel. This will increase the Handling, allowing you to whip it out and aim at a crit-spot much faster. When it comes to the first perk and Magazine option, Clown Cartridge provides either on par or better ammo returns when compared to Fourth Time’s the Charm. Couple this with Tactical Mag for another round, a decrease to how long it takes to reload, and a little bump in Stability. For the final perk, Precision Instrument is a ramping damage boost that rewards ongoing critical hits. Keep landing those headshots to get a percentage bump to your damage, up to a maximum of 25 percent at six stacks. Just note you’ll lose all progress if you miss. A Handling Masterwork will make this feel snappier and an Adept Big Ones Spec mod will let you deal better damage to Majors and Bosses. tags:pve
+dimwishlist:item=2450917538&perks=3978468247,3038247973
+dimwishlist:item=2450917538&perks=3978468247,4293542123
+dimwishlist:item=2450917538&perks=3978468247,64866129
+dimwishlist:item=2450917538&perks=3978468247,2675184851
+dimwishlist:item=2450917538&perks=906981559,3038247973
+dimwishlist:item=2450917538&perks=906981559,4293542123
+dimwishlist:item=2450917538&perks=906981559,64866129
+dimwishlist:item=2450917538&perks=906981559,2675184851
+
+
 // CALUS Mini-Tool - PVE (pve,god-pve)
 //notes: Able to roll with the excellent perk Incandescent, CALUS Mini-Tool immediately cemented itself as a top-tier pick with the release of Solar 3.0. Plus, it's one of the few top-tier craftable SMGs currently in the game, meaning it's one of the easiest to get as well. tags:pve,god-pve
 dimwishlist:item=2490988246&perks=3250034553,3142289711,588594999,4293542123
