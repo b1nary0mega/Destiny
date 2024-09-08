@@ -4003,6 +4003,16 @@ dimwishlist:item=3098328572&perks=3060983774,2963273944
 dimwishlist:item=3121540812&perks=3250034553,3230963543,1302052952,3438534621
 
 
+// Fractethyst - PVP (god-pvp)
+//notes: MW: Handling; As Precision Shotguns are clearly at the top of the Shotgun meta right now, some will argue that Fractethyst is the best PvP Shotgun in the game. Excellent base stats and top-tier perks make Fractethyst a sought-after weapon among PvP players. Sliding with a Shotgun isn’t as good as it once was, so a Fractethyst god roll for PVP will utilize other Range-increasing perks. Barrel: Full Choke – Tightened barrel. Reduces projectile spread when aiming down sights at the cost of precision damage. Magazine: Accurized Rounds (Range +10) Perk 1: Quickdraw – This weapon can be drawn unbelievably fast. Perk 2: Opening Shot – Improved accuracy and range on the opening shot of attack. Quickdraw is an obvious choice, especially for those that like to use a Shotgun as a backup and not their primary means of getting kills. Get Opening Shot and you’ll have a bit of extra Range to utilize too. An alternative would be Harmony to increase its damage after getting kills with other weapons or Adrenaline Junkie for the bonus damage after a grenade kill. tags:god-pvp
+dimwishlist:item=3184681056&perks=1047830412,3142289711,706527188,47981717
+
+
+// Fractethyst - PVP (pvp)
+//notes: MW: Handling; As Precision Shotguns are clearly at the top of the Shotgun meta right now, some will argue that Fractethyst is the best PvP Shotgun in the game. Excellent base stats and top-tier perks make Fractethyst a sought-after weapon among PvP players. Sliding with a Shotgun isn’t as good as it once was, so a Fractethyst god roll for PVP will utilize other Range-increasing perks. Barrel: Full Choke – Tightened barrel. Reduces projectile spread when aiming down sights at the cost of precision damage. Magazine: Accurized Rounds (Range +10) Perk 1: Quickdraw – This weapon can be drawn unbelievably fast. Perk 2: Opening Shot – Improved accuracy and range on the opening shot of attack. Quickdraw is an obvious choice, especially for those that like to use a Shotgun as a backup and not their primary means of getting kills. Get Opening Shot and you’ll have a bit of extra Range to utilize too. An alternative would be Harmony to increase its damage after getting kills with other weapons or Adrenaline Junkie for the bonus damage after a grenade kill. tags:pvp
+dimwishlist:item=3184681056&perks=706527188,47981717
+
+
 // Multimach CCX - PVE (god-pve)
 //notes: MW: Range; We’ll begin building Multimach CCX for PvE with Corkscrew Rifling, Flared Magwell, and a range masterwork for an even split of stats. Attrition Orbs is our general choice for column one because of its ability to combine with Armor Charge builds; however, Under-Over is an outstanding choice if you instead plan on using it to counter Champions in high-difficulty activities. As for the final column, Frenzy’s wide range of added stats makes it an outstanding pairing with either of the perks we mentioned for column one. If you’re comfortable without a potent buff to reload speed, Kinetic Tremors is an equally powerful pick for the same reason. tags:god-pve
 dimwishlist:item=3211624072&perks=4090651448,3230963543,243981275,4104185692
