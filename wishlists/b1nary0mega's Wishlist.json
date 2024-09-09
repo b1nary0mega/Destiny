@@ -238,9 +238,7 @@
                 ],
                 [
                     3523296417,
-                    3324494224,
-                    1906147653,
-                    2562668800
+                    1906147653
                 ]
             ],
             "tags": [
@@ -290,9 +288,7 @@
                 ],
                 [
                     3523296417,
-                    3324494224,
-                    1906147653,
-                    2562668800
+                    1906147653
                 ]
             ],
             "tags": [
@@ -1871,9 +1867,7 @@
                 ],
                 [
                     968510818,
-                    424370782,
-                    3751912585,
-                    331667533
+                    424370782
                 ],
                 [
                     3078487919,
@@ -1891,9 +1885,7 @@
             "plugs": [
                 [
                     968510818,
-                    424370782,
-                    3751912585,
-                    331667533
+                    424370782
                 ],
                 [
                     3078487919,
@@ -2392,9 +2384,7 @@
                     3425386926,
                     288411554,
                     3418782618,
-                    1563455254,
-                    1354429876,
-                    848860060
+                    1563455254
                 ],
                 [
                     557221067,
@@ -2416,9 +2406,7 @@
                     3425386926,
                     288411554,
                     3418782618,
-                    1563455254,
-                    1354429876,
-                    848860060
+                    1563455254
                 ],
                 [
                     557221067,
@@ -8281,6 +8269,308 @@
                 ]
             ],
             "tags": []
+        },
+        {
+            "description": "MW: Handling; There are a couple of great combinations on an Uzume RR4 god roll, but this one focuses on Precision Instrument to boost your damage output. Uzume RR4 has a rather vertical recoil pattern, with the reticle bouncing to the left or right only slightly. Due to this, you can afford to use another option like Fluted Barrel. This will increase the Handling, allowing you to whip it out and aim at a crit-spot much faster. When it comes to the first perk and Magazine option, Clown Cartridge provides either on par or better ammo returns when compared to Fourth Time’s the Charm. Couple this with Tactical Mag for another round, a decrease to how long it takes to reload, and a little bump in Stability. For the final perk, Precision Instrument is a ramping damage boost that rewards ongoing critical hits. Keep landing those headshots to get a percentage bump to your damage, up to a maximum of 25 percent at six stacks. Just note you’ll lose all progress if you miss. A Handling Masterwork will make this feel snappier and an Adept Big Ones Spec mod will let you deal better damage to Majors and Bosses.",
+            "hash": 42874240,
+            "name": "PVE",
+            "plugs": [
+                [
+                    1840239774
+                ],
+                [
+                    106909392
+                ],
+                [
+                    2284787283,
+                    3563868667
+                ],
+                [
+                    555281244,
+                    332733060
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "MW: Handling; There are a couple of great combinations on an Uzume RR4 god roll, but this one focuses on Precision Instrument to boost your damage output. Uzume RR4 has a rather vertical recoil pattern, with the reticle bouncing to the left or right only slightly. Due to this, you can afford to use another option like Fluted Barrel. This will increase the Handling, allowing you to whip it out and aim at a crit-spot much faster. When it comes to the first perk and Magazine option, Clown Cartridge provides either on par or better ammo returns when compared to Fourth Time’s the Charm. Couple this with Tactical Mag for another round, a decrease to how long it takes to reload, and a little bump in Stability. For the final perk, Precision Instrument is a ramping damage boost that rewards ongoing critical hits. Keep landing those headshots to get a percentage bump to your damage, up to a maximum of 25 percent at six stacks. Just note you’ll lose all progress if you miss. A Handling Masterwork will make this feel snappier and an Adept Big Ones Spec mod will let you deal better damage to Majors and Bosses.",
+            "hash": 42874240,
+            "name": "PVE",
+            "plugs": [
+                [
+                    2284787283,
+                    3563868667
+                ],
+                [
+                    555281244,
+                    332733060
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "MW: Handling; There are a couple of great combinations on an Uzume RR4 god roll, but this one focuses on Precision Instrument to boost your damage output. Uzume RR4 has a rather vertical recoil pattern, with the reticle bouncing to the left or right only slightly. Due to this, you can afford to use another option like Fluted Barrel. This will increase the Handling, allowing you to whip it out and aim at a crit-spot much faster. When it comes to the first perk and Magazine option, Clown Cartridge provides either on par or better ammo returns when compared to Fourth Time’s the Charm. Couple this with Tactical Mag for another round, a decrease to how long it takes to reload, and a little bump in Stability. For the final perk, Precision Instrument is a ramping damage boost that rewards ongoing critical hits. Keep landing those headshots to get a percentage bump to your damage, up to a maximum of 25 percent at six stacks. Just note you’ll lose all progress if you miss. A Handling Masterwork will make this feel snappier and an Adept Big Ones Spec mod will let you deal better damage to Majors and Bosses.",
+            "hash": 3610521673,
+            "name": "PVE",
+            "plugs": [
+                [
+                    1840239774
+                ],
+                [
+                    106909392
+                ],
+                [
+                    2284787283,
+                    3563868667
+                ],
+                [
+                    555281244,
+                    332733060
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "MW: Handling; There are a couple of great combinations on an Uzume RR4 god roll, but this one focuses on Precision Instrument to boost your damage output. Uzume RR4 has a rather vertical recoil pattern, with the reticle bouncing to the left or right only slightly. Due to this, you can afford to use another option like Fluted Barrel. This will increase the Handling, allowing you to whip it out and aim at a crit-spot much faster. When it comes to the first perk and Magazine option, Clown Cartridge provides either on par or better ammo returns when compared to Fourth Time’s the Charm. Couple this with Tactical Mag for another round, a decrease to how long it takes to reload, and a little bump in Stability. For the final perk, Precision Instrument is a ramping damage boost that rewards ongoing critical hits. Keep landing those headshots to get a percentage bump to your damage, up to a maximum of 25 percent at six stacks. Just note you’ll lose all progress if you miss. A Handling Masterwork will make this feel snappier and an Adept Big Ones Spec mod will let you deal better damage to Majors and Bosses.",
+            "hash": 3610521673,
+            "name": "PVE",
+            "plugs": [
+                [
+                    2284787283,
+                    3563868667
+                ],
+                [
+                    555281244,
+                    332733060
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "MW: Handling; There are a couple of great combinations on an Uzume RR4 god roll, but this one focuses on Precision Instrument to boost your damage output. Uzume RR4 has a rather vertical recoil pattern, with the reticle bouncing to the left or right only slightly. Due to this, you can afford to use another option like Fluted Barrel. This will increase the Handling, allowing you to whip it out and aim at a crit-spot much faster. When it comes to the first perk and Magazine option, Clown Cartridge provides either on par or better ammo returns when compared to Fourth Time’s the Charm. Couple this with Tactical Mag for another round, a decrease to how long it takes to reload, and a little bump in Stability. For the final perk, Precision Instrument is a ramping damage boost that rewards ongoing critical hits. Keep landing those headshots to get a percentage bump to your damage, up to a maximum of 25 percent at six stacks. Just note you’ll lose all progress if you miss. A Handling Masterwork will make this feel snappier and an Adept Big Ones Spec mod will let you deal better damage to Majors and Bosses.",
+            "hash": 42874240,
+            "name": "PVE",
+            "plugs": [
+                [
+                    1840239774
+                ],
+                [
+                    106909392
+                ],
+                [
+                    3978468247,
+                    906981559
+                ],
+                [
+                    4293542123,
+                    3038247973,
+                    64866129,
+                    2675184851
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "MW: Handling; There are a couple of great combinations on an Uzume RR4 god roll, but this one focuses on Precision Instrument to boost your damage output. Uzume RR4 has a rather vertical recoil pattern, with the reticle bouncing to the left or right only slightly. Due to this, you can afford to use another option like Fluted Barrel. This will increase the Handling, allowing you to whip it out and aim at a crit-spot much faster. When it comes to the first perk and Magazine option, Clown Cartridge provides either on par or better ammo returns when compared to Fourth Time’s the Charm. Couple this with Tactical Mag for another round, a decrease to how long it takes to reload, and a little bump in Stability. For the final perk, Precision Instrument is a ramping damage boost that rewards ongoing critical hits. Keep landing those headshots to get a percentage bump to your damage, up to a maximum of 25 percent at six stacks. Just note you’ll lose all progress if you miss. A Handling Masterwork will make this feel snappier and an Adept Big Ones Spec mod will let you deal better damage to Majors and Bosses.",
+            "hash": 42874240,
+            "name": "PVE",
+            "plugs": [
+                [
+                    3978468247,
+                    906981559
+                ],
+                [
+                    4293542123,
+                    3038247973,
+                    64866129,
+                    2675184851
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "MW: Handling; There are a couple of great combinations on an Uzume RR4 god roll, but this one focuses on Precision Instrument to boost your damage output. Uzume RR4 has a rather vertical recoil pattern, with the reticle bouncing to the left or right only slightly. Due to this, you can afford to use another option like Fluted Barrel. This will increase the Handling, allowing you to whip it out and aim at a crit-spot much faster. When it comes to the first perk and Magazine option, Clown Cartridge provides either on par or better ammo returns when compared to Fourth Time’s the Charm. Couple this with Tactical Mag for another round, a decrease to how long it takes to reload, and a little bump in Stability. For the final perk, Precision Instrument is a ramping damage boost that rewards ongoing critical hits. Keep landing those headshots to get a percentage bump to your damage, up to a maximum of 25 percent at six stacks. Just note you’ll lose all progress if you miss. A Handling Masterwork will make this feel snappier and an Adept Big Ones Spec mod will let you deal better damage to Majors and Bosses.",
+            "hash": 3610521673,
+            "name": "PVE",
+            "plugs": [
+                [
+                    1840239774
+                ],
+                [
+                    106909392
+                ],
+                [
+                    906981559,
+                    3978468247
+                ],
+                [
+                    3038247973,
+                    4293542123,
+                    64866129,
+                    2675184851
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "MW: Handling; There are a couple of great combinations on an Uzume RR4 god roll, but this one focuses on Precision Instrument to boost your damage output. Uzume RR4 has a rather vertical recoil pattern, with the reticle bouncing to the left or right only slightly. Due to this, you can afford to use another option like Fluted Barrel. This will increase the Handling, allowing you to whip it out and aim at a crit-spot much faster. When it comes to the first perk and Magazine option, Clown Cartridge provides either on par or better ammo returns when compared to Fourth Time’s the Charm. Couple this with Tactical Mag for another round, a decrease to how long it takes to reload, and a little bump in Stability. For the final perk, Precision Instrument is a ramping damage boost that rewards ongoing critical hits. Keep landing those headshots to get a percentage bump to your damage, up to a maximum of 25 percent at six stacks. Just note you’ll lose all progress if you miss. A Handling Masterwork will make this feel snappier and an Adept Big Ones Spec mod will let you deal better damage to Majors and Bosses.",
+            "hash": 3610521673,
+            "name": "PVE",
+            "plugs": [
+                [
+                    906981559,
+                    3978468247
+                ],
+                [
+                    3038247973,
+                    4293542123,
+                    64866129,
+                    2675184851
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "MW: Handling; There are a couple of great combinations on an Uzume RR4 god roll, but this one focuses on Precision Instrument to boost your damage output. Uzume RR4 has a rather vertical recoil pattern, with the reticle bouncing to the left or right only slightly. Due to this, you can afford to use another option like Fluted Barrel. This will increase the Handling, allowing you to whip it out and aim at a crit-spot much faster. When it comes to the first perk and Magazine option, Clown Cartridge provides either on par or better ammo returns when compared to Fourth Time’s the Charm. Couple this with Tactical Mag for another round, a decrease to how long it takes to reload, and a little bump in Stability. For the final perk, Precision Instrument is a ramping damage boost that rewards ongoing critical hits. Keep landing those headshots to get a percentage bump to your damage, up to a maximum of 25 percent at six stacks. Just note you’ll lose all progress if you miss. A Handling Masterwork will make this feel snappier and an Adept Big Ones Spec mod will let you deal better damage to Majors and Bosses.",
+            "hash": 2450917538,
+            "name": "PVE",
+            "plugs": [
+                [
+                    1840239774
+                ],
+                [
+                    106909392
+                ],
+                [
+                    2284787283,
+                    3563868667
+                ],
+                [
+                    555281244,
+                    332733060
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "MW: Handling; There are a couple of great combinations on an Uzume RR4 god roll, but this one focuses on Precision Instrument to boost your damage output. Uzume RR4 has a rather vertical recoil pattern, with the reticle bouncing to the left or right only slightly. Due to this, you can afford to use another option like Fluted Barrel. This will increase the Handling, allowing you to whip it out and aim at a crit-spot much faster. When it comes to the first perk and Magazine option, Clown Cartridge provides either on par or better ammo returns when compared to Fourth Time’s the Charm. Couple this with Tactical Mag for another round, a decrease to how long it takes to reload, and a little bump in Stability. For the final perk, Precision Instrument is a ramping damage boost that rewards ongoing critical hits. Keep landing those headshots to get a percentage bump to your damage, up to a maximum of 25 percent at six stacks. Just note you’ll lose all progress if you miss. A Handling Masterwork will make this feel snappier and an Adept Big Ones Spec mod will let you deal better damage to Majors and Bosses.",
+            "hash": 2450917538,
+            "name": "PVE",
+            "plugs": [
+                [
+                    1840239774
+                ],
+                [
+                    106909392
+                ],
+                [
+                    3978468247,
+                    906981559
+                ],
+                [
+                    3038247973,
+                    4293542123,
+                    64866129,
+                    2675184851
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "MW: Handling; There are a couple of great combinations on an Uzume RR4 god roll, but this one focuses on Precision Instrument to boost your damage output. Uzume RR4 has a rather vertical recoil pattern, with the reticle bouncing to the left or right only slightly. Due to this, you can afford to use another option like Fluted Barrel. This will increase the Handling, allowing you to whip it out and aim at a crit-spot much faster. When it comes to the first perk and Magazine option, Clown Cartridge provides either on par or better ammo returns when compared to Fourth Time’s the Charm. Couple this with Tactical Mag for another round, a decrease to how long it takes to reload, and a little bump in Stability. For the final perk, Precision Instrument is a ramping damage boost that rewards ongoing critical hits. Keep landing those headshots to get a percentage bump to your damage, up to a maximum of 25 percent at six stacks. Just note you’ll lose all progress if you miss. A Handling Masterwork will make this feel snappier and an Adept Big Ones Spec mod will let you deal better damage to Majors and Bosses.",
+            "hash": 2450917538,
+            "name": "PVE",
+            "plugs": [
+                [
+                    2284787283,
+                    3563868667
+                ],
+                [
+                    555281244,
+                    332733060
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "MW: Handling; There are a couple of great combinations on an Uzume RR4 god roll, but this one focuses on Precision Instrument to boost your damage output. Uzume RR4 has a rather vertical recoil pattern, with the reticle bouncing to the left or right only slightly. Due to this, you can afford to use another option like Fluted Barrel. This will increase the Handling, allowing you to whip it out and aim at a crit-spot much faster. When it comes to the first perk and Magazine option, Clown Cartridge provides either on par or better ammo returns when compared to Fourth Time’s the Charm. Couple this with Tactical Mag for another round, a decrease to how long it takes to reload, and a little bump in Stability. For the final perk, Precision Instrument is a ramping damage boost that rewards ongoing critical hits. Keep landing those headshots to get a percentage bump to your damage, up to a maximum of 25 percent at six stacks. Just note you’ll lose all progress if you miss. A Handling Masterwork will make this feel snappier and an Adept Big Ones Spec mod will let you deal better damage to Majors and Bosses.",
+            "hash": 2450917538,
+            "name": "PVE",
+            "plugs": [
+                [
+                    3978468247,
+                    906981559
+                ],
+                [
+                    3038247973,
+                    4293542123,
+                    64866129,
+                    2675184851
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "MW: Handling; As Precision Shotguns are clearly at the top of the Shotgun meta right now, some will argue that Fractethyst is the best PvP Shotgun in the game. Excellent base stats and top-tier perks make Fractethyst a sought-after weapon among PvP players. Sliding with a Shotgun isn’t as good as it once was, so a Fractethyst god roll for PVP will utilize other Range-increasing perks. Barrel: Full Choke – Tightened barrel. Reduces projectile spread when aiming down sights at the cost of precision damage. Magazine: Accurized Rounds (Range +10) Perk 1: Quickdraw – This weapon can be drawn unbelievably fast. Perk 2: Opening Shot – Improved accuracy and range on the opening shot of attack. Quickdraw is an obvious choice, especially for those that like to use a Shotgun as a backup and not their primary means of getting kills. Get Opening Shot and you’ll have a bit of extra Range to utilize too. An alternative would be Harmony to increase its damage after getting kills with other weapons or Adrenaline Junkie for the bonus damage after a grenade kill.",
+            "hash": 3184681056,
+            "name": "PVP",
+            "plugs": [
+                [
+                    1047830412
+                ],
+                [
+                    3142289711
+                ],
+                [
+                    706527188
+                ],
+                [
+                    47981717
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "MW: Handling; As Precision Shotguns are clearly at the top of the Shotgun meta right now, some will argue that Fractethyst is the best PvP Shotgun in the game. Excellent base stats and top-tier perks make Fractethyst a sought-after weapon among PvP players. Sliding with a Shotgun isn’t as good as it once was, so a Fractethyst god roll for PVP will utilize other Range-increasing perks. Barrel: Full Choke – Tightened barrel. Reduces projectile spread when aiming down sights at the cost of precision damage. Magazine: Accurized Rounds (Range +10) Perk 1: Quickdraw – This weapon can be drawn unbelievably fast. Perk 2: Opening Shot – Improved accuracy and range on the opening shot of attack. Quickdraw is an obvious choice, especially for those that like to use a Shotgun as a backup and not their primary means of getting kills. Get Opening Shot and you’ll have a bit of extra Range to utilize too. An alternative would be Harmony to increase its damage after getting kills with other weapons or Adrenaline Junkie for the bonus damage after a grenade kill.",
+            "hash": 3184681056,
+            "name": "PVP",
+            "plugs": [
+                [
+                    706527188
+                ],
+                [
+                    47981717
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
         }
     ]
 }
