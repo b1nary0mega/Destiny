@@ -2740,6 +2740,32 @@ dimwishlist:item=2249996761&perks=2938480696,3891536761
 dimwishlist:item=2249996761&perks=2938480696,1549370717
 
 
+// Wilderflight - PVE (god-pve)
+//notes: MW: Reload; Players with Void subclasses will want to watch out for the Repulsor Brace perk that gives an overshield when getting final blows against enemies affected by Void debuffs (Weaken, Suppressed, or Volatile). PvE players will get mileage out of the Frenzy perk, along with the Vorpal Weapon and Pugilist choices. tags:god-pve
+dimwishlist:item=2306182339&perks=1844523823,2822142346,3300816228,11612903
+dimwishlist:item=2306182339&perks=1844523823,2822142346,3300816228,4104185692
+dimwishlist:item=2306182339&perks=1844523823,2822142346,776531651,11612903
+dimwishlist:item=2306182339&perks=1844523823,2822142346,776531651,4104185692
+
+
+// Wilderflight - PVP (god-pvp)
+//notes: MW: Reload; Players with Void subclasses will want to watch out for the Repulsor Brace perk that gives an overshield when getting final blows against enemies affected by Void debuffs (Weaken, Suppressed, or Volatile). PvE players will get mileage out of the Frenzy perk, along with the Vorpal Weapon and Pugilist choices. tags:god-pvp
+dimwishlist:item=2306182339&perks=1844523823,2822142346,3300816228,1546637391
+
+
+// Wilderflight - PVE (pve)
+//notes: MW: Reload; Players with Void subclasses will want to watch out for the Repulsor Brace perk that gives an overshield when getting final blows against enemies affected by Void debuffs (Weaken, Suppressed, or Volatile). PvE players will get mileage out of the Frenzy perk, along with the Vorpal Weapon and Pugilist choices. tags:pve
+dimwishlist:item=2306182339&perks=3300816228,11612903
+dimwishlist:item=2306182339&perks=3300816228,4104185692
+dimwishlist:item=2306182339&perks=776531651,11612903
+dimwishlist:item=2306182339&perks=776531651,4104185692
+
+
+// Wilderflight - PVP (pvp)
+//notes: MW: Reload; Players with Void subclasses will want to watch out for the Repulsor Brace perk that gives an overshield when getting final blows against enemies affected by Void debuffs (Weaken, Suppressed, or Volatile). PvE players will get mileage out of the Frenzy perk, along with the Vorpal Weapon and Pugilist choices. tags:pvp
+dimwishlist:item=2306182339&perks=3300816228,1546637391
+
+
 // Shadow Price - PVE (god-pve)
 //notes: MW: Handling; Handling is often nice to have on weapons in PvE to make them feel nicer to use, meaning that we will opt for Fluted Barrel and a Handling Masterwork. For our magazine, because we have Stats For All, we can afford to go for a magazine-boosting option like Appended Mag. However, if Strategist is chosen, Flared Magwell will be a nicer pick. For our perks, Stats For All makes this weapon feel a lot less clunky due to the bump to Handling and Reload Speed. This pairs brilliantly with Voltshot, as the jolting damage from this perk will activate Stats For All, making them synergise excellently. Alternatively, Strategist and Demolitionist can be used together to create an incredibly high ability-uptime build as Strategist feeds into your Class Ability, and Demolitionist fuels your Grenade energy. tags:god-pve
 dimwishlist:item=2322926844&perks=1840239774,1087426260,880644845,2173046394
