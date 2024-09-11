@@ -935,6 +935,42 @@ dimwishlist:item=867154247&perks=424370782,3751912585
 dimwishlist:item=867154247&perks=424370782,331667533
 
 
+// Wild Style (Adept) - PVE (god-pve)
+//notes: MW: Reload; Compared to Wilderflight, Wild Style offers a much broader scope of perks. Where Wilderflight had a lot of damage buffing perks, Wild Style has a mix of damage and utility, which makes it much more flexible, though most will probably opt to use this as a damage weapon. However, the mainstays of Hard Launch and Spike Grenades will always be needed if using this for PvE. Blinding Grenades might also benefit you if you enjoy using them, especially given that you get two for one in each activation. For Perk 1, there are a few good ones that will help buff reload speed, while Envious Assassin is your only “free reload” perk. No Auto-Loading is an interesting sight, but there’s more than enough to compensate for it. Perk 2 is going to be your damage or utility perk, with Surrounded and Incandescent filling those roles very nicely. The pairing of Danger Zone and Surrounded means you can use this almost as a shotgun, and in doing so, you take full advantage of the increased damage over regular breech loaders. tags:god-pve
+dimwishlist:item=959037361&perks=981914802,3301904089,968510818,4293542123
+dimwishlist:item=959037361&perks=981914802,3301904089,968510818,2675184851
+dimwishlist:item=959037361&perks=981914802,3301904089,424370782,4293542123
+dimwishlist:item=959037361&perks=981914802,3301904089,424370782,2675184851
+
+
+// Wild Style (Adept) - PVP (god-pvp)
+//notes: MW: Handling or Blast; Here is where this frame fails big time compared to other special GLs. As the trajectory of the 2nd grenade appears to be slightly random, landing far-range shots with both projectiles is very challenging. Given that the damage is split between them, you would need to have both explode close to the target to break shields and since this doesn’t get Disruption Break, we’re opting for a completely different approach. Run Quick Launch for better velocity and handling, and either Spike Nades for better damage on each direct hit or High Velocity for the increased reload speed. Your best choice for Perk 1 is going to be Danger Zone. Much like in PvE, this is going to be used as a sort of GL-Shotgun hybrid, so running a perk that reduces self-damage by 40% is going to be very useful in those close-quarters fights. If you are in the 6v6 playlist, you might find Stats for All beneficial, given that people tend to group up there. Perk 2 is, again, Surrounded. A 35% buff to blast damage and 40% to direct hit means much easier clean-ups if you don’t manage the kill, which might happen often. tags:god-pvp
+dimwishlist:item=959037361&perks=3525010810,2822142346,960810156,3708227201
+dimwishlist:item=959037361&perks=3525010810,2822142346,960810156,781192741
+dimwishlist:item=959037361&perks=3525010810,2822142346,1077019636,3708227201
+dimwishlist:item=959037361&perks=3525010810,2822142346,1077019636,781192741
+dimwishlist:item=959037361&perks=3525010810,3301904089,960810156,3708227201
+dimwishlist:item=959037361&perks=3525010810,3301904089,960810156,781192741
+dimwishlist:item=959037361&perks=3525010810,3301904089,1077019636,3708227201
+dimwishlist:item=959037361&perks=3525010810,3301904089,1077019636,781192741
+
+
+// Wild Style (Adept) - PVE (pve)
+//notes: MW: Reload; Compared to Wilderflight, Wild Style offers a much broader scope of perks. Where Wilderflight had a lot of damage buffing perks, Wild Style has a mix of damage and utility, which makes it much more flexible, though most will probably opt to use this as a damage weapon. However, the mainstays of Hard Launch and Spike Grenades will always be needed if using this for PvE. Blinding Grenades might also benefit you if you enjoy using them, especially given that you get two for one in each activation. For Perk 1, there are a few good ones that will help buff reload speed, while Envious Assassin is your only “free reload” perk. No Auto-Loading is an interesting sight, but there’s more than enough to compensate for it. Perk 2 is going to be your damage or utility perk, with Surrounded and Incandescent filling those roles very nicely. The pairing of Danger Zone and Surrounded means you can use this almost as a shotgun, and in doing so, you take full advantage of the increased damage over regular breech loaders. tags:pve
+dimwishlist:item=959037361&perks=968510818,4293542123
+dimwishlist:item=959037361&perks=968510818,2675184851
+dimwishlist:item=959037361&perks=424370782,4293542123
+dimwishlist:item=959037361&perks=424370782,2675184851
+
+
+// Wild Style (Adept) - PVP (pvp)
+//notes: MW: Handling or Blast; Here is where this frame fails big time compared to other special GLs. As the trajectory of the 2nd grenade appears to be slightly random, landing far-range shots with both projectiles is very challenging. Given that the damage is split between them, you would need to have both explode close to the target to break shields and since this doesn’t get Disruption Break, we’re opting for a completely different approach. Run Quick Launch for better velocity and handling, and either Spike Nades for better damage on each direct hit or High Velocity for the increased reload speed. Your best choice for Perk 1 is going to be Danger Zone. Much like in PvE, this is going to be used as a sort of GL-Shotgun hybrid, so running a perk that reduces self-damage by 40% is going to be very useful in those close-quarters fights. If you are in the 6v6 playlist, you might find Stats for All beneficial, given that people tend to group up there. Perk 2 is, again, Surrounded. A 35% buff to blast damage and 40% to direct hit means much easier clean-ups if you don’t manage the kill, which might happen often. tags:pvp
+dimwishlist:item=959037361&perks=960810156,3708227201
+dimwishlist:item=959037361&perks=960810156,781192741
+dimwishlist:item=959037361&perks=1077019636,3708227201
+dimwishlist:item=959037361&perks=1077019636,781192741
+
+
 // Cataclysmic - PVE (god-pve)
 //notes: MW: Handling; DPS; Handling is necessary on this weapon as you must swap between Cataclysmic and another gun to activate Bait and Switch, meaning Fluted Barrel and a Handling Masterwork are preferred. Enhanced Battery is essential as it allows for another activation of Fourth Time’s the Charm, effectively granting ten shots in the magazine. Fourth Time’s the Charm is excellent for the weapon’s ammo economy and provides around 12 additional shots overall, which is incredible for the weapon’s total damage. Bait and Switch is the apparent choice for perk 2, as it provides a remarkable damage bonus (35%, dropping to 30% with some nerfs). tags:god-pve
 dimwishlist:item=999767358&perks=1840239774,2680121939,1354429876,3078487919
@@ -1348,20 +1384,8 @@ dimwishlist:item=1298672084&perks=191144788,1370847713
 //notes: MW: Reload; Compared to Wilderflight, Wild Style offers a much broader scope of perks. Where Wilderflight had a lot of damage buffing perks, Wild Style has a mix of damage and utility, which makes it much more flexible, though most will probably opt to use this as a damage weapon. However, the mainstays of Hard Launch and Spike Grenades will always be needed if using this for PvE. Blinding Grenades might also benefit you if you enjoy using them, especially given that you get two for one in each activation. For Perk 1, there are a few good ones that will help buff reload speed, while Envious Assassin is your only “free reload” perk. No Auto-Loading is an interesting sight, but there’s more than enough to compensate for it. Perk 2 is going to be your damage or utility perk, with Surrounded and Incandescent filling those roles very nicely. The pairing of Danger Zone and Surrounded means you can use this almost as a shotgun, and in doing so, you take full advantage of the increased damage over regular breech loaders. tags:god-pve
 dimwishlist:item=1332123064&perks=981914802,3301904089,424370782,4293542123
 dimwishlist:item=1332123064&perks=981914802,3301904089,424370782,2675184851
-dimwishlist:item=1332123064&perks=981914802,3301904089,424370782,3708227201
-dimwishlist:item=1332123064&perks=981914802,3301904089,424370782,781192741
 dimwishlist:item=1332123064&perks=981914802,3301904089,968510818,4293542123
 dimwishlist:item=1332123064&perks=981914802,3301904089,968510818,2675184851
-dimwishlist:item=1332123064&perks=981914802,3301904089,968510818,3708227201
-dimwishlist:item=1332123064&perks=981914802,3301904089,968510818,781192741
-dimwishlist:item=1332123064&perks=981914802,3301904089,960810156,4293542123
-dimwishlist:item=1332123064&perks=981914802,3301904089,960810156,2675184851
-dimwishlist:item=1332123064&perks=981914802,3301904089,960810156,3708227201
-dimwishlist:item=1332123064&perks=981914802,3301904089,960810156,781192741
-dimwishlist:item=1332123064&perks=981914802,3301904089,1077019636,4293542123
-dimwishlist:item=1332123064&perks=981914802,3301904089,1077019636,2675184851
-dimwishlist:item=1332123064&perks=981914802,3301904089,1077019636,3708227201
-dimwishlist:item=1332123064&perks=981914802,3301904089,1077019636,781192741
 
 
 // Wild Style - PVP (god-pvp)
@@ -1380,20 +1404,8 @@ dimwishlist:item=1332123064&perks=3525010810,3301904089,1077019636,781192741
 //notes: MW: Reload; Compared to Wilderflight, Wild Style offers a much broader scope of perks. Where Wilderflight had a lot of damage buffing perks, Wild Style has a mix of damage and utility, which makes it much more flexible, though most will probably opt to use this as a damage weapon. However, the mainstays of Hard Launch and Spike Grenades will always be needed if using this for PvE. Blinding Grenades might also benefit you if you enjoy using them, especially given that you get two for one in each activation. For Perk 1, there are a few good ones that will help buff reload speed, while Envious Assassin is your only “free reload” perk. No Auto-Loading is an interesting sight, but there’s more than enough to compensate for it. Perk 2 is going to be your damage or utility perk, with Surrounded and Incandescent filling those roles very nicely. The pairing of Danger Zone and Surrounded means you can use this almost as a shotgun, and in doing so, you take full advantage of the increased damage over regular breech loaders. tags:pve
 dimwishlist:item=1332123064&perks=424370782,4293542123
 dimwishlist:item=1332123064&perks=424370782,2675184851
-dimwishlist:item=1332123064&perks=424370782,3708227201
-dimwishlist:item=1332123064&perks=424370782,781192741
 dimwishlist:item=1332123064&perks=968510818,4293542123
 dimwishlist:item=1332123064&perks=968510818,2675184851
-dimwishlist:item=1332123064&perks=968510818,3708227201
-dimwishlist:item=1332123064&perks=968510818,781192741
-dimwishlist:item=1332123064&perks=960810156,4293542123
-dimwishlist:item=1332123064&perks=960810156,2675184851
-dimwishlist:item=1332123064&perks=960810156,3708227201
-dimwishlist:item=1332123064&perks=960810156,781192741
-dimwishlist:item=1332123064&perks=1077019636,4293542123
-dimwishlist:item=1332123064&perks=1077019636,2675184851
-dimwishlist:item=1332123064&perks=1077019636,3708227201
-dimwishlist:item=1332123064&perks=1077019636,781192741
 
 
 // Wild Style - PVP (pvp)
