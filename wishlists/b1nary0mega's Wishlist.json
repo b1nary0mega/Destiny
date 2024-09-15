@@ -93,34 +93,22 @@
             "name": "PVE",
             "plugs": [
                 [
-                    3250034553,
-                    1482024992
+                    1840239774
                 ],
                 [
-                    3142289711,
-                    1087426260,
                     106909392
                 ],
                 [
-                    3643424744,
                     2980589453,
-                    3523296417,
-                    4063561849,
-                    1906147653,
-                    2682205016
+                    4063561849
                 ],
                 [
-                    4293542123,
                     2298656195,
-                    243981275,
-                    2675184851,
-                    984655331,
                     674546187
                 ]
             ],
             "tags": [
-                "GodPVE",
-                "PVE"
+                "GodPVE"
             ]
         },
         {
@@ -129,30 +117,24 @@
             "name": "PVP",
             "plugs": [
                 [
-                    3250034553,
                     1482024992
                 ],
                 [
                     3142289711
                 ],
                 [
-                    2980589453,
-                    3643424744,
-                    4063561849,
-                    2682205016
+                    3523296417,
+                    1906147653
                 ],
                 [
                     2298656195,
                     674546187,
                     2109543898,
-                    2799030358,
-                    1683379515,
-                    2216471363
+                    2799030358
                 ]
             ],
             "tags": [
-                "GodPVP",
-                "PVP"
+                "GodPVP"
             ]
         },
         {
@@ -311,56 +293,6 @@
                     2109543898,
                     3719974635,
                     2799030358
-                ]
-            ],
-            "tags": [
-                "PVP"
-            ]
-        },
-        {
-            "description": "PVE; MW: Reload or Range; Physic and Circle of Life are two unique perks that only appear on support frames and interact with the effects described above. The former ensures that you receive Restoration when you grant an ally Restoration, while the latter improves the support frame boost aspect, making it last far longer. Both are strong, but Physic stands out as the top choice in column three. The enhanced version of the perk, available on a crafted No Hesitation, will give Restoration x2, making you basically invulnerable to all but the heaviest sustained damage. Otherwise Demolitionist and Overflow are both useful just for ensuring you can keep firing as long as possible without stopping to reload. In the fourth column there is the aforementioned Circle of Life and also the reliably good Incandescent, which interacts well with Solar subclasses. There is also a surprising niche choice: Attrition Orbs. This generally bad perk creates orbs when damaging an enemy, which is nice, but they usually pop out of that enemy's head, which is bad as you don't really want to have to run over there and collect them. On a support frame, though, it also periodically creates orbs when healing allies, making the perk much more useful.",
-            "hash": 1801007332,
-            "name": "PVE Demi-God",
-            "plugs": [
-                [
-                    3643424744,
-                    2980589453,
-                    3523296417,
-                    4063561849,
-                    1906147653,
-                    2682205016
-                ],
-                [
-                    4293542123,
-                    2298656195,
-                    243981275,
-                    2675184851,
-                    984655331,
-                    674546187
-                ]
-            ],
-            "tags": [
-                "PVE"
-            ]
-        },
-        {
-            "description": "PVP; MW: Range; Truthfully it's hard to tell at this stage how No Hesitation might affect the PVP meta. Healing abilities can swing matches, but No Hesitation has to deal damage to use its healing, while a healing rift or grenade does not. That said it should excel in situations where two teams take potshots at each other before engaging. Think of it like Osteo Striga, putting constant pressure on enemies with a stream of tracking bullets. That's why I like Circle of Life here, to maximise the uptime of the support frame damage boost. Beyond that Physic will always be strong, while Overflow lets you keep up the pressure with an endless stream of suppressing fire. There's also a niche case here for Disruption Break, which inflicts a huge debuff against kinetic damage when breaking a player's shields, playing into the teamshooting playstyle this weapon encourages. Finally I've put all my barrels and magazines into extra range, because you're going to be hip shooting this gun a lot, and you're going to want to be able to do that from as far away as possible.",
-            "hash": 1801007332,
-            "name": "PVP Demi-God",
-            "plugs": [
-                [
-                    2980589453,
-                    3643424744,
-                    4063561849,
-                    2682205016
-                ],
-                [
-                    2298656195,
-                    674546187,
-                    2109543898,
-                    2799030358,
-                    1683379515,
-                    2216471363
                 ]
             ],
             "tags": [
@@ -5487,15 +5419,11 @@
                 ],
                 [
                     424370782,
-                    968510818,
-                    960810156,
-                    1077019636
+                    968510818
                 ],
                 [
                     4293542123,
-                    2675184851,
-                    3708227201,
-                    781192741
+                    2675184851
                 ]
             ],
             "tags": [
@@ -5509,15 +5437,11 @@
             "plugs": [
                 [
                     424370782,
-                    968510818,
-                    960810156,
-                    1077019636
+                    968510818
                 ],
                 [
                     4293542123,
-                    2675184851,
-                    3708227201,
-                    781192741
+                    2675184851
                 ]
             ],
             "tags": [
@@ -8566,6 +8490,249 @@
                 ],
                 [
                     47981717
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "Keep it, regardless!",
+            "hash": 400096939,
+            "name": "Exotic",
+            "plugs": [],
+            "tags": [
+                "PVE",
+                "PVP"
+            ]
+        },
+        {
+            "description": "Keep it, regardless!",
+            "hash": 347366834,
+            "name": "Exotic",
+            "plugs": [],
+            "tags": [
+                "PVE",
+                "PVP"
+            ]
+        },
+        {
+            "description": "Keep it, regardless!",
+            "hash": 3856705927,
+            "name": "Exotic",
+            "plugs": [],
+            "tags": [
+                "PVE",
+                "PVP"
+            ]
+        },
+        {
+            "description": "Keep it, regardless!",
+            "hash": 46524085,
+            "name": "Exotic",
+            "plugs": [],
+            "tags": [
+                "PVE",
+                "PVP"
+            ]
+        },
+        {
+            "description": "MW: Reload; Compared to Wilderflight, Wild Style offers a much broader scope of perks. Where Wilderflight had a lot of damage buffing perks, Wild Style has a mix of damage and utility, which makes it much more flexible, though most will probably opt to use this as a damage weapon. However, the mainstays of Hard Launch and Spike Grenades will always be needed if using this for PvE. Blinding Grenades might also benefit you if you enjoy using them, especially given that you get two for one in each activation. For Perk 1, there are a few good ones that will help buff reload speed, while Envious Assassin is your only “free reload” perk. No Auto-Loading is an interesting sight, but there’s more than enough to compensate for it. Perk 2 is going to be your damage or utility perk, with Surrounded and Incandescent filling those roles very nicely. The pairing of Danger Zone and Surrounded means you can use this almost as a shotgun, and in doing so, you take full advantage of the increased damage over regular breech loaders.",
+            "hash": 959037361,
+            "name": "PVE",
+            "plugs": [
+                [
+                    981914802
+                ],
+                [
+                    3301904089
+                ],
+                [
+                    968510818,
+                    424370782
+                ],
+                [
+                    4293542123,
+                    2675184851
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "MW: Reload; Compared to Wilderflight, Wild Style offers a much broader scope of perks. Where Wilderflight had a lot of damage buffing perks, Wild Style has a mix of damage and utility, which makes it much more flexible, though most will probably opt to use this as a damage weapon. However, the mainstays of Hard Launch and Spike Grenades will always be needed if using this for PvE. Blinding Grenades might also benefit you if you enjoy using them, especially given that you get two for one in each activation. For Perk 1, there are a few good ones that will help buff reload speed, while Envious Assassin is your only “free reload” perk. No Auto-Loading is an interesting sight, but there’s more than enough to compensate for it. Perk 2 is going to be your damage or utility perk, with Surrounded and Incandescent filling those roles very nicely. The pairing of Danger Zone and Surrounded means you can use this almost as a shotgun, and in doing so, you take full advantage of the increased damage over regular breech loaders.",
+            "hash": 959037361,
+            "name": "PVE",
+            "plugs": [
+                [
+                    968510818,
+                    424370782
+                ],
+                [
+                    4293542123,
+                    2675184851
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "MW: Handling or Blast; Here is where this frame fails big time compared to other special GLs. As the trajectory of the 2nd grenade appears to be slightly random, landing far-range shots with both projectiles is very challenging. Given that the damage is split between them, you would need to have both explode close to the target to break shields and since this doesn’t get Disruption Break, we’re opting for a completely different approach. Run Quick Launch for better velocity and handling, and either Spike Nades for better damage on each direct hit or High Velocity for the increased reload speed. Your best choice for Perk 1 is going to be Danger Zone. Much like in PvE, this is going to be used as a sort of GL-Shotgun hybrid, so running a perk that reduces self-damage by 40% is going to be very useful in those close-quarters fights. If you are in the 6v6 playlist, you might find Stats for All beneficial, given that people tend to group up there. Perk 2 is, again, Surrounded. A 35% buff to blast damage and 40% to direct hit means much easier clean-ups if you don’t manage the kill, which might happen often.",
+            "hash": 959037361,
+            "name": "PVP",
+            "plugs": [
+                [
+                    3525010810
+                ],
+                [
+                    2822142346,
+                    3301904089
+                ],
+                [
+                    960810156,
+                    1077019636
+                ],
+                [
+                    3708227201,
+                    781192741
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "MW: Handling or Blast; Here is where this frame fails big time compared to other special GLs. As the trajectory of the 2nd grenade appears to be slightly random, landing far-range shots with both projectiles is very challenging. Given that the damage is split between them, you would need to have both explode close to the target to break shields and since this doesn’t get Disruption Break, we’re opting for a completely different approach. Run Quick Launch for better velocity and handling, and either Spike Nades for better damage on each direct hit or High Velocity for the increased reload speed. Your best choice for Perk 1 is going to be Danger Zone. Much like in PvE, this is going to be used as a sort of GL-Shotgun hybrid, so running a perk that reduces self-damage by 40% is going to be very useful in those close-quarters fights. If you are in the 6v6 playlist, you might find Stats for All beneficial, given that people tend to group up there. Perk 2 is, again, Surrounded. A 35% buff to blast damage and 40% to direct hit means much easier clean-ups if you don’t manage the kill, which might happen often.",
+            "hash": 959037361,
+            "name": "PVP",
+            "plugs": [
+                [
+                    960810156,
+                    1077019636
+                ],
+                [
+                    3708227201,
+                    781192741
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "MW: Reload; Players with Void subclasses will want to watch out for the Repulsor Brace perk that gives an overshield when getting final blows against enemies affected by Void debuffs (Weaken, Suppressed, or Volatile). PvE players will get mileage out of the Frenzy perk, along with the Vorpal Weapon and Pugilist choices.",
+            "hash": 2306182339,
+            "name": "PVE",
+            "plugs": [
+                [
+                    1844523823
+                ],
+                [
+                    2822142346
+                ],
+                [
+                    3300816228,
+                    776531651
+                ],
+                [
+                    11612903,
+                    4104185692
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "MW: Reload; Players with Void subclasses will want to watch out for the Repulsor Brace perk that gives an overshield when getting final blows against enemies affected by Void debuffs (Weaken, Suppressed, or Volatile). PvE players will get mileage out of the Frenzy perk, along with the Vorpal Weapon and Pugilist choices.",
+            "hash": 2306182339,
+            "name": "PVE",
+            "plugs": [
+                [
+                    3300816228,
+                    776531651
+                ],
+                [
+                    11612903,
+                    4104185692
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "MW: Reload; Players with Void subclasses will want to watch out for the Repulsor Brace perk that gives an overshield when getting final blows against enemies affected by Void debuffs (Weaken, Suppressed, or Volatile). PvE players will get mileage out of the Frenzy perk, along with the Vorpal Weapon and Pugilist choices.",
+            "hash": 2306182339,
+            "name": "PVP",
+            "plugs": [
+                [
+                    1844523823
+                ],
+                [
+                    2822142346
+                ],
+                [
+                    3300816228
+                ],
+                [
+                    1546637391
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "MW: Reload; Players with Void subclasses will want to watch out for the Repulsor Brace perk that gives an overshield when getting final blows against enemies affected by Void debuffs (Weaken, Suppressed, or Volatile). PvE players will get mileage out of the Frenzy perk, along with the Vorpal Weapon and Pugilist choices.",
+            "hash": 2306182339,
+            "name": "PVP",
+            "plugs": [
+                [
+                    3300816228
+                ],
+                [
+                    1546637391
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "PVE; MW: Reload or Range; Physic and Circle of Life are two unique perks that only appear on support frames and interact with the effects described above. The former ensures that you receive Restoration when you grant an ally Restoration, while the latter improves the support frame boost aspect, making it last far longer. Both are strong, but Physic stands out as the top choice in column three. The enhanced version of the perk, available on a crafted No Hesitation, will give Restoration x2, making you basically invulnerable to all but the heaviest sustained damage. Otherwise Demolitionist and Overflow are both useful just for ensuring you can keep firing as long as possible without stopping to reload. In the fourth column there is the aforementioned Circle of Life and also the reliably good Incandescent, which interacts well with Solar subclasses. There is also a surprising niche choice: Attrition Orbs. This generally bad perk creates orbs when damaging an enemy, which is nice, but they usually pop out of that enemy's head, which is bad as you don't really want to have to run over there and collect them. On a support frame, though, it also periodically creates orbs when healing allies, making the perk much more useful.",
+            "hash": 1801007332,
+            "name": "PVE",
+            "plugs": [
+                [
+                    2980589453,
+                    4063561849
+                ],
+                [
+                    2298656195,
+                    674546187
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "PVP; MW: Range; Truthfully it's hard to tell at this stage how No Hesitation might affect the PVP meta. Healing abilities can swing matches, but No Hesitation has to deal damage to use its healing, while a healing rift or grenade does not. That said it should excel in situations where two teams take potshots at each other before engaging. Think of it like Osteo Striga, putting constant pressure on enemies with a stream of tracking bullets. That's why I like Circle of Life here, to maximise the uptime of the support frame damage boost. Beyond that Physic will always be strong, while Overflow lets you keep up the pressure with an endless stream of suppressing fire. There's also a niche case here for Disruption Break, which inflicts a huge debuff against kinetic damage when breaking a player's shields, playing into the teamshooting playstyle this weapon encourages. Finally I've put all my barrels and magazines into extra range, because you're going to be hip shooting this gun a lot, and you're going to want to be able to do that from as far away as possible.",
+            "hash": 1801007332,
+            "name": "PVP",
+            "plugs": [
+                [
+                    3523296417,
+                    1906147653
+                ],
+                [
+                    2298656195,
+                    674546187,
+                    2109543898,
+                    2799030358
                 ]
             ],
             "tags": [
