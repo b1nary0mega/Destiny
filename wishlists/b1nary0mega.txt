@@ -2142,6 +2142,22 @@ dimwishlist:item=1911060537&perks=573122728,1771339417
 dimwishlist:item=1911060537&perks=573122728,395388285
 
 
+// Qua Xaphan V - PVE (god-pve)
+//notes: MW: Stability; The Qua Xaphan V is actually a great option for PvE, provided you can get the right perks to roll on it. Getting its recoil pattern under control with Arrowhead Brake is a great option, but really any barrel perk will get the job done. Appended Mag is absolutely the best choice for the magazine perk. Any masterwork is fine for this weapon, but Stability edges out the competition just to help this machine guns biggest weakness. This weapon gets the infamous Machine Gun Triple Tap/Target Lock combo. While no where near as powerful as Retrofit Escapade in its hay day, this weapons slower firing rate may help keep up the Target Lock buff as it should be easier to stay on target. You could also go with something like Firing Line for a more consistent buff or Destabilizing Rounds for a void build. tags:god-pve
+dimwishlist:item=1975125963&perks=839105230,1087426260,3400784728,365154968
+dimwishlist:item=1975125963&perks=839105230,1087426260,3400784728,2939589096
+dimwishlist:item=1975125963&perks=839105230,1087426260,573122728,365154968
+dimwishlist:item=1975125963&perks=839105230,1087426260,573122728,2939589096
+
+
+// Qua Xaphan V - PVE (pve)
+//notes: MW: Stability; The Qua Xaphan V is actually a great option for PvE, provided you can get the right perks to roll on it. Getting its recoil pattern under control with Arrowhead Brake is a great option, but really any barrel perk will get the job done. Appended Mag is absolutely the best choice for the magazine perk. Any masterwork is fine for this weapon, but Stability edges out the competition just to help this machine guns biggest weakness. This weapon gets the infamous Machine Gun Triple Tap/Target Lock combo. While no where near as powerful as Retrofit Escapade in its hay day, this weapons slower firing rate may help keep up the Target Lock buff as it should be easier to stay on target. You could also go with something like Firing Line for a more consistent buff or Destabilizing Rounds for a void build. tags:pve
+dimwishlist:item=1975125963&perks=3400784728,365154968
+dimwishlist:item=1975125963&perks=3400784728,2939589096
+dimwishlist:item=1975125963&perks=573122728,365154968
+dimwishlist:item=1975125963&perks=573122728,2939589096
+
+
 // Pre Astyanax IV (Adept) - PVE (god-pve)
 //notes: MW: Draw Time; In PvE, Pre Astyanax IV performs the same as Strident Whistle but with a newer and more refined perk pool. The bowstring and arrow don’t matter much (especially in PvE), but we prefer the ones that decrease Draw Time without sacrificing too much Accuracy. Column 3 is somewhat of a no-brainer with Archer’s Tempo; the other perks here aren’t that exciting. The final column, however, is an entirely different story. With the exception of Opening Shot, every perk is extremely powerful in PvE. From the build potential Incandescent and Collective Action provide to Precision Instrument’s pure power, your choice here relies slightly on your playstyle. tags:god-pve
 dimwishlist:item=2063217087&perks=2801223209,3827198035,201365942,2652708987
