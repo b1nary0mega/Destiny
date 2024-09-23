@@ -1432,6 +1432,30 @@ dimwishlist:item=1298672084&perks=191144788,47981717
 dimwishlist:item=1298672084&perks=191144788,1370847713
 
 
+// Qullim's Terminus - PVE (god-pve)
+//notes: MW: Handling; For PvE, there are two ways you can build Qullim’s Terminus: either for raw damage or for Stasis buildcrafting. In the case of the former, Unrelenting and Killing Tally is your best bet. While Focused Fury and Firing Line are somewhat comparable in the second column (especially due to Qullim’s low magazine size, reducing the potency of Killing Tally), their damage buffs simply aren’t as strong. If you’re instead looking to build into the Stasis element, replacing Killing Tally with Headstone is the clear choice. While you’re bound to find better weapons for nearly any Stasis build in mind, Qullim’s is one of few Stasis machine guns if you’re looking for that specifically. Qullim’s perks aren’t too bad, but they also aren’t anything to write home about. Plus, the weapon’s high-impact frame once again automatically reduces its potency against fierce competition. tags:god-pve
+dimwishlist:item=1321506184&perks=1482024992,3230963543,3108830275,557221067
+dimwishlist:item=1321506184&perks=1482024992,3230963543,3108830275,2896748467
+dimwishlist:item=1321506184&perks=1482024992,3230963543,3108830275,124408337
+dimwishlist:item=1321506184&perks=1482024992,3230963543,3108830275,1171887445
+dimwishlist:item=1321506184&perks=1482024992,3230963543,855168139,557221067
+dimwishlist:item=1321506184&perks=1482024992,3230963543,855168139,2896748467
+dimwishlist:item=1321506184&perks=1482024992,3230963543,855168139,124408337
+dimwishlist:item=1321506184&perks=1482024992,3230963543,855168139,1171887445
+
+
+// Qullim's Terminus - PVE (pve)
+//notes: MW: Handling; For PvE, there are two ways you can build Qullim’s Terminus: either for raw damage or for Stasis buildcrafting. In the case of the former, Unrelenting and Killing Tally is your best bet. While Focused Fury and Firing Line are somewhat comparable in the second column (especially due to Qullim’s low magazine size, reducing the potency of Killing Tally), their damage buffs simply aren’t as strong. If you’re instead looking to build into the Stasis element, replacing Killing Tally with Headstone is the clear choice. While you’re bound to find better weapons for nearly any Stasis build in mind, Qullim’s is one of few Stasis machine guns if you’re looking for that specifically. Qullim’s perks aren’t too bad, but they also aren’t anything to write home about. Plus, the weapon’s high-impact frame once again automatically reduces its potency against fierce competition. tags:pve
+dimwishlist:item=1321506184&perks=3108830275,557221067
+dimwishlist:item=1321506184&perks=3108830275,2896748467
+dimwishlist:item=1321506184&perks=3108830275,124408337
+dimwishlist:item=1321506184&perks=3108830275,1171887445
+dimwishlist:item=1321506184&perks=855168139,557221067
+dimwishlist:item=1321506184&perks=855168139,2896748467
+dimwishlist:item=1321506184&perks=855168139,124408337
+dimwishlist:item=1321506184&perks=855168139,1171887445
+
+
 // Wild Style - PVE (god-pve)
 //notes: MW: Reload; Compared to Wilderflight, Wild Style offers a much broader scope of perks. Where Wilderflight had a lot of damage buffing perks, Wild Style has a mix of damage and utility, which makes it much more flexible, though most will probably opt to use this as a damage weapon. However, the mainstays of Hard Launch and Spike Grenades will always be needed if using this for PvE. Blinding Grenades might also benefit you if you enjoy using them, especially given that you get two for one in each activation. For Perk 1, there are a few good ones that will help buff reload speed, while Envious Assassin is your only “free reload” perk. No Auto-Loading is an interesting sight, but there’s more than enough to compensate for it. Perk 2 is going to be your damage or utility perk, with Surrounded and Incandescent filling those roles very nicely. The pairing of Danger Zone and Surrounded means you can use this almost as a shotgun, and in doing so, you take full advantage of the increased damage over regular breech loaders. tags:god-pve
 dimwishlist:item=1332123064&perks=981914802,3301904089,424370782,4293542123
