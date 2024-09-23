@@ -2424,6 +2424,46 @@ dimwishlist:item=2198166292&perks=4223976499,438098033
 dimwishlist:item=2198166292&perks=4223976499,2748801589
 
 
+// Smite of Merain - PVE (god-pve)
+//notes: MW: Range; Despite its inability to compete with top picks (especially 4-bursts), Smite of Merain has a couple of great perk combinations that are both potent and easy to use. We’ll begin with Hammer-Forged Rifling, Tactical Mag, and a Range masterwork to round out the weapon’s stat package. From there, two main ways to build this weapon up come to mind: either the always-extraordinary combination of Demolitionist and Adrenaline Junkie, or Smite of Merain’s unique ability to roll with two damage perks (Focused Fury and either One for All, Adrenaline Junkie, or Swashbuckler). As a whole, Smite of Merain is inarguably unique, but its diverse aspects simply don’t compare to recent competition. Unless you want something that only excels in high damage-per-shot, there are likely better options out there. tags:god-pve
+dimwishlist:item=2221264583&perks=3250034553,106909392,3523296417,11612903
+dimwishlist:item=2221264583&perks=3250034553,106909392,3523296417,4049631843
+dimwishlist:item=2221264583&perks=3250034553,106909392,3523296417,2422968039
+dimwishlist:item=2221264583&perks=3250034553,106909392,3523296417,859780267
+dimwishlist:item=2221264583&perks=3250034553,106909392,1906147653,11612903
+dimwishlist:item=2221264583&perks=3250034553,106909392,1906147653,4049631843
+dimwishlist:item=2221264583&perks=3250034553,106909392,1906147653,2422968039
+dimwishlist:item=2221264583&perks=3250034553,106909392,1906147653,859780267
+dimwishlist:item=2221264583&perks=3250034553,106909392,2896038713,11612903
+dimwishlist:item=2221264583&perks=3250034553,106909392,2896038713,4049631843
+dimwishlist:item=2221264583&perks=3250034553,106909392,2896038713,2422968039
+dimwishlist:item=2221264583&perks=3250034553,106909392,2896038713,859780267
+dimwishlist:item=2221264583&perks=3250034553,106909392,2402480669,11612903
+dimwishlist:item=2221264583&perks=3250034553,106909392,2402480669,4049631843
+dimwishlist:item=2221264583&perks=3250034553,106909392,2402480669,2422968039
+dimwishlist:item=2221264583&perks=3250034553,106909392,2402480669,859780267
+
+
+// Smite of Merain - PVE (pve)
+//notes: MW: Range; Despite its inability to compete with top picks (especially 4-bursts), Smite of Merain has a couple of great perk combinations that are both potent and easy to use. We’ll begin with Hammer-Forged Rifling, Tactical Mag, and a Range masterwork to round out the weapon’s stat package. From there, two main ways to build this weapon up come to mind: either the always-extraordinary combination of Demolitionist and Adrenaline Junkie, or Smite of Merain’s unique ability to roll with two damage perks (Focused Fury and either One for All, Adrenaline Junkie, or Swashbuckler). As a whole, Smite of Merain is inarguably unique, but its diverse aspects simply don’t compare to recent competition. Unless you want something that only excels in high damage-per-shot, there are likely better options out there. tags:pve
+dimwishlist:item=2221264583&perks=3523296417,11612903
+dimwishlist:item=2221264583&perks=3523296417,4049631843
+dimwishlist:item=2221264583&perks=3523296417,2422968039
+dimwishlist:item=2221264583&perks=3523296417,859780267
+dimwishlist:item=2221264583&perks=1906147653,11612903
+dimwishlist:item=2221264583&perks=1906147653,4049631843
+dimwishlist:item=2221264583&perks=1906147653,2422968039
+dimwishlist:item=2221264583&perks=1906147653,859780267
+dimwishlist:item=2221264583&perks=2896038713,11612903
+dimwishlist:item=2221264583&perks=2896038713,4049631843
+dimwishlist:item=2221264583&perks=2896038713,2422968039
+dimwishlist:item=2221264583&perks=2896038713,859780267
+dimwishlist:item=2221264583&perks=2402480669,11612903
+dimwishlist:item=2221264583&perks=2402480669,4049631843
+dimwishlist:item=2221264583&perks=2402480669,2422968039
+dimwishlist:item=2221264583&perks=2402480669,859780267
+
+
 // Patron of Lost Causes - PVP (god-pvp)
 //notes: MW: Handling; Counterbalance Mod; Unlike with most PVP weapons, we are not focusing on the range as scout rifles have plenty of it built in. So Arrowhead Brake and Counterbalance Stock mod increase our handling and reduce our recoil to make the weapon feel incredibly accurate and snappy. Tactical Mag gives us an extra bullet while boosting our stability and reload speed. Also, To the Pain increases our handling and aim assist while we take damage ensuring we have the advantage in any duels. Lastly, Explosive Payload is our final perk choice that causes massive flinch to our enemies. Since most engagements with a scout rifle will be against other scout rifles, flinching our enemies could be the difference in winning our engagements. Scout rifles are potent long-range PVP weapons, however, they require a passive playstyle and playing at range to be effective. They pack a nice punch and are very easy to control making them great for extended-range maps. However, Patron of Lost Causes has nothing special versus other scout rifles so only collect this one if you don’t already have a great option. tags:god-pvp
 dimwishlist:item=2249996761&perks=839105230,106909392,3938834702,3038247973
