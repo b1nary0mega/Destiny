@@ -328,6 +328,58 @@ dimwishlist:item=423343404&perks=2396422520,781192741
 dimwishlist:item=427899681&perks=202670084,1561002382,1833111001,4259401308
 
 
+// Zaouli's Bane - PVE (god-pve)
+//notes: MW: Stability or Reload; Zaouli’s might hit like a truck, but it also kicks like a wild horse. To remedy that, it is wise to invest in stability as much as possible. Fluted Barrel might not give the most stability out of the barrels, but it also offers some handling as well, making swapping and aiming down sights that much quicker. Corkscrew is also a viable option, giving an even spread of buffs to range, stability, and handling. Flared Magwell is easily the best option for the magazine, buffing both reload speed and stability. Tactical Mag is also good for the buff-to-mag size, though it really isn’t needed. For your perks, the best pairing by far has been Explosive Payload and Incandescent. These two are no-frills, easy-to-use perks that improve damage and synergize further with Solar 3.0. If you want a more ability-focused build, Pugilist and Demolitionist will help out there. Pairing Pugilist with Incandescent allows scorch kills from the Area-of-Effect to grant melee energy, just as a tip. tags:god-pve
+dimwishlist:item=431721920&perks=1840239774,3230963543,3038247973,4293542123
+dimwishlist:item=431721920&perks=1840239774,3230963543,3038247973,2675184851
+dimwishlist:item=431721920&perks=1840239774,3230963543,64866129,4293542123
+dimwishlist:item=431721920&perks=1840239774,3230963543,64866129,2675184851
+dimwishlist:item=431721920&perks=4090651448,3230963543,3038247973,4293542123
+dimwishlist:item=431721920&perks=4090651448,3230963543,3038247973,2675184851
+dimwishlist:item=431721920&perks=4090651448,3230963543,64866129,4293542123
+dimwishlist:item=431721920&perks=4090651448,3230963543,64866129,2675184851
+
+
+// Zaouli's Bane - PVE (god-pve)
+//notes: MW: Stability or Reload; Zaouli’s might hit like a truck, but it also kicks like a wild horse. To remedy that, it is wise to invest in stability as much as possible. Fluted Barrel might not give the most stability out of the barrels, but it also offers some handling as well, making swapping and aiming down sights that much quicker. Corkscrew is also a viable option, giving an even spread of buffs to range, stability, and handling. Flared Magwell is easily the best option for the magazine, buffing both reload speed and stability. Tactical Mag is also good for the buff-to-mag size, though it really isn’t needed. For your perks, the best pairing by far has been Explosive Payload and Incandescent. These two are no-frills, easy-to-use perks that improve damage and synergize further with Solar 3.0. If you want a more ability-focused build, Pugilist and Demolitionist will help out there. Pairing Pugilist with Incandescent allows scorch kills from the Area-of-Effect to grant melee energy, just as a tip. tags:god-pve
+dimwishlist:item=431721920&perks=1840239774,3230963543,691659142,3523296417
+dimwishlist:item=431721920&perks=1840239774,3230963543,691659142,1906147653
+dimwishlist:item=431721920&perks=1840239774,3230963543,691659142,4293542123
+dimwishlist:item=431721920&perks=1840239774,3230963543,691659142,2675184851
+dimwishlist:item=431721920&perks=1840239774,3230963543,536173722,3523296417
+dimwishlist:item=431721920&perks=1840239774,3230963543,536173722,1906147653
+dimwishlist:item=431721920&perks=1840239774,3230963543,536173722,4293542123
+dimwishlist:item=431721920&perks=1840239774,3230963543,536173722,2675184851
+dimwishlist:item=431721920&perks=4090651448,3230963543,691659142,3523296417
+dimwishlist:item=431721920&perks=4090651448,3230963543,691659142,1906147653
+dimwishlist:item=431721920&perks=4090651448,3230963543,691659142,4293542123
+dimwishlist:item=431721920&perks=4090651448,3230963543,691659142,2675184851
+dimwishlist:item=431721920&perks=4090651448,3230963543,536173722,3523296417
+dimwishlist:item=431721920&perks=4090651448,3230963543,536173722,1906147653
+dimwishlist:item=431721920&perks=4090651448,3230963543,536173722,4293542123
+dimwishlist:item=431721920&perks=4090651448,3230963543,536173722,2675184851
+
+
+// Zaouli's Bane - PVE (pve)
+//notes: MW: Stability or Reload; Zaouli’s might hit like a truck, but it also kicks like a wild horse. To remedy that, it is wise to invest in stability as much as possible. Fluted Barrel might not give the most stability out of the barrels, but it also offers some handling as well, making swapping and aiming down sights that much quicker. Corkscrew is also a viable option, giving an even spread of buffs to range, stability, and handling. Flared Magwell is easily the best option for the magazine, buffing both reload speed and stability. Tactical Mag is also good for the buff-to-mag size, though it really isn’t needed. For your perks, the best pairing by far has been Explosive Payload and Incandescent. These two are no-frills, easy-to-use perks that improve damage and synergize further with Solar 3.0. If you want a more ability-focused build, Pugilist and Demolitionist will help out there. Pairing Pugilist with Incandescent allows scorch kills from the Area-of-Effect to grant melee energy, just as a tip. tags:pve
+dimwishlist:item=431721920&perks=3038247973,4293542123
+dimwishlist:item=431721920&perks=3038247973,2675184851
+dimwishlist:item=431721920&perks=64866129,4293542123
+dimwishlist:item=431721920&perks=64866129,2675184851
+
+
+// Zaouli's Bane - PVE (pve)
+//notes: MW: Stability or Reload; Zaouli’s might hit like a truck, but it also kicks like a wild horse. To remedy that, it is wise to invest in stability as much as possible. Fluted Barrel might not give the most stability out of the barrels, but it also offers some handling as well, making swapping and aiming down sights that much quicker. Corkscrew is also a viable option, giving an even spread of buffs to range, stability, and handling. Flared Magwell is easily the best option for the magazine, buffing both reload speed and stability. Tactical Mag is also good for the buff-to-mag size, though it really isn’t needed. For your perks, the best pairing by far has been Explosive Payload and Incandescent. These two are no-frills, easy-to-use perks that improve damage and synergize further with Solar 3.0. If you want a more ability-focused build, Pugilist and Demolitionist will help out there. Pairing Pugilist with Incandescent allows scorch kills from the Area-of-Effect to grant melee energy, just as a tip. tags:pve
+dimwishlist:item=431721920&perks=691659142,3523296417
+dimwishlist:item=431721920&perks=691659142,1906147653
+dimwishlist:item=431721920&perks=691659142,4293542123
+dimwishlist:item=431721920&perks=691659142,2675184851
+dimwishlist:item=431721920&perks=536173722,3523296417
+dimwishlist:item=431721920&perks=536173722,1906147653
+dimwishlist:item=431721920&perks=536173722,4293542123
+dimwishlist:item=431721920&perks=536173722,2675184851
+
+
 // Rufus's Fury - PVE (god-pve)
 //notes: MW: Stability or Range; This auto rifle is a powerhouse in PvE. For main stats, you’ll want the same ones we mentioned above—stability and range. Therefore, the first two columns of traits won’t change. As for the perks, you can go a couple of different ways here. Reconstruction and Target Lock won’t do you wrong if you want a pure workhorse weapon. But if you’re looking for excellent Strand synergy, Demolitionist and Hatchling is easily the best choice. tags:god-pve
 dimwishlist:item=484515708&perks=3250034553,1885400500,1523832109,365154968
@@ -2142,6 +2194,30 @@ dimwishlist:item=1911060537&perks=573122728,1771339417
 dimwishlist:item=1911060537&perks=573122728,395388285
 
 
+// Doom of Chelchis - PVE (god-pve)
+//notes: MW: Reload; As is typical in PvE, Doom of Chelchis’ barrel, magazine, and masterwork realistically don’t matter all that much here. We prefer choices that increase stability, handling, and reload speed, but anything works. For main perks, Explosive Payload and One for All is a simple yet potent combination. Vorpal Weapon is also surprisingly good in the first column, assuming you’re using this weapon in Grandmaster Nightfalls and other activities that contain champions. While Doom of Chelchis isn’t (and probably never will be) a meta pick, it excels to a relatively high level compared to other scout rifles. tags:god-pve
+dimwishlist:item=1937552980&perks=1482024992,3230963543,3038247973,4049631843
+dimwishlist:item=1937552980&perks=1482024992,3230963543,3038247973,859780267
+dimwishlist:item=1937552980&perks=1482024992,3230963543,64866129,4049631843
+dimwishlist:item=1937552980&perks=1482024992,3230963543,64866129,859780267
+dimwishlist:item=1937552980&perks=1482024992,3230963543,1546637391,4049631843
+dimwishlist:item=1937552980&perks=1482024992,3230963543,1546637391,859780267
+dimwishlist:item=1937552980&perks=1482024992,3230963543,3418165135,4049631843
+dimwishlist:item=1937552980&perks=1482024992,3230963543,3418165135,859780267
+
+
+// Doom of Chelchis - PVE (pve)
+//notes: MW: Reload; As is typical in PvE, Doom of Chelchis’ barrel, magazine, and masterwork realistically don’t matter all that much here. We prefer choices that increase stability, handling, and reload speed, but anything works. For main perks, Explosive Payload and One for All is a simple yet potent combination. Vorpal Weapon is also surprisingly good in the first column, assuming you’re using this weapon in Grandmaster Nightfalls and other activities that contain champions. While Doom of Chelchis isn’t (and probably never will be) a meta pick, it excels to a relatively high level compared to other scout rifles. tags:pve
+dimwishlist:item=1937552980&perks=3038247973,4049631843
+dimwishlist:item=1937552980&perks=3038247973,859780267
+dimwishlist:item=1937552980&perks=64866129,4049631843
+dimwishlist:item=1937552980&perks=64866129,859780267
+dimwishlist:item=1937552980&perks=1546637391,4049631843
+dimwishlist:item=1937552980&perks=1546637391,859780267
+dimwishlist:item=1937552980&perks=3418165135,4049631843
+dimwishlist:item=1937552980&perks=3418165135,859780267
+
+
 // Qua Xaphan V - PVE (god-pve)
 //notes: MW: Stability; The Qua Xaphan V is actually a great option for PvE, provided you can get the right perks to roll on it. Getting its recoil pattern under control with Arrowhead Brake is a great option, but really any barrel perk will get the job done. Appended Mag is absolutely the best choice for the magazine perk. Any masterwork is fine for this weapon, but Stability edges out the competition just to help this machine guns biggest weakness. This weapon gets the infamous Machine Gun Triple Tap/Target Lock combo. While no where near as powerful as Retrofit Escapade in its hay day, this weapons slower firing rate may help keep up the Target Lock buff as it should be easier to stay on target. You could also go with something like Firing Line for a more consistent buff or Destabilizing Rounds for a void build. tags:god-pve
 dimwishlist:item=1975125963&perks=839105230,1087426260,3400784728,365154968
@@ -2426,42 +2502,50 @@ dimwishlist:item=2198166292&perks=4223976499,2748801589
 
 // Smite of Merain - PVE (god-pve)
 //notes: MW: Range; Despite its inability to compete with top picks (especially 4-bursts), Smite of Merain has a couple of great perk combinations that are both potent and easy to use. We’ll begin with Hammer-Forged Rifling, Tactical Mag, and a Range masterwork to round out the weapon’s stat package. From there, two main ways to build this weapon up come to mind: either the always-extraordinary combination of Demolitionist and Adrenaline Junkie, or Smite of Merain’s unique ability to roll with two damage perks (Focused Fury and either One for All, Adrenaline Junkie, or Swashbuckler). As a whole, Smite of Merain is inarguably unique, but its diverse aspects simply don’t compare to recent competition. Unless you want something that only excels in high damage-per-shot, there are likely better options out there. tags:god-pve
-dimwishlist:item=2221264583&perks=3250034553,106909392,3523296417,11612903
-dimwishlist:item=2221264583&perks=3250034553,106909392,3523296417,4049631843
-dimwishlist:item=2221264583&perks=3250034553,106909392,3523296417,2422968039
-dimwishlist:item=2221264583&perks=3250034553,106909392,3523296417,859780267
-dimwishlist:item=2221264583&perks=3250034553,106909392,1906147653,11612903
-dimwishlist:item=2221264583&perks=3250034553,106909392,1906147653,4049631843
-dimwishlist:item=2221264583&perks=3250034553,106909392,1906147653,2422968039
-dimwishlist:item=2221264583&perks=3250034553,106909392,1906147653,859780267
 dimwishlist:item=2221264583&perks=3250034553,106909392,2896038713,11612903
 dimwishlist:item=2221264583&perks=3250034553,106909392,2896038713,4049631843
 dimwishlist:item=2221264583&perks=3250034553,106909392,2896038713,2422968039
 dimwishlist:item=2221264583&perks=3250034553,106909392,2896038713,859780267
+dimwishlist:item=2221264583&perks=3250034553,106909392,2896038713,4082225868
+dimwishlist:item=2221264583&perks=3250034553,106909392,2896038713,1161469972
 dimwishlist:item=2221264583&perks=3250034553,106909392,2402480669,11612903
 dimwishlist:item=2221264583&perks=3250034553,106909392,2402480669,4049631843
 dimwishlist:item=2221264583&perks=3250034553,106909392,2402480669,2422968039
 dimwishlist:item=2221264583&perks=3250034553,106909392,2402480669,859780267
+dimwishlist:item=2221264583&perks=3250034553,106909392,2402480669,4082225868
+dimwishlist:item=2221264583&perks=3250034553,106909392,2402480669,1161469972
+
+
+// Smite of Merain - PVE (god-pve)
+//notes: MW: Range; Despite its inability to compete with top picks (especially 4-bursts), Smite of Merain has a couple of great perk combinations that are both potent and easy to use. We’ll begin with Hammer-Forged Rifling, Tactical Mag, and a Range masterwork to round out the weapon’s stat package. From there, two main ways to build this weapon up come to mind: either the always-extraordinary combination of Demolitionist and Adrenaline Junkie, or Smite of Merain’s unique ability to roll with two damage perks (Focused Fury and either One for All, Adrenaline Junkie, or Swashbuckler). As a whole, Smite of Merain is inarguably unique, but its diverse aspects simply don’t compare to recent competition. Unless you want something that only excels in high damage-per-shot, there are likely better options out there. tags:god-pve
+dimwishlist:item=2221264583&perks=3250034553,106909392,3523296417,11612903
+dimwishlist:item=2221264583&perks=3250034553,106909392,3523296417,2422968039
+dimwishlist:item=2221264583&perks=3250034553,106909392,1906147653,11612903
+dimwishlist:item=2221264583&perks=3250034553,106909392,1906147653,2422968039
+
+
+// Smite of Merain - PVE (pve)
+//notes: MW: Range; Despite its inability to compete with top picks (especially 4-bursts), Smite of Merain has a couple of great perk combinations that are both potent and easy to use. We’ll begin with Hammer-Forged Rifling, Tactical Mag, and a Range masterwork to round out the weapon’s stat package. From there, two main ways to build this weapon up come to mind: either the always-extraordinary combination of Demolitionist and Adrenaline Junkie, or Smite of Merain’s unique ability to roll with two damage perks (Focused Fury and either One for All, Adrenaline Junkie, or Swashbuckler). As a whole, Smite of Merain is inarguably unique, but its diverse aspects simply don’t compare to recent competition. Unless you want something that only excels in high damage-per-shot, there are likely better options out there. tags:pve
+dimwishlist:item=2221264583&perks=2896038713,11612903
+dimwishlist:item=2221264583&perks=2896038713,4049631843
+dimwishlist:item=2221264583&perks=2896038713,2422968039
+dimwishlist:item=2221264583&perks=2896038713,859780267
+dimwishlist:item=2221264583&perks=2896038713,4082225868
+dimwishlist:item=2221264583&perks=2896038713,1161469972
+dimwishlist:item=2221264583&perks=2402480669,11612903
+dimwishlist:item=2221264583&perks=2402480669,4049631843
+dimwishlist:item=2221264583&perks=2402480669,2422968039
+dimwishlist:item=2221264583&perks=2402480669,859780267
+dimwishlist:item=2221264583&perks=2402480669,4082225868
+dimwishlist:item=2221264583&perks=2402480669,1161469972
 
 
 // Smite of Merain - PVE (pve)
 //notes: MW: Range; Despite its inability to compete with top picks (especially 4-bursts), Smite of Merain has a couple of great perk combinations that are both potent and easy to use. We’ll begin with Hammer-Forged Rifling, Tactical Mag, and a Range masterwork to round out the weapon’s stat package. From there, two main ways to build this weapon up come to mind: either the always-extraordinary combination of Demolitionist and Adrenaline Junkie, or Smite of Merain’s unique ability to roll with two damage perks (Focused Fury and either One for All, Adrenaline Junkie, or Swashbuckler). As a whole, Smite of Merain is inarguably unique, but its diverse aspects simply don’t compare to recent competition. Unless you want something that only excels in high damage-per-shot, there are likely better options out there. tags:pve
 dimwishlist:item=2221264583&perks=3523296417,11612903
-dimwishlist:item=2221264583&perks=3523296417,4049631843
 dimwishlist:item=2221264583&perks=3523296417,2422968039
-dimwishlist:item=2221264583&perks=3523296417,859780267
 dimwishlist:item=2221264583&perks=1906147653,11612903
-dimwishlist:item=2221264583&perks=1906147653,4049631843
 dimwishlist:item=2221264583&perks=1906147653,2422968039
-dimwishlist:item=2221264583&perks=1906147653,859780267
-dimwishlist:item=2221264583&perks=2896038713,11612903
-dimwishlist:item=2221264583&perks=2896038713,4049631843
-dimwishlist:item=2221264583&perks=2896038713,2422968039
-dimwishlist:item=2221264583&perks=2896038713,859780267
-dimwishlist:item=2221264583&perks=2402480669,11612903
-dimwishlist:item=2221264583&perks=2402480669,4049631843
-dimwishlist:item=2221264583&perks=2402480669,2422968039
-dimwishlist:item=2221264583&perks=2402480669,859780267
 
 
 // Patron of Lost Causes - PVP (god-pvp)
@@ -3881,6 +3965,30 @@ dimwishlist:item=3221722018&perks=2451262963,438098033,3988215619
 dimwishlist:item=3221722018&perks=2451262963,2748801589,3988215619
 dimwishlist:item=3221722018&perks=1609056795,438098033,3988215619
 dimwishlist:item=3221722018&perks=1609056795,2748801589,3988215619
+
+
+// Defiance of Yasmin - PVE (god-pve)
+//notes: MW: Handling; When building this weapon for PvE, you’ll want to start by prioritizing handling and reload speed; handling is useful during DPS rotations, while reload speed is vital due to the lack of an auto-reloading perk in Yasmin’s pool. As for main perks, Lead from Gold and Firing Line is the most common combination, and rightfully so. However, worth mentioning in the first column is Ensemble. Especially if you’re already getting Firing Line to trigger, Ensemble should work most of the time to grant extra reload speed. To top it all off, Runneth Over (the King’s Fall origin trait) has the same proc condition as both of these perks, allowing for an overflowed magazine as well. tags:god-pve
+dimwishlist:item=3228096719&perks=1840239774,106909392,1556840489,1771339417
+dimwishlist:item=3228096719&perks=1840239774,106909392,1556840489,395388285
+dimwishlist:item=3228096719&perks=1840239774,106909392,3442762221,1771339417
+dimwishlist:item=3228096719&perks=1840239774,106909392,3442762221,395388285
+dimwishlist:item=3228096719&perks=1840239774,106909392,2621346526,1771339417
+dimwishlist:item=3228096719&perks=1840239774,106909392,2621346526,395388285
+dimwishlist:item=3228096719&perks=1840239774,106909392,2495011826,1771339417
+dimwishlist:item=3228096719&perks=1840239774,106909392,2495011826,395388285
+
+
+// Defiance of Yasmin - PVE (pve)
+//notes: MW: Handling; When building this weapon for PvE, you’ll want to start by prioritizing handling and reload speed; handling is useful during DPS rotations, while reload speed is vital due to the lack of an auto-reloading perk in Yasmin’s pool. As for main perks, Lead from Gold and Firing Line is the most common combination, and rightfully so. However, worth mentioning in the first column is Ensemble. Especially if you’re already getting Firing Line to trigger, Ensemble should work most of the time to grant extra reload speed. To top it all off, Runneth Over (the King’s Fall origin trait) has the same proc condition as both of these perks, allowing for an overflowed magazine as well. tags:pve
+dimwishlist:item=3228096719&perks=1556840489,1771339417
+dimwishlist:item=3228096719&perks=1556840489,395388285
+dimwishlist:item=3228096719&perks=3442762221,1771339417
+dimwishlist:item=3228096719&perks=3442762221,395388285
+dimwishlist:item=3228096719&perks=2621346526,1771339417
+dimwishlist:item=3228096719&perks=2621346526,395388285
+dimwishlist:item=3228096719&perks=2495011826,1771339417
+dimwishlist:item=3228096719&perks=2495011826,395388285
 
 
 // Someday - PVE (god-pve,pve)
