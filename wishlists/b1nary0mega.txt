@@ -3203,6 +3203,110 @@ dimwishlist:item=2490988246&perks=2717805783,4293542123
 dimwishlist:item=2490988246&perks=2717805783,2675184851
 
 
+// Blast Furnace - PVE (god-pve)
+//notes: MW: Handling Pulses in PvE have seen highs and lows, but Blast Furnace might be able to break the mold they have been in for quite some time. Its amazing base stats means not much needs to be kicked up, but its handling is objectively sub-par, so we’ll use Fluted Barrel to kick it up a notch. Pair it with Flared Magwell for a reload speed buff, as well as a slight stability bump. For perk 1, it’s a “no contest” for Kinetic Tremors. Shoot to Loot, while nice to have, feels like a waste when a free damage perk is in the same slot. Since Blast Furnace fires 4 shots a burst, it’ll only take 3 bursts to activate it, as opposed to 4 on all others. Perk 2 has a lot of good in it, but it’s a toss-up between Desperate Measures and One-For-All. Desperate Measures requires a kill with the weapon or abilities to activate, whereas One-For-All doesn’t, and will also activate from Kinetic Tremors. tags:god-pve
+dimwishlist:item=2533990645&perks=1840239774,1087426260,3891536761,2109543898
+dimwishlist:item=2533990645&perks=1840239774,1087426260,3891536761,2799030358
+dimwishlist:item=2533990645&perks=1840239774,1087426260,3891536761,4049631843
+dimwishlist:item=2533990645&perks=1840239774,1087426260,3891536761,859780267
+dimwishlist:item=2533990645&perks=1840239774,1087426260,1549370717,2109543898
+dimwishlist:item=2533990645&perks=1840239774,1087426260,1549370717,2799030358
+dimwishlist:item=2533990645&perks=1840239774,1087426260,1549370717,4049631843
+dimwishlist:item=2533990645&perks=1840239774,1087426260,1549370717,859780267
+dimwishlist:item=2533990645&perks=1840239774,1087426260,3700496672,2109543898
+dimwishlist:item=2533990645&perks=1840239774,1087426260,3700496672,2799030358
+dimwishlist:item=2533990645&perks=1840239774,1087426260,3700496672,4049631843
+dimwishlist:item=2533990645&perks=1840239774,1087426260,3700496672,859780267
+dimwishlist:item=2533990645&perks=1840239774,1087426260,2840833776,2109543898
+dimwishlist:item=2533990645&perks=1840239774,1087426260,2840833776,2799030358
+dimwishlist:item=2533990645&perks=1840239774,1087426260,2840833776,4049631843
+dimwishlist:item=2533990645&perks=1840239774,1087426260,2840833776,859780267
+
+
+// Blast Furnace - PVP - 3v3 (god-pvp)
+//notes: MW: Stability or Handling; 3v3; PvP is where Blast Furnace will shine. A base of 79 range and 64 stability puts it above all other pulses in its frame, with the only downside being the base 65 recoil, but that’s easily fixable with Arrowhead Break, which will put it to 95 before a Counterbalance Stock mods bumps it to 100. Accurized Rounds will provide a +10 to your range, which is perfect for fighting longer range weapons. Perk 1 has many good PvP perks that it’s hard to narrow them down, but Zen Moment or Headseeker are what most are going to look for. Zen Moment will keep your reticle on target throughout the duel, and Headseeker can help push the fight in your favor if you miss a crit or two. Perk 2 really only has Rapid-Hit for 3v3 modes, as all the others are kill based, but who’s going to say ‘no’ to even more stability? tags:god-pvp
+dimwishlist:item=2533990645&perks=839105230,3142289711,2387244414,247725512
+dimwishlist:item=2533990645&perks=839105230,3142289711,2387244414,2938480696
+dimwishlist:item=2533990645&perks=839105230,3142289711,1748774930,247725512
+dimwishlist:item=2533990645&perks=839105230,3142289711,1748774930,2938480696
+dimwishlist:item=2533990645&perks=839105230,3142289711,460017080,247725512
+dimwishlist:item=2533990645&perks=839105230,3142289711,460017080,2938480696
+dimwishlist:item=2533990645&perks=839105230,3142289711,4045335048,247725512
+dimwishlist:item=2533990645&perks=839105230,3142289711,4045335048,2938480696
+
+
+// Blast Furnace - PVP - 6v6 (god-pvp)
+//notes: MW: Stability or Handling; 6v6; In 6v6 modes, you’ll find a good place for Perpetual Motion given how they play. Perpetual Motion gives you free stability for simply moving around, which is quite common when so many people are on the field. For Perk 2, any of the kill-based perks will work best, but Kill Clip and Rampage will probably be the easiest to use. Desperate Measures gets an honorable mention, too. tags:god-pvp
+dimwishlist:item=2533990645&perks=839105230,3142289711,2387244414,1015611457
+dimwishlist:item=2533990645&perks=839105230,3142289711,2387244414,3425386926
+dimwishlist:item=2533990645&perks=839105230,3142289711,2387244414,2923251173
+dimwishlist:item=2533990645&perks=839105230,3142289711,2387244414,288411554
+dimwishlist:item=2533990645&perks=839105230,3142289711,1748774930,1015611457
+dimwishlist:item=2533990645&perks=839105230,3142289711,1748774930,3425386926
+dimwishlist:item=2533990645&perks=839105230,3142289711,1748774930,2923251173
+dimwishlist:item=2533990645&perks=839105230,3142289711,1748774930,288411554
+dimwishlist:item=2533990645&perks=839105230,3142289711,1428297954,1015611457
+dimwishlist:item=2533990645&perks=839105230,3142289711,1428297954,3425386926
+dimwishlist:item=2533990645&perks=839105230,3142289711,1428297954,2923251173
+dimwishlist:item=2533990645&perks=839105230,3142289711,1428297954,288411554
+dimwishlist:item=2533990645&perks=839105230,3142289711,2014892510,1015611457
+dimwishlist:item=2533990645&perks=839105230,3142289711,2014892510,3425386926
+dimwishlist:item=2533990645&perks=839105230,3142289711,2014892510,2923251173
+dimwishlist:item=2533990645&perks=839105230,3142289711,2014892510,288411554
+
+
+// Blast Furnace - PVE (pve)
+//notes: MW: Handling Pulses in PvE have seen highs and lows, but Blast Furnace might be able to break the mold they have been in for quite some time. Its amazing base stats means not much needs to be kicked up, but its handling is objectively sub-par, so we’ll use Fluted Barrel to kick it up a notch. Pair it with Flared Magwell for a reload speed buff, as well as a slight stability bump. For perk 1, it’s a “no contest” for Kinetic Tremors. Shoot to Loot, while nice to have, feels like a waste when a free damage perk is in the same slot. Since Blast Furnace fires 4 shots a burst, it’ll only take 3 bursts to activate it, as opposed to 4 on all others. Perk 2 has a lot of good in it, but it’s a toss-up between Desperate Measures and One-For-All. Desperate Measures requires a kill with the weapon or abilities to activate, whereas One-For-All doesn’t, and will also activate from Kinetic Tremors. tags:pve
+dimwishlist:item=2533990645&perks=3891536761,2109543898
+dimwishlist:item=2533990645&perks=3891536761,2799030358
+dimwishlist:item=2533990645&perks=3891536761,4049631843
+dimwishlist:item=2533990645&perks=3891536761,859780267
+dimwishlist:item=2533990645&perks=1549370717,2109543898
+dimwishlist:item=2533990645&perks=1549370717,2799030358
+dimwishlist:item=2533990645&perks=1549370717,4049631843
+dimwishlist:item=2533990645&perks=1549370717,859780267
+dimwishlist:item=2533990645&perks=3700496672,2109543898
+dimwishlist:item=2533990645&perks=3700496672,2799030358
+dimwishlist:item=2533990645&perks=3700496672,4049631843
+dimwishlist:item=2533990645&perks=3700496672,859780267
+dimwishlist:item=2533990645&perks=2840833776,2109543898
+dimwishlist:item=2533990645&perks=2840833776,2799030358
+dimwishlist:item=2533990645&perks=2840833776,4049631843
+dimwishlist:item=2533990645&perks=2840833776,859780267
+
+
+// Blast Furnace - PVP - 3v3 (pvp)
+//notes: MW: Stability or Handling; 3v3; PvP is where Blast Furnace will shine. A base of 79 range and 64 stability puts it above all other pulses in its frame, with the only downside being the base 65 recoil, but that’s easily fixable with Arrowhead Break, which will put it to 95 before a Counterbalance Stock mods bumps it to 100. Accurized Rounds will provide a +10 to your range, which is perfect for fighting longer range weapons. Perk 1 has many good PvP perks that it’s hard to narrow them down, but Zen Moment or Headseeker are what most are going to look for. Zen Moment will keep your reticle on target throughout the duel, and Headseeker can help push the fight in your favor if you miss a crit or two. Perk 2 really only has Rapid-Hit for 3v3 modes, as all the others are kill based, but who’s going to say ‘no’ to even more stability? tags:pvp
+dimwishlist:item=2533990645&perks=2387244414,247725512
+dimwishlist:item=2533990645&perks=2387244414,2938480696
+dimwishlist:item=2533990645&perks=1748774930,247725512
+dimwishlist:item=2533990645&perks=1748774930,2938480696
+dimwishlist:item=2533990645&perks=460017080,247725512
+dimwishlist:item=2533990645&perks=460017080,2938480696
+dimwishlist:item=2533990645&perks=4045335048,247725512
+dimwishlist:item=2533990645&perks=4045335048,2938480696
+
+
+// Blast Furnace - PVP - 6v6 (pvp)
+//notes: MW: Stability or Handling; 6v6; In 6v6 modes, you’ll find a good place for Perpetual Motion given how they play. Perpetual Motion gives you free stability for simply moving around, which is quite common when so many people are on the field. For Perk 2, any of the kill-based perks will work best, but Kill Clip and Rampage will probably be the easiest to use. Desperate Measures gets an honorable mention, too. tags:pvp
+dimwishlist:item=2533990645&perks=2387244414,1015611457
+dimwishlist:item=2533990645&perks=2387244414,3425386926
+dimwishlist:item=2533990645&perks=2387244414,2923251173
+dimwishlist:item=2533990645&perks=2387244414,288411554
+dimwishlist:item=2533990645&perks=1748774930,1015611457
+dimwishlist:item=2533990645&perks=1748774930,3425386926
+dimwishlist:item=2533990645&perks=1748774930,2923251173
+dimwishlist:item=2533990645&perks=1748774930,288411554
+dimwishlist:item=2533990645&perks=1428297954,1015611457
+dimwishlist:item=2533990645&perks=1428297954,3425386926
+dimwishlist:item=2533990645&perks=1428297954,2923251173
+dimwishlist:item=2533990645&perks=1428297954,288411554
+dimwishlist:item=2533990645&perks=2014892510,1015611457
+dimwishlist:item=2533990645&perks=2014892510,3425386926
+dimwishlist:item=2533990645&perks=2014892510,2923251173
+dimwishlist:item=2533990645&perks=2014892510,288411554
+
+
 // Scatter Signal - PVE (god-pve)
 //notes: MW: Charge; Scatter Signal is arguably one of the best Fusion Rifles in the game, and as such, we need to push its strengths to the limit to obtain its optimal form. It has some great base Range and Stability, but its Recoil Direction is slightly erratic. To remedy that, throw on Arrowhead Break for a substantial boost to recoil and a decent boost to Handling. For battery, there’s no better PvE choice than Accelerated Coils. It might drop the Impact stat down slightly, but it’s nowhere close to being a noticeable difference. For perks, Scatter has a few to choose from, but there’s only two in each column worth recommending for PvE. In Column 3, choose between Slice or Overflow. Overflow is great for those extended damage phases or for when you really don’t have time to reload, and Slice is great for keeping yourself alive by applying Sever to targets, reducing their damage by 30%! For Column 4, you could keep the Strand synergy going by choosing Hatchling, but most will want Controlled Burst for that extra 20% damage. tags:god-pve
 dimwishlist:item=2558925366&perks=839105230,689005463,3643424744,2594592626
