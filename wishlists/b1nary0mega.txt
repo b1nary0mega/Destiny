@@ -1432,6 +1432,46 @@ dimwishlist:item=1298672084&perks=191144788,47981717
 dimwishlist:item=1298672084&perks=191144788,1370847713
 
 
+// Brigand's Law - PVE - Melee (god-pve)
+//notes: MW: Range; As a 450 RPM sidearm, Brigand’s Law works kind of like a mini-SMG. While sidearms aren’t ideal in serious content, for basic add clear Brigand’s Law is a lot of fun.There are just so many great perks on it that it’s hard to go wrong. Pugilist and Swashbuckler is a fantastic roll for a melee-focused build, since Brigand’s Law also gets a boost to range and target acquisition from its Origin Trait. Voltshot is an incredible perk for wiping out red bars, too. In addition to the perks I’ve listed, other combos that are worth playing around with are Threat Detector/Surrounded, Feeding Frenzy/Swashbuckler, and Pugilist/Demolitionist. tags:god-pve
+dimwishlist:item=1298815317&perks=1482024992,3142289711,691659142,4082225868
+dimwishlist:item=1298815317&perks=1482024992,3142289711,691659142,1161469972
+dimwishlist:item=1298815317&perks=1482024992,3142289711,536173722,4082225868
+dimwishlist:item=1298815317&perks=1482024992,3142289711,536173722,1161469972
+dimwishlist:item=1298815317&perks=1840239774,3142289711,691659142,4082225868
+dimwishlist:item=1298815317&perks=1840239774,3142289711,691659142,1161469972
+dimwishlist:item=1298815317&perks=1840239774,3142289711,536173722,4082225868
+dimwishlist:item=1298815317&perks=1840239774,3142289711,536173722,1161469972
+
+
+// Brigand's Law - PVE - Ads (god-pve)
+//notes: MW: Range; As a 450 RPM sidearm, Brigand’s Law works kind of like a mini-SMG. While sidearms aren’t ideal in serious content, for basic add clear Brigand’s Law is a lot of fun.There are just so many great perks on it that it’s hard to go wrong. Pugilist and Swashbuckler is a fantastic roll for a melee-focused build, since Brigand’s Law also gets a boost to range and target acquisition from its Origin Trait. Voltshot is an incredible perk for wiping out red bars, too. In addition to the perks I’ve listed, other combos that are worth playing around with are Threat Detector/Surrounded, Feeding Frenzy/Swashbuckler, and Pugilist/Demolitionist. tags:god-pve
+dimwishlist:item=1298815317&perks=1482024992,3142289711,4071163871,2173046394
+dimwishlist:item=1298815317&perks=1482024992,3142289711,4071163871,1720528630
+dimwishlist:item=1298815317&perks=1482024992,3142289711,494941759,2173046394
+dimwishlist:item=1298815317&perks=1482024992,3142289711,494941759,1720528630
+dimwishlist:item=1298815317&perks=1840239774,3142289711,4071163871,2173046394
+dimwishlist:item=1298815317&perks=1840239774,3142289711,4071163871,1720528630
+dimwishlist:item=1298815317&perks=1840239774,3142289711,494941759,2173046394
+dimwishlist:item=1298815317&perks=1840239774,3142289711,494941759,1720528630
+
+
+// Brigand's Law - PVE - Melee (pve)
+//notes: MW: Range; As a 450 RPM sidearm, Brigand’s Law works kind of like a mini-SMG. While sidearms aren’t ideal in serious content, for basic add clear Brigand’s Law is a lot of fun.There are just so many great perks on it that it’s hard to go wrong. Pugilist and Swashbuckler is a fantastic roll for a melee-focused build, since Brigand’s Law also gets a boost to range and target acquisition from its Origin Trait. Voltshot is an incredible perk for wiping out red bars, too. In addition to the perks I’ve listed, other combos that are worth playing around with are Threat Detector/Surrounded, Feeding Frenzy/Swashbuckler, and Pugilist/Demolitionist. tags:pve
+dimwishlist:item=1298815317&perks=691659142,4082225868
+dimwishlist:item=1298815317&perks=691659142,1161469972
+dimwishlist:item=1298815317&perks=536173722,4082225868
+dimwishlist:item=1298815317&perks=536173722,1161469972
+
+
+// Brigand's Law - PVE - Ads (pve)
+//notes: MW: Range; As a 450 RPM sidearm, Brigand’s Law works kind of like a mini-SMG. While sidearms aren’t ideal in serious content, for basic add clear Brigand’s Law is a lot of fun.There are just so many great perks on it that it’s hard to go wrong. Pugilist and Swashbuckler is a fantastic roll for a melee-focused build, since Brigand’s Law also gets a boost to range and target acquisition from its Origin Trait. Voltshot is an incredible perk for wiping out red bars, too. In addition to the perks I’ve listed, other combos that are worth playing around with are Threat Detector/Surrounded, Feeding Frenzy/Swashbuckler, and Pugilist/Demolitionist. tags:pve
+dimwishlist:item=1298815317&perks=4071163871,2173046394
+dimwishlist:item=1298815317&perks=4071163871,1720528630
+dimwishlist:item=1298815317&perks=494941759,2173046394
+dimwishlist:item=1298815317&perks=494941759,1720528630
+
+
 // Qullim's Terminus - PVE (god-pve)
 //notes: MW: Handling; For PvE, there are two ways you can build Qullim’s Terminus: either for raw damage or for Stasis buildcrafting. In the case of the former, Unrelenting and Killing Tally is your best bet. While Focused Fury and Firing Line are somewhat comparable in the second column (especially due to Qullim’s low magazine size, reducing the potency of Killing Tally), their damage buffs simply aren’t as strong. If you’re instead looking to build into the Stasis element, replacing Killing Tally with Headstone is the clear choice. While you’re bound to find better weapons for nearly any Stasis build in mind, Qullim’s is one of few Stasis machine guns if you’re looking for that specifically. Qullim’s perks aren’t too bad, but they also aren’t anything to write home about. Plus, the weapon’s high-impact frame once again automatically reduces its potency against fierce competition. tags:god-pve
 dimwishlist:item=1321506184&perks=1482024992,3230963543,3108830275,557221067
@@ -5369,5 +5409,17 @@ dimwishlist:item=4255171531&perks=3525010810,3796465595,2869569095,3194351027
 dimwishlist:item=4255171531&perks=3977735242,3194351027
 dimwishlist:item=4255171531&perks=3523296417,3194351027
 dimwishlist:item=4255171531&perks=2869569095,3194351027
+
+
+// Last Man Standing - PVE (god-pve)
+//notes: MW: Range;  This is a very strong shotgun for PvE. You gain a lot of benefits for just getting kills. The one drawback to this gun is you need to play close range and some enemies in PvE can Knock you back. If you find yourself getting knocked around a lot make sure to melee as soon as the enemy is done with their attack animation. The lunge you get will keep you in place. Consider using this strategy when using this weapon. tags:god-pve
+dimwishlist:item=4287947559&perks=4090651448,791862061,691659142,2679249093
+dimwishlist:item=4287947559&perks=4090651448,791862061,4071163871,2679249093
+
+
+// Last Man Standing - PVE (pve)
+//notes: MW: Range;  This is a very strong shotgun for PvE. You gain a lot of benefits for just getting kills. The one drawback to this gun is you need to play close range and some enemies in PvE can Knock you back. If you find yourself getting knocked around a lot make sure to melee as soon as the enemy is done with their attack animation. The lunge you get will keep you in place. Consider using this strategy when using this weapon. tags:pve
+dimwishlist:item=4287947559&perks=691659142,2679249093
+dimwishlist:item=4287947559&perks=4071163871,2679249093
 
 
