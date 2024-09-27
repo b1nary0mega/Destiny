@@ -3788,6 +3788,30 @@ dimwishlist:item=2763843899&perks=838873202,1015611457
 dimwishlist:item=2763843899&perks=838873202,2923251173
 
 
+// Nox Perennial V - PVE (god-pve)
+//notes: MW: Charge; With its lackluster stats not limiting Nox Perennial V’s capabilities as much in a PvE environment, its strong suite of perks can shine far more than they can in PvP. The buff to Envious Assassin this season has made it a reliable route to consistently overflowed magazine capacity, and while Nox Perennial V can’t pair that with Reservoir Burst for maximum impact, it can pair it with the equally devastating Controlled Burst perk for high damage output in endgame content. tags:god-pve
+dimwishlist:item=2767393525&perks=1482024992,689005463,968510818,831391274
+dimwishlist:item=2767393525&perks=1482024992,689005463,968510818,102912326
+dimwishlist:item=2767393525&perks=1482024992,689005463,968510818,2594592626
+dimwishlist:item=2767393525&perks=1482024992,689005463,968510818,2037312142
+dimwishlist:item=2767393525&perks=1482024992,689005463,424370782,831391274
+dimwishlist:item=2767393525&perks=1482024992,689005463,424370782,102912326
+dimwishlist:item=2767393525&perks=1482024992,689005463,424370782,2594592626
+dimwishlist:item=2767393525&perks=1482024992,689005463,424370782,2037312142
+
+
+// Nox Perennial V - PVE (pve)
+//notes: MW: Charge; With its lackluster stats not limiting Nox Perennial V’s capabilities as much in a PvE environment, its strong suite of perks can shine far more than they can in PvP. The buff to Envious Assassin this season has made it a reliable route to consistently overflowed magazine capacity, and while Nox Perennial V can’t pair that with Reservoir Burst for maximum impact, it can pair it with the equally devastating Controlled Burst perk for high damage output in endgame content. tags:pve
+dimwishlist:item=2767393525&perks=968510818,831391274
+dimwishlist:item=2767393525&perks=968510818,102912326
+dimwishlist:item=2767393525&perks=968510818,2594592626
+dimwishlist:item=2767393525&perks=968510818,2037312142
+dimwishlist:item=2767393525&perks=424370782,831391274
+dimwishlist:item=2767393525&perks=424370782,102912326
+dimwishlist:item=2767393525&perks=424370782,2594592626
+dimwishlist:item=2767393525&perks=424370782,2037312142
+
+
 // Embraced Identity - PVP (god-pve,pve)
 //notes: MW Handling; Targeting Mod; Focusing on Accuracy and Handling, Fluted Barrel is the perfect place to start. The high Handling boost keeps Embraced Identity feeling light when readying up for a snipe and the added Stability is great for any follow-up shots. Add Accurized Rounds to keep the reticle sticky at longer distances from your sniper perch. Opening Shot is an essential perk for this god roll and most Sniper Rifles in Destiny 2. The high Aim Assist, Range, and accuracy bonuses keep this Sniper Rifle feeling like a headshot magnet with the wielder's only job to get that scope near the target and more often than not, opponent names will rack up the kill feed from every shot. Round this off with Moving Target for its bonus Aim Assist and greater speed while ADS, making it even harder for opponents to land shots when lining up your next blast. tags:god-pve,pve
 dimwishlist:item=2821677368&perks=1840239774,3142289711,47981717,588594999
