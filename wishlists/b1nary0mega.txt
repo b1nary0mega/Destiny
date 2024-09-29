@@ -4757,6 +4757,16 @@ dimwishlist:item=3667553455&perks=981914802,2822142346,968510818,1439600632
 dimwishlist:item=3667553455&perks=968510818,1439600632
 
 
+// Dragoncult Sickle - PVE (god-pve)
+//notes: MW: Impact; For our blade, you will want Honed Edge to maximize damage output to major enemies and bosses. For our guard, we’ll want to pick Swordmaster’s Guard to sacrifice defense for increased damage. For our perks, we want Tireless Blade and Surrounded in perk columns 1 and 2, respectively. Tireless Blade will restore ammo upon every other sword kill, and Surrounded will maximize our damage output when enemies are in close proximity.  For now, there are better heavy weapon options for boss damage, but you may find this roll effective in intense crowd-control moments. tags:god-pve
+dimwishlist:item=3668817296&perks=2827049491,269888150,2590710093,3708227201
+
+
+// Dragoncult Sickle - PVE (pve)
+//notes: MW: Impact; For our blade, you will want Honed Edge to maximize damage output to major enemies and bosses. For our guard, we’ll want to pick Swordmaster’s Guard to sacrifice defense for increased damage. For our perks, we want Tireless Blade and Surrounded in perk columns 1 and 2, respectively. Tireless Blade will restore ammo upon every other sword kill, and Surrounded will maximize our damage output when enemies are in close proximity.  For now, there are better heavy weapon options for boss damage, but you may find this roll effective in intense crowd-control moments. tags:pve
+dimwishlist:item=3668817296&perks=2590710093,3708227201
+
+
 // Veiled Threat - PVE (god-pve,pve)
 //notes: PVE; MW Range; For our barrel, you will want Arrowhead Brake to better control that pesky auto rifle recoil and boost your weapon handling. For our magazine, we’ll want to pick Tactical Mag to increase our stability, mag size, and reload speed with the weapon. For our perks, we want Strategist and Headstone in perk columns 1 and 2, respectively. Strategist will generate class ability energy upon kills and activating your class ability will buff stability with the weapon. Headstone is the real star of the show here; coupled with Veiled Threat’s 720 RPM Rapid-Fire frame, you’ll be creating countless stasis crystals when landing headshots on your enemies. Veiled Threat will prove to be useful in crowd control. Between the radiolarian fluid damage pools created by the origin trait on offer here and the rapid creation of Stasis crystals via Headstone, you are sure to find this weapon lethal in PvE. tags:god-pve,pve
 dimwishlist:item=3685470415&perks=839105230,106909392,880644845,124408337
