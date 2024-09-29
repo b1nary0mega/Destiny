@@ -8738,6 +8738,1232 @@
             "tags": [
                 "PVP"
             ]
+        },
+        {
+            "description": "MW: Stability; The Qua Xaphan V is actually a great option for PvE, provided you can get the right perks to roll on it. Getting its recoil pattern under control with Arrowhead Brake is a great option, but really any barrel perk will get the job done. Appended Mag is absolutely the best choice for the magazine perk. Any masterwork is fine for this weapon, but Stability edges out the competition just to help this machine guns biggest weakness. This weapon gets the infamous Machine Gun Triple Tap/Target Lock combo. While no where near as powerful as Retrofit Escapade in its hay day, this weapons slower firing rate may help keep up the Target Lock buff as it should be easier to stay on target. You could also go with something like Firing Line for a more consistent buff or Destabilizing Rounds for a void build.",
+            "hash": 1975125963,
+            "name": "PVE",
+            "plugs": [
+                [
+                    839105230
+                ],
+                [
+                    1087426260
+                ],
+                [
+                    3400784728,
+                    573122728
+                ],
+                [
+                    365154968,
+                    2939589096
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "MW: Stability; The Qua Xaphan V is actually a great option for PvE, provided you can get the right perks to roll on it. Getting its recoil pattern under control with Arrowhead Brake is a great option, but really any barrel perk will get the job done. Appended Mag is absolutely the best choice for the magazine perk. Any masterwork is fine for this weapon, but Stability edges out the competition just to help this machine guns biggest weakness. This weapon gets the infamous Machine Gun Triple Tap/Target Lock combo. While no where near as powerful as Retrofit Escapade in its hay day, this weapons slower firing rate may help keep up the Target Lock buff as it should be easier to stay on target. You could also go with something like Firing Line for a more consistent buff or Destabilizing Rounds for a void build.",
+            "hash": 1975125963,
+            "name": "PVE",
+            "plugs": [
+                [
+                    3400784728,
+                    573122728
+                ],
+                [
+                    365154968,
+                    2939589096
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "MW: Range; Despite its inability to compete with top picks (especially 4-bursts), Smite of Merain has a couple of great perk combinations that are both potent and easy to use. We’ll begin with Hammer-Forged Rifling, Tactical Mag, and a Range masterwork to round out the weapon’s stat package. From there, two main ways to build this weapon up come to mind: either the always-extraordinary combination of Demolitionist and Adrenaline Junkie, or Smite of Merain’s unique ability to roll with two damage perks (Focused Fury and either One for All, Adrenaline Junkie, or Swashbuckler). As a whole, Smite of Merain is inarguably unique, but its diverse aspects simply don’t compare to recent competition. Unless you want something that only excels in high damage-per-shot, there are likely better options out there.",
+            "hash": 2221264583,
+            "name": "PVE",
+            "plugs": [
+                [
+                    3250034553
+                ],
+                [
+                    106909392
+                ],
+                [
+                    2896038713,
+                    2402480669
+                ],
+                [
+                    11612903,
+                    4049631843,
+                    2422968039,
+                    859780267,
+                    4082225868,
+                    1161469972
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "MW: Range; Despite its inability to compete with top picks (especially 4-bursts), Smite of Merain has a couple of great perk combinations that are both potent and easy to use. We’ll begin with Hammer-Forged Rifling, Tactical Mag, and a Range masterwork to round out the weapon’s stat package. From there, two main ways to build this weapon up come to mind: either the always-extraordinary combination of Demolitionist and Adrenaline Junkie, or Smite of Merain’s unique ability to roll with two damage perks (Focused Fury and either One for All, Adrenaline Junkie, or Swashbuckler). As a whole, Smite of Merain is inarguably unique, but its diverse aspects simply don’t compare to recent competition. Unless you want something that only excels in high damage-per-shot, there are likely better options out there.",
+            "hash": 2221264583,
+            "name": "PVE",
+            "plugs": [
+                [
+                    3250034553
+                ],
+                [
+                    106909392
+                ],
+                [
+                    3523296417,
+                    1906147653
+                ],
+                [
+                    11612903,
+                    2422968039
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "MW: Range; Despite its inability to compete with top picks (especially 4-bursts), Smite of Merain has a couple of great perk combinations that are both potent and easy to use. We’ll begin with Hammer-Forged Rifling, Tactical Mag, and a Range masterwork to round out the weapon’s stat package. From there, two main ways to build this weapon up come to mind: either the always-extraordinary combination of Demolitionist and Adrenaline Junkie, or Smite of Merain’s unique ability to roll with two damage perks (Focused Fury and either One for All, Adrenaline Junkie, or Swashbuckler). As a whole, Smite of Merain is inarguably unique, but its diverse aspects simply don’t compare to recent competition. Unless you want something that only excels in high damage-per-shot, there are likely better options out there.",
+            "hash": 2221264583,
+            "name": "PVE",
+            "plugs": [
+                [
+                    2896038713,
+                    2402480669
+                ],
+                [
+                    11612903,
+                    4049631843,
+                    2422968039,
+                    859780267,
+                    4082225868,
+                    1161469972
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "MW: Range; Despite its inability to compete with top picks (especially 4-bursts), Smite of Merain has a couple of great perk combinations that are both potent and easy to use. We’ll begin with Hammer-Forged Rifling, Tactical Mag, and a Range masterwork to round out the weapon’s stat package. From there, two main ways to build this weapon up come to mind: either the always-extraordinary combination of Demolitionist and Adrenaline Junkie, or Smite of Merain’s unique ability to roll with two damage perks (Focused Fury and either One for All, Adrenaline Junkie, or Swashbuckler). As a whole, Smite of Merain is inarguably unique, but its diverse aspects simply don’t compare to recent competition. Unless you want something that only excels in high damage-per-shot, there are likely better options out there.",
+            "hash": 2221264583,
+            "name": "PVE",
+            "plugs": [
+                [
+                    3523296417,
+                    1906147653
+                ],
+                [
+                    11612903,
+                    2422968039
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "MW: Handling; When building this weapon for PvE, you’ll want to start by prioritizing handling and reload speed; handling is useful during DPS rotations, while reload speed is vital due to the lack of an auto-reloading perk in Yasmin’s pool. As for main perks, Lead from Gold and Firing Line is the most common combination, and rightfully so. However, worth mentioning in the first column is Ensemble. Especially if you’re already getting Firing Line to trigger, Ensemble should work most of the time to grant extra reload speed. To top it all off, Runneth Over (the King’s Fall origin trait) has the same proc condition as both of these perks, allowing for an overflowed magazine as well.",
+            "hash": 3228096719,
+            "name": "PVE",
+            "plugs": [
+                [
+                    1840239774
+                ],
+                [
+                    106909392
+                ],
+                [
+                    1556840489,
+                    3442762221,
+                    2621346526,
+                    2495011826
+                ],
+                [
+                    1771339417,
+                    395388285
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "MW: Handling; When building this weapon for PvE, you’ll want to start by prioritizing handling and reload speed; handling is useful during DPS rotations, while reload speed is vital due to the lack of an auto-reloading perk in Yasmin’s pool. As for main perks, Lead from Gold and Firing Line is the most common combination, and rightfully so. However, worth mentioning in the first column is Ensemble. Especially if you’re already getting Firing Line to trigger, Ensemble should work most of the time to grant extra reload speed. To top it all off, Runneth Over (the King’s Fall origin trait) has the same proc condition as both of these perks, allowing for an overflowed magazine as well.",
+            "hash": 3228096719,
+            "name": "PVE",
+            "plugs": [
+                [
+                    1556840489,
+                    3442762221,
+                    2621346526,
+                    2495011826
+                ],
+                [
+                    1771339417,
+                    395388285
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "MW: Reload; As is typical in PvE, Doom of Chelchis’ barrel, magazine, and masterwork realistically don’t matter all that much here. We prefer choices that increase stability, handling, and reload speed, but anything works. For main perks, Explosive Payload and One for All is a simple yet potent combination. Vorpal Weapon is also surprisingly good in the first column, assuming you’re using this weapon in Grandmaster Nightfalls and other activities that contain champions. While Doom of Chelchis isn’t (and probably never will be) a meta pick, it excels to a relatively high level compared to other scout rifles.",
+            "hash": 1937552980,
+            "name": "PVE",
+            "plugs": [
+                [
+                    1482024992
+                ],
+                [
+                    3230963543
+                ],
+                [
+                    3038247973,
+                    64866129,
+                    1546637391,
+                    3418165135
+                ],
+                [
+                    4049631843,
+                    859780267
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "MW: Reload; As is typical in PvE, Doom of Chelchis’ barrel, magazine, and masterwork realistically don’t matter all that much here. We prefer choices that increase stability, handling, and reload speed, but anything works. For main perks, Explosive Payload and One for All is a simple yet potent combination. Vorpal Weapon is also surprisingly good in the first column, assuming you’re using this weapon in Grandmaster Nightfalls and other activities that contain champions. While Doom of Chelchis isn’t (and probably never will be) a meta pick, it excels to a relatively high level compared to other scout rifles.",
+            "hash": 1937552980,
+            "name": "PVE",
+            "plugs": [
+                [
+                    3038247973,
+                    64866129,
+                    1546637391,
+                    3418165135
+                ],
+                [
+                    4049631843,
+                    859780267
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "MW: Stability or Reload; Zaouli’s might hit like a truck, but it also kicks like a wild horse. To remedy that, it is wise to invest in stability as much as possible. Fluted Barrel might not give the most stability out of the barrels, but it also offers some handling as well, making swapping and aiming down sights that much quicker. Corkscrew is also a viable option, giving an even spread of buffs to range, stability, and handling. Flared Magwell is easily the best option for the magazine, buffing both reload speed and stability. Tactical Mag is also good for the buff-to-mag size, though it really isn’t needed. For your perks, the best pairing by far has been Explosive Payload and Incandescent. These two are no-frills, easy-to-use perks that improve damage and synergize further with Solar 3.0. If you want a more ability-focused build, Pugilist and Demolitionist will help out there. Pairing Pugilist with Incandescent allows scorch kills from the Area-of-Effect to grant melee energy, just as a tip.",
+            "hash": 431721920,
+            "name": "PVE",
+            "plugs": [
+                [
+                    1840239774,
+                    4090651448
+                ],
+                [
+                    3230963543
+                ],
+                [
+                    3038247973,
+                    64866129
+                ],
+                [
+                    4293542123,
+                    2675184851
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "MW: Stability or Reload; Zaouli’s might hit like a truck, but it also kicks like a wild horse. To remedy that, it is wise to invest in stability as much as possible. Fluted Barrel might not give the most stability out of the barrels, but it also offers some handling as well, making swapping and aiming down sights that much quicker. Corkscrew is also a viable option, giving an even spread of buffs to range, stability, and handling. Flared Magwell is easily the best option for the magazine, buffing both reload speed and stability. Tactical Mag is also good for the buff-to-mag size, though it really isn’t needed. For your perks, the best pairing by far has been Explosive Payload and Incandescent. These two are no-frills, easy-to-use perks that improve damage and synergize further with Solar 3.0. If you want a more ability-focused build, Pugilist and Demolitionist will help out there. Pairing Pugilist with Incandescent allows scorch kills from the Area-of-Effect to grant melee energy, just as a tip.",
+            "hash": 431721920,
+            "name": "PVE",
+            "plugs": [
+                [
+                    3038247973,
+                    64866129
+                ],
+                [
+                    4293542123,
+                    2675184851
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "MW: Stability or Reload; Zaouli’s might hit like a truck, but it also kicks like a wild horse. To remedy that, it is wise to invest in stability as much as possible. Fluted Barrel might not give the most stability out of the barrels, but it also offers some handling as well, making swapping and aiming down sights that much quicker. Corkscrew is also a viable option, giving an even spread of buffs to range, stability, and handling. Flared Magwell is easily the best option for the magazine, buffing both reload speed and stability. Tactical Mag is also good for the buff-to-mag size, though it really isn’t needed. For your perks, the best pairing by far has been Explosive Payload and Incandescent. These two are no-frills, easy-to-use perks that improve damage and synergize further with Solar 3.0. If you want a more ability-focused build, Pugilist and Demolitionist will help out there. Pairing Pugilist with Incandescent allows scorch kills from the Area-of-Effect to grant melee energy, just as a tip.",
+            "hash": 431721920,
+            "name": "PVE",
+            "plugs": [
+                [
+                    1840239774,
+                    4090651448
+                ],
+                [
+                    3230963543
+                ],
+                [
+                    691659142,
+                    536173722
+                ],
+                [
+                    3523296417,
+                    1906147653,
+                    4293542123,
+                    2675184851
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "MW: Stability or Reload; Zaouli’s might hit like a truck, but it also kicks like a wild horse. To remedy that, it is wise to invest in stability as much as possible. Fluted Barrel might not give the most stability out of the barrels, but it also offers some handling as well, making swapping and aiming down sights that much quicker. Corkscrew is also a viable option, giving an even spread of buffs to range, stability, and handling. Flared Magwell is easily the best option for the magazine, buffing both reload speed and stability. Tactical Mag is also good for the buff-to-mag size, though it really isn’t needed. For your perks, the best pairing by far has been Explosive Payload and Incandescent. These two are no-frills, easy-to-use perks that improve damage and synergize further with Solar 3.0. If you want a more ability-focused build, Pugilist and Demolitionist will help out there. Pairing Pugilist with Incandescent allows scorch kills from the Area-of-Effect to grant melee energy, just as a tip.",
+            "hash": 431721920,
+            "name": "PVE",
+            "plugs": [
+                [
+                    691659142,
+                    536173722
+                ],
+                [
+                    3523296417,
+                    1906147653,
+                    4293542123,
+                    2675184851
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "MW: Handling; For PvE, there are two ways you can build Qullim’s Terminus: either for raw damage or for Stasis buildcrafting. In the case of the former, Unrelenting and Killing Tally is your best bet. While Focused Fury and Firing Line are somewhat comparable in the second column (especially due to Qullim’s low magazine size, reducing the potency of Killing Tally), their damage buffs simply aren’t as strong. If you’re instead looking to build into the Stasis element, replacing Killing Tally with Headstone is the clear choice. While you’re bound to find better weapons for nearly any Stasis build in mind, Qullim’s is one of few Stasis machine guns if you’re looking for that specifically. Qullim’s perks aren’t too bad, but they also aren’t anything to write home about. Plus, the weapon’s high-impact frame once again automatically reduces its potency against fierce competition.",
+            "hash": 1321506184,
+            "name": "PVE",
+            "plugs": [
+                [
+                    1482024992
+                ],
+                [
+                    3230963543
+                ],
+                [
+                    3108830275,
+                    855168139
+                ],
+                [
+                    557221067,
+                    2896748467,
+                    124408337,
+                    1171887445
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "MW: Handling; For PvE, there are two ways you can build Qullim’s Terminus: either for raw damage or for Stasis buildcrafting. In the case of the former, Unrelenting and Killing Tally is your best bet. While Focused Fury and Firing Line are somewhat comparable in the second column (especially due to Qullim’s low magazine size, reducing the potency of Killing Tally), their damage buffs simply aren’t as strong. If you’re instead looking to build into the Stasis element, replacing Killing Tally with Headstone is the clear choice. While you’re bound to find better weapons for nearly any Stasis build in mind, Qullim’s is one of few Stasis machine guns if you’re looking for that specifically. Qullim’s perks aren’t too bad, but they also aren’t anything to write home about. Plus, the weapon’s high-impact frame once again automatically reduces its potency against fierce competition.",
+            "hash": 1321506184,
+            "name": "PVE",
+            "plugs": [
+                [
+                    3108830275,
+                    855168139
+                ],
+                [
+                    557221067,
+                    2896748467,
+                    124408337,
+                    1171887445
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "MW: Handling Pulses in PvE have seen highs and lows, but Blast Furnace might be able to break the mold they have been in for quite some time. Its amazing base stats means not much needs to be kicked up, but its handling is objectively sub-par, so we’ll use Fluted Barrel to kick it up a notch. Pair it with Flared Magwell for a reload speed buff, as well as a slight stability bump. For perk 1, it’s a “no contest” for Kinetic Tremors. Shoot to Loot, while nice to have, feels like a waste when a free damage perk is in the same slot. Since Blast Furnace fires 4 shots a burst, it’ll only take 3 bursts to activate it, as opposed to 4 on all others. Perk 2 has a lot of good in it, but it’s a toss-up between Desperate Measures and One-For-All. Desperate Measures requires a kill with the weapon or abilities to activate, whereas One-For-All doesn’t, and will also activate from Kinetic Tremors.",
+            "hash": 2533990645,
+            "name": "PVE",
+            "plugs": [
+                [
+                    1840239774
+                ],
+                [
+                    1087426260
+                ],
+                [
+                    3891536761,
+                    1549370717,
+                    3700496672,
+                    2840833776
+                ],
+                [
+                    2109543898,
+                    2799030358,
+                    4049631843,
+                    859780267
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "MW: Handling Pulses in PvE have seen highs and lows, but Blast Furnace might be able to break the mold they have been in for quite some time. Its amazing base stats means not much needs to be kicked up, but its handling is objectively sub-par, so we’ll use Fluted Barrel to kick it up a notch. Pair it with Flared Magwell for a reload speed buff, as well as a slight stability bump. For perk 1, it’s a “no contest” for Kinetic Tremors. Shoot to Loot, while nice to have, feels like a waste when a free damage perk is in the same slot. Since Blast Furnace fires 4 shots a burst, it’ll only take 3 bursts to activate it, as opposed to 4 on all others. Perk 2 has a lot of good in it, but it’s a toss-up between Desperate Measures and One-For-All. Desperate Measures requires a kill with the weapon or abilities to activate, whereas One-For-All doesn’t, and will also activate from Kinetic Tremors.",
+            "hash": 2533990645,
+            "name": "PVE",
+            "plugs": [
+                [
+                    3891536761,
+                    1549370717,
+                    3700496672,
+                    2840833776
+                ],
+                [
+                    2109543898,
+                    2799030358,
+                    4049631843,
+                    859780267
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "MW: Stability or Handling; 3v3; PvP is where Blast Furnace will shine. A base of 79 range and 64 stability puts it above all other pulses in its frame, with the only downside being the base 65 recoil, but that’s easily fixable with Arrowhead Break, which will put it to 95 before a Counterbalance Stock mods bumps it to 100. Accurized Rounds will provide a +10 to your range, which is perfect for fighting longer range weapons. Perk 1 has many good PvP perks that it’s hard to narrow them down, but Zen Moment or Headseeker are what most are going to look for. Zen Moment will keep your reticle on target throughout the duel, and Headseeker can help push the fight in your favor if you miss a crit or two. Perk 2 really only has Rapid-Hit for 3v3 modes, as all the others are kill based, but who’s going to say ‘no’ to even more stability?",
+            "hash": 2533990645,
+            "name": "PVP - 3v3",
+            "plugs": [
+                [
+                    839105230
+                ],
+                [
+                    3142289711
+                ],
+                [
+                    2387244414,
+                    1748774930,
+                    460017080,
+                    4045335048
+                ],
+                [
+                    247725512,
+                    2938480696
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "MW: Stability or Handling; 3v3; PvP is where Blast Furnace will shine. A base of 79 range and 64 stability puts it above all other pulses in its frame, with the only downside being the base 65 recoil, but that’s easily fixable with Arrowhead Break, which will put it to 95 before a Counterbalance Stock mods bumps it to 100. Accurized Rounds will provide a +10 to your range, which is perfect for fighting longer range weapons. Perk 1 has many good PvP perks that it’s hard to narrow them down, but Zen Moment or Headseeker are what most are going to look for. Zen Moment will keep your reticle on target throughout the duel, and Headseeker can help push the fight in your favor if you miss a crit or two. Perk 2 really only has Rapid-Hit for 3v3 modes, as all the others are kill based, but who’s going to say ‘no’ to even more stability?",
+            "hash": 2533990645,
+            "name": "PVP - 3v3",
+            "plugs": [
+                [
+                    2387244414,
+                    1748774930,
+                    460017080,
+                    4045335048
+                ],
+                [
+                    247725512,
+                    2938480696
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "MW: Stability or Handling; 6v6; In 6v6 modes, you’ll find a good place for Perpetual Motion given how they play. Perpetual Motion gives you free stability for simply moving around, which is quite common when so many people are on the field. For Perk 2, any of the kill-based perks will work best, but Kill Clip and Rampage will probably be the easiest to use. Desperate Measures gets an honorable mention, too.",
+            "hash": 2533990645,
+            "name": "PVP - 6v6",
+            "plugs": [
+                [
+                    839105230
+                ],
+                [
+                    3142289711
+                ],
+                [
+                    2387244414,
+                    1748774930,
+                    1428297954,
+                    2014892510
+                ],
+                [
+                    1015611457,
+                    3425386926,
+                    2923251173,
+                    288411554
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "MW: Stability or Handling; 6v6; In 6v6 modes, you’ll find a good place for Perpetual Motion given how they play. Perpetual Motion gives you free stability for simply moving around, which is quite common when so many people are on the field. For Perk 2, any of the kill-based perks will work best, but Kill Clip and Rampage will probably be the easiest to use. Desperate Measures gets an honorable mention, too.",
+            "hash": 2533990645,
+            "name": "PVP - 6v6",
+            "plugs": [
+                [
+                    2387244414,
+                    1748774930,
+                    1428297954,
+                    2014892510
+                ],
+                [
+                    1015611457,
+                    3425386926,
+                    2923251173,
+                    288411554
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "MW: Range; As a 450 RPM sidearm, Brigand’s Law works kind of like a mini-SMG. While sidearms aren’t ideal in serious content, for basic add clear Brigand’s Law is a lot of fun.There are just so many great perks on it that it’s hard to go wrong. Pugilist and Swashbuckler is a fantastic roll for a melee-focused build, since Brigand’s Law also gets a boost to range and target acquisition from its Origin Trait. Voltshot is an incredible perk for wiping out red bars, too. In addition to the perks I’ve listed, other combos that are worth playing around with are Threat Detector/Surrounded, Feeding Frenzy/Swashbuckler, and Pugilist/Demolitionist.",
+            "hash": 1298815317,
+            "name": "PVE - Melee",
+            "plugs": [
+                [
+                    1482024992,
+                    1840239774
+                ],
+                [
+                    3142289711
+                ],
+                [
+                    691659142,
+                    536173722
+                ],
+                [
+                    4082225868,
+                    1161469972
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "MW: Range; As a 450 RPM sidearm, Brigand’s Law works kind of like a mini-SMG. While sidearms aren’t ideal in serious content, for basic add clear Brigand’s Law is a lot of fun.There are just so many great perks on it that it’s hard to go wrong. Pugilist and Swashbuckler is a fantastic roll for a melee-focused build, since Brigand’s Law also gets a boost to range and target acquisition from its Origin Trait. Voltshot is an incredible perk for wiping out red bars, too. In addition to the perks I’ve listed, other combos that are worth playing around with are Threat Detector/Surrounded, Feeding Frenzy/Swashbuckler, and Pugilist/Demolitionist.",
+            "hash": 1298815317,
+            "name": "PVE - Melee",
+            "plugs": [
+                [
+                    691659142,
+                    536173722
+                ],
+                [
+                    4082225868,
+                    1161469972
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "MW: Range; As a 450 RPM sidearm, Brigand’s Law works kind of like a mini-SMG. While sidearms aren’t ideal in serious content, for basic add clear Brigand’s Law is a lot of fun.There are just so many great perks on it that it’s hard to go wrong. Pugilist and Swashbuckler is a fantastic roll for a melee-focused build, since Brigand’s Law also gets a boost to range and target acquisition from its Origin Trait. Voltshot is an incredible perk for wiping out red bars, too. In addition to the perks I’ve listed, other combos that are worth playing around with are Threat Detector/Surrounded, Feeding Frenzy/Swashbuckler, and Pugilist/Demolitionist.",
+            "hash": 1298815317,
+            "name": "PVE - Ads",
+            "plugs": [
+                [
+                    1482024992,
+                    1840239774
+                ],
+                [
+                    3142289711
+                ],
+                [
+                    4071163871,
+                    494941759
+                ],
+                [
+                    2173046394,
+                    1720528630
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "MW: Range; As a 450 RPM sidearm, Brigand’s Law works kind of like a mini-SMG. While sidearms aren’t ideal in serious content, for basic add clear Brigand’s Law is a lot of fun.There are just so many great perks on it that it’s hard to go wrong. Pugilist and Swashbuckler is a fantastic roll for a melee-focused build, since Brigand’s Law also gets a boost to range and target acquisition from its Origin Trait. Voltshot is an incredible perk for wiping out red bars, too. In addition to the perks I’ve listed, other combos that are worth playing around with are Threat Detector/Surrounded, Feeding Frenzy/Swashbuckler, and Pugilist/Demolitionist.",
+            "hash": 1298815317,
+            "name": "PVE - Ads",
+            "plugs": [
+                [
+                    4071163871,
+                    494941759
+                ],
+                [
+                    2173046394,
+                    1720528630
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "MW: Range;  This is a very strong shotgun for PvE. You gain a lot of benefits for just getting kills. The one drawback to this gun is you need to play close range and some enemies in PvE can Knock you back. If you find yourself getting knocked around a lot make sure to melee as soon as the enemy is done with their attack animation. The lunge you get will keep you in place. Consider using this strategy when using this weapon.",
+            "hash": 4287947559,
+            "name": "PVE",
+            "plugs": [
+                [
+                    4090651448
+                ],
+                [
+                    791862061
+                ],
+                [
+                    691659142,
+                    4071163871
+                ],
+                [
+                    2679249093
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "MW: Range;  This is a very strong shotgun for PvE. You gain a lot of benefits for just getting kills. The one drawback to this gun is you need to play close range and some enemies in PvE can Knock you back. If you find yourself getting knocked around a lot make sure to melee as soon as the enemy is done with their attack animation. The lunge you get will keep you in place. Consider using this strategy when using this weapon.",
+            "hash": 4287947559,
+            "name": "PVE",
+            "plugs": [
+                [
+                    691659142,
+                    4071163871
+                ],
+                [
+                    2679249093
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "MW: Charge; With its lackluster stats not limiting Nox Perennial V’s capabilities as much in a PvE environment, its strong suite of perks can shine far more than they can in PvP. The buff to Envious Assassin this season has made it a reliable route to consistently overflowed magazine capacity, and while Nox Perennial V can’t pair that with Reservoir Burst for maximum impact, it can pair it with the equally devastating Controlled Burst perk for high damage output in endgame content.",
+            "hash": 2767393525,
+            "name": "PVE",
+            "plugs": [
+                [
+                    1482024992
+                ],
+                [
+                    689005463
+                ],
+                [
+                    968510818,
+                    424370782
+                ],
+                [
+                    831391274,
+                    102912326,
+                    2594592626,
+                    2037312142
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "MW: Charge; With its lackluster stats not limiting Nox Perennial V’s capabilities as much in a PvE environment, its strong suite of perks can shine far more than they can in PvP. The buff to Envious Assassin this season has made it a reliable route to consistently overflowed magazine capacity, and while Nox Perennial V can’t pair that with Reservoir Burst for maximum impact, it can pair it with the equally devastating Controlled Burst perk for high damage output in endgame content.",
+            "hash": 2767393525,
+            "name": "PVE",
+            "plugs": [
+                [
+                    968510818,
+                    424370782
+                ],
+                [
+                    831391274,
+                    102912326,
+                    2594592626,
+                    2037312142
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "MW: Range; PvE is where Nation of Beasts will shine, especially while using an Arc-focused build. Enhancing its capabilities to take down waves of mobs with ease and packing a strong punch against tougher enemies is the focus of this god roll. Nation of Beasts has really strong Recoil control at base so Smallbore is the top choice here for its split across Stability and Range. Tactical Mag then adds extra ammo to the mag and boosts reload speed which benefits Voltshot due to needing the reload after a kill to get that perk rolling.  This weapon is the only one that can combine Dragonfly and Voltshot which is a deadly combination when dealing with the rank and file enemies in Destiny 2. Headshot kills give off a powerful Arc explosion, damaging or potentially vaporizing nearby enemies. Reloading after a kill then grants Voltshot: hitting your target will cause Jolt which primes it to release a powerful Arc discharge when killed. Picking this combination and pairing it with an Arc build that focuses on Ionic Traces to boost your abilities is a top-tier combination in the current sandbox. You can also switch out Voltshot for Golden Tricorn to give Nation of Beasts a damage booster which also feeds into your ability loop.",
+            "hash": 70083888,
+            "name": "PVE",
+            "plugs": [
+                [
+                    1482024992
+                ],
+                [
+                    106909392
+                ],
+                [
+                    2848615171,
+                    169755979
+                ],
+                [
+                    2173046394,
+                    1720528630
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "MW: Stability; Age-Old- Bond carries an exceptional base Range, giving you room to focus on boosting stats that keep it on target. Arrowhead Brake takes Recoil to max keeping shots as straight as possible and the added Handling making Age-Old Bond much snappier. Tactical Mag’s extra Stability and extra rounds in the magazine keep its hard-hitting rounds rolling and easy to stay on target at range. The key part of this god roll is the combination of Repulsor Brace and Destabilizing Rounds. This will bring out the most powerful side of Void all in one weapon. To start the loop, get a kill which gets Destabilizing Rounds rolling, and any enemy then caught in the radius will become Volatile. Defeating the Volatile targets then causes these enemies to explode and grants a potentially life-saving overshield. This setup is incredibly powerful when dealing with waves of mobs and works effectively in all levels of PvE content. Age-Old Bond’s god roll revolves around enhancing the strong capabilities of the Void subclasses. Some strong Exotics to pair up with this weapon would be Gyrfalcon’s Hauberk and Nezarec’s Sin, both getting great advantages from this combination.",
+            "hash": 424291879,
+            "name": "PVE",
+            "plugs": [
+                [
+                    839105230
+                ],
+                [
+                    106909392
+                ],
+                [
+                    776531651,
+                    2541826827
+                ],
+                [
+                    2048641572,
+                    1926441324
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "MW: Stability; Age-Old- Bond carries an exceptional base Range, giving you room to focus on boosting stats that keep it on target. Arrowhead Brake takes Recoil to max keeping shots as straight as possible and the added Handling making Age-Old Bond much snappier. Tactical Mag’s extra Stability and extra rounds in the magazine keep its hard-hitting rounds rolling and easy to stay on target at range. The key part of this god roll is the combination of Repulsor Brace and Destabilizing Rounds. This will bring out the most powerful side of Void all in one weapon. To start the loop, get a kill which gets Destabilizing Rounds rolling, and any enemy then caught in the radius will become Volatile. Defeating the Volatile targets then causes these enemies to explode and grants a potentially life-saving overshield. This setup is incredibly powerful when dealing with waves of mobs and works effectively in all levels of PvE content. Age-Old Bond’s god roll revolves around enhancing the strong capabilities of the Void subclasses. Some strong Exotics to pair up with this weapon would be Gyrfalcon’s Hauberk and Nezarec’s Sin, both getting great advantages from this combination.",
+            "hash": 424291879,
+            "name": "PVE",
+            "plugs": [
+                [
+                    776531651,
+                    2541826827
+                ],
+                [
+                    2048641572,
+                    1926441324
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "MW: Range; Chattering Bone has always been a decent choice for PvE when a kinetic pulse rifle was needed. The new version actually only improves its effectiveness. Lightweight frames are not very common, but this one is probably a better option than Battlescar as it is craftable. Chattering Bone’s biggest weakness is that Outbreak Perfected overshadows it if a kinetic pulse rifle is required.",
+            "hash": 501329015,
+            "name": "PVE",
+            "plugs": [
+                [
+                    839105230
+                ],
+                [
+                    3230963543
+                ],
+                [
+                    247725512,
+                    2938480696
+                ],
+                [
+                    3891536761,
+                    1549370717
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "MW: Range; Chattering Bone has always been a decent choice for PvE when a kinetic pulse rifle was needed. The new version actually only improves its effectiveness. Lightweight frames are not very common, but this one is probably a better option than Battlescar as it is craftable. Chattering Bone’s biggest weakness is that Outbreak Perfected overshadows it if a kinetic pulse rifle is required.",
+            "hash": 501329015,
+            "name": "PVE",
+            "plugs": [
+                [
+                    247725512,
+                    2938480696
+                ],
+                [
+                    3891536761,
+                    1549370717
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "MW: Range; Chattering Bone has always been a decent choice for PvE when a kinetic pulse rifle was needed. The new version actually only improves its effectiveness. Lightweight frames are not very common, but this one is probably a better option than Battlescar as it is craftable. Chattering Bone’s biggest weakness is that Outbreak Perfected overshadows it if a kinetic pulse rifle is required.",
+            "hash": 501329015,
+            "name": "PVP",
+            "plugs": [
+                [
+                    839105230
+                ],
+                [
+                    3142289711
+                ],
+                [
+                    1015611457,
+                    2923251173
+                ],
+                [
+                    3425386926,
+                    288411554
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "MW: Range; Chattering Bone has always been a decent choice for PvE when a kinetic pulse rifle was needed. The new version actually only improves its effectiveness. Lightweight frames are not very common, but this one is probably a better option than Battlescar as it is craftable. Chattering Bone’s biggest weakness is that Outbreak Perfected overshadows it if a kinetic pulse rifle is required.",
+            "hash": 501329015,
+            "name": "PVP",
+            "plugs": [
+                [
+                    1015611457,
+                    2923251173
+                ],
+                [
+                    3425386926,
+                    288411554
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "MW: Stability; This weapon is very strong, combined with the seasonal mod for Overload Scout rifles. Transfiguration is a great weapon to have since you can use it at long range, and this weapon does not require ammo pickups since it is a primary ammo weapon. If you happen to love scout rifles in PvE, then this will be your Go-To weapon.",
+            "hash": 3885259140,
+            "name": "PVE",
+            "plugs": [
+                [
+                    839105230
+                ],
+                [
+                    106909392
+                ],
+                [
+                    247725512,
+                    2938480696
+                ],
+                [
+                    3891536761,
+                    1549370717,
+                    3038247973,
+                    64866129
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "MW: Stability; This weapon is very strong, combined with the seasonal mod for Overload Scout rifles. Transfiguration is a great weapon to have since you can use it at long range, and this weapon does not require ammo pickups since it is a primary ammo weapon. If you happen to love scout rifles in PvE, then this will be your Go-To weapon.",
+            "hash": 3885259140,
+            "name": "PVE",
+            "plugs": [
+                [
+                    247725512,
+                    2938480696
+                ],
+                [
+                    3891536761,
+                    1549370717,
+                    3038247973,
+                    64866129
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "MW: Range; This weapon is an absolute monster in PvP. It is very rare for weapons to roll with 2 damage perks. Having a 150 rpm weapon will help you out gun all 120 rpm and 140 rpm hand cannons since range will not be a problem with this gun. You will beat them every time. This gun suffers from a low handling stat that can be fixed with armor mods to help improve aim down sights speed. Besides that, this gun is a solid weapon to pick for PvP.",
+            "hash": 3885259140,
+            "name": "PVP",
+            "plugs": [
+                [
+                    1482024992
+                ],
+                [
+                    3142289711
+                ],
+                [
+                    3425386926,
+                    288411554
+                ],
+                [
+                    1015611457,
+                    2923251173
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "MW: Range; This weapon is an absolute monster in PvP. It is very rare for weapons to roll with 2 damage perks. Having a 150 rpm weapon will help you out gun all 120 rpm and 140 rpm hand cannons since range will not be a problem with this gun. You will beat them every time. This gun suffers from a low handling stat that can be fixed with armor mods to help improve aim down sights speed. Besides that, this gun is a solid weapon to pick for PvP.",
+            "hash": 3885259140,
+            "name": "PVP",
+            "plugs": [
+                [
+                    3425386926,
+                    288411554
+                ],
+                [
+                    1015611457,
+                    2923251173
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "MW: Handling; We recommend Arrowhead Brake as the barrel due to its increased handling, which allows for fast swaps during damage, and the increase in recoil direction, which makes it easier to keep your shots where they need to go. Appended Magazine is also the best choice here due to its increased magazine size, which allows for a larger benefit from Rewind Rounds. Rewind Rounds is the clear winner for choice in the Perk 1 slot due to the lack of needing to reload, which allows you to keep your damage consistent throughout the phase.  Kinetic Tremors is recommended in the Perk 2 slot due to the extra burst of damage it provides and also how consistently it can be activated with its synergy with Rewind Rounds. Alternatively, Fourth Times The Charm can be used in the second column in situations where the ammo economy is a struggle.",
+            "hash": 2884596447,
+            "name": "PVE",
+            "plugs": [
+                [
+                    839105230
+                ],
+                [
+                    1087426260
+                ],
+                [
+                    3418782618,
+                    1563455254
+                ],
+                [
+                    3891536761,
+                    1354429876
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "MW: Handling; We recommend Arrowhead Brake as the barrel due to its increased handling, which allows for fast swaps during damage, and the increase in recoil direction, which makes it easier to keep your shots where they need to go. Appended Magazine is also the best choice here due to its increased magazine size, which allows for a larger benefit from Rewind Rounds. Rewind Rounds is the clear winner for choice in the Perk 1 slot due to the lack of needing to reload, which allows you to keep your damage consistent throughout the phase.  Kinetic Tremors is recommended in the Perk 2 slot due to the extra burst of damage it provides and also how consistently it can be activated with its synergy with Rewind Rounds. Alternatively, Fourth Times The Charm can be used in the second column in situations where the ammo economy is a struggle.",
+            "hash": 2884596447,
+            "name": "PVE",
+            "plugs": [
+                [
+                    3418782618,
+                    1563455254
+                ],
+                [
+                    3891536761,
+                    1354429876
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "MW: Range or Stability; The combinations that can be made on Techeun Force provide great build variety and power. This perk set ensures you get the most out of this Fusion Rifle in PVE. With this god roll all about landing the full burst of your fusion bolts, Arrowhead Brake comes in as the top choice with its recoil control helping each burst stay consistent. Ionized Battery grants two extra shots to the magazine which is an excellent combination to have with Rewind Rounds and Controlled Burst. Techeun Force is the first Fusion Rifle to have Rewind Rounds in its perk pool and it is a top-tier perk to roll on this weapon. Each hit counts towards Rewind Rounds meaning it does not have to be every bolt to get it to work. This means that if you consistently hit enemies, you can empty your Magazine and reserves without reloading this weapon. Round this off with Controlled Burst if you’re hitting chunkier enemies to increase the damage and decrease Charge Time. This effectively refills the magazine and consistently applies these buffs.",
+            "hash": 3591141932,
+            "name": "PVE",
+            "plugs": [
+                [
+                    839105230
+                ],
+                [
+                    1483536627
+                ],
+                [
+                    3418782618,
+                    1563455254
+                ],
+                [
+                    2594592626,
+                    2037312142
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "MW: Range or Stability; The combinations that can be made on Techeun Force provide great build variety and power. This perk set ensures you get the most out of this Fusion Rifle in PVE. With this god roll all about landing the full burst of your fusion bolts, Arrowhead Brake comes in as the top choice with its recoil control helping each burst stay consistent. Ionized Battery grants two extra shots to the magazine which is an excellent combination to have with Rewind Rounds and Controlled Burst. Techeun Force is the first Fusion Rifle to have Rewind Rounds in its perk pool and it is a top-tier perk to roll on this weapon. Each hit counts towards Rewind Rounds meaning it does not have to be every bolt to get it to work. This means that if you consistently hit enemies, you can empty your Magazine and reserves without reloading this weapon. Round this off with Controlled Burst if you’re hitting chunkier enemies to increase the damage and decrease Charge Time. This effectively refills the magazine and consistently applies these buffs.",
+            "hash": 3591141932,
+            "name": "PVE",
+            "plugs": [
+                [
+                    3418782618,
+                    1563455254
+                ],
+                [
+                    2594592626,
+                    2037312142
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "MW: Range; PvE is where Nation of Beasts will shine, especially while using an Arc-focused build. Enhancing its capabilities to take down waves of mobs with ease and packing a strong punch against tougher enemies is the focus of this god roll. Nation of Beasts has really strong Recoil control at base so Smallbore is the top choice here for its split across Stability and Range. Tactical Mag then adds extra ammo to the mag and boosts reload speed which benefits Voltshot due to needing the reload after a kill to get that perk rolling.  This weapon is the only one that can combine Dragonfly and Voltshot which is a deadly combination when dealing with the rank and file enemies in Destiny 2. Headshot kills give off a powerful Arc explosion, damaging or potentially vaporizing nearby enemies. Reloading after a kill then grants Voltshot: hitting your target will cause Jolt which primes it to release a powerful Arc discharge when killed. Picking this combination and pairing it with an Arc build that focuses on Ionic Traces to boost your abilities is a top-tier combination in the current sandbox. You can also switch out Voltshot for Golden Tricorn to give Nation of Beasts a damage booster which also feeds into your ability loop.",
+            "hash": 70083888,
+            "name": "PVE",
+            "plugs": [
+                [
+                    2848615171,
+                    169755979
+                ],
+                [
+                    2173046394,
+                    1720528630
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "MW: Range; Hand Cannons in general may not be seeing as much usage in the Crucible as previous years but with solid base stats, Nation of Beasts can certainly be transformed into a competitive choice for its slot and weapon type. In a meta that benefits close quarters combat, pushing the Range is the way to get the best out of this weapon. Hammer-Forged Rifling gives the Range a boost with no trade off and Accurized Rounds does the same, with both adding a hefty 20 points before getting into its meatier perks. Keep Away, one of the newest perks in Destiny 2, adds another Range increase but only if you stay at a distance which plays perfectly into this weapon's hand. Explosive Payload then rounds out this god roll by adding extra damage and extra flinch to opponents when landing hits.",
+            "hash": 70083888,
+            "name": "PVP",
+            "plugs": [
+                [
+                    3250034553
+                ],
+                [
+                    3142289711
+                ],
+                [
+                    3619207468,
+                    3198323828
+                ],
+                [
+                    3038247973,
+                    64866129
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "MW: Range; Hand Cannons in general may not be seeing as much usage in the Crucible as previous years but with solid base stats, Nation of Beasts can certainly be transformed into a competitive choice for its slot and weapon type. In a meta that benefits close quarters combat, pushing the Range is the way to get the best out of this weapon. Hammer-Forged Rifling gives the Range a boost with no trade off and Accurized Rounds does the same, with both adding a hefty 20 points before getting into its meatier perks. Keep Away, one of the newest perks in Destiny 2, adds another Range increase but only if you stay at a distance which plays perfectly into this weapon's hand. Explosive Payload then rounds out this god roll by adding extra damage and extra flinch to opponents when landing hits.",
+            "hash": 70083888,
+            "name": "PVP",
+            "plugs": [
+                [
+                    3619207468,
+                    3198323828
+                ],
+                [
+                    3038247973,
+                    64866129
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 3388655311,
+            "name": "PVE",
+            "plugs": [
+                [
+                    852209214
+                ],
+                [
+                    3827198035
+                ],
+                [
+                    2848615171,
+                    169755979
+                ],
+                [
+                    4293542123,
+                    2675184851
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 3388655311,
+            "name": "PVE",
+            "plugs": [
+                [
+                    2848615171,
+                    169755979
+                ],
+                [
+                    4293542123,
+                    2675184851
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "MW: Impact; For our blade, you will want Honed Edge to maximize damage output to major enemies and bosses. For our guard, we’ll want to pick Swordmaster’s Guard to sacrifice defense for increased damage. For our perks, we want Tireless Blade and Surrounded in perk columns 1 and 2, respectively. Tireless Blade will restore ammo upon every other sword kill, and Surrounded will maximize our damage output when enemies are in close proximity.  For now, there are better heavy weapon options for boss damage, but you may find this roll effective in intense crowd-control moments.",
+            "hash": 3668817296,
+            "name": "PVE",
+            "plugs": [
+                [
+                    2827049491
+                ],
+                [
+                    269888150
+                ],
+                [
+                    2590710093
+                ],
+                [
+                    3708227201
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "MW: Impact; For our blade, you will want Honed Edge to maximize damage output to major enemies and bosses. For our guard, we’ll want to pick Swordmaster’s Guard to sacrifice defense for increased damage. For our perks, we want Tireless Blade and Surrounded in perk columns 1 and 2, respectively. Tireless Blade will restore ammo upon every other sword kill, and Surrounded will maximize our damage output when enemies are in close proximity.  For now, there are better heavy weapon options for boss damage, but you may find this roll effective in intense crowd-control moments.",
+            "hash": 3668817296,
+            "name": "PVE",
+            "plugs": [
+                [
+                    2590710093
+                ],
+                [
+                    3708227201
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "MW: Range or Stability; While Igneous Hammer dominated the meta for a while, its reprised perk pool and the nerf to crit damage on 120 RPM Hand Cannons has slightly reduced its presence. However, that’s not to say it doesn’t have a place. One part of Igneous’ dominance was its range, and so we’ll be boosting that alongside stability to give us the upper edge. To that end, Smallbore or Hammer Forged Rifling are the best Barrel picks. Smallbore equally boosts Range and Stability by +7, and Hammer Forged Rifling gives you +10 to Range at the cost of no Stability boosts. For Magazine, Ricochet Rounds or High-Caliber Rounds are the only viable choices. Both increase Range by +5, but only Ricochet gives an extra +10 to Stability. Eye of The Storm, Moving Target, and Opening Shot can help with dueling. With Keep Away, Rangefinder, or Fragile Focus in Column 3, you have some very strong options to boost your range, and the tried and true Rapid-Hit stuck around to help with some stability boosts. For a reprised PvP weapon, this one did not miss the mark.",
+            "hash": 1973107014,
+            "name": "PVP",
+            "plugs": [
+                [
+                    3250034553,
+                    1482024992
+                ],
+                [
+                    1885400500,
+                    1561002382
+                ],
+                [
+                    3619207468
+                ],
+                [
+                    47981717,
+                    699525795
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "MW: Range or Stability; While Igneous Hammer dominated the meta for a while, its reprised perk pool and the nerf to crit damage on 120 RPM Hand Cannons has slightly reduced its presence. However, that’s not to say it doesn’t have a place. One part of Igneous’ dominance was its range, and so we’ll be boosting that alongside stability to give us the upper edge. To that end, Smallbore or Hammer Forged Rifling are the best Barrel picks. Smallbore equally boosts Range and Stability by +7, and Hammer Forged Rifling gives you +10 to Range at the cost of no Stability boosts. For Magazine, Ricochet Rounds or High-Caliber Rounds are the only viable choices. Both increase Range by +5, but only Ricochet gives an extra +10 to Stability. Eye of The Storm, Moving Target, and Opening Shot can help with dueling. With Keep Away, Rangefinder, or Fragile Focus in Column 3, you have some very strong options to boost your range, and the tried and true Rapid-Hit stuck around to help with some stability boosts. For a reprised PvP weapon, this one did not miss the mark.",
+            "hash": 1973107014,
+            "name": "PVP",
+            "plugs": [
+                [
+                    3619207468
+                ],
+                [
+                    47981717,
+                    699525795
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "MW: Reload or Handling; Thanks to the Hand Cannon buffs, Igneous Hammer is now a solid PvE option thanks to its high base damage and synergistic perks. However, it suffers in its slow reload speed and handling, which is what we are going to improve with the Barrel and Magazine. For that, Fluted Barrel and Flared Magwell is the go-to combo. Fluted Barrel ups your Handling, Flared Magwell ups your reload speed, and both give minor increases to Stability. You could opt for Appended Mag if you want a larger magazine with no reload speed penalty, but given that it’s only two more, the trade-off comes down to user preference. As mentioned earlier, Igneous Hammer can roll with very synergistic perks for Solar subclasses, specifically Heal Clip in Column 3 and Incandescent in Column 4. These perks dip into Solar’s subclass verbs of Cure and Scorch, respectively, and are even strong enough on their own to where you don’t need to use Solar in order to see benefits. If damage is the name of the game, then Golden Tricorn’s buff is sure to be the pick for you. While this one does require a Solar subclass, one cannot deny the raw power of a 50% damage buff to all targets. On certain builds, this could be an extremely viable option for even end-game content.",
+            "hash": 1973107014,
+            "name": "PVE",
+            "plugs": [
+                [
+                    1840239774,
+                    1482024992
+                ],
+                [
+                    1087426260,
+                    3230963543
+                ],
+                [
+                    3017780555,
+                    247725512
+                ],
+                [
+                    4293542123
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "MW: Reload or Handling; Thanks to the Hand Cannon buffs, Igneous Hammer is now a solid PvE option thanks to its high base damage and synergistic perks. However, it suffers in its slow reload speed and handling, which is what we are going to improve with the Barrel and Magazine. For that, Fluted Barrel and Flared Magwell is the go-to combo. Fluted Barrel ups your Handling, Flared Magwell ups your reload speed, and both give minor increases to Stability. You could opt for Appended Mag if you want a larger magazine with no reload speed penalty, but given that it’s only two more, the trade-off comes down to user preference. As mentioned earlier, Igneous Hammer can roll with very synergistic perks for Solar subclasses, specifically Heal Clip in Column 3 and Incandescent in Column 4. These perks dip into Solar’s subclass verbs of Cure and Scorch, respectively, and are even strong enough on their own to where you don’t need to use Solar in order to see benefits. If damage is the name of the game, then Golden Tricorn’s buff is sure to be the pick for you. While this one does require a Solar subclass, one cannot deny the raw power of a 50% damage buff to all targets. On certain builds, this could be an extremely viable option for even end-game content.",
+            "hash": 1973107014,
+            "name": "PVE",
+            "plugs": [
+                [
+                    3017780555,
+                    247725512
+                ],
+                [
+                    4293542123
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
         }
     ]
 }
