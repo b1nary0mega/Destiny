@@ -2362,6 +2362,42 @@ dimwishlist:item=1937552980&perks=3418165135,4049631843
 dimwishlist:item=1937552980&perks=3418165135,859780267
 
 
+// Igneous Hammer - PVP (god-pvp)
+//notes: MW: Range or Stability; While Igneous Hammer dominated the meta for a while, its reprised perk pool and the nerf to crit damage on 120 RPM Hand Cannons has slightly reduced its presence. However, that’s not to say it doesn’t have a place. One part of Igneous’ dominance was its range, and so we’ll be boosting that alongside stability to give us the upper edge. To that end, Smallbore or Hammer Forged Rifling are the best Barrel picks. Smallbore equally boosts Range and Stability by +7, and Hammer Forged Rifling gives you +10 to Range at the cost of no Stability boosts. For Magazine, Ricochet Rounds or High-Caliber Rounds are the only viable choices. Both increase Range by +5, but only Ricochet gives an extra +10 to Stability. Eye of The Storm, Moving Target, and Opening Shot can help with dueling. With Keep Away, Rangefinder, or Fragile Focus in Column 3, you have some very strong options to boost your range, and the tried and true Rapid-Hit stuck around to help with some stability boosts. For a reprised PvP weapon, this one did not miss the mark. tags:god-pvp
+dimwishlist:item=1973107014&perks=3250034553,1885400500,3619207468,47981717
+dimwishlist:item=1973107014&perks=3250034553,1885400500,3619207468,699525795
+dimwishlist:item=1973107014&perks=3250034553,1561002382,3619207468,47981717
+dimwishlist:item=1973107014&perks=3250034553,1561002382,3619207468,699525795
+dimwishlist:item=1973107014&perks=1482024992,1885400500,3619207468,47981717
+dimwishlist:item=1973107014&perks=1482024992,1885400500,3619207468,699525795
+dimwishlist:item=1973107014&perks=1482024992,1561002382,3619207468,47981717
+dimwishlist:item=1973107014&perks=1482024992,1561002382,3619207468,699525795
+
+
+// Igneous Hammer - PVE (god-pve)
+//notes: MW: Reload or Handling; Thanks to the Hand Cannon buffs, Igneous Hammer is now a solid PvE option thanks to its high base damage and synergistic perks. However, it suffers in its slow reload speed and handling, which is what we are going to improve with the Barrel and Magazine. For that, Fluted Barrel and Flared Magwell is the go-to combo. Fluted Barrel ups your Handling, Flared Magwell ups your reload speed, and both give minor increases to Stability. You could opt for Appended Mag if you want a larger magazine with no reload speed penalty, but given that it’s only two more, the trade-off comes down to user preference. As mentioned earlier, Igneous Hammer can roll with very synergistic perks for Solar subclasses, specifically Heal Clip in Column 3 and Incandescent in Column 4. These perks dip into Solar’s subclass verbs of Cure and Scorch, respectively, and are even strong enough on their own to where you don’t need to use Solar in order to see benefits. If damage is the name of the game, then Golden Tricorn’s buff is sure to be the pick for you. While this one does require a Solar subclass, one cannot deny the raw power of a 50% damage buff to all targets. On certain builds, this could be an extremely viable option for even end-game content. tags:god-pve
+dimwishlist:item=1973107014&perks=1840239774,1087426260,3017780555,4293542123
+dimwishlist:item=1973107014&perks=1840239774,1087426260,247725512,4293542123
+dimwishlist:item=1973107014&perks=1840239774,3230963543,3017780555,4293542123
+dimwishlist:item=1973107014&perks=1840239774,3230963543,247725512,4293542123
+dimwishlist:item=1973107014&perks=1482024992,1087426260,3017780555,4293542123
+dimwishlist:item=1973107014&perks=1482024992,1087426260,247725512,4293542123
+dimwishlist:item=1973107014&perks=1482024992,3230963543,3017780555,4293542123
+dimwishlist:item=1973107014&perks=1482024992,3230963543,247725512,4293542123
+
+
+// Igneous Hammer - PVP (pvp)
+//notes: MW: Range or Stability; While Igneous Hammer dominated the meta for a while, its reprised perk pool and the nerf to crit damage on 120 RPM Hand Cannons has slightly reduced its presence. However, that’s not to say it doesn’t have a place. One part of Igneous’ dominance was its range, and so we’ll be boosting that alongside stability to give us the upper edge. To that end, Smallbore or Hammer Forged Rifling are the best Barrel picks. Smallbore equally boosts Range and Stability by +7, and Hammer Forged Rifling gives you +10 to Range at the cost of no Stability boosts. For Magazine, Ricochet Rounds or High-Caliber Rounds are the only viable choices. Both increase Range by +5, but only Ricochet gives an extra +10 to Stability. Eye of The Storm, Moving Target, and Opening Shot can help with dueling. With Keep Away, Rangefinder, or Fragile Focus in Column 3, you have some very strong options to boost your range, and the tried and true Rapid-Hit stuck around to help with some stability boosts. For a reprised PvP weapon, this one did not miss the mark. tags:pvp
+dimwishlist:item=1973107014&perks=3619207468,47981717
+dimwishlist:item=1973107014&perks=3619207468,699525795
+
+
+// Igneous Hammer - PVE (pve)
+//notes: MW: Reload or Handling; Thanks to the Hand Cannon buffs, Igneous Hammer is now a solid PvE option thanks to its high base damage and synergistic perks. However, it suffers in its slow reload speed and handling, which is what we are going to improve with the Barrel and Magazine. For that, Fluted Barrel and Flared Magwell is the go-to combo. Fluted Barrel ups your Handling, Flared Magwell ups your reload speed, and both give minor increases to Stability. You could opt for Appended Mag if you want a larger magazine with no reload speed penalty, but given that it’s only two more, the trade-off comes down to user preference. As mentioned earlier, Igneous Hammer can roll with very synergistic perks for Solar subclasses, specifically Heal Clip in Column 3 and Incandescent in Column 4. These perks dip into Solar’s subclass verbs of Cure and Scorch, respectively, and are even strong enough on their own to where you don’t need to use Solar in order to see benefits. If damage is the name of the game, then Golden Tricorn’s buff is sure to be the pick for you. While this one does require a Solar subclass, one cannot deny the raw power of a 50% damage buff to all targets. On certain builds, this could be an extremely viable option for even end-game content. tags:pve
+dimwishlist:item=1973107014&perks=3017780555,4293542123
+dimwishlist:item=1973107014&perks=247725512,4293542123
+
+
 // Qua Xaphan V - PVE (god-pve)
 //notes: MW: Stability; The Qua Xaphan V is actually a great option for PvE, provided you can get the right perks to roll on it. Getting its recoil pattern under control with Arrowhead Brake is a great option, but really any barrel perk will get the job done. Appended Mag is absolutely the best choice for the magazine perk. Any masterwork is fine for this weapon, but Stability edges out the competition just to help this machine guns biggest weakness. This weapon gets the infamous Machine Gun Triple Tap/Target Lock combo. While no where near as powerful as Retrofit Escapade in its hay day, this weapons slower firing rate may help keep up the Target Lock buff as it should be easier to stay on target. You could also go with something like Firing Line for a more consistent buff or Destabilizing Rounds for a void build. tags:god-pve
 dimwishlist:item=1975125963&perks=839105230,1087426260,3400784728,365154968
