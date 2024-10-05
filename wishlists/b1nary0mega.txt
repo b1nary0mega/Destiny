@@ -67,6 +67,14 @@ dimwishlist:item=42874240&perks=906981559,2675184851
 dimwishlist:item=46524085&perks=
 
 
+// Ancient Gospel - PVE (pve)
+//notes: tags:pve
+dimwishlist:item=48643186&perks=1168162263,2848615171
+dimwishlist:item=48643186&perks=1168162263,1015611457
+dimwishlist:item=48643186&perks=247725512,2848615171
+dimwishlist:item=48643186&perks=247725512,1015611457
+
+
 // Nation of Beasts - PVE (god-pve)
 //notes: MW: Range; PvE is where Nation of Beasts will shine, especially while using an Arc-focused build. Enhancing its capabilities to take down waves of mobs with ease and packing a strong punch against tougher enemies is the focus of this god roll. Nation of Beasts has really strong Recoil control at base so Smallbore is the top choice here for its split across Stability and Range. Tactical Mag then adds extra ammo to the mag and boosts reload speed which benefits Voltshot due to needing the reload after a kill to get that perk rolling.  This weapon is the only one that can combine Dragonfly and Voltshot which is a deadly combination when dealing with the rank and file enemies in Destiny 2. Headshot kills give off a powerful Arc explosion, damaging or potentially vaporizing nearby enemies. Reloading after a kill then grants Voltshot: hitting your target will cause Jolt which primes it to release a powerful Arc discharge when killed. Picking this combination and pairing it with an Arc build that focuses on Ionic Traces to boost your abilities is a top-tier combination in the current sandbox. You can also switch out Voltshot for Golden Tricorn to give Nation of Beasts a damage booster which also feeds into your ability loop. tags:god-pve
 dimwishlist:item=70083888&perks=1482024992,106909392,2848615171,2173046394
@@ -2680,6 +2688,11 @@ dimwishlist:item=2198166292&perks=4223976499,438098033
 dimwishlist:item=2198166292&perks=4223976499,2748801589
 
 
+// Zealot's Reward - PVE (pve)
+//notes: tags:pve
+dimwishlist:item=2209003210&perks=1645158859,2213355989
+
+
 // Smite of Merain - PVE (god-pve)
 //notes: MW: Range; Despite its inability to compete with top picks (especially 4-bursts), Smite of Merain has a couple of great perk combinations that are both potent and easy to use. We’ll begin with Hammer-Forged Rifling, Tactical Mag, and a Range masterwork to round out the weapon’s stat package. From there, two main ways to build this weapon up come to mind: either the always-extraordinary combination of Demolitionist and Adrenaline Junkie, or Smite of Merain’s unique ability to roll with two damage perks (Focused Fury and either One for All, Adrenaline Junkie, or Swashbuckler). As a whole, Smite of Merain is inarguably unique, but its diverse aspects simply don’t compare to recent competition. Unless you want something that only excels in high damage-per-shot, there are likely better options out there. tags:god-pve
 dimwishlist:item=2221264583&perks=3250034553,106909392,2896038713,11612903
@@ -3229,6 +3242,12 @@ dimwishlist:item=2372514509&perks=3198323828,3047969693
 dimwishlist:item=2372514509&perks=3198323828,624891305
 dimwishlist:item=2372514509&perks=3198323828,1015611457
 dimwishlist:item=2372514509&perks=3198323828,2923251173
+
+
+// Sacred Provenance - PVP (pvp)
+//notes: tags:pvp
+dimwishlist:item=2408405461&perks=247725512,1015611457
+dimwishlist:item=2408405461&perks=1168162263,1015611457
 
 
 // Line in the Sand - PVE (god-pve)
@@ -4562,6 +4581,11 @@ dimwishlist:item=3381450498&perks=2859149211,2173046394
 dimwishlist:item=3381450498&perks=951095735,2173046394
 
 
+// Reckless Oracle - PVP (pvp)
+//notes: tags:pvp
+dimwishlist:item=3385326721&perks=1645158859,1015611457
+
+
 // Tyranny of Heaven - PVE (god-pve)
 //notes: tags:god-pve
 dimwishlist:item=3388655311&perks=852209214,3827198035,2848615171,4293542123
@@ -4576,6 +4600,11 @@ dimwishlist:item=3388655311&perks=2848615171,4293542123
 dimwishlist:item=3388655311&perks=2848615171,2675184851
 dimwishlist:item=3388655311&perks=169755979,4293542123
 dimwishlist:item=3388655311&perks=169755979,2675184851
+
+
+// Omniscient Eye - PVE (pve)
+//notes: tags:pve
+dimwishlist:item=3454326177&perks=2866798147,957782887
 
 
 // The Lament - PVE (god-pve)
@@ -5424,6 +5453,12 @@ dimwishlist:item=3998080529&perks=2717805783,2923251173
 dimwishlist:item=3998080529&perks=2717805783,332733060
 
 
+// Prophet of Doom - PVE (pve)
+//notes: tags:pve
+dimwishlist:item=4020742303&perks=2779035018,2679249093
+dimwishlist:item=4020742303&perks=2039302152,2679249093
+
+
 // Hezen Vengeance - PVE (god-pve)
 //notes: MW: Handling; DPS;  tags:god-pve
 dimwishlist:item=4050645223&perks=981914802,3796465595,3643424744,1275731761
@@ -5445,6 +5480,16 @@ dimwishlist:item=4050645223&perks=3643424744,1546637391
 // Monte Carlo - Good (god-pve,pve)
 //notes: Absolute necessity for Titan melee build, specifically BoW. tags:god-pve,pve
 dimwishlist:item=4068264807&perks=1840239774,1561002382,2814973067,3465198467
+
+
+// Accrued Redemption - PVE (pve)
+//notes: tags:pve
+dimwishlist:item=4095896073&perks=201365942,3425386926
+
+
+// Divinity - Exotic (pve,pvp)
+//notes: Garden of Salvation Exotic tags:pve,pvp
+dimwishlist:item=4103414242&perks=1392496348,3868766766,1185480639,3465198467
 
 
 // Crowning Duologue - PVE (god-pve)
