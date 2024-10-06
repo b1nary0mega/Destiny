@@ -1815,19 +1815,19 @@ dimwishlist:item=1606497639&perks=3525010810,2822142346,968510818,2048641572
 dimwishlist:item=1606497639&perks=968510818,2048641572
 
 
-// Ergo Sum - PVE DPS (god-pve,pve)
-//notes: Element: Void; Exotic Trait: Wolfpack Rounds; Jagged Edge is almost always perfect for Swords as it boosts our Sword damage, and Swordmaster’s Guard is best for Heavy Attack recharge rate. A Lightweight Frame is also good here, as it deals the highest base level of DPS. Making sure we have a Void element to match with Falling Guillotine is important, and Wolfpack Rounds is a must so we can boost everyone’s Sword damage. tags:god-pve,pve
-dimwishlist:item=1681583613&perks=3666208348,269888150,2753228730
+// Ergo Sum - PVE - DPS & Teamplay (god-pve)
+//notes: Looking for Void with Wolfpack Rounds. Jagged Edge is almost always perfect for Swords as it boosts our Sword damage, and Swordmaster’s Guard is best for Heavy Attack recharge rate. A Lightweight Frame is also good here, as it deals the highest base level of DPS. Making sure we have a Void element to match with Falling Guillotine is important, and Wolfpack Rounds is a must so we can boost everyone’s Sword damage. tags:god-pve
+dimwishlist:item=1681583613&perks=3666208348,269888150,2753228730,2963428707
 
 
-// Ergo Sum - PVE Solo (god-pve,pve)
-//notes: Element: Solar; Exotic Trait: The Perfect Fifth; Jagged Edge is almost always perfect for Swords as it boosts our Sword damage, and Swordmaster’s Guard is best for Heavy Attack recharge rate. A Lightweight Frame is also good here, as it deals the highest base level of DPS. Making sure we have a Void element to match with Falling Guillotine is important, and Wolfpack Rounds is a must so we can boost everyone’s Sword damage. tags:god-pve,pve
-dimwishlist:item=1681583613&perks=3666208348,269888150,519046634
+// Ergo Sum - PVE - Ad Clear & Solo (god-pve)
+//notes: Looking for Solar with The Perfect Fifth. Again, Jagged Edge is important for the damage bonus it provides, and Swordmaster’s Guard is the best pick for increased powered heavy attack uptime. This roll is for if you actually want to deal damage with the Ergo Sum itself. While the Pack Hunter roll is great for supporting, Ergo Sum can deal outrageous damage thanks to the Transcendent Duelist perk. With the 51% damage bonus from this perk, alongside The Perfect Fifth, Ergo Sum can easily keep up with perfectly rolled Heavy Swords. tags:god-pve
+dimwishlist:item=1681583613&perks=3666208348,269888150,519046634,2963428707
 
 
-// Ergo Sum - PVP (god-pvp,pvp)
-//notes: Ergo Sum in PvP is rather niche, but it definitely has its moments where it can shine. Wave Sword Element: Arc; Exotic Trait: Arc Conductor; Frame is a must here as it can almost guarantee two kills with one special ammo if you land the Wave. This allows you to then rapidly swing onto another nearby enemy, even if you have no ammo. While this combo is deadly, it’s important to remember that you are very vulnerable while wielding a Sword, and players can keep their distance from you, so try to use cover and bait targets. tags:god-pvp,pvp
-dimwishlist:item=1681583613&perks=436053704,269888150,289811733
+// Ergo Sum - PVE - Dance Machine Build (god-pve)
+//notes: Looking for Arc with Arc Conductor. https://dim.gg/tqxb3gy/Ergo-Dance from https://www.youtube.com/watch?v=dj-r-zzxAbs tags:god-pve
+dimwishlist:item=1681583613&perks=1261178282,269888150,519046634,2963428707
 
 
 // Crux Termination IV - PVE (god-pve)
