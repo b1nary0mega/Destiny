@@ -4903,6 +4903,54 @@ dimwishlist:item=3612338554&perks=2717805783,957782887
 dimwishlist:item=3612338554&perks=2717805783,4116820839
 
 
+// Suspectum-4fr - PVE (god-pve)
+//notes: MW: Charge; Since the main idea here is to use this as a utility weapon against champs, having a quick swap time is very important. To that end, we’ll be using Fluted Barrel for its +15 Handling, but if you want to use this as a backup DPS weapon, Polygonal Rifling will help keep shots on target. Same mindset goes for the magazine: Accelerated Coils for utility, Ionized Battery for damage since you’re likely not going to need a reload. As for the perks, Envious and Headstone are undeniably the best for Perk 1. Envious will let us take greater advantage of Chill Clip, and Headstone can help clear some chaff around the larger targets. Perk 2 has a slightly larger pool of “useful” perks, but Chill Clip is just too good to pass up. Being able to directly stun two out of three champions means freeing up those slots for whatever else you please, and when paired with Envious, you’ll never have to worry about reloading to reactivate the perk. And did I mention it comes with Viest Stinger? tags:god-pve
+dimwishlist:item=3615421669&perks=1840239774,689005463,968510818,2978966579
+dimwishlist:item=3615421669&perks=1840239774,689005463,968510818,344235611
+dimwishlist:item=3615421669&perks=1840239774,689005463,124408337,2978966579
+dimwishlist:item=3615421669&perks=1840239774,689005463,124408337,344235611
+dimwishlist:item=3615421669&perks=1840239774,689005463,424370782,2978966579
+dimwishlist:item=3615421669&perks=1840239774,689005463,424370782,344235611
+dimwishlist:item=3615421669&perks=1840239774,689005463,1171887445,2978966579
+dimwishlist:item=3615421669&perks=1840239774,689005463,1171887445,344235611
+dimwishlist:item=3615421669&perks=1840239774,1483536627,968510818,2978966579
+dimwishlist:item=3615421669&perks=1840239774,1483536627,968510818,344235611
+dimwishlist:item=3615421669&perks=1840239774,1483536627,124408337,2978966579
+dimwishlist:item=3615421669&perks=1840239774,1483536627,124408337,344235611
+dimwishlist:item=3615421669&perks=1840239774,1483536627,424370782,2978966579
+dimwishlist:item=3615421669&perks=1840239774,1483536627,424370782,344235611
+dimwishlist:item=3615421669&perks=1840239774,1483536627,1171887445,2978966579
+dimwishlist:item=3615421669&perks=1840239774,1483536627,1171887445,344235611
+dimwishlist:item=3615421669&perks=1392496348,689005463,968510818,2978966579
+dimwishlist:item=3615421669&perks=1392496348,689005463,968510818,344235611
+dimwishlist:item=3615421669&perks=1392496348,689005463,124408337,2978966579
+dimwishlist:item=3615421669&perks=1392496348,689005463,124408337,344235611
+dimwishlist:item=3615421669&perks=1392496348,689005463,424370782,2978966579
+dimwishlist:item=3615421669&perks=1392496348,689005463,424370782,344235611
+dimwishlist:item=3615421669&perks=1392496348,689005463,1171887445,2978966579
+dimwishlist:item=3615421669&perks=1392496348,689005463,1171887445,344235611
+dimwishlist:item=3615421669&perks=1392496348,1483536627,968510818,2978966579
+dimwishlist:item=3615421669&perks=1392496348,1483536627,968510818,344235611
+dimwishlist:item=3615421669&perks=1392496348,1483536627,124408337,2978966579
+dimwishlist:item=3615421669&perks=1392496348,1483536627,124408337,344235611
+dimwishlist:item=3615421669&perks=1392496348,1483536627,424370782,2978966579
+dimwishlist:item=3615421669&perks=1392496348,1483536627,424370782,344235611
+dimwishlist:item=3615421669&perks=1392496348,1483536627,1171887445,2978966579
+dimwishlist:item=3615421669&perks=1392496348,1483536627,1171887445,344235611
+
+
+// Suspectum-4fr - PVE (pve)
+//notes: MW: Charge; Since the main idea here is to use this as a utility weapon against champs, having a quick swap time is very important. To that end, we’ll be using Fluted Barrel for its +15 Handling, but if you want to use this as a backup DPS weapon, Polygonal Rifling will help keep shots on target. Same mindset goes for the magazine: Accelerated Coils for utility, Ionized Battery for damage since you’re likely not going to need a reload. As for the perks, Envious and Headstone are undeniably the best for Perk 1. Envious will let us take greater advantage of Chill Clip, and Headstone can help clear some chaff around the larger targets. Perk 2 has a slightly larger pool of “useful” perks, but Chill Clip is just too good to pass up. Being able to directly stun two out of three champions means freeing up those slots for whatever else you please, and when paired with Envious, you’ll never have to worry about reloading to reactivate the perk. And did I mention it comes with Viest Stinger? tags:pve
+dimwishlist:item=3615421669&perks=968510818,2978966579
+dimwishlist:item=3615421669&perks=968510818,344235611
+dimwishlist:item=3615421669&perks=124408337,2978966579
+dimwishlist:item=3615421669&perks=124408337,344235611
+dimwishlist:item=3615421669&perks=424370782,2978966579
+dimwishlist:item=3615421669&perks=424370782,344235611
+dimwishlist:item=3615421669&perks=1171887445,2978966579
+dimwishlist:item=3615421669&perks=1171887445,344235611
+
+
 // Graviton Lance - Good (god-pve)
 //notes: tags:god-pve
 dimwishlist:item=3628991658&perks=3250034553,3142289711,320534106,4259401308
