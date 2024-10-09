@@ -331,6 +331,14 @@ dimwishlist:item=412251536&perks=3920370755,2939589096
 dimwishlist:item=412251536&perks=3920370755,2675184851
 
 
+// Insurmountable - PVE (pve)
+//notes: tags:pve
+dimwishlist:item=414045521&perks=776531651,2048641572
+dimwishlist:item=414045521&perks=776531651,1926441324
+dimwishlist:item=414045521&perks=2541826827,2048641572
+dimwishlist:item=414045521&perks=2541826827,1926441324
+
+
 // Controlling Vision - PVE (god-pve)
 //notes: MW: Handling; Controlling Vision is considered a well-rounded sidearm with reliable and sturdy handling. It has a good perk pool, including Rampage, which can increase damage after each kill, making it a viable option in PvE activities. tags:god-pve
 dimwishlist:item=423343404&perks=839105230,1431678320,1195158366,3708227201
@@ -1021,6 +1029,19 @@ dimwishlist:item=821154603&perks=1820235745,3425386926
 //notes: Tier S; Gnawing Hunger has had an incredible run since it was first introduced, and remains one of the most popular auto rifles for good reason. Incredible perks with impressive stability at 600 RPM, this is one of the best weapons in the game. tags:pvp,god-pvp
 dimwishlist:item=821154603&perks=1890422124,3425386926
 dimwishlist:item=821154603&perks=1890422124,1015611457
+
+
+// Noxious Vetiver - PVE (pve)
+//notes: tags:pve
+dimwishlist:item=825495813&perks=691659142,3966416502
+dimwishlist:item=825495813&perks=691659142,717070634
+dimwishlist:item=825495813&perks=536173722,3966416502
+dimwishlist:item=825495813&perks=536173722,717070634
+
+
+// Noxious Vetiver ()
+//notes: Could work with Arc Melee build.
+dimwishlist:item=825495813&perks=
 
 
 // Cold Comfort - PVE (god-pve)
@@ -2502,6 +2523,19 @@ dimwishlist:item=2126178511&perks=2002547233,699525795
 dimwishlist:item=2126178511&perks=2002547233,3719974635
 
 
+// Sojourner's Tale - PVE (pve)
+//notes: tags:pve
+dimwishlist:item=2130875369&perks=3017780555,4293542123
+dimwishlist:item=2130875369&perks=3017780555,2675184851
+dimwishlist:item=2130875369&perks=4223976499,4293542123
+dimwishlist:item=2130875369&perks=4223976499,2675184851
+
+
+// Sojourner's Tale - PVE-2 (pve)
+//notes: tags:pve
+dimwishlist:item=2130875369&perks=3300816228,555281244
+
+
 // Warden's Law - PVE (god-pve)
 //notes: MW: Reload; Because Warden’s Law lacks an elemental damage type, it’s immediately outclassed by numerous other options. That is, except for one special case: pairing the weapon with Lucky Pants. 
 For Hunters, using a Warden’s Law with Fourth Time’s the Charm and Vorpal Weapon with Lucky Pants allows the weapon to do some significant damage for a primary weapon. While dealing optimal damage with this setup requires you to rotate between heavy (and sometimes special) ammo weapons as well, it’s easily the main draw to Warden’s Law in high-end PvE. If you’re instead looking to run this weapon casually, Perpetual Motion or Fourth Time’s the Charm with Frenzy is your best bet. tags:god-pve
@@ -3631,6 +3665,43 @@ dimwishlist:item=2591257541&perks=3418782618,781192741
 dimwishlist:item=2591746970&perks=265542500,3429800428,2399646028
 
 
+// Chroma Rush - PVE-1 (pve)
+//notes: tags:pve
+dimwishlist:item=2598420927&perks=1820235745,3425386926
+dimwishlist:item=2598420927&perks=1820235745,288411554
+dimwishlist:item=2598420927&perks=4245865861,3425386926
+dimwishlist:item=2598420927&perks=4245865861,288411554
+
+
+// Chroma Rush - PVE-2 (pve)
+//notes: tags:pve
+dimwishlist:item=2598420927&perks=1359896290,365154968
+
+
+// Liturgy - PVE-1 (pve)
+//notes: tags:pve
+dimwishlist:item=2599338624&perks=2039302152,2396489472
+dimwishlist:item=2599338624&perks=2039302152,598607952
+dimwishlist:item=2599338624&perks=2396422520,2396489472
+dimwishlist:item=2599338624&perks=2396422520,598607952
+
+
+// Liturgy - PVE-2 (pve)
+//notes: tags:pve
+dimwishlist:item=2599338624&perks=1955165503,2978966579
+dimwishlist:item=2599338624&perks=1955165503,344235611
+dimwishlist:item=2599338624&perks=2617553311,2978966579
+dimwishlist:item=2599338624&perks=2617553311,344235611
+
+
+// Bitter/Sweet - PVE (pve)
+//notes: tags:pve
+dimwishlist:item=2599338625&perks=3987942396,3078487919
+dimwishlist:item=2599338625&perks=3987942396,3744057135
+dimwishlist:item=2599338625&perks=2817499044,3078487919
+dimwishlist:item=2599338625&perks=2817499044,3744057135
+
+
 // BxR-55 Battler - PVE (god-pve)
 //notes: MW: Stability; The BxR-55 Battler already feels solid in PVE, but the right perks can really turn it into a minion-slaying machine. Those rocking Solar Warlocks, especially when using Starfire Protocol, can enjoy a near-bottomless clip.Straight off, the Barrel and Magazine options are chosen to help straighten up the recoil direction to be perfectly vertical while also pushing out the effective range. This will help the Pulse Rifle deal more damage over greater distances, which is often the trouble with PVE content. For the perks, Demolitionist remains a great option as there are often plenty of enemies to defeat, allowing you to generate a grenade quickly. The second perk is Incandescent, a recent addition with Solar 3.0. This will help you spread scorch through the dense collection of enemies, which will inevitably lead to ignitions. tags:god-pve
 dimwishlist:item=2708806099&perks=839105230,1885400500,3523296417,4293542123
@@ -3721,6 +3792,12 @@ dimwishlist:item=2728851518&perks=3161816588,699525795
 dimwishlist:item=2728851518&perks=3161816588,2451262963
 dimwishlist:item=2728851518&perks=1645158859,699525795
 dimwishlist:item=2728851518&perks=1645158859,2451262963
+
+
+// Ignition Code - PVE (pve)
+//notes: tags:pve
+dimwishlist:item=2761869150&perks=3032599245,3161816588
+dimwishlist:item=2761869150&perks=3032599245,191144788
 
 
 // Midnight Coup - PVE (god-pve)
@@ -3979,6 +4056,14 @@ dimwishlist:item=2821677368&perks=461595545,555281244
 dimwishlist:item=2821677368&perks=461595545,332733060
 
 
+// Exuviae - PVE (pve)
+//notes: Stasis build focused. tags:pve
+dimwishlist:item=2823644677&perks=1955165503,124408337
+dimwishlist:item=2823644677&perks=1955165503,1171887445
+dimwishlist:item=2823644677&perks=2617553311,124408337
+dimwishlist:item=2823644677&perks=2617553311,1171887445
+
+
 // The Supremacy - PVE (god-pve)
 //notes: MW: Handling; We recommend Arrowhead Brake as the barrel due to its increased handling, which allows for fast swaps during damage, and the increase in recoil direction, which makes it easier to keep your shots where they need to go. Appended Magazine is also the best choice here due to its increased magazine size, which allows for a larger benefit from Rewind Rounds. Rewind Rounds is the clear winner for choice in the Perk 1 slot due to the lack of needing to reload, which allows you to keep your damage consistent throughout the phase.  Kinetic Tremors is recommended in the Perk 2 slot due to the extra burst of damage it provides and also how consistently it can be activated with its synergy with Rewind Rounds. Alternatively, Fourth Times The Charm can be used in the second column in situations where the ammo economy is a struggle. tags:god-pve
 dimwishlist:item=2884596447&perks=839105230,1087426260,3418782618,3891536761
@@ -4049,6 +4134,14 @@ dimwishlist:item=2889501828&perks=2077819806,3650930298
 dimwishlist:item=2889501828&perks=2077819806,405677814
 dimwishlist:item=2889501828&perks=1618208178,3650930298
 dimwishlist:item=2889501828&perks=1618208178,405677814
+
+
+// Scavenger's Fate - PVE (pve)
+//notes: tags:pve
+dimwishlist:item=2913577176&perks=25606670,2048641572
+dimwishlist:item=2913577176&perks=25606670,1926441324
+dimwishlist:item=2913577176&perks=3143051906,2048641572
+dimwishlist:item=2913577176&perks=3143051906,1926441324
 
 
 // Pre Astyanax IV - PVE (god-pve)
@@ -4602,6 +4695,22 @@ dimwishlist:item=3388655311&perks=169755979,4293542123
 dimwishlist:item=3388655311&perks=169755979,2675184851
 
 
+// Red Tape - PVE (pve)
+//notes: tags:pve
+dimwishlist:item=3423493037&perks=3523296417,11612903
+dimwishlist:item=3423493037&perks=3523296417,2422968039
+dimwishlist:item=3423493037&perks=1906147653,11612903
+dimwishlist:item=3423493037&perks=1906147653,2422968039
+
+
+// Gridskipper - PVE (pve)
+//notes: tags:pve
+dimwishlist:item=3433930495&perks=776531651,2048641572
+dimwishlist:item=3433930495&perks=776531651,1926441324
+dimwishlist:item=3433930495&perks=2541826827,2048641572
+dimwishlist:item=3433930495&perks=2541826827,1926441324
+
+
 // Omniscient Eye - PVE (pve)
 //notes: tags:pve
 dimwishlist:item=3454326177&perks=2866798147,957782887
@@ -4946,6 +5055,22 @@ dimwishlist:item=3794274730&perks=880644845,354401740
 dimwishlist:item=3794274730&perks=880644845,3678483220
 dimwishlist:item=3794274730&perks=3120212825,354401740
 dimwishlist:item=3794274730&perks=3120212825,3678483220
+
+
+// Sovereignty - PVE (pve)
+//notes: Support focused, not ideal for DPS.  tags:pve
+dimwishlist:item=3818198556&perks=3038247973,2904194311
+dimwishlist:item=3818198556&perks=3038247973,1134488199
+dimwishlist:item=3818198556&perks=64866129,2904194311
+dimwishlist:item=3818198556&perks=64866129,1134488199
+
+
+// Vantage Point - PVE (pve)
+//notes: tags:pve
+dimwishlist:item=3830941962&perks=684456054,3966416502
+dimwishlist:item=3830941962&perks=684456054,717070634
+dimwishlist:item=3830941962&perks=2785334058,3966416502
+dimwishlist:item=3830941962&perks=2785334058,717070634
 
 
 // Hawkmoon - Exotic (pve,pvp)
@@ -5643,6 +5768,14 @@ dimwishlist:item=4207120603&perks=1749209109,3078487919
 dimwishlist:item=4207120603&perks=1749209109,3744057135
 dimwishlist:item=4207120603&perks=4085959009,3078487919
 dimwishlist:item=4207120603&perks=4085959009,3744057135
+
+
+// Heretic's Fervor - PVE (pve)
+//notes: tags:pve
+dimwishlist:item=4224667951&perks=3300816228,3194351027
+dimwishlist:item=4224667951&perks=3300816228,2275087323
+dimwishlist:item=4224667951&perks=3528046508,3194351027
+dimwishlist:item=4224667951&perks=3528046508,2275087323
 
 
 // Marcato-45 - PVE (Slice) (pve,god-pve)
