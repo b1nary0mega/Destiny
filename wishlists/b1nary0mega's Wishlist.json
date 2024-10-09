@@ -1444,66 +1444,6 @@
             ]
         },
         {
-            "description": "Element: Void; Exotic Trait: Wolfpack Rounds; Jagged Edge is almost always perfect for Swords as it boosts our Sword damage, and Swordmaster’s Guard is best for Heavy Attack recharge rate. A Lightweight Frame is also good here, as it deals the highest base level of DPS. Making sure we have a Void element to match with Falling Guillotine is important, and Wolfpack Rounds is a must so we can boost everyone’s Sword damage.",
-            "hash": 1681583613,
-            "name": "PVE DPS",
-            "plugs": [
-                [
-                    3666208348
-                ],
-                [
-                    269888150
-                ],
-                [
-                    2753228730
-                ]
-            ],
-            "tags": [
-                "GodPVE",
-                "PVE"
-            ]
-        },
-        {
-            "description": "Element: Solar; Exotic Trait: The Perfect Fifth; Jagged Edge is almost always perfect for Swords as it boosts our Sword damage, and Swordmaster’s Guard is best for Heavy Attack recharge rate. A Lightweight Frame is also good here, as it deals the highest base level of DPS. Making sure we have a Void element to match with Falling Guillotine is important, and Wolfpack Rounds is a must so we can boost everyone’s Sword damage.",
-            "hash": 1681583613,
-            "name": "PVE Solo",
-            "plugs": [
-                [
-                    3666208348
-                ],
-                [
-                    269888150
-                ],
-                [
-                    519046634
-                ]
-            ],
-            "tags": [
-                "GodPVE",
-                "PVE"
-            ]
-        },
-        {
-            "description": "Ergo Sum in PvP is rather niche, but it definitely has its moments where it can shine. Wave Sword Element: Arc; Exotic Trait: Arc Conductor; Frame is a must here as it can almost guarantee two kills with one special ammo if you land the Wave. This allows you to then rapidly swing onto another nearby enemy, even if you have no ammo. While this combo is deadly, it’s important to remember that you are very vulnerable while wielding a Sword, and players can keep their distance from you, so try to use cover and bait targets.",
-            "hash": 1681583613,
-            "name": "PVP",
-            "plugs": [
-                [
-                    436053704
-                ],
-                [
-                    269888150
-                ],
-                [
-                    289811733
-                ]
-            ],
-            "tags": [
-                "GodPVP",
-                "PVP"
-            ]
-        },
-        {
             "description": "Able to roll with the excellent perk Incandescent, CALUS Mini-Tool immediately cemented itself as a top-tier pick with the release of Solar 3.0. Plus, it's one of the few top-tier craftable SMGs currently in the game, meaning it's one of the easiest to get as well.",
             "hash": 2490988246,
             "name": "PVE",
@@ -9959,6 +9899,519 @@
                 ],
                 [
                     4293542123
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 3385326721,
+            "name": "PVP",
+            "plugs": [
+                [
+                    1645158859
+                ],
+                [
+                    1015611457
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 4020742303,
+            "name": "PVE",
+            "plugs": [
+                [
+                    2779035018,
+                    2039302152
+                ],
+                [
+                    2679249093
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 4095896073,
+            "name": "PVE",
+            "plugs": [
+                [
+                    201365942
+                ],
+                [
+                    3425386926
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 48643186,
+            "name": "PVE",
+            "plugs": [
+                [
+                    1168162263,
+                    247725512
+                ],
+                [
+                    2848615171,
+                    1015611457
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 3454326177,
+            "name": "PVE",
+            "plugs": [
+                [
+                    2866798147
+                ],
+                [
+                    957782887
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 2408405461,
+            "name": "PVP",
+            "plugs": [
+                [
+                    247725512,
+                    1168162263
+                ],
+                [
+                    1015611457
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 2209003210,
+            "name": "PVE",
+            "plugs": [
+                [
+                    1645158859
+                ],
+                [
+                    2213355989
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "Garden of Salvation Exotic",
+            "hash": 4103414242,
+            "name": "Exotic",
+            "plugs": [
+                [
+                    1392496348
+                ],
+                [
+                    3868766766
+                ],
+                [
+                    1185480639
+                ],
+                [
+                    3465198467
+                ]
+            ],
+            "tags": [
+                "PVE",
+                "PVP"
+            ]
+        },
+        {
+            "description": "Looking for Void with Wolfpack Rounds. Jagged Edge is almost always perfect for Swords as it boosts our Sword damage, and Swordmaster’s Guard is best for Heavy Attack recharge rate. A Lightweight Frame is also good here, as it deals the highest base level of DPS. Making sure we have a Void element to match with Falling Guillotine is important, and Wolfpack Rounds is a must so we can boost everyone’s Sword damage.",
+            "hash": 1681583613,
+            "name": "PVE - DPS & Teamplay",
+            "plugs": [
+                [
+                    3666208348
+                ],
+                [
+                    269888150
+                ],
+                [
+                    2753228730
+                ],
+                [
+                    2963428707
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Looking for Solar with The Perfect Fifth. Again, Jagged Edge is important for the damage bonus it provides, and Swordmaster’s Guard is the best pick for increased powered heavy attack uptime. This roll is for if you actually want to deal damage with the Ergo Sum itself. While the Pack Hunter roll is great for supporting, Ergo Sum can deal outrageous damage thanks to the Transcendent Duelist perk. With the 51% damage bonus from this perk, alongside The Perfect Fifth, Ergo Sum can easily keep up with perfectly rolled Heavy Swords.",
+            "hash": 1681583613,
+            "name": "PVE - Ad Clear & Solo",
+            "plugs": [
+                [
+                    3666208348
+                ],
+                [
+                    269888150
+                ],
+                [
+                    519046634
+                ],
+                [
+                    2963428707
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Looking for Arc with Arc Conductor. https://dim.gg/tqxb3gy/Ergo-Dance from https://www.youtube.com/watch?v=dj-r-zzxAbs",
+            "hash": 1681583613,
+            "name": "PVE - Dance Machine Build",
+            "plugs": [
+                [
+                    1261178282
+                ],
+                [
+                    269888150
+                ],
+                [
+                    519046634
+                ],
+                [
+                    2963428707
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 3830941962,
+            "name": "PVE",
+            "plugs": [
+                [
+                    684456054,
+                    2785334058
+                ],
+                [
+                    3966416502,
+                    717070634
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "Support focused, not ideal for DPS. ",
+            "hash": 3818198556,
+            "name": "PVE",
+            "plugs": [
+                [
+                    3038247973,
+                    64866129
+                ],
+                [
+                    2904194311,
+                    1134488199
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "Stasis build focused.",
+            "hash": 2823644677,
+            "name": "PVE",
+            "plugs": [
+                [
+                    1955165503,
+                    2617553311
+                ],
+                [
+                    124408337,
+                    1171887445
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 2599338624,
+            "name": "PVE-1",
+            "plugs": [
+                [
+                    2039302152,
+                    2396422520
+                ],
+                [
+                    2396489472,
+                    598607952
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 2599338624,
+            "name": "PVE-2",
+            "plugs": [
+                [
+                    1955165503,
+                    2617553311
+                ],
+                [
+                    2978966579,
+                    344235611
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 414045521,
+            "name": "PVE",
+            "plugs": [
+                [
+                    776531651,
+                    2541826827
+                ],
+                [
+                    2048641572,
+                    1926441324
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 2761869150,
+            "name": "PVE",
+            "plugs": [
+                [
+                    3032599245
+                ],
+                [
+                    3161816588,
+                    191144788
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 2598420927,
+            "name": "PVE-1",
+            "plugs": [
+                [
+                    1820235745,
+                    4245865861
+                ],
+                [
+                    3425386926,
+                    288411554
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 2598420927,
+            "name": "PVE-2",
+            "plugs": [
+                [
+                    1359896290
+                ],
+                [
+                    365154968
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 3423493037,
+            "name": "PVE",
+            "plugs": [
+                [
+                    3523296417,
+                    1906147653
+                ],
+                [
+                    11612903,
+                    2422968039
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 3433930495,
+            "name": "PVE",
+            "plugs": [
+                [
+                    776531651,
+                    2541826827
+                ],
+                [
+                    2048641572,
+                    1926441324
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 825495813,
+            "name": "PVE",
+            "plugs": [
+                [
+                    691659142,
+                    536173722
+                ],
+                [
+                    3966416502,
+                    717070634
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "Could work with Arc Melee build.",
+            "hash": 825495813,
+            "name": "",
+            "plugs": [],
+            "tags": []
+        },
+        {
+            "description": "",
+            "hash": 2913577176,
+            "name": "PVE",
+            "plugs": [
+                [
+                    25606670,
+                    3143051906
+                ],
+                [
+                    2048641572,
+                    1926441324
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 2599338625,
+            "name": "PVE",
+            "plugs": [
+                [
+                    3987942396,
+                    2817499044
+                ],
+                [
+                    3078487919,
+                    3744057135
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 4224667951,
+            "name": "PVE",
+            "plugs": [
+                [
+                    3300816228,
+                    3528046508
+                ],
+                [
+                    3194351027,
+                    2275087323
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 2130875369,
+            "name": "PVE",
+            "plugs": [
+                [
+                    3017780555,
+                    4223976499
+                ],
+                [
+                    4293542123,
+                    2675184851
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 2130875369,
+            "name": "PVE-2",
+            "plugs": [
+                [
+                    3300816228
+                ],
+                [
+                    555281244
                 ]
             ],
             "tags": [
