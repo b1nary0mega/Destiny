@@ -2443,6 +2443,22 @@ dimwishlist:item=1975125963&perks=573122728,365154968
 dimwishlist:item=1975125963&perks=573122728,2939589096
 
 
+// Wicked Sister - PVE (pve)
+//notes: tags:pve
+dimwishlist:item=2039776723&perks=3987942396,3078487919
+dimwishlist:item=2039776723&perks=3987942396,3744057135
+dimwishlist:item=2039776723&perks=2817499044,3078487919
+dimwishlist:item=2039776723&perks=2817499044,3744057135
+
+
+// Wicked Sister - PVP (pvp)
+//notes: tags:pvp
+dimwishlist:item=2039776723&perks=951095735,2888557110
+dimwishlist:item=2039776723&perks=951095735,1905598698
+dimwishlist:item=2039776723&perks=3878366039,2888557110
+dimwishlist:item=2039776723&perks=3878366039,1905598698
+
+
 // Pre Astyanax IV (Adept) - PVE (god-pve)
 //notes: MW: Draw Time; In PvE, Pre Astyanax IV performs the same as Strident Whistle but with a newer and more refined perk pool. The bowstring and arrow don’t matter much (especially in PvE), but we prefer the ones that decrease Draw Time without sacrificing too much Accuracy. Column 3 is somewhat of a no-brainer with Archer’s Tempo; the other perks here aren’t that exciting. The final column, however, is an entirely different story. With the exception of Opening Shot, every perk is extremely powerful in PvE. From the build potential Incandescent and Collective Action provide to Precision Instrument’s pure power, your choice here relies slightly on your playstyle. tags:god-pve
 dimwishlist:item=2063217087&perks=2801223209,3827198035,201365942,2652708987
