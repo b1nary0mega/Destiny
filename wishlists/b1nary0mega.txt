@@ -2162,9 +2162,14 @@ dimwishlist:item=1820994983&perks=1748774930,2939589096
 
 
 // Seventh Seraph CQC-12 - PVE (pve)
-//notes: Barrel: Smallbore (Range +7, Stability +7), Magazine: Appended Mag (Magazine +20), Perk 1: Auto-Loading Holster, Perk 2: Vorpal Weapon tags:pve
+//notes: Barrel: Smallbore (Range +7, Stability +7), Magazine: Appended Mag (Magazine +20) tags:pve
 dimwishlist:item=1821724780&perks=3300816228,1546637391
 dimwishlist:item=1821724780&perks=3161816588,1546637391
+
+
+// Seventh Seraph CQC-12 - PVE2 (pve)
+//notes: Barrel: Smallbore (Range +7, Stability +7), Magazine: Appended Mag (Magazine +20) tags:pve
+dimwishlist:item=1821724780&perks=3161816588,2360754333
 
 
 // Apex Predator - PVE (god-pve)
@@ -5104,10 +5109,6 @@ dimwishlist:item=3686538757&perks=3797647183,2173046394
 dimwishlist:item=3686538757&perks=3797647183,1720528630
 dimwishlist:item=3686538757&perks=3797647183,4049631843
 dimwishlist:item=3686538757&perks=3797647183,859780267
-
-
-// Undercurrent ()
-dimwishlist:item=3686538757&perks=
 
 
 // Ill Omen - PVE (god-pve)
