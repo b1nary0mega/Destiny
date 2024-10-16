@@ -107,6 +107,38 @@ dimwishlist:item=70083888&perks=3198323828,3038247973
 dimwishlist:item=70083888&perks=3198323828,64866129
 
 
+// VS Gravitic Arrest - PVE (god-pve)
+//notes: Fluted Barrel and our masterwork of choice contribute to building into what is generally the most important perk for PvE: handling. For our magazine perk, Enhanced Battery is something you can’t go wrong with. The synergy of Repulsor Brace and Withering Gaze can’t be ignored, which is why it’s our recommended god roll. Even if you aren’t using this weapon with a Void build, this roll is still extremely potent and contains a gameplay loop that sustains itself. However, if you’re instead looking for a more general roll, Demolitionist and Chain Reaction are your best bets. tags:god-pve
+dimwishlist:item=93061497&perks=1840239774,2680121939,776531651,1134488199
+dimwishlist:item=93061497&perks=1840239774,2680121939,776531651,2904194311
+dimwishlist:item=93061497&perks=1840239774,2680121939,2541826827,1134488199
+dimwishlist:item=93061497&perks=1840239774,2680121939,2541826827,2904194311
+
+
+// VS Gravitic Arrest - PVE2 (god-pve)
+//notes: Fluted Barrel and our masterwork of choice contribute to building into what is generally the most important perk for PvE: handling. For our magazine perk, Enhanced Battery is something you can’t go wrong with. The synergy of Repulsor Brace and Withering Gaze can’t be ignored, which is why it’s our recommended god roll. Even if you aren’t using this weapon with a Void build, this roll is still extremely potent and contains a gameplay loop that sustains itself. However, if you’re instead looking for a more general roll, Demolitionist and Chain Reaction are your best bets. tags:god-pve
+dimwishlist:item=93061497&perks=1840239774,2680121939,3523296417,2396489472
+dimwishlist:item=93061497&perks=1840239774,2680121939,3523296417,598607952
+dimwishlist:item=93061497&perks=1840239774,2680121939,1906147653,2396489472
+dimwishlist:item=93061497&perks=1840239774,2680121939,1906147653,598607952
+
+
+// VS Gravitic Arrest - PVE (pve)
+//notes: Fluted Barrel and our masterwork of choice contribute to building into what is generally the most important perk for PvE: handling. For our magazine perk, Enhanced Battery is something you can’t go wrong with. The synergy of Repulsor Brace and Withering Gaze can’t be ignored, which is why it’s our recommended god roll. Even if you aren’t using this weapon with a Void build, this roll is still extremely potent and contains a gameplay loop that sustains itself. However, if you’re instead looking for a more general roll, Demolitionist and Chain Reaction are your best bets. tags:pve
+dimwishlist:item=93061497&perks=776531651,1134488199
+dimwishlist:item=93061497&perks=776531651,2904194311
+dimwishlist:item=93061497&perks=2541826827,1134488199
+dimwishlist:item=93061497&perks=2541826827,2904194311
+
+
+// VS Gravitic Arrest - PVE2 (pve)
+//notes: Fluted Barrel and our masterwork of choice contribute to building into what is generally the most important perk for PvE: handling. For our magazine perk, Enhanced Battery is something you can’t go wrong with. The synergy of Repulsor Brace and Withering Gaze can’t be ignored, which is why it’s our recommended god roll. Even if you aren’t using this weapon with a Void build, this roll is still extremely potent and contains a gameplay loop that sustains itself. However, if you’re instead looking for a more general roll, Demolitionist and Chain Reaction are your best bets. tags:pve
+dimwishlist:item=93061497&perks=3523296417,2396489472
+dimwishlist:item=93061497&perks=3523296417,598607952
+dimwishlist:item=93061497&perks=1906147653,2396489472
+dimwishlist:item=93061497&perks=1906147653,598607952
+
+
 // Malfeasance - Exotic ()
 dimwishlist:item=204878059&perks=4090651448,2420895100,2130042297,1012699414
 
@@ -1951,6 +1983,62 @@ dimwishlist:item=1719687748&perks=3563868667,2282937672
 dimwishlist:item=1719687748&perks=3563868667,406461158
 dimwishlist:item=1719687748&perks=3563868667,3708227201
 dimwishlist:item=1719687748&perks=3563868667,781192741
+
+
+// VS Chill Inhibitor - PVE (god-pve)
+//notes: Quick Launch and Spike Grenades are the standard picks for a small boost handling, velocity, and a tiny damage bump. Envious Arsenal is an excellent perk for swap rotations, and Bait and Switch, thanks to its activation conditions, perfectly complements this. Using this weapon with a standard swap weapon like Izanagi’s Burden will be very successful. Demolitionist is also a valid option with specific setups, as it allows you to spam many shots in a row, especially on Prismatic. tags:god-pve
+dimwishlist:item=1762785662&perks=3525010810,3301904089,3987942396,3078487919
+dimwishlist:item=1762785662&perks=3525010810,3301904089,3987942396,3744057135
+dimwishlist:item=1762785662&perks=3525010810,3301904089,3523296417,3078487919
+dimwishlist:item=1762785662&perks=3525010810,3301904089,3523296417,3744057135
+dimwishlist:item=1762785662&perks=3525010810,3301904089,2817499044,3078487919
+dimwishlist:item=1762785662&perks=3525010810,3301904089,2817499044,3744057135
+dimwishlist:item=1762785662&perks=3525010810,3301904089,1906147653,3078487919
+dimwishlist:item=1762785662&perks=3525010810,3301904089,1906147653,3744057135
+
+
+// VS Chill Inhibitor - PVE (pve)
+//notes: Quick Launch and Spike Grenades are the standard picks for a small boost handling, velocity, and a tiny damage bump. Envious Arsenal is an excellent perk for swap rotations, and Bait and Switch, thanks to its activation conditions, perfectly complements this. Using this weapon with a standard swap weapon like Izanagi’s Burden will be very successful. Demolitionist is also a valid option with specific setups, as it allows you to spam many shots in a row, especially on Prismatic. tags:pve
+dimwishlist:item=1762785662&perks=3987942396,3078487919
+dimwishlist:item=1762785662&perks=3987942396,3744057135
+dimwishlist:item=1762785662&perks=3523296417,3078487919
+dimwishlist:item=1762785662&perks=3523296417,3744057135
+dimwishlist:item=1762785662&perks=2817499044,3078487919
+dimwishlist:item=1762785662&perks=2817499044,3744057135
+dimwishlist:item=1762785662&perks=1906147653,3078487919
+dimwishlist:item=1762785662&perks=1906147653,3744057135
+
+
+// VS Velocity Baton - PVE (god-pve)
+//notes: We’ll begin by looking for high-velocity and handling stats through Quick Launch, High-Velocity Rounds, and either a velocity or handling masterwork. There are two ways you can shape this weapon for PvE: for builds or for general gameplay. If you’re interested in the former, Demolitionist and Destabilizing Rounds or Repulsor Brace are your best picks. However, VS Velocity Baton’s general roll is arguably more potent. Unrelenting offers significant health regeneration while you’re clearing waves of enemies, while Attrition Orbs is absolutely insane on this weapon. Because the perk is hit-based and area denial frames feature hefty damage over time, using this perk results in an orb-generating machine. tags:god-pve
+dimwishlist:item=1762785663&perks=3525010810,2822142346,3108830275,243981275
+dimwishlist:item=1762785663&perks=3525010810,2822142346,3108830275,984655331
+dimwishlist:item=1762785663&perks=3525010810,2822142346,855168139,243981275
+dimwishlist:item=1762785663&perks=3525010810,2822142346,855168139,984655331
+
+
+// VS Velocity Baton - PVE2 (god-pve)
+//notes: We’ll begin by looking for high-velocity and handling stats through Quick Launch, High-Velocity Rounds, and either a velocity or handling masterwork. There are two ways you can shape this weapon for PvE: for builds or for general gameplay. If you’re interested in the former, Demolitionist and Destabilizing Rounds or Repulsor Brace are your best picks. However, VS Velocity Baton’s general roll is arguably more potent. Unrelenting offers significant health regeneration while you’re clearing waves of enemies, while Attrition Orbs is absolutely insane on this weapon. Because the perk is hit-based and area denial frames feature hefty damage over time, using this perk results in an orb-generating machine. tags:god-pve
+dimwishlist:item=1762785663&perks=3525010810,2822142346,776531651,2048641572
+dimwishlist:item=1762785663&perks=3525010810,2822142346,776531651,1926441324
+dimwishlist:item=1762785663&perks=3525010810,2822142346,2541826827,2048641572
+dimwishlist:item=1762785663&perks=3525010810,2822142346,2541826827,1926441324
+
+
+// VS Velocity Baton - PVE (pve)
+//notes: We’ll begin by looking for high-velocity and handling stats through Quick Launch, High-Velocity Rounds, and either a velocity or handling masterwork. There are two ways you can shape this weapon for PvE: for builds or for general gameplay. If you’re interested in the former, Demolitionist and Destabilizing Rounds or Repulsor Brace are your best picks. However, VS Velocity Baton’s general roll is arguably more potent. Unrelenting offers significant health regeneration while you’re clearing waves of enemies, while Attrition Orbs is absolutely insane on this weapon. Because the perk is hit-based and area denial frames feature hefty damage over time, using this perk results in an orb-generating machine. tags:pve
+dimwishlist:item=1762785663&perks=3108830275,243981275
+dimwishlist:item=1762785663&perks=3108830275,984655331
+dimwishlist:item=1762785663&perks=855168139,243981275
+dimwishlist:item=1762785663&perks=855168139,984655331
+
+
+// VS Velocity Baton - PVE2 (pve)
+//notes: We’ll begin by looking for high-velocity and handling stats through Quick Launch, High-Velocity Rounds, and either a velocity or handling masterwork. There are two ways you can shape this weapon for PvE: for builds or for general gameplay. If you’re interested in the former, Demolitionist and Destabilizing Rounds or Repulsor Brace are your best picks. However, VS Velocity Baton’s general roll is arguably more potent. Unrelenting offers significant health regeneration while you’re clearing waves of enemies, while Attrition Orbs is absolutely insane on this weapon. Because the perk is hit-based and area denial frames feature hefty damage over time, using this perk results in an orb-generating machine. tags:pve
+dimwishlist:item=1762785663&perks=776531651,2048641572
+dimwishlist:item=1762785663&perks=776531651,1926441324
+dimwishlist:item=1762785663&perks=2541826827,2048641572
+dimwishlist:item=1762785663&perks=2541826827,1926441324
 
 
 // No Hesitation - PVE (god-pve)
@@ -5856,6 +5944,22 @@ dimwishlist:item=4224667951&perks=3300816228,3194351027
 dimwishlist:item=4224667951&perks=3300816228,2275087323
 dimwishlist:item=4224667951&perks=3528046508,3194351027
 dimwishlist:item=4224667951&perks=3528046508,2275087323
+
+
+// VS Pyroelectric Propellant - PVE (god-pve)
+//notes: While we may not know the exacts of the mags and barrels, we can make an educated guess that the standard fare will appear here. As such, the tried and true combo of Fluted Barrel and Flared Magwell or Tactical Mag will work great here for the bumps to stability, handling, and reload speed. Perk 1 has two solid PvE perks in Eddy Current and Attrition Orbs. Eddy Current can activate via the Amplified buff, which makes it great for any build that involves Arc, and Attrition Orbs can proc off Jolting Feedback. Both are excellent pairings with either Jolting Feedback or Onslaught. Jolting Feedback allows for easy Jolt application as it is based off of damage, not kills, and applies faster when Amplified! Onslaught is a solid neutral perk as it also gives a reload speed buff on top of the damage it gets, and stacking that with either of your Perk 1 options is just icing on the cake. tags:god-pve
+dimwishlist:item=4232480042&perks=1840239774,3230963543,684456054,3966416502
+dimwishlist:item=4232480042&perks=1840239774,3230963543,684456054,717070634
+dimwishlist:item=4232480042&perks=1840239774,3230963543,2785334058,3966416502
+dimwishlist:item=4232480042&perks=1840239774,3230963543,2785334058,717070634
+
+
+// VS Pyroelectric Propellant - PVE (pve)
+//notes: While we may not know the exacts of the mags and barrels, we can make an educated guess that the standard fare will appear here. As such, the tried and true combo of Fluted Barrel and Flared Magwell or Tactical Mag will work great here for the bumps to stability, handling, and reload speed. Perk 1 has two solid PvE perks in Eddy Current and Attrition Orbs. Eddy Current can activate via the Amplified buff, which makes it great for any build that involves Arc, and Attrition Orbs can proc off Jolting Feedback. Both are excellent pairings with either Jolting Feedback or Onslaught. Jolting Feedback allows for easy Jolt application as it is based off of damage, not kills, and applies faster when Amplified! Onslaught is a solid neutral perk as it also gives a reload speed buff on top of the damage it gets, and stacking that with either of your Perk 1 options is just icing on the cake. tags:pve
+dimwishlist:item=4232480042&perks=684456054,3966416502
+dimwishlist:item=4232480042&perks=684456054,717070634
+dimwishlist:item=4232480042&perks=2785334058,3966416502
+dimwishlist:item=4232480042&perks=2785334058,717070634
 
 
 // Marcato-45 - PVE (Slice) (pve,god-pve)
