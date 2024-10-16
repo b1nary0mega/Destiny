@@ -3646,9 +3646,7 @@
                 ],
                 [
                     2048641572,
-                    2109543898,
-                    1926441324,
-                    2799030358
+                    1926441324
                 ]
             ],
             "tags": [
@@ -3666,9 +3664,7 @@
                 ],
                 [
                     2048641572,
-                    2109543898,
-                    1926441324,
-                    2799030358
+                    1926441324
                 ]
             ],
             "tags": [
@@ -3687,8 +3683,6 @@
                     3230963543
                 ],
                 [
-                    776531651,
-                    2541826827,
                     4071163871,
                     494941759
                 ],
@@ -3709,8 +3703,6 @@
             "name": "PVE",
             "plugs": [
                 [
-                    776531651,
-                    2541826827,
                     4071163871,
                     494941759
                 ],
@@ -7981,13 +7973,6 @@
             ]
         },
         {
-            "description": "",
-            "hash": 3686538757,
-            "name": "",
-            "plugs": [],
-            "tags": []
-        },
-        {
             "description": "MW: Velocity; While there’s no way that Undercurrent can top meta picks, attempting to get as close to there as possible is your best bet. Quick Launch, High-Velocity Rounds, and a velocity masterwork are all no-brainers since velocity is the most important stat here. Ambitious Assassin is the clear choice for general gameplay in the first column, while Demolitionist and Lead from Gold are niche but potent in the right situation.  For the final column, Voltshot almost functions as a budget version of Chain Reaction. If you instead want something a bit more generic, One for All and Adrenaline Junkie work well.",
             "hash": 817909300,
             "name": "PVE",
@@ -10416,6 +10401,227 @@
             ],
             "tags": [
                 "PVE"
+            ]
+        },
+        {
+            "description": "MW: Charge; Since the main idea here is to use this as a utility weapon against champs, having a quick swap time is very important. To that end, we’ll be using Fluted Barrel for its +15 Handling, but if you want to use this as a backup DPS weapon, Polygonal Rifling will help keep shots on target. Same mindset goes for the magazine: Accelerated Coils for utility, Ionized Battery for damage since you’re likely not going to need a reload. As for the perks, Envious and Headstone are undeniably the best for Perk 1. Envious will let us take greater advantage of Chill Clip, and Headstone can help clear some chaff around the larger targets. Perk 2 has a slightly larger pool of “useful” perks, but Chill Clip is just too good to pass up. Being able to directly stun two out of three champions means freeing up those slots for whatever else you please, and when paired with Envious, you’ll never have to worry about reloading to reactivate the perk. And did I mention it comes with Viest Stinger?",
+            "hash": 3615421669,
+            "name": "PVE",
+            "plugs": [
+                [
+                    1840239774,
+                    1392496348
+                ],
+                [
+                    689005463,
+                    1483536627
+                ],
+                [
+                    968510818,
+                    124408337,
+                    424370782,
+                    1171887445
+                ],
+                [
+                    2978966579,
+                    344235611
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "MW: Charge; Since the main idea here is to use this as a utility weapon against champs, having a quick swap time is very important. To that end, we’ll be using Fluted Barrel for its +15 Handling, but if you want to use this as a backup DPS weapon, Polygonal Rifling will help keep shots on target. Same mindset goes for the magazine: Accelerated Coils for utility, Ionized Battery for damage since you’re likely not going to need a reload. As for the perks, Envious and Headstone are undeniably the best for Perk 1. Envious will let us take greater advantage of Chill Clip, and Headstone can help clear some chaff around the larger targets. Perk 2 has a slightly larger pool of “useful” perks, but Chill Clip is just too good to pass up. Being able to directly stun two out of three champions means freeing up those slots for whatever else you please, and when paired with Envious, you’ll never have to worry about reloading to reactivate the perk. And did I mention it comes with Viest Stinger?",
+            "hash": 3615421669,
+            "name": "PVE",
+            "plugs": [
+                [
+                    968510818,
+                    124408337,
+                    424370782,
+                    1171887445
+                ],
+                [
+                    2978966579,
+                    344235611
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 2039776723,
+            "name": "PVE",
+            "plugs": [
+                [
+                    3987942396,
+                    2817499044
+                ],
+                [
+                    3078487919,
+                    3744057135
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 2039776723,
+            "name": "PVP",
+            "plugs": [
+                [
+                    951095735,
+                    3878366039
+                ],
+                [
+                    2888557110,
+                    1905598698
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "Barrel: Chambered Compensator (Stability +10, Recoil +10, Handling -5), Magazine: Appended Mag (Magazine +20), Perk 1: Fourth Time’s the Charm, Perk 2: Swashbuckler",
+            "hash": 4070357005,
+            "name": "PVE",
+            "plugs": [
+                [
+                    1354429876
+                ],
+                [
+                    4082225868
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 1555959830,
+            "name": "PVE",
+            "plugs": [
+                [
+                    744594675
+                ],
+                [
+                    1546637391
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "Barrel: Smallbore (Range +7, Stability +7), Magazine: Appended Mag (Magazine +20)",
+            "hash": 1821724780,
+            "name": "PVE",
+            "plugs": [
+                [
+                    3300816228,
+                    3161816588
+                ],
+                [
+                    1546637391
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "Barrel: Arrowhead Brake (Handling +10, Recoil +30), Magazine: Appended Mag (Magazine +20)",
+            "hash": 3937866388,
+            "name": "PVE",
+            "plugs": [
+                [
+                    3523296417
+                ],
+                [
+                    2848615171
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "Barrel: Fluted Barrel (Stability +5, Handling +15), Magazine: Appended Mag (Magazine +20)",
+            "hash": 766323545,
+            "name": "PVE",
+            "plugs": [
+                [
+                    2010801679
+                ],
+                [
+                    2779035018
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "Barrel: Arrowhead Brake (Handling +10, Recoil +30), Magazine: High-Caliber Rounds (Range +5)",
+            "hash": 2582755344,
+            "name": "PVE",
+            "plugs": [
+                [
+                    1631667848
+                ],
+                [
+                    1546637391
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "Barrel: Smallbore (Range +7, Stability +7), Magazine: Appended Mag (Magazine +20)",
+            "hash": 1821724780,
+            "name": "PVE2",
+            "plugs": [
+                [
+                    3161816588
+                ],
+                [
+                    2360754333
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 2856514843,
+            "name": "",
+            "plugs": [
+                [
+                    839105230
+                ],
+                [
+                    1885400500
+                ],
+                [
+                    2717805783,
+                    588594999
+                ],
+                [
+                    124408337,
+                    1171887445
+                ]
+            ],
+            "tags": [
+                "GodPVE"
             ]
         }
     ]
