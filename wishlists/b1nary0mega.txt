@@ -5613,6 +5613,46 @@ dimwishlist:item=3947966653&perks=1135494563,4290541820
 dimwishlist:item=3947966653&perks=1135494563,2799030358
 
 
+// Yarovit MG4 - PVE - Stasis (god-pve)
+//notes: Stasis build focused tags:god-pve
+dimwishlist:item=3959549446&perks=1482024992,1885400500,3418782618,124408337
+dimwishlist:item=3959549446&perks=1482024992,1885400500,3418782618,1171887445
+dimwishlist:item=3959549446&perks=1482024992,1885400500,1563455254,124408337
+dimwishlist:item=3959549446&perks=1482024992,1885400500,1563455254,1171887445
+
+
+// Yarovit MG4 - PVE  (god-pve)
+//notes: tags:god-pve
+dimwishlist:item=3959549446&perks=1482024992,1885400500,3418782618,3708227201
+dimwishlist:item=3959549446&perks=1482024992,1885400500,3418782618,781192741
+dimwishlist:item=3959549446&perks=1482024992,1885400500,3418782618,2109543898
+dimwishlist:item=3959549446&perks=1482024992,1885400500,3418782618,2799030358
+dimwishlist:item=3959549446&perks=1482024992,1885400500,1563455254,3708227201
+dimwishlist:item=3959549446&perks=1482024992,1885400500,1563455254,781192741
+dimwishlist:item=3959549446&perks=1482024992,1885400500,1563455254,2109543898
+dimwishlist:item=3959549446&perks=1482024992,1885400500,1563455254,2799030358
+
+
+// Yarovit MG4 - PVE  (pve)
+//notes: tags:pve
+dimwishlist:item=3959549446&perks=3418782618,3708227201
+dimwishlist:item=3959549446&perks=3418782618,781192741
+dimwishlist:item=3959549446&perks=3418782618,2109543898
+dimwishlist:item=3959549446&perks=3418782618,2799030358
+dimwishlist:item=3959549446&perks=1563455254,3708227201
+dimwishlist:item=3959549446&perks=1563455254,781192741
+dimwishlist:item=3959549446&perks=1563455254,2109543898
+dimwishlist:item=3959549446&perks=1563455254,2799030358
+
+
+// Yarovit MG4 - PVE - Stasis (pve)
+//notes: Stasis build focused tags:pve
+dimwishlist:item=3959549446&perks=3418782618,124408337
+dimwishlist:item=3959549446&perks=3418782618,1171887445
+dimwishlist:item=3959549446&perks=1563455254,124408337
+dimwishlist:item=3959549446&perks=1563455254,1171887445
+
+
 // Aisha's Care - PVE (god-pve,pve)
 //notes: MW Stability; Backup mag; Start with Arrowhead Brake to maximize Recoil control making shots easier to land and give a nice boost to Handling, keeping the gun feeling snappy when moving from battle to battle. Include Ricochet Rounds in the Magazine for a welcome boosts to Stability and Range. In PvE, Stability is a key stat for Pulse Rifles to keep shots easily on target with every burst. This is where this god roll can take advantage of its Strand element. Applying Slice reduces incoming damage by 33 percent. In endgame content, this is a game-changer that can keep your team alive in the toughest situations. It can be applied to several enemies, allowing your team to rally or focus on a tankier enemy now that’s now debuffed. Close this god roll off with Golden Tricorn. Giving damage buffs on any type of weapon kill or a massive 50 percent on a matching ability kill to your subclass can easily take builds to the next level. tags:god-pve,pve
 dimwishlist:item=3969379530&perks=839105230,1885400500,923806249,2610012052
