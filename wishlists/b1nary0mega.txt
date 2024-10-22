@@ -2823,6 +2823,18 @@ dimwishlist:item=2198166292&perks=4223976499,438098033
 dimwishlist:item=2198166292&perks=4223976499,2748801589
 
 
+// Bygones - PVE (pve)
+//notes: tags:pve
+dimwishlist:item=2199554524&perks=3700496672,3891536761
+dimwishlist:item=2199554524&perks=3700496672,1549370717
+dimwishlist:item=2199554524&perks=3700496672,3824105627
+dimwishlist:item=2199554524&perks=3700496672,1183436451
+dimwishlist:item=2199554524&perks=2840833776,3891536761
+dimwishlist:item=2199554524&perks=2840833776,1549370717
+dimwishlist:item=2199554524&perks=2840833776,3824105627
+dimwishlist:item=2199554524&perks=2840833776,1183436451
+
+
 // Zealot's Reward - PVE (pve)
 //notes: tags:pve
 dimwishlist:item=2209003210&perks=1645158859,2213355989
@@ -2906,6 +2918,14 @@ dimwishlist:item=2249996761&perks=247725512,3891536761
 dimwishlist:item=2249996761&perks=247725512,1549370717
 dimwishlist:item=2249996761&perks=2938480696,3891536761
 dimwishlist:item=2249996761&perks=2938480696,1549370717
+
+
+// Yesterday's Question - PVE (pve)
+//notes: tags:pve
+dimwishlist:item=2300143112&perks=1354429876,1546637391
+dimwishlist:item=2300143112&perks=1354429876,3418165135
+dimwishlist:item=2300143112&perks=848860060,1546637391
+dimwishlist:item=2300143112&perks=848860060,3418165135
 
 
 // Wilderflight - PVE (god-pve)
@@ -3774,14 +3794,21 @@ dimwishlist:item=2591746970&perks=265542500,3429800428,2399646028
 // Chroma Rush - PVE-1 (pve)
 //notes: tags:pve
 dimwishlist:item=2598420927&perks=1820235745,3425386926
+dimwishlist:item=2598420927&perks=1820235745,3891536761
 dimwishlist:item=2598420927&perks=1820235745,288411554
+dimwishlist:item=2598420927&perks=1820235745,1549370717
 dimwishlist:item=2598420927&perks=4245865861,3425386926
+dimwishlist:item=2598420927&perks=4245865861,3891536761
 dimwishlist:item=2598420927&perks=4245865861,288411554
+dimwishlist:item=2598420927&perks=4245865861,1549370717
 
 
 // Chroma Rush - PVE-2 (pve)
 //notes: tags:pve
 dimwishlist:item=2598420927&perks=1359896290,365154968
+dimwishlist:item=2598420927&perks=1359896290,2939589096
+dimwishlist:item=2598420927&perks=3060983774,365154968
+dimwishlist:item=2598420927&perks=3060983774,2939589096
 
 
 // Liturgy - PVE-1 (pve)
@@ -3901,9 +3928,17 @@ dimwishlist:item=2728851518&perks=1645158859,2451262963
 
 
 // Ignition Code - PVE (pve)
-//notes: tags:pve
+//notes: Blinding tags:pve
 dimwishlist:item=2761869150&perks=3032599245,3161816588
 dimwishlist:item=2761869150&perks=3032599245,191144788
+
+
+// Ignition Code - PVE (pvp)
+//notes: Damage tags:pvp
+dimwishlist:item=2761869150&perks=3301904089,3161816588,1546637391
+dimwishlist:item=2761869150&perks=3301904089,3161816588,3418165135
+dimwishlist:item=2761869150&perks=3301904089,191144788,1546637391
+dimwishlist:item=2761869150&perks=3301904089,191144788,3418165135
 
 
 // Midnight Coup - PVE (god-pve)
@@ -4250,6 +4285,26 @@ dimwishlist:item=2889501828&perks=1618208178,3650930298
 dimwishlist:item=2889501828&perks=1618208178,405677814
 
 
+// Archon's Thunder - PVE (pve)
+//notes: tags:pve
+dimwishlist:item=2896109856&perks=3828510309,557221067
+dimwishlist:item=2896109856&perks=3828510309,95528736
+dimwishlist:item=2896109856&perks=3828510309,956288240
+dimwishlist:item=2896109856&perks=3828510309,2896748467
+dimwishlist:item=2896109856&perks=1771736209,557221067
+dimwishlist:item=2896109856&perks=1771736209,95528736
+dimwishlist:item=2896109856&perks=1771736209,956288240
+dimwishlist:item=2896109856&perks=1771736209,2896748467
+
+
+// Archon's Thunder - PVE (pve)
+//notes: Stasis build tags:pve
+dimwishlist:item=2896109856&perks=1955165503,124408337
+dimwishlist:item=2896109856&perks=1955165503,1171887445
+dimwishlist:item=2896109856&perks=2617553311,124408337
+dimwishlist:item=2896109856&perks=2617553311,1171887445
+
+
 // Scavenger's Fate - PVE (pve)
 //notes: tags:pve
 dimwishlist:item=2913577176&perks=25606670,2048641572
@@ -4288,6 +4343,14 @@ dimwishlist:item=2932922810&perks=3523746922,555281244
 dimwishlist:item=2932922810&perks=3523746922,2652708987
 dimwishlist:item=2932922810&perks=3523746922,617966211
 dimwishlist:item=2932922810&perks=3523746922,332733060
+
+
+// Tomorrow's Answer - PVE (pve)
+//notes: tags:pve
+dimwishlist:item=3009199534&perks=3987942396,3078487919
+dimwishlist:item=3009199534&perks=3987942396,3744057135
+dimwishlist:item=3009199534&perks=2817499044,3078487919
+dimwishlist:item=3009199534&perks=2817499044,3744057135
 
 
 // The Recluse - PVP Void (god-pve)
@@ -5224,11 +5287,27 @@ dimwishlist:item=3818198556&perks=64866129,1134488199
 
 
 // Vantage Point - PVE (pve)
-//notes: tags:pve
+//notes: arc jolt build focused tags:pve
 dimwishlist:item=3830941962&perks=684456054,3966416502
+dimwishlist:item=3830941962&perks=684456054,2173046394
 dimwishlist:item=3830941962&perks=684456054,717070634
 dimwishlist:item=3830941962&perks=2785334058,3966416502
+dimwishlist:item=3830941962&perks=2785334058,2173046394
 dimwishlist:item=3830941962&perks=2785334058,717070634
+dimwishlist:item=3830941962&perks=1583705720,3966416502
+dimwishlist:item=3830941962&perks=1583705720,2173046394
+dimwishlist:item=3830941962&perks=1583705720,717070634
+dimwishlist:item=3830941962&perks=1409206216,3966416502
+dimwishlist:item=3830941962&perks=1409206216,2173046394
+dimwishlist:item=3830941962&perks=1409206216,717070634
+
+
+// Vantage Point - PVE (pve)
+//notes: tags:pve
+dimwishlist:item=3830941962&perks=1583705720,4049631843
+dimwishlist:item=3830941962&perks=1583705720,859780267
+dimwishlist:item=3830941962&perks=1409206216,4049631843
+dimwishlist:item=3830941962&perks=1409206216,859780267
 
 
 // Hawkmoon - Exotic (pve,pvp)
@@ -5928,6 +6007,14 @@ dimwishlist:item=4195186942&perks=951095735,3523296417
 dimwishlist:item=4195186942&perks=951095735,1906147653
 dimwishlist:item=4195186942&perks=3878366039,3523296417
 dimwishlist:item=4195186942&perks=3878366039,1906147653
+
+
+// Veleda-F - PVE (pve)
+//notes: Aimed for solo content, bring a hard hitting heavy for use after weakon. tags:pve
+dimwishlist:item=4200122994&perks=2579169598,1134488199
+dimwishlist:item=4200122994&perks=2579169598,2904194311
+dimwishlist:item=4200122994&perks=2073244114,1134488199
+dimwishlist:item=4200122994&perks=2073244114,2904194311
 
 
 // False Idols - PVE (Ads) (god-pve,pve)
