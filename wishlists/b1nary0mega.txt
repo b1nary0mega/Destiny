@@ -1442,6 +1442,11 @@ dimwishlist:item=1197771438&perks=1961144892,3523296417
 dimwishlist:item=1197771438&perks=1961144892,1906147653
 
 
+// Cold Denial - PVP (pvp)
+//notes: tags:pvp
+dimwishlist:item=1216130969&perks=2387244414,460017080
+
+
 // Tusk of the Boar - PVE (god-pve)
 //notes: MW: Velocity or Reload; Waveframes operate slightly differently than other grenade launchers, mainly in that you want the highest blast radius possible so that the explosion does most of the damage. So we’ll be taking Quick Launch and High-Velocity Rounds to bump up the velocity without touching the blast radius and get a small reload speed buff. For Perk 1, there’s a lot of good in this small pool. Envious Assassin is what most will want as it lacks Ambitious, but Enlightened Action is also very viable thanks to the reload speed multiplier stacking with each hit. You could even opt for Slice if you want to play into Strand, or just want more damage resistance. Perk 2 is either Chain Reaction or Hatchling for the pure ad-clear potential, but since Chain Reaction is getting nerfed in The Final Shape, Hatchling is your future-proof roll. tags:god-pve
 dimwishlist:item=1218113510&perks=3525010810,2822142346,3828510309,831391274,2120661319
