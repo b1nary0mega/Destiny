@@ -5138,6 +5138,54 @@ dimwishlist:item=3615421669&perks=1171887445,344235611
 dimwishlist:item=3628991658&perks=3250034553,3142289711,320534106,4259401308
 
 
+// Arcane Embrace - PVE (god-pve)
+//notes: As is typical for PvE, we’ll start with options that offer us high handling and reload speed: Fluted Barrel, Tactical Mag, and a handling masterwork. Fourth Time’s the Charm is the play for column one, allowing you to avoid reloading and searching for ammo as much as possible. For your final perk, Surrounded’s 40% damage increase is hard to beat; however, if you find it hard to keep it up, Precision Instrument is a solid second choice. tags:god-pve
+dimwishlist:item=3649985571&perks=1840239774,106909392,1354429876,3708227201
+dimwishlist:item=3649985571&perks=1840239774,106909392,1354429876,781192741
+dimwishlist:item=3649985571&perks=1840239774,106909392,1354429876,555281244
+dimwishlist:item=3649985571&perks=1840239774,106909392,1354429876,332733060
+dimwishlist:item=3649985571&perks=1840239774,106909392,848860060,3708227201
+dimwishlist:item=3649985571&perks=1840239774,106909392,848860060,781192741
+dimwishlist:item=3649985571&perks=1840239774,106909392,848860060,555281244
+dimwishlist:item=3649985571&perks=1840239774,106909392,848860060,332733060
+
+
+// Arcane Embrace - PVP (god-pvp)
+//notes: To begin our PvP roll, we’ll start with building almost entirely into stability with Smallbore, Steady Rounds, and a stability masterwork. The reason for this is our main perks. Both Slideshot and Closing Time provide 20 range (among other things), bringing Arcane Embrace’s range stat to 100 even with Steady Rounds’ -5. While this roll provides consistency and nothing more, it should result in an experience that is reminiscent of a traditional slug shotgun. tags:god-pvp
+dimwishlist:item=3649985571&perks=1482024992,3177308360,3161816588,1194056669
+dimwishlist:item=3649985571&perks=1482024992,3177308360,3161816588,3955464425
+dimwishlist:item=3649985571&perks=1482024992,3177308360,191144788,1194056669
+dimwishlist:item=3649985571&perks=1482024992,3177308360,191144788,3955464425
+
+
+// Arcane Embrace - PVE (pve)
+//notes: As is typical for PvE, we’ll start with options that offer us high handling and reload speed: Fluted Barrel, Tactical Mag, and a handling masterwork. Fourth Time’s the Charm is the play for column one, allowing you to avoid reloading and searching for ammo as much as possible. For your final perk, Surrounded’s 40% damage increase is hard to beat; however, if you find it hard to keep it up, Precision Instrument is a solid second choice. tags:pve
+dimwishlist:item=3649985571&perks=1354429876,3708227201
+dimwishlist:item=3649985571&perks=1354429876,781192741
+dimwishlist:item=3649985571&perks=1354429876,555281244
+dimwishlist:item=3649985571&perks=1354429876,332733060
+dimwishlist:item=3649985571&perks=848860060,3708227201
+dimwishlist:item=3649985571&perks=848860060,781192741
+dimwishlist:item=3649985571&perks=848860060,555281244
+dimwishlist:item=3649985571&perks=848860060,332733060
+
+
+// Arcane Embrace - PVE-2 (pve)
+//notes: Not sure how this will work, but interested to find out. tags:pve
+dimwishlist:item=3649985571&perks=3161816588,2173046394
+dimwishlist:item=3649985571&perks=3161816588,1720528630
+dimwishlist:item=3649985571&perks=191144788,2173046394
+dimwishlist:item=3649985571&perks=191144788,1720528630
+
+
+// Arcane Embrace - PVP (pvp)
+//notes: To begin our PvP roll, we’ll start with building almost entirely into stability with Smallbore, Steady Rounds, and a stability masterwork. The reason for this is our main perks. Both Slideshot and Closing Time provide 20 range (among other things), bringing Arcane Embrace’s range stat to 100 even with Steady Rounds’ -5. While this roll provides consistency and nothing more, it should result in an experience that is reminiscent of a traditional slug shotgun. tags:pvp
+dimwishlist:item=3649985571&perks=3161816588,1194056669
+dimwishlist:item=3649985571&perks=3161816588,3955464425
+dimwishlist:item=3649985571&perks=191144788,1194056669
+dimwishlist:item=3649985571&perks=191144788,3955464425
+
+
 // Stormchaser - PVE (god-pve)
 //notes: MW: Charge; DPS; Arrowhead Brake gets the recoil to be more vertical while also improving handling. Enhanced Battery gives you an additional round (make sure to take advantage of armor mods too). Auto-Loading Holster ensures the gun reloads while you’re using Primary and Special weapons while Firing Line bumps up the damage when near teammates. If you’re soloing content, consider looking for Vorpal Weapon instead of Firing Line. Clown Cartridge is another great option, though it does require manual reloads. tags:god-pve
 dimwishlist:item=3652506829&perks=839105230,2680121939,2284787283,1771339417
@@ -5366,6 +5414,14 @@ dimwishlist:item=3867373351&perks=280464955,1754714824
 dimwishlist:item=3867373351&perks=280464955,834262328
 dimwishlist:item=3867373351&perks=3920370755,1754714824
 dimwishlist:item=3867373351&perks=3920370755,834262328
+
+
+// Mechabre - PVP (pvp)
+//notes: Immediately grabbing the community's attention with its solid perks and stats, Mechabre is the rare case of an event weapon that's worth the grind. Being 72 RPM also means Beloved and Mercurial Overreach can't directly replace it, so farming it next time Festival of the Lost is around isn't a bad idea. tags:pvp
+dimwishlist:item=3871226707&perks=957782887,1370847713
+dimwishlist:item=3871226707&perks=957782887,47981717
+dimwishlist:item=3871226707&perks=4116820839,1370847713
+dimwishlist:item=3871226707&perks=4116820839,47981717
 
 
 // Transfiguration - PVE (god-pve)
