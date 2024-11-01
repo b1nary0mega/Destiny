@@ -2925,6 +2925,30 @@ dimwishlist:item=2249996761&perks=2938480696,3891536761
 dimwishlist:item=2249996761&perks=2938480696,1549370717
 
 
+// Rake Angle - PVE (god-pve)
+//notes: As mentioned earlier, the main drawback to this weapon is a low mag size, so to help in the frequent reloads, we’ll be using Low-Impedance Windings, as it also gives a slight boost to Shield Duration as well. Appended Mag with a Backup Mag mod should bump the mag up to 6, but if it doesn’t, Alloy Mag is your best bet as a single extra shot is far less useful than a quick reload. Perk 1 is going to be Replenishing Aegis. It is perfect for getting the most out of Chill Clip as every second you block damage, a round is refunded to the mag, allowing you to apply it way more. However, Rimestealer’s utility cannot be denied. The drawback is how little you might be activating it on account of the mag size not lending too well to Chill Clip. On that note, Chill Clip or Close to Melee are perfect Perk 2 picks. Chill Clip is tried and true no matter where it’s found, and Close to Melee is excellent for getting up close, especially when paired with Synthoceps. tags:god-pve
+dimwishlist:item=2298039571&perks=2713678205,1087426260,1955165503,2978966579
+dimwishlist:item=2298039571&perks=2713678205,1087426260,1955165503,344235611
+dimwishlist:item=2298039571&perks=2713678205,1087426260,2617553311,2978966579
+dimwishlist:item=2298039571&perks=2713678205,1087426260,2617553311,344235611
+dimwishlist:item=2298039571&perks=2713678205,1087426260,1966281507,2978966579
+dimwishlist:item=2298039571&perks=2713678205,1087426260,1966281507,344235611
+dimwishlist:item=2298039571&perks=2713678205,1087426260,1592669035,2978966579
+dimwishlist:item=2298039571&perks=2713678205,1087426260,1592669035,344235611
+
+
+// Rake Angle - PVE (pve)
+//notes: As mentioned earlier, the main drawback to this weapon is a low mag size, so to help in the frequent reloads, we’ll be using Low-Impedance Windings, as it also gives a slight boost to Shield Duration as well. Appended Mag with a Backup Mag mod should bump the mag up to 6, but if it doesn’t, Alloy Mag is your best bet as a single extra shot is far less useful than a quick reload. Perk 1 is going to be Replenishing Aegis. It is perfect for getting the most out of Chill Clip as every second you block damage, a round is refunded to the mag, allowing you to apply it way more. However, Rimestealer’s utility cannot be denied. The drawback is how little you might be activating it on account of the mag size not lending too well to Chill Clip. On that note, Chill Clip or Close to Melee are perfect Perk 2 picks. Chill Clip is tried and true no matter where it’s found, and Close to Melee is excellent for getting up close, especially when paired with Synthoceps. tags:pve
+dimwishlist:item=2298039571&perks=1955165503,2978966579
+dimwishlist:item=2298039571&perks=1955165503,344235611
+dimwishlist:item=2298039571&perks=2617553311,2978966579
+dimwishlist:item=2298039571&perks=2617553311,344235611
+dimwishlist:item=2298039571&perks=1966281507,2978966579
+dimwishlist:item=2298039571&perks=1966281507,344235611
+dimwishlist:item=2298039571&perks=1592669035,2978966579
+dimwishlist:item=2298039571&perks=1592669035,344235611
+
+
 // Yesterday's Question - PVE (pve)
 //notes: tags:pve
 dimwishlist:item=2300143112&perks=1354429876,1546637391
