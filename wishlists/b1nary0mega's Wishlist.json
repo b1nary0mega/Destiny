@@ -10096,16 +10096,19 @@
             ]
         },
         {
-            "description": "",
+            "description": "arc jolt build focused",
             "hash": 3830941962,
             "name": "PVE",
             "plugs": [
                 [
                     684456054,
-                    2785334058
+                    2785334058,
+                    1583705720,
+                    1409206216
                 ],
                 [
                     3966416502,
+                    2173046394,
                     717070634
                 ]
             ],
@@ -10204,7 +10207,7 @@
             ]
         },
         {
-            "description": "",
+            "description": "Blinding",
             "hash": 2761869150,
             "name": "PVE",
             "plugs": [
@@ -10231,7 +10234,9 @@
                 ],
                 [
                     3425386926,
-                    288411554
+                    3891536761,
+                    288411554,
+                    1549370717
                 ]
             ],
             "tags": [
@@ -10244,10 +10249,12 @@
             "name": "PVE-2",
             "plugs": [
                 [
-                    1359896290
+                    1359896290,
+                    3060983774
                 ],
                 [
-                    365154968
+                    365154968,
+                    2939589096
                 ]
             ],
             "tags": [
@@ -10622,6 +10629,733 @@
             ],
             "tags": [
                 "GodPVE"
+            ]
+        },
+        {
+            "description": "Fluted Barrel and our masterwork of choice contribute to building into what is generally the most important perk for PvE: handling. For our magazine perk, Enhanced Battery is something you can’t go wrong with. The synergy of Repulsor Brace and Withering Gaze can’t be ignored, which is why it’s our recommended god roll. Even if you aren’t using this weapon with a Void build, this roll is still extremely potent and contains a gameplay loop that sustains itself. However, if you’re instead looking for a more general roll, Demolitionist and Chain Reaction are your best bets.",
+            "hash": 93061497,
+            "name": "PVE",
+            "plugs": [
+                [
+                    1840239774
+                ],
+                [
+                    2680121939
+                ],
+                [
+                    776531651,
+                    2541826827
+                ],
+                [
+                    1134488199,
+                    2904194311
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Fluted Barrel and our masterwork of choice contribute to building into what is generally the most important perk for PvE: handling. For our magazine perk, Enhanced Battery is something you can’t go wrong with. The synergy of Repulsor Brace and Withering Gaze can’t be ignored, which is why it’s our recommended god roll. Even if you aren’t using this weapon with a Void build, this roll is still extremely potent and contains a gameplay loop that sustains itself. However, if you’re instead looking for a more general roll, Demolitionist and Chain Reaction are your best bets.",
+            "hash": 93061497,
+            "name": "PVE2",
+            "plugs": [
+                [
+                    1840239774
+                ],
+                [
+                    2680121939
+                ],
+                [
+                    3523296417,
+                    1906147653
+                ],
+                [
+                    2396489472,
+                    598607952
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Fluted Barrel and our masterwork of choice contribute to building into what is generally the most important perk for PvE: handling. For our magazine perk, Enhanced Battery is something you can’t go wrong with. The synergy of Repulsor Brace and Withering Gaze can’t be ignored, which is why it’s our recommended god roll. Even if you aren’t using this weapon with a Void build, this roll is still extremely potent and contains a gameplay loop that sustains itself. However, if you’re instead looking for a more general roll, Demolitionist and Chain Reaction are your best bets.",
+            "hash": 93061497,
+            "name": "PVE",
+            "plugs": [
+                [
+                    776531651,
+                    2541826827
+                ],
+                [
+                    1134488199,
+                    2904194311
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "Fluted Barrel and our masterwork of choice contribute to building into what is generally the most important perk for PvE: handling. For our magazine perk, Enhanced Battery is something you can’t go wrong with. The synergy of Repulsor Brace and Withering Gaze can’t be ignored, which is why it’s our recommended god roll. Even if you aren’t using this weapon with a Void build, this roll is still extremely potent and contains a gameplay loop that sustains itself. However, if you’re instead looking for a more general roll, Demolitionist and Chain Reaction are your best bets.",
+            "hash": 93061497,
+            "name": "PVE2",
+            "plugs": [
+                [
+                    3523296417,
+                    1906147653
+                ],
+                [
+                    2396489472,
+                    598607952
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "Quick Launch and Spike Grenades are the standard picks for a small boost handling, velocity, and a tiny damage bump. Envious Arsenal is an excellent perk for swap rotations, and Bait and Switch, thanks to its activation conditions, perfectly complements this. Using this weapon with a standard swap weapon like Izanagi’s Burden will be very successful. Demolitionist is also a valid option with specific setups, as it allows you to spam many shots in a row, especially on Prismatic.",
+            "hash": 1762785662,
+            "name": "PVE",
+            "plugs": [
+                [
+                    3525010810
+                ],
+                [
+                    3301904089
+                ],
+                [
+                    3987942396,
+                    3523296417,
+                    2817499044,
+                    1906147653
+                ],
+                [
+                    3078487919,
+                    3744057135
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Quick Launch and Spike Grenades are the standard picks for a small boost handling, velocity, and a tiny damage bump. Envious Arsenal is an excellent perk for swap rotations, and Bait and Switch, thanks to its activation conditions, perfectly complements this. Using this weapon with a standard swap weapon like Izanagi’s Burden will be very successful. Demolitionist is also a valid option with specific setups, as it allows you to spam many shots in a row, especially on Prismatic.",
+            "hash": 1762785662,
+            "name": "PVE",
+            "plugs": [
+                [
+                    3987942396,
+                    3523296417,
+                    2817499044,
+                    1906147653
+                ],
+                [
+                    3078487919,
+                    3744057135
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "We’ll begin by looking for high-velocity and handling stats through Quick Launch, High-Velocity Rounds, and either a velocity or handling masterwork. There are two ways you can shape this weapon for PvE: for builds or for general gameplay. If you’re interested in the former, Demolitionist and Destabilizing Rounds or Repulsor Brace are your best picks. However, VS Velocity Baton’s general roll is arguably more potent. Unrelenting offers significant health regeneration while you’re clearing waves of enemies, while Attrition Orbs is absolutely insane on this weapon. Because the perk is hit-based and area denial frames feature hefty damage over time, using this perk results in an orb-generating machine.",
+            "hash": 1762785663,
+            "name": "PVE",
+            "plugs": [
+                [
+                    3525010810
+                ],
+                [
+                    2822142346
+                ],
+                [
+                    3108830275,
+                    855168139
+                ],
+                [
+                    243981275,
+                    984655331
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "We’ll begin by looking for high-velocity and handling stats through Quick Launch, High-Velocity Rounds, and either a velocity or handling masterwork. There are two ways you can shape this weapon for PvE: for builds or for general gameplay. If you’re interested in the former, Demolitionist and Destabilizing Rounds or Repulsor Brace are your best picks. However, VS Velocity Baton’s general roll is arguably more potent. Unrelenting offers significant health regeneration while you’re clearing waves of enemies, while Attrition Orbs is absolutely insane on this weapon. Because the perk is hit-based and area denial frames feature hefty damage over time, using this perk results in an orb-generating machine.",
+            "hash": 1762785663,
+            "name": "PVE",
+            "plugs": [
+                [
+                    3108830275,
+                    855168139
+                ],
+                [
+                    243981275,
+                    984655331
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "We’ll begin by looking for high-velocity and handling stats through Quick Launch, High-Velocity Rounds, and either a velocity or handling masterwork. There are two ways you can shape this weapon for PvE: for builds or for general gameplay. If you’re interested in the former, Demolitionist and Destabilizing Rounds or Repulsor Brace are your best picks. However, VS Velocity Baton’s general roll is arguably more potent. Unrelenting offers significant health regeneration while you’re clearing waves of enemies, while Attrition Orbs is absolutely insane on this weapon. Because the perk is hit-based and area denial frames feature hefty damage over time, using this perk results in an orb-generating machine.",
+            "hash": 1762785663,
+            "name": "PVE2",
+            "plugs": [
+                [
+                    3525010810
+                ],
+                [
+                    2822142346
+                ],
+                [
+                    776531651,
+                    2541826827
+                ],
+                [
+                    2048641572,
+                    1926441324
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "We’ll begin by looking for high-velocity and handling stats through Quick Launch, High-Velocity Rounds, and either a velocity or handling masterwork. There are two ways you can shape this weapon for PvE: for builds or for general gameplay. If you’re interested in the former, Demolitionist and Destabilizing Rounds or Repulsor Brace are your best picks. However, VS Velocity Baton’s general roll is arguably more potent. Unrelenting offers significant health regeneration while you’re clearing waves of enemies, while Attrition Orbs is absolutely insane on this weapon. Because the perk is hit-based and area denial frames feature hefty damage over time, using this perk results in an orb-generating machine.",
+            "hash": 1762785663,
+            "name": "PVE2",
+            "plugs": [
+                [
+                    776531651,
+                    2541826827
+                ],
+                [
+                    2048641572,
+                    1926441324
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "While we may not know the exacts of the mags and barrels, we can make an educated guess that the standard fare will appear here. As such, the tried and true combo of Fluted Barrel and Flared Magwell or Tactical Mag will work great here for the bumps to stability, handling, and reload speed. Perk 1 has two solid PvE perks in Eddy Current and Attrition Orbs. Eddy Current can activate via the Amplified buff, which makes it great for any build that involves Arc, and Attrition Orbs can proc off Jolting Feedback. Both are excellent pairings with either Jolting Feedback or Onslaught. Jolting Feedback allows for easy Jolt application as it is based off of damage, not kills, and applies faster when Amplified! Onslaught is a solid neutral perk as it also gives a reload speed buff on top of the damage it gets, and stacking that with either of your Perk 1 options is just icing on the cake.",
+            "hash": 4232480042,
+            "name": "PVE",
+            "plugs": [
+                [
+                    1840239774
+                ],
+                [
+                    3230963543
+                ],
+                [
+                    684456054,
+                    2785334058
+                ],
+                [
+                    3966416502,
+                    717070634
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "While we may not know the exacts of the mags and barrels, we can make an educated guess that the standard fare will appear here. As such, the tried and true combo of Fluted Barrel and Flared Magwell or Tactical Mag will work great here for the bumps to stability, handling, and reload speed. Perk 1 has two solid PvE perks in Eddy Current and Attrition Orbs. Eddy Current can activate via the Amplified buff, which makes it great for any build that involves Arc, and Attrition Orbs can proc off Jolting Feedback. Both are excellent pairings with either Jolting Feedback or Onslaught. Jolting Feedback allows for easy Jolt application as it is based off of damage, not kills, and applies faster when Amplified! Onslaught is a solid neutral perk as it also gives a reload speed buff on top of the damage it gets, and stacking that with either of your Perk 1 options is just icing on the cake.",
+            "hash": 4232480042,
+            "name": "PVE",
+            "plugs": [
+                [
+                    684456054,
+                    2785334058
+                ],
+                [
+                    3966416502,
+                    717070634
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "Stasis build focused",
+            "hash": 3959549446,
+            "name": "PVE - Stasis",
+            "plugs": [
+                [
+                    1482024992
+                ],
+                [
+                    1885400500
+                ],
+                [
+                    3418782618,
+                    1563455254
+                ],
+                [
+                    124408337,
+                    1171887445
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 3959549446,
+            "name": "PVE ",
+            "plugs": [
+                [
+                    1482024992
+                ],
+                [
+                    1885400500
+                ],
+                [
+                    3418782618,
+                    1563455254
+                ],
+                [
+                    3708227201,
+                    781192741,
+                    2109543898,
+                    2799030358
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 3959549446,
+            "name": "PVE ",
+            "plugs": [
+                [
+                    3418782618,
+                    1563455254
+                ],
+                [
+                    3708227201,
+                    781192741,
+                    2109543898,
+                    2799030358
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "Stasis build focused",
+            "hash": 3959549446,
+            "name": "PVE - Stasis",
+            "plugs": [
+                [
+                    3418782618,
+                    1563455254
+                ],
+                [
+                    124408337,
+                    1171887445
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "Damage",
+            "hash": 2761869150,
+            "name": "PVE",
+            "plugs": [
+                [
+                    3301904089
+                ],
+                [
+                    3161816588,
+                    191144788
+                ],
+                [
+                    1546637391,
+                    3418165135
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 3830941962,
+            "name": "PVE",
+            "plugs": [
+                [
+                    1583705720,
+                    1409206216
+                ],
+                [
+                    4049631843,
+                    859780267
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 2199554524,
+            "name": "PVE",
+            "plugs": [
+                [
+                    3700496672,
+                    2840833776
+                ],
+                [
+                    3891536761,
+                    1549370717,
+                    3824105627,
+                    1183436451
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 3009199534,
+            "name": "PVE",
+            "plugs": [
+                [
+                    3987942396,
+                    2817499044
+                ],
+                [
+                    3078487919,
+                    3744057135
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 2300143112,
+            "name": "PVE",
+            "plugs": [
+                [
+                    1354429876,
+                    848860060
+                ],
+                [
+                    1546637391,
+                    3418165135
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 2896109856,
+            "name": "PVE",
+            "plugs": [
+                [
+                    3828510309,
+                    1771736209
+                ],
+                [
+                    557221067,
+                    95528736,
+                    956288240,
+                    2896748467
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "Stasis build",
+            "hash": 2896109856,
+            "name": "PVE",
+            "plugs": [
+                [
+                    1955165503,
+                    2617553311
+                ],
+                [
+                    124408337,
+                    1171887445
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "Aimed for solo content, bring a hard hitting heavy for use after weakon.",
+            "hash": 4200122994,
+            "name": "PVE",
+            "plugs": [
+                [
+                    2579169598,
+                    2073244114
+                ],
+                [
+                    1134488199,
+                    2904194311
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 1216130969,
+            "name": "PVP",
+            "plugs": [
+                [
+                    2387244414
+                ],
+                [
+                    460017080
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "Immediately grabbing the community's attention with its solid perks and stats, Mechabre is the rare case of an event weapon that's worth the grind. Being 72 RPM also means Beloved and Mercurial Overreach can't directly replace it, so farming it next time Festival of the Lost is around isn't a bad idea.",
+            "hash": 3871226707,
+            "name": "PVP",
+            "plugs": [
+                [
+                    957782887,
+                    4116820839
+                ],
+                [
+                    1370847713,
+                    47981717
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "As is typical for PvE, we’ll start with options that offer us high handling and reload speed: Fluted Barrel, Tactical Mag, and a handling masterwork. Fourth Time’s the Charm is the play for column one, allowing you to avoid reloading and searching for ammo as much as possible. For your final perk, Surrounded’s 40% damage increase is hard to beat; however, if you find it hard to keep it up, Precision Instrument is a solid second choice.",
+            "hash": 3649985571,
+            "name": "PVE",
+            "plugs": [
+                [
+                    1840239774
+                ],
+                [
+                    106909392
+                ],
+                [
+                    1354429876,
+                    848860060
+                ],
+                [
+                    3708227201,
+                    781192741,
+                    555281244,
+                    332733060
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "As is typical for PvE, we’ll start with options that offer us high handling and reload speed: Fluted Barrel, Tactical Mag, and a handling masterwork. Fourth Time’s the Charm is the play for column one, allowing you to avoid reloading and searching for ammo as much as possible. For your final perk, Surrounded’s 40% damage increase is hard to beat; however, if you find it hard to keep it up, Precision Instrument is a solid second choice.",
+            "hash": 3649985571,
+            "name": "PVE",
+            "plugs": [
+                [
+                    1354429876,
+                    848860060
+                ],
+                [
+                    3708227201,
+                    781192741,
+                    555281244,
+                    332733060
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "Not sure how this will work, but interested to find out.",
+            "hash": 3649985571,
+            "name": "PVE-2",
+            "plugs": [
+                [
+                    3161816588,
+                    191144788
+                ],
+                [
+                    2173046394,
+                    1720528630
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "To begin our PvP roll, we’ll start with building almost entirely into stability with Smallbore, Steady Rounds, and a stability masterwork. The reason for this is our main perks. Both Slideshot and Closing Time provide 20 range (among other things), bringing Arcane Embrace’s range stat to 100 even with Steady Rounds’ -5. While this roll provides consistency and nothing more, it should result in an experience that is reminiscent of a traditional slug shotgun.",
+            "hash": 3649985571,
+            "name": "PVP",
+            "plugs": [
+                [
+                    1482024992
+                ],
+                [
+                    3177308360
+                ],
+                [
+                    3161816588,
+                    191144788
+                ],
+                [
+                    1194056669,
+                    3955464425
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "To begin our PvP roll, we’ll start with building almost entirely into stability with Smallbore, Steady Rounds, and a stability masterwork. The reason for this is our main perks. Both Slideshot and Closing Time provide 20 range (among other things), bringing Arcane Embrace’s range stat to 100 even with Steady Rounds’ -5. While this roll provides consistency and nothing more, it should result in an experience that is reminiscent of a traditional slug shotgun.",
+            "hash": 3649985571,
+            "name": "PVP",
+            "plugs": [
+                [
+                    3161816588,
+                    191144788
+                ],
+                [
+                    1194056669,
+                    3955464425
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "As mentioned earlier, the main drawback to this weapon is a low mag size, so to help in the frequent reloads, we’ll be using Low-Impedance Windings, as it also gives a slight boost to Shield Duration as well. Appended Mag with a Backup Mag mod should bump the mag up to 6, but if it doesn’t, Alloy Mag is your best bet as a single extra shot is far less useful than a quick reload. Perk 1 is going to be Replenishing Aegis. It is perfect for getting the most out of Chill Clip as every second you block damage, a round is refunded to the mag, allowing you to apply it way more. However, Rimestealer’s utility cannot be denied. The drawback is how little you might be activating it on account of the mag size not lending too well to Chill Clip. On that note, Chill Clip or Close to Melee are perfect Perk 2 picks. Chill Clip is tried and true no matter where it’s found, and Close to Melee is excellent for getting up close, especially when paired with Synthoceps.",
+            "hash": 2298039571,
+            "name": "PVE",
+            "plugs": [
+                [
+                    2713678205
+                ],
+                [
+                    1087426260
+                ],
+                [
+                    1955165503,
+                    2617553311,
+                    1966281507,
+                    1592669035
+                ],
+                [
+                    2978966579,
+                    344235611
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "As mentioned earlier, the main drawback to this weapon is a low mag size, so to help in the frequent reloads, we’ll be using Low-Impedance Windings, as it also gives a slight boost to Shield Duration as well. Appended Mag with a Backup Mag mod should bump the mag up to 6, but if it doesn’t, Alloy Mag is your best bet as a single extra shot is far less useful than a quick reload. Perk 1 is going to be Replenishing Aegis. It is perfect for getting the most out of Chill Clip as every second you block damage, a round is refunded to the mag, allowing you to apply it way more. However, Rimestealer’s utility cannot be denied. The drawback is how little you might be activating it on account of the mag size not lending too well to Chill Clip. On that note, Chill Clip or Close to Melee are perfect Perk 2 picks. Chill Clip is tried and true no matter where it’s found, and Close to Melee is excellent for getting up close, especially when paired with Synthoceps.",
+            "hash": 2298039571,
+            "name": "PVE",
+            "plugs": [
+                [
+                    1955165503,
+                    2617553311,
+                    1966281507,
+                    1592669035
+                ],
+                [
+                    2978966579,
+                    344235611
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "As mentioned earlier, the main drawback to this weapon is a low mag size, so to help in the frequent reloads, we’ll be using Low-Impedance Windings, as it also gives a slight boost to Shield Duration as well. Appended Mag with a Backup Mag mod should bump the mag up to 6, but if it doesn’t, Alloy Mag is your best bet as a single extra shot is far less useful than a quick reload. Perk 1 is going to be Replenishing Aegis. It is perfect for getting the most out of Chill Clip as every second you block damage, a round is refunded to the mag, allowing you to apply it way more. However, Rimestealer’s utility cannot be denied. The drawback is how little you might be activating it on account of the mag size not lending too well to Chill Clip. On that note, Chill Clip or Close to Melee are perfect Perk 2 picks. Chill Clip is tried and true no matter where it’s found, and Close to Melee is excellent for getting up close, especially when paired with Synthoceps.",
+            "hash": 3997086838,
+            "name": "PVE",
+            "plugs": [
+                [
+                    2713678205
+                ],
+                [
+                    1087426260
+                ],
+                [
+                    1955165503,
+                    1966281507,
+                    2617553311,
+                    1592669035
+                ],
+                [
+                    2978966579,
+                    344235611
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "As mentioned earlier, the main drawback to this weapon is a low mag size, so to help in the frequent reloads, we’ll be using Low-Impedance Windings, as it also gives a slight boost to Shield Duration as well. Appended Mag with a Backup Mag mod should bump the mag up to 6, but if it doesn’t, Alloy Mag is your best bet as a single extra shot is far less useful than a quick reload. Perk 1 is going to be Replenishing Aegis. It is perfect for getting the most out of Chill Clip as every second you block damage, a round is refunded to the mag, allowing you to apply it way more. However, Rimestealer’s utility cannot be denied. The drawback is how little you might be activating it on account of the mag size not lending too well to Chill Clip. On that note, Chill Clip or Close to Melee are perfect Perk 2 picks. Chill Clip is tried and true no matter where it’s found, and Close to Melee is excellent for getting up close, especially when paired with Synthoceps.",
+            "hash": 3997086838,
+            "name": "PVE",
+            "plugs": [
+                [
+                    1955165503,
+                    1966281507,
+                    2617553311,
+                    1592669035
+                ],
+                [
+                    2978966579,
+                    344235611
+                ]
+            ],
+            "tags": [
+                "PVE"
             ]
         }
     ]
