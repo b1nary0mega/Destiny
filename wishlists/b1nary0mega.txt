@@ -2949,6 +2949,14 @@ dimwishlist:item=2298039571&perks=1592669035,2978966579
 dimwishlist:item=2298039571&perks=1592669035,344235611
 
 
+// Rake Angle - WIB (pve)
+//notes: tags:pve
+dimwishlist:item=2298039571&perks=1955165503,3708227201
+dimwishlist:item=2298039571&perks=1955165503,781192741
+dimwishlist:item=2298039571&perks=2617553311,3708227201
+dimwishlist:item=2298039571&perks=2617553311,781192741
+
+
 // Yesterday's Question - PVE (pve)
 //notes: tags:pve
 dimwishlist:item=2300143112&perks=1354429876,1546637391
@@ -3854,6 +3862,14 @@ dimwishlist:item=2599338624&perks=1955165503,2978966579
 dimwishlist:item=2599338624&perks=1955165503,344235611
 dimwishlist:item=2599338624&perks=2617553311,2978966579
 dimwishlist:item=2599338624&perks=2617553311,344235611
+
+
+// Liturgy - PVE-3 (pve)
+//notes: tags:pve
+dimwishlist:item=2599338624&perks=1955165503,2396489472
+dimwishlist:item=2599338624&perks=1955165503,598607952
+dimwishlist:item=2599338624&perks=2617553311,2396489472
+dimwishlist:item=2599338624&perks=2617553311,598607952
 
 
 // Bitter/Sweet - PVE (pve)
