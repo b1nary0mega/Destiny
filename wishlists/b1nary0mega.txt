@@ -139,6 +139,38 @@ dimwishlist:item=93061497&perks=1906147653,2396489472
 dimwishlist:item=93061497&perks=1906147653,598607952
 
 
+// Word of Crota - PVE (god-pve)
+//notes: Word of Crota is definitely a more PvE-centric weapon, and this is especially apparent when viewing its perk pool. In regards to the barrel, magazine, and masterwork, look for extra range and reload speed. For main perks, as we mentioned before, there are a couple of pathways you can take here. Repulsor Brace and Destabilizing Rounds are best for Void synergy, while Enlightened Action and Sword Logic are great for more neutral gameplay. Assuming you can get past its intrinsically weak precision frame, Word of Crota can excel a fair amount in most PvE activities. tags:god-pve
+dimwishlist:item=120706239&perks=3250034553,3230963543,776531651,2048641572
+dimwishlist:item=120706239&perks=3250034553,3230963543,776531651,31345821
+dimwishlist:item=120706239&perks=3250034553,3230963543,776531651,639190697
+dimwishlist:item=120706239&perks=3250034553,3230963543,776531651,1926441324
+dimwishlist:item=120706239&perks=3250034553,3230963543,2541826827,2048641572
+dimwishlist:item=120706239&perks=3250034553,3230963543,2541826827,31345821
+dimwishlist:item=120706239&perks=3250034553,3230963543,2541826827,639190697
+dimwishlist:item=120706239&perks=3250034553,3230963543,2541826827,1926441324
+dimwishlist:item=120706239&perks=3250034553,106909392,776531651,2048641572
+dimwishlist:item=120706239&perks=3250034553,106909392,776531651,31345821
+dimwishlist:item=120706239&perks=3250034553,106909392,776531651,639190697
+dimwishlist:item=120706239&perks=3250034553,106909392,776531651,1926441324
+dimwishlist:item=120706239&perks=3250034553,106909392,2541826827,2048641572
+dimwishlist:item=120706239&perks=3250034553,106909392,2541826827,31345821
+dimwishlist:item=120706239&perks=3250034553,106909392,2541826827,639190697
+dimwishlist:item=120706239&perks=3250034553,106909392,2541826827,1926441324
+
+
+// Word of Crota - PVE (pve)
+//notes: Word of Crota is definitely a more PvE-centric weapon, and this is especially apparent when viewing its perk pool. In regards to the barrel, magazine, and masterwork, look for extra range and reload speed. For main perks, as we mentioned before, there are a couple of pathways you can take here. Repulsor Brace and Destabilizing Rounds are best for Void synergy, while Enlightened Action and Sword Logic are great for more neutral gameplay. Assuming you can get past its intrinsically weak precision frame, Word of Crota can excel a fair amount in most PvE activities. tags:pve
+dimwishlist:item=120706239&perks=776531651,2048641572
+dimwishlist:item=120706239&perks=776531651,31345821
+dimwishlist:item=120706239&perks=776531651,639190697
+dimwishlist:item=120706239&perks=776531651,1926441324
+dimwishlist:item=120706239&perks=2541826827,2048641572
+dimwishlist:item=120706239&perks=2541826827,31345821
+dimwishlist:item=120706239&perks=2541826827,639190697
+dimwishlist:item=120706239&perks=2541826827,1926441324
+
+
 // Malfeasance - Exotic ()
 dimwishlist:item=204878059&perks=4090651448,2420895100,2130042297,1012699414
 
@@ -4248,6 +4280,38 @@ dimwishlist:item=2823644677&perks=1955165503,124408337
 dimwishlist:item=2823644677&perks=1955165503,1171887445
 dimwishlist:item=2823644677&perks=2617553311,124408337
 dimwishlist:item=2823644677&perks=2617553311,1171887445
+
+
+// Song of Ir Yût - PVE1 (god-pve)
+//notes: This PvE roll is made for maximum DPS on any tanky enemy. We start with a Polygonal Rifling and Extended Mag for extra stability and ammo. If you have an option for bonus reload speed, it’s also fine if you plan to reload while dealing damage instead of switching to another weapon. Rewind Rounds and Target Lock give this weapon a feel of Retrofit Escapade god roll, which has Fourth Time’s the Charm with Target Lock instead. The goal is to get increased damage from continuous target hits and then get ammo back for every hit. More ammo, more Target Lock uptime, more damage—as simple and efficient as that. We know that you probably think about the Reconstruction and Bait and Switch combo that is widely popular on the Apex Predator rocket launcher. Will it work here? It will, but we think that not only will it make the gameplay loop more complicated due to Bait and Switch, but you might end up with less total ammo to shoot when using Reconstruction during DPS. tags:god-pve
+dimwishlist:item=2828278545&perks=1392496348,2420895100,3418782618,365154968
+dimwishlist:item=2828278545&perks=1392496348,2420895100,3418782618,2939589096
+dimwishlist:item=2828278545&perks=1392496348,2420895100,1563455254,365154968
+dimwishlist:item=2828278545&perks=1392496348,2420895100,1563455254,2939589096
+
+
+// Song of Ir Yût - PVE2 (god-pve)
+//notes: tags:god-pve
+dimwishlist:item=2828278545&perks=1392496348,2420895100,1523832109,3744057135
+dimwishlist:item=2828278545&perks=1392496348,2420895100,1523832109,3078487919
+dimwishlist:item=2828278545&perks=1392496348,2420895100,461595545,3744057135
+dimwishlist:item=2828278545&perks=1392496348,2420895100,461595545,3078487919
+
+
+// Song of Ir Yût - PVE1 (pve)
+//notes: This PvE roll is made for maximum DPS on any tanky enemy. We start with a Polygonal Rifling and Extended Mag for extra stability and ammo. If you have an option for bonus reload speed, it’s also fine if you plan to reload while dealing damage instead of switching to another weapon. Rewind Rounds and Target Lock give this weapon a feel of Retrofit Escapade god roll, which has Fourth Time’s the Charm with Target Lock instead. The goal is to get increased damage from continuous target hits and then get ammo back for every hit. More ammo, more Target Lock uptime, more damage—as simple and efficient as that. We know that you probably think about the Reconstruction and Bait and Switch combo that is widely popular on the Apex Predator rocket launcher. Will it work here? It will, but we think that not only will it make the gameplay loop more complicated due to Bait and Switch, but you might end up with less total ammo to shoot when using Reconstruction during DPS. tags:pve
+dimwishlist:item=2828278545&perks=3418782618,365154968
+dimwishlist:item=2828278545&perks=3418782618,2939589096
+dimwishlist:item=2828278545&perks=1563455254,365154968
+dimwishlist:item=2828278545&perks=1563455254,2939589096
+
+
+// Song of Ir Yût - PVE2 (pve)
+//notes: tags:pve
+dimwishlist:item=2828278545&perks=1523832109,3744057135
+dimwishlist:item=2828278545&perks=1523832109,3078487919
+dimwishlist:item=2828278545&perks=461595545,3744057135
+dimwishlist:item=2828278545&perks=461595545,3078487919
 
 
 // Syncopation-53 (god-pve)
