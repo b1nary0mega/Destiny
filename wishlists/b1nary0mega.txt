@@ -295,6 +295,11 @@ dimwishlist:item=216983039&perks=4090651448,3142289711,1570042021,2896038713
 dimwishlist:item=216983039&perks=4090651448,3142289711,1570042021,4104185692
 
 
+// Horror's Least - PVE2 (god-pve)
+//notes: Go for Tactical mod. tags:god-pve
+dimwishlist:item=216983039&perks=1482024992,3230963543,671806388,4104185692
+
+
 // Horror's Least - PVP (pvp)
 //notes: MW: Range; Able to dominate in the Crucible at mid-range, Horror's Least is one of the best pulse rifles in the game. With great stats, an Adept variant, and a well-rounded perk pool, this weapon is a beast and worth grinding if you're a pulse rifle fan. tags:pvp
 dimwishlist:item=216983039&perks=1428297954,1015611457
@@ -303,6 +308,11 @@ dimwishlist:item=216983039&perks=1428297954,4104185692
 dimwishlist:item=216983039&perks=1570042021,1015611457
 dimwishlist:item=216983039&perks=1570042021,2896038713
 dimwishlist:item=216983039&perks=1570042021,4104185692
+
+
+// Horror's Least - PVE2 (pve)
+//notes: Go for Tactical mod. tags:pve
+dimwishlist:item=216983039&perks=671806388,4104185692
 
 
 // Ace of Spades - Exotic (pve,pvp)
