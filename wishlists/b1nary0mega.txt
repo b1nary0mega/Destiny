@@ -139,38 +139,6 @@ dimwishlist:item=93061497&perks=1906147653,2396489472
 dimwishlist:item=93061497&perks=1906147653,598607952
 
 
-// Word of Crota - PVE (god-pve)
-//notes: Word of Crota is definitely a more PvE-centric weapon, and this is especially apparent when viewing its perk pool. In regards to the barrel, magazine, and masterwork, look for extra range and reload speed. For main perks, as we mentioned before, there are a couple of pathways you can take here. Repulsor Brace and Destabilizing Rounds are best for Void synergy, while Enlightened Action and Sword Logic are great for more neutral gameplay. Assuming you can get past its intrinsically weak precision frame, Word of Crota can excel a fair amount in most PvE activities. tags:god-pve
-dimwishlist:item=120706239&perks=3250034553,3230963543,776531651,2048641572
-dimwishlist:item=120706239&perks=3250034553,3230963543,776531651,31345821
-dimwishlist:item=120706239&perks=3250034553,3230963543,776531651,639190697
-dimwishlist:item=120706239&perks=3250034553,3230963543,776531651,1926441324
-dimwishlist:item=120706239&perks=3250034553,3230963543,2541826827,2048641572
-dimwishlist:item=120706239&perks=3250034553,3230963543,2541826827,31345821
-dimwishlist:item=120706239&perks=3250034553,3230963543,2541826827,639190697
-dimwishlist:item=120706239&perks=3250034553,3230963543,2541826827,1926441324
-dimwishlist:item=120706239&perks=3250034553,106909392,776531651,2048641572
-dimwishlist:item=120706239&perks=3250034553,106909392,776531651,31345821
-dimwishlist:item=120706239&perks=3250034553,106909392,776531651,639190697
-dimwishlist:item=120706239&perks=3250034553,106909392,776531651,1926441324
-dimwishlist:item=120706239&perks=3250034553,106909392,2541826827,2048641572
-dimwishlist:item=120706239&perks=3250034553,106909392,2541826827,31345821
-dimwishlist:item=120706239&perks=3250034553,106909392,2541826827,639190697
-dimwishlist:item=120706239&perks=3250034553,106909392,2541826827,1926441324
-
-
-// Word of Crota - PVE (pve)
-//notes: Word of Crota is definitely a more PvE-centric weapon, and this is especially apparent when viewing its perk pool. In regards to the barrel, magazine, and masterwork, look for extra range and reload speed. For main perks, as we mentioned before, there are a couple of pathways you can take here. Repulsor Brace and Destabilizing Rounds are best for Void synergy, while Enlightened Action and Sword Logic are great for more neutral gameplay. Assuming you can get past its intrinsically weak precision frame, Word of Crota can excel a fair amount in most PvE activities. tags:pve
-dimwishlist:item=120706239&perks=776531651,2048641572
-dimwishlist:item=120706239&perks=776531651,31345821
-dimwishlist:item=120706239&perks=776531651,639190697
-dimwishlist:item=120706239&perks=776531651,1926441324
-dimwishlist:item=120706239&perks=2541826827,2048641572
-dimwishlist:item=120706239&perks=2541826827,31345821
-dimwishlist:item=120706239&perks=2541826827,639190697
-dimwishlist:item=120706239&perks=2541826827,1926441324
-
-
 // Malfeasance - Exotic ()
 dimwishlist:item=204878059&perks=4090651448,2420895100,2130042297,1012699414
 
@@ -295,11 +263,6 @@ dimwishlist:item=216983039&perks=4090651448,3142289711,1570042021,2896038713
 dimwishlist:item=216983039&perks=4090651448,3142289711,1570042021,4104185692
 
 
-// Horror's Least - PVE2 (god-pve)
-//notes: Go for Tactical mod. tags:god-pve
-dimwishlist:item=216983039&perks=1482024992,3230963543,671806388,4104185692
-
-
 // Horror's Least - PVP (pvp)
 //notes: MW: Range; Able to dominate in the Crucible at mid-range, Horror's Least is one of the best pulse rifles in the game. With great stats, an Adept variant, and a well-rounded perk pool, this weapon is a beast and worth grinding if you're a pulse rifle fan. tags:pvp
 dimwishlist:item=216983039&perks=1428297954,1015611457
@@ -308,11 +271,6 @@ dimwishlist:item=216983039&perks=1428297954,4104185692
 dimwishlist:item=216983039&perks=1570042021,1015611457
 dimwishlist:item=216983039&perks=1570042021,2896038713
 dimwishlist:item=216983039&perks=1570042021,4104185692
-
-
-// Horror's Least - PVE2 (pve)
-//notes: Go for Tactical mod. tags:pve
-dimwishlist:item=216983039&perks=671806388,4104185692
 
 
 // Ace of Spades - Exotic (pve,pvp)
@@ -1116,11 +1074,6 @@ dimwishlist:item=825495813&perks=691659142,3966416502
 dimwishlist:item=825495813&perks=691659142,717070634
 dimwishlist:item=825495813&perks=536173722,3966416502
 dimwishlist:item=825495813&perks=536173722,717070634
-
-
-// Noxious Vetiver ()
-//notes: Could work with Arc Melee build.
-dimwishlist:item=825495813&perks=
 
 
 // Cold Comfort - PVE (god-pve)
@@ -2991,14 +2944,6 @@ dimwishlist:item=2298039571&perks=1592669035,2978966579
 dimwishlist:item=2298039571&perks=1592669035,344235611
 
 
-// Rake Angle - WIB (pve)
-//notes: tags:pve
-dimwishlist:item=2298039571&perks=1955165503,3708227201
-dimwishlist:item=2298039571&perks=1955165503,781192741
-dimwishlist:item=2298039571&perks=2617553311,3708227201
-dimwishlist:item=2298039571&perks=2617553311,781192741
-
-
 // Yesterday's Question - PVE (pve)
 //notes: tags:pve
 dimwishlist:item=2300143112&perks=1354429876,1546637391
@@ -3906,14 +3851,6 @@ dimwishlist:item=2599338624&perks=2617553311,2978966579
 dimwishlist:item=2599338624&perks=2617553311,344235611
 
 
-// Liturgy - PVE-3 (pve)
-//notes: tags:pve
-dimwishlist:item=2599338624&perks=1955165503,2396489472
-dimwishlist:item=2599338624&perks=1955165503,598607952
-dimwishlist:item=2599338624&perks=2617553311,2396489472
-dimwishlist:item=2599338624&perks=2617553311,598607952
-
-
 // Bitter/Sweet - PVE (pve)
 //notes: tags:pve
 dimwishlist:item=2599338625&perks=3987942396,3078487919
@@ -4290,38 +4227,6 @@ dimwishlist:item=2823644677&perks=1955165503,124408337
 dimwishlist:item=2823644677&perks=1955165503,1171887445
 dimwishlist:item=2823644677&perks=2617553311,124408337
 dimwishlist:item=2823644677&perks=2617553311,1171887445
-
-
-// Song of Ir Yût - PVE1 (god-pve)
-//notes: This PvE roll is made for maximum DPS on any tanky enemy. We start with a Polygonal Rifling and Extended Mag for extra stability and ammo. If you have an option for bonus reload speed, it’s also fine if you plan to reload while dealing damage instead of switching to another weapon. Rewind Rounds and Target Lock give this weapon a feel of Retrofit Escapade god roll, which has Fourth Time’s the Charm with Target Lock instead. The goal is to get increased damage from continuous target hits and then get ammo back for every hit. More ammo, more Target Lock uptime, more damage—as simple and efficient as that. We know that you probably think about the Reconstruction and Bait and Switch combo that is widely popular on the Apex Predator rocket launcher. Will it work here? It will, but we think that not only will it make the gameplay loop more complicated due to Bait and Switch, but you might end up with less total ammo to shoot when using Reconstruction during DPS. tags:god-pve
-dimwishlist:item=2828278545&perks=1392496348,2420895100,3418782618,365154968
-dimwishlist:item=2828278545&perks=1392496348,2420895100,3418782618,2939589096
-dimwishlist:item=2828278545&perks=1392496348,2420895100,1563455254,365154968
-dimwishlist:item=2828278545&perks=1392496348,2420895100,1563455254,2939589096
-
-
-// Song of Ir Yût - PVE2 (god-pve)
-//notes: tags:god-pve
-dimwishlist:item=2828278545&perks=1392496348,2420895100,1523832109,3744057135
-dimwishlist:item=2828278545&perks=1392496348,2420895100,1523832109,3078487919
-dimwishlist:item=2828278545&perks=1392496348,2420895100,461595545,3744057135
-dimwishlist:item=2828278545&perks=1392496348,2420895100,461595545,3078487919
-
-
-// Song of Ir Yût - PVE1 (pve)
-//notes: This PvE roll is made for maximum DPS on any tanky enemy. We start with a Polygonal Rifling and Extended Mag for extra stability and ammo. If you have an option for bonus reload speed, it’s also fine if you plan to reload while dealing damage instead of switching to another weapon. Rewind Rounds and Target Lock give this weapon a feel of Retrofit Escapade god roll, which has Fourth Time’s the Charm with Target Lock instead. The goal is to get increased damage from continuous target hits and then get ammo back for every hit. More ammo, more Target Lock uptime, more damage—as simple and efficient as that. We know that you probably think about the Reconstruction and Bait and Switch combo that is widely popular on the Apex Predator rocket launcher. Will it work here? It will, but we think that not only will it make the gameplay loop more complicated due to Bait and Switch, but you might end up with less total ammo to shoot when using Reconstruction during DPS. tags:pve
-dimwishlist:item=2828278545&perks=3418782618,365154968
-dimwishlist:item=2828278545&perks=3418782618,2939589096
-dimwishlist:item=2828278545&perks=1563455254,365154968
-dimwishlist:item=2828278545&perks=1563455254,2939589096
-
-
-// Song of Ir Yût - PVE2 (pve)
-//notes: tags:pve
-dimwishlist:item=2828278545&perks=1523832109,3744057135
-dimwishlist:item=2828278545&perks=1523832109,3078487919
-dimwishlist:item=2828278545&perks=461595545,3744057135
-dimwishlist:item=2828278545&perks=461595545,3078487919
 
 
 // Syncopation-53 (god-pve)
@@ -4901,54 +4806,6 @@ dimwishlist:item=3257091166&perks=1749209109,2077819806
 dimwishlist:item=3257091166&perks=1749209109,1618208178
 dimwishlist:item=3257091166&perks=4085959009,2077819806
 dimwishlist:item=3257091166&perks=4085959009,1618208178
-
-
-// PLUG ONE.1 - PVE (god-pve)
-//notes: We’ll start by seeking a mix of increased handling and magazine size through Fluted Barrel, Enhanced Battery, and a handling masterwork. Reconstruction is the clear pick for your first main perk, which effectively doubles your magazine size and eliminates the need to ever reload. As for your final perk, it’s a toss-up between Reservoir Burst and Controlled Burst. The former offers solid ad clear and excels in casual content, while the latter is a great pick for single-target damage. tags:god-pve
-dimwishlist:item=3293524502&perks=1840239774,2680121939,1523832109,2594592626
-dimwishlist:item=3293524502&perks=1840239774,2680121939,1523832109,1427256713
-dimwishlist:item=3293524502&perks=1840239774,2680121939,1523832109,254337357
-dimwishlist:item=3293524502&perks=1840239774,2680121939,1523832109,2037312142
-dimwishlist:item=3293524502&perks=1840239774,2680121939,461595545,2594592626
-dimwishlist:item=3293524502&perks=1840239774,2680121939,461595545,1427256713
-dimwishlist:item=3293524502&perks=1840239774,2680121939,461595545,254337357
-dimwishlist:item=3293524502&perks=1840239774,2680121939,461595545,2037312142
-
-
-// PLUG ONE.1 - PVP (god-pvp)
-//notes: We’ll start our PvP roll with Extended Barrel, Projection Fuse, and a range or stability masterwork to allow this weapon to excel at longer distances. From there, our perk picks are pretty standard. Begin with Under Pressure in the first column, adding some stability and accuracy to most shots you’ll fire. Then, Closing Time (which has the same activation condition as Under Pressure) adds even more range and accuracy, allowing for a consistent kill every time. tags:god-pvp
-dimwishlist:item=3293524502&perks=1467527085,2969185026,1645158859,1194056669
-dimwishlist:item=3293524502&perks=1467527085,2969185026,1645158859,3955464425
-dimwishlist:item=3293524502&perks=1467527085,2969185026,3755250867,1194056669
-dimwishlist:item=3293524502&perks=1467527085,2969185026,3755250867,3955464425
-
-
-// PLUG ONE.1 - PVP-Aztec (god-pvp)
-//notes: Aztecross's PVP Roll - MW Charge Time tags:god-pvp
-dimwishlist:item=3293524502&perks=3250034553,2969185026,1645158859,1194056669
-dimwishlist:item=3293524502&perks=3250034553,2969185026,1645158859,3955464425
-dimwishlist:item=3293524502&perks=3250034553,2969185026,3755250867,1194056669
-dimwishlist:item=3293524502&perks=3250034553,2969185026,3755250867,3955464425
-
-
-// PLUG ONE.1 - PVE (pve)
-//notes: We’ll start by seeking a mix of increased handling and magazine size through Fluted Barrel, Enhanced Battery, and a handling masterwork. Reconstruction is the clear pick for your first main perk, which effectively doubles your magazine size and eliminates the need to ever reload. As for your final perk, it’s a toss-up between Reservoir Burst and Controlled Burst. The former offers solid ad clear and excels in casual content, while the latter is a great pick for single-target damage. tags:pve
-dimwishlist:item=3293524502&perks=1523832109,2594592626
-dimwishlist:item=3293524502&perks=1523832109,1427256713
-dimwishlist:item=3293524502&perks=1523832109,254337357
-dimwishlist:item=3293524502&perks=1523832109,2037312142
-dimwishlist:item=3293524502&perks=461595545,2594592626
-dimwishlist:item=3293524502&perks=461595545,1427256713
-dimwishlist:item=3293524502&perks=461595545,254337357
-dimwishlist:item=3293524502&perks=461595545,2037312142
-
-
-// PLUG ONE.1 - PVP (pvp)
-//notes: We’ll start our PvP roll with Extended Barrel, Projection Fuse, and a range or stability masterwork to allow this weapon to excel at longer distances. From there, our perk picks are pretty standard. Begin with Under Pressure in the first column, adding some stability and accuracy to most shots you’ll fire. Then, Closing Time (which has the same activation condition as Under Pressure) adds even more range and accuracy, allowing for a consistent kill every time. tags:pvp
-dimwishlist:item=3293524502&perks=1645158859,1194056669
-dimwishlist:item=3293524502&perks=1645158859,3955464425
-dimwishlist:item=3293524502&perks=3755250867,1194056669
-dimwishlist:item=3293524502&perks=3755250867,3955464425
 
 
 // Thunderlord - DPS (god-pve)
