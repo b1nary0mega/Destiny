@@ -2608,20 +2608,84 @@ dimwishlist:item=1975125963&perks=573122728,365154968
 dimwishlist:item=1975125963&perks=573122728,2939589096
 
 
+// Wicked Sister - PVP (god-pvp)
+//notes: Begin by looking for increased handling and velocity; Quick Launch, High-Velocity Rounds, and a handling masterwork will do the trick. The choice for your first main perk will go to Impulse Amplifier, which simply grants even more bonus velocity. Danger Zone isn’t a bad option either if you’re experiencing trouble with low blast radius, but our final perk should solve that issue. Speaking of which, our last perk is Reverberation, which maxes out the blast radius stat after obtaining a kill with the weapon. tags:god-pvp
+dimwishlist:item=2039776723&perks=3525010810,2822142346,951095735,563069569
+dimwishlist:item=2039776723&perks=3525010810,2822142346,951095735,2167611941
+dimwishlist:item=2039776723&perks=3525010810,2822142346,3878366039,563069569
+dimwishlist:item=2039776723&perks=3525010810,2822142346,3878366039,2167611941
+dimwishlist:item=2039776723&perks=3525010810,2822142346,960810156,563069569
+dimwishlist:item=2039776723&perks=3525010810,2822142346,960810156,2167611941
+dimwishlist:item=2039776723&perks=3525010810,2822142346,1077019636,563069569
+dimwishlist:item=2039776723&perks=3525010810,2822142346,1077019636,2167611941
+
+
+// Wicked Sister - PVE (god-pve)
+//notes: We’ll start by focusing on handling, velocity, and a slight increase in damage through Quick Launch, Spike Grenades, and a handling masterwork. The first main perk is a toss-up between Envious Arsenal and Envious Assassin. If you’re damaging a boss with a slightly longer DPS phase (and have a solid weapon rotation set up), Envious Arsenal is the play; if you’re just looking for a burst damage option instead, choose Envious Assassin. The final column perk is typically best spent on Bait and Switch, granting a 30% increase in damage. However, if you do end up opting for Envious Assassin for burst damage, Cascade Point is a solid option as well. tags:god-pve
+dimwishlist:item=2039776723&perks=3525010810,3301904089,3987942396,3078487919
+dimwishlist:item=2039776723&perks=3525010810,3301904089,3987942396,3744057135
+dimwishlist:item=2039776723&perks=3525010810,3301904089,3987942396,3751912585
+dimwishlist:item=2039776723&perks=3525010810,3301904089,3987942396,331667533
+dimwishlist:item=2039776723&perks=3525010810,3301904089,2817499044,3078487919
+dimwishlist:item=2039776723&perks=3525010810,3301904089,2817499044,3744057135
+dimwishlist:item=2039776723&perks=3525010810,3301904089,2817499044,3751912585
+dimwishlist:item=2039776723&perks=3525010810,3301904089,2817499044,331667533
+dimwishlist:item=2039776723&perks=3525010810,3301904089,968510818,3078487919
+dimwishlist:item=2039776723&perks=3525010810,3301904089,968510818,3744057135
+dimwishlist:item=2039776723&perks=3525010810,3301904089,968510818,3751912585
+dimwishlist:item=2039776723&perks=3525010810,3301904089,968510818,331667533
+dimwishlist:item=2039776723&perks=3525010810,3301904089,424370782,3078487919
+dimwishlist:item=2039776723&perks=3525010810,3301904089,424370782,3744057135
+dimwishlist:item=2039776723&perks=3525010810,3301904089,424370782,3751912585
+dimwishlist:item=2039776723&perks=3525010810,3301904089,424370782,331667533
+
+
+// Wicked Sister - PVE2 (god-pve)
+//notes: We’ll start by focusing on handling, velocity, and a slight increase in damage through Quick Launch, Spike Grenades, and a handling masterwork. The rest of this is geared towards #Strand tags:god-pve
+dimwishlist:item=2039776723&perks=3525010810,3301904089,923806249,831391274
+dimwishlist:item=2039776723&perks=3525010810,3301904089,923806249,102912326
+dimwishlist:item=2039776723&perks=3525010810,3301904089,3422796781,831391274
+dimwishlist:item=2039776723&perks=3525010810,3301904089,3422796781,102912326
+
+
 // Wicked Sister - PVE (pve)
-//notes: tags:pve
+//notes: We’ll start by focusing on handling, velocity, and a slight increase in damage through Quick Launch, Spike Grenades, and a handling masterwork. The first main perk is a toss-up between Envious Arsenal and Envious Assassin. If you’re damaging a boss with a slightly longer DPS phase (and have a solid weapon rotation set up), Envious Arsenal is the play; if you’re just looking for a burst damage option instead, choose Envious Assassin. The final column perk is typically best spent on Bait and Switch, granting a 30% increase in damage. However, if you do end up opting for Envious Assassin for burst damage, Cascade Point is a solid option as well. tags:pve
 dimwishlist:item=2039776723&perks=3987942396,3078487919
 dimwishlist:item=2039776723&perks=3987942396,3744057135
+dimwishlist:item=2039776723&perks=3987942396,3751912585
+dimwishlist:item=2039776723&perks=3987942396,331667533
 dimwishlist:item=2039776723&perks=2817499044,3078487919
 dimwishlist:item=2039776723&perks=2817499044,3744057135
+dimwishlist:item=2039776723&perks=2817499044,3751912585
+dimwishlist:item=2039776723&perks=2817499044,331667533
+dimwishlist:item=2039776723&perks=968510818,3078487919
+dimwishlist:item=2039776723&perks=968510818,3744057135
+dimwishlist:item=2039776723&perks=968510818,3751912585
+dimwishlist:item=2039776723&perks=968510818,331667533
+dimwishlist:item=2039776723&perks=424370782,3078487919
+dimwishlist:item=2039776723&perks=424370782,3744057135
+dimwishlist:item=2039776723&perks=424370782,3751912585
+dimwishlist:item=2039776723&perks=424370782,331667533
 
 
 // Wicked Sister - PVP (pvp)
-//notes: tags:pvp
-dimwishlist:item=2039776723&perks=951095735,2888557110
-dimwishlist:item=2039776723&perks=951095735,1905598698
-dimwishlist:item=2039776723&perks=3878366039,2888557110
-dimwishlist:item=2039776723&perks=3878366039,1905598698
+//notes: Begin by looking for increased handling and velocity; Quick Launch, High-Velocity Rounds, and a handling masterwork will do the trick. The choice for your first main perk will go to Impulse Amplifier, which simply grants even more bonus velocity. Danger Zone isn’t a bad option either if you’re experiencing trouble with low blast radius, but our final perk should solve that issue. Speaking of which, our last perk is Reverberation, which maxes out the blast radius stat after obtaining a kill with the weapon. tags:pvp
+dimwishlist:item=2039776723&perks=951095735,563069569
+dimwishlist:item=2039776723&perks=951095735,2167611941
+dimwishlist:item=2039776723&perks=3878366039,563069569
+dimwishlist:item=2039776723&perks=3878366039,2167611941
+dimwishlist:item=2039776723&perks=960810156,563069569
+dimwishlist:item=2039776723&perks=960810156,2167611941
+dimwishlist:item=2039776723&perks=1077019636,563069569
+dimwishlist:item=2039776723&perks=1077019636,2167611941
+
+
+// Wicked Sister - PVE2 (pve)
+//notes: We’ll start by focusing on handling, velocity, and a slight increase in damage through Quick Launch, Spike Grenades, and a handling masterwork. The rest of this is geared towards #Strand tags:pve
+dimwishlist:item=2039776723&perks=923806249,831391274
+dimwishlist:item=2039776723&perks=923806249,102912326
+dimwishlist:item=2039776723&perks=3422796781,831391274
+dimwishlist:item=2039776723&perks=3422796781,102912326
 
 
 // Pre Astyanax IV (Adept) - PVE (god-pve)
