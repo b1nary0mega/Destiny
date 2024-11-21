@@ -5350,12 +5350,60 @@ dimwishlist:item=3794274730&perks=3120212825,354401740
 dimwishlist:item=3794274730&perks=3120212825,3678483220
 
 
-// Sovereignty - PVE (pve)
+// Sovereignty - PVE1 (god-pve)
+//notes: Support focused, not ideal for DPS.  tags:god-pve
+dimwishlist:item=3818198556&perks=1840239774,1087426260,3038247973,2904194311
+dimwishlist:item=3818198556&perks=1840239774,1087426260,3038247973,1134488199
+dimwishlist:item=3818198556&perks=1840239774,1087426260,64866129,2904194311
+dimwishlist:item=3818198556&perks=1840239774,1087426260,64866129,1134488199
+
+
+// Sovereignty - PVE2 (god-pve)
+//notes: Handling is always important for special weapons in PvE, so we’ll begin with Fluted Barrel and a handling masterwork. We’ll opt for Appended Mag in terms of our magazine, which gives a nice bump in ammo that plays into multiple of our perk choices. Column one of main perks is best used on Enlightened Action, which increases reload speed simply for using the weapon. While it doesn’t compare to the auto-reloading perks currently dominating the meta, it’s a fine substitute for a weapon of this class. For our final perk, Precision Instrument and Firing Line are the two most popular choices, granting a straightforward increase in damage. However, the new Withering Gaze is a great choice for Void builds and general gameplay alike. While the damage bonus it provides is less than other picks (at only 15%), there are a handful of scenarios where it outclasses typical options. tags:god-pve
+dimwishlist:item=3818198556&perks=1840239774,1087426260,3828510309,555281244
+dimwishlist:item=3818198556&perks=1840239774,1087426260,3828510309,332733060
+dimwishlist:item=3818198556&perks=1840239774,1087426260,3828510309,1134488199
+dimwishlist:item=3818198556&perks=1840239774,1087426260,3828510309,2904194311
+dimwishlist:item=3818198556&perks=1840239774,1087426260,1771736209,555281244
+dimwishlist:item=3818198556&perks=1840239774,1087426260,1771736209,332733060
+dimwishlist:item=3818198556&perks=1840239774,1087426260,1771736209,1134488199
+dimwishlist:item=3818198556&perks=1840239774,1087426260,1771736209,2904194311
+dimwishlist:item=3818198556&perks=1840239774,1087426260,2866798147,555281244
+dimwishlist:item=3818198556&perks=1840239774,1087426260,2866798147,332733060
+dimwishlist:item=3818198556&perks=1840239774,1087426260,2866798147,1134488199
+dimwishlist:item=3818198556&perks=1840239774,1087426260,2866798147,2904194311
+dimwishlist:item=3818198556&perks=1840239774,1087426260,3974407819,555281244
+dimwishlist:item=3818198556&perks=1840239774,1087426260,3974407819,332733060
+dimwishlist:item=3818198556&perks=1840239774,1087426260,3974407819,1134488199
+dimwishlist:item=3818198556&perks=1840239774,1087426260,3974407819,2904194311
+
+
+// Sovereignty - PVE1 (pve)
 //notes: Support focused, not ideal for DPS.  tags:pve
 dimwishlist:item=3818198556&perks=3038247973,2904194311
 dimwishlist:item=3818198556&perks=3038247973,1134488199
 dimwishlist:item=3818198556&perks=64866129,2904194311
 dimwishlist:item=3818198556&perks=64866129,1134488199
+
+
+// Sovereignty - PVE2 (pve)
+//notes: Handling is always important for special weapons in PvE, so we’ll begin with Fluted Barrel and a handling masterwork. We’ll opt for Appended Mag in terms of our magazine, which gives a nice bump in ammo that plays into multiple of our perk choices. Column one of main perks is best used on Enlightened Action, which increases reload speed simply for using the weapon. While it doesn’t compare to the auto-reloading perks currently dominating the meta, it’s a fine substitute for a weapon of this class. For our final perk, Precision Instrument and Firing Line are the two most popular choices, granting a straightforward increase in damage. However, the new Withering Gaze is a great choice for Void builds and general gameplay alike. While the damage bonus it provides is less than other picks (at only 15%), there are a handful of scenarios where it outclasses typical options. tags:pve
+dimwishlist:item=3818198556&perks=3828510309,555281244
+dimwishlist:item=3818198556&perks=3828510309,332733060
+dimwishlist:item=3818198556&perks=3828510309,1134488199
+dimwishlist:item=3818198556&perks=3828510309,2904194311
+dimwishlist:item=3818198556&perks=1771736209,555281244
+dimwishlist:item=3818198556&perks=1771736209,332733060
+dimwishlist:item=3818198556&perks=1771736209,1134488199
+dimwishlist:item=3818198556&perks=1771736209,2904194311
+dimwishlist:item=3818198556&perks=2866798147,555281244
+dimwishlist:item=3818198556&perks=2866798147,332733060
+dimwishlist:item=3818198556&perks=2866798147,1134488199
+dimwishlist:item=3818198556&perks=2866798147,2904194311
+dimwishlist:item=3818198556&perks=3974407819,555281244
+dimwishlist:item=3818198556&perks=3974407819,332733060
+dimwishlist:item=3818198556&perks=3974407819,1134488199
+dimwishlist:item=3818198556&perks=3974407819,2904194311
 
 
 // Vantage Point - PVE (pve)
