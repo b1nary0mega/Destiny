@@ -1068,12 +1068,60 @@ dimwishlist:item=821154603&perks=1890422124,3425386926
 dimwishlist:item=821154603&perks=1890422124,1015611457
 
 
-// Noxious Vetiver - PVE (pve)
-//notes: tags:pve
+// Noxious Vetiver - PVE1 (god-pve)
+//notes: #ARC #Melee tags:god-pve
+dimwishlist:item=825495813&perks=1840239774,3230963543,691659142,3966416502
+dimwishlist:item=825495813&perks=1840239774,3230963543,691659142,717070634
+dimwishlist:item=825495813&perks=1840239774,3230963543,536173722,3966416502
+dimwishlist:item=825495813&perks=1840239774,3230963543,536173722,717070634
+
+
+// Noxious Vetiver - PVE2 (god-pve)
+//notes: We’ll start with a pretty basic set of barrel, magazine, and masterwork choices: Fluted Barrel, Flared Magwell, and a handling masterwork. From there, Loose Change and Jolting Feedback is a surprisingly good combo for those looking to build into Arc a little bit. While Voltshot will continue to reign supreme when featured on other SMGs, this combination isn’t a horrible substitute. The other route to consider here is more of a raw power option, utilizing Attrition Orbs and Frenzy. From a damage bonus to additional stat bumps to even Orbs of Power, this roll grants nearly everything you could ever want for general gameplay. tags:god-pve
+dimwishlist:item=825495813&perks=1840239774,3230963543,1119449540,3966416502
+dimwishlist:item=825495813&perks=1840239774,3230963543,1119449540,717070634
+dimwishlist:item=825495813&perks=1840239774,3230963543,1119449540,4104185692
+dimwishlist:item=825495813&perks=1840239774,3230963543,1119449540,3007133316
+dimwishlist:item=825495813&perks=1840239774,3230963543,243981275,3966416502
+dimwishlist:item=825495813&perks=1840239774,3230963543,243981275,717070634
+dimwishlist:item=825495813&perks=1840239774,3230963543,243981275,4104185692
+dimwishlist:item=825495813&perks=1840239774,3230963543,243981275,3007133316
+dimwishlist:item=825495813&perks=1840239774,3230963543,561986700,3966416502
+dimwishlist:item=825495813&perks=1840239774,3230963543,561986700,717070634
+dimwishlist:item=825495813&perks=1840239774,3230963543,561986700,4104185692
+dimwishlist:item=825495813&perks=1840239774,3230963543,561986700,3007133316
+dimwishlist:item=825495813&perks=1840239774,3230963543,984655331,3966416502
+dimwishlist:item=825495813&perks=1840239774,3230963543,984655331,717070634
+dimwishlist:item=825495813&perks=1840239774,3230963543,984655331,4104185692
+dimwishlist:item=825495813&perks=1840239774,3230963543,984655331,3007133316
+
+
+// Noxious Vetiver - PVE1 (pve)
+//notes: #ARC #Melee tags:pve
 dimwishlist:item=825495813&perks=691659142,3966416502
 dimwishlist:item=825495813&perks=691659142,717070634
 dimwishlist:item=825495813&perks=536173722,3966416502
 dimwishlist:item=825495813&perks=536173722,717070634
+
+
+// Noxious Vetiver - PVE2 (pve)
+//notes: We’ll start with a pretty basic set of barrel, magazine, and masterwork choices: Fluted Barrel, Flared Magwell, and a handling masterwork. From there, Loose Change and Jolting Feedback is a surprisingly good combo for those looking to build into Arc a little bit. While Voltshot will continue to reign supreme when featured on other SMGs, this combination isn’t a horrible substitute. The other route to consider here is more of a raw power option, utilizing Attrition Orbs and Frenzy. From a damage bonus to additional stat bumps to even Orbs of Power, this roll grants nearly everything you could ever want for general gameplay. tags:pve
+dimwishlist:item=825495813&perks=1119449540,3966416502
+dimwishlist:item=825495813&perks=1119449540,717070634
+dimwishlist:item=825495813&perks=1119449540,4104185692
+dimwishlist:item=825495813&perks=1119449540,3007133316
+dimwishlist:item=825495813&perks=243981275,3966416502
+dimwishlist:item=825495813&perks=243981275,717070634
+dimwishlist:item=825495813&perks=243981275,4104185692
+dimwishlist:item=825495813&perks=243981275,3007133316
+dimwishlist:item=825495813&perks=561986700,3966416502
+dimwishlist:item=825495813&perks=561986700,717070634
+dimwishlist:item=825495813&perks=561986700,4104185692
+dimwishlist:item=825495813&perks=561986700,3007133316
+dimwishlist:item=825495813&perks=984655331,3966416502
+dimwishlist:item=825495813&perks=984655331,717070634
+dimwishlist:item=825495813&perks=984655331,4104185692
+dimwishlist:item=825495813&perks=984655331,3007133316
 
 
 // Cold Comfort - PVE (god-pve)
