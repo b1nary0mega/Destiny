@@ -363,12 +363,44 @@ dimwishlist:item=412251536&perks=3920370755,2939589096
 dimwishlist:item=412251536&perks=3920370755,2675184851
 
 
+// Insurmountable - PVE (god-pve)
+//notes: The combination of Fluted Barrel and Flared Magwell on a primary ammo weapon is very standard, as these options both provide a good quality-of-life boost to both Handling and Reload Speed. Demolitionist is the ideal pick for Perk slot one; however, some may get more mileage out of Repulsor Brace if you are using a Void Build. Desperate Measures works well in the second perk slot with Demolitionist, but Destabalising Rounds should be used if you are using Repulsor Brace. One For All is a general damage perk that can be swapped instead of Desperate Measures. #Void tags:god-pve
+dimwishlist:item=414045521&perks=1840239774,3230963543,776531651,2048641572
+dimwishlist:item=414045521&perks=1840239774,3230963543,776531651,1926441324
+dimwishlist:item=414045521&perks=1840239774,3230963543,2541826827,2048641572
+dimwishlist:item=414045521&perks=1840239774,3230963543,2541826827,1926441324
+
+
+// Insurmountable - PVE2 (god-pve)
+//notes: The combination of Fluted Barrel and Flared Magwell on a primary ammo weapon is very standard, as these options both provide a good quality-of-life boost to both Handling and Reload Speed. Demolitionist is the ideal pick for Perk slot one; however, some may get more mileage out of Repulsor Brace if you are using a Void Build. Desperate Measures works well in the second perk slot with Demolitionist, but Destabalising Rounds should be used if you are using Repulsor Brace. One For All is a general damage perk that can be swapped instead of Desperate Measures. #Void tags:god-pve
+dimwishlist:item=414045521&perks=1840239774,3230963543,3523296417,2109543898
+dimwishlist:item=414045521&perks=1840239774,3230963543,3523296417,2799030358
+dimwishlist:item=414045521&perks=1840239774,3230963543,3523296417,4049631843
+dimwishlist:item=414045521&perks=1840239774,3230963543,3523296417,859780267
+dimwishlist:item=414045521&perks=1840239774,3230963543,1906147653,2109543898
+dimwishlist:item=414045521&perks=1840239774,3230963543,1906147653,2799030358
+dimwishlist:item=414045521&perks=1840239774,3230963543,1906147653,4049631843
+dimwishlist:item=414045521&perks=1840239774,3230963543,1906147653,859780267
+
+
 // Insurmountable - PVE (pve)
-//notes: tags:pve
+//notes: The combination of Fluted Barrel and Flared Magwell on a primary ammo weapon is very standard, as these options both provide a good quality-of-life boost to both Handling and Reload Speed. Demolitionist is the ideal pick for Perk slot one; however, some may get more mileage out of Repulsor Brace if you are using a Void Build. Desperate Measures works well in the second perk slot with Demolitionist, but Destabalising Rounds should be used if you are using Repulsor Brace. One For All is a general damage perk that can be swapped instead of Desperate Measures. #Void tags:pve
 dimwishlist:item=414045521&perks=776531651,2048641572
 dimwishlist:item=414045521&perks=776531651,1926441324
 dimwishlist:item=414045521&perks=2541826827,2048641572
 dimwishlist:item=414045521&perks=2541826827,1926441324
+
+
+// Insurmountable - PVE2 (pve)
+//notes: The combination of Fluted Barrel and Flared Magwell on a primary ammo weapon is very standard, as these options both provide a good quality-of-life boost to both Handling and Reload Speed. Demolitionist is the ideal pick for Perk slot one; however, some may get more mileage out of Repulsor Brace if you are using a Void Build. Desperate Measures works well in the second perk slot with Demolitionist, but Destabalising Rounds should be used if you are using Repulsor Brace. One For All is a general damage perk that can be swapped instead of Desperate Measures. #Void tags:pve
+dimwishlist:item=414045521&perks=3523296417,2109543898
+dimwishlist:item=414045521&perks=3523296417,2799030358
+dimwishlist:item=414045521&perks=3523296417,4049631843
+dimwishlist:item=414045521&perks=3523296417,859780267
+dimwishlist:item=414045521&perks=1906147653,2109543898
+dimwishlist:item=414045521&perks=1906147653,2799030358
+dimwishlist:item=414045521&perks=1906147653,4049631843
+dimwishlist:item=414045521&perks=1906147653,859780267
 
 
 // Controlling Vision - PVE (god-pve)
@@ -2672,8 +2704,26 @@ dimwishlist:item=2126178511&perks=2002547233,699525795
 dimwishlist:item=2126178511&perks=2002547233,3719974635
 
 
-// Sojourner's Tale - PVE (pve)
+// Sojourner's Tale - PVE (god-pve)
+//notes: Sojourner’s Tale can be tuned towards damage or getting stuck into waves of enemies causing big explosions and healing yourself in the process. With the current damage options out there and the Episodes focus on Stasis, the latter provides a great ‘fire and ice’ combination. Start with Arrowhead Brake to control the wide recoil and help keep shots on target after each blast. Appended Mag then adds extra shots to the Magazine to keep Sojourner’s Tale in the fight for longer before needing to reload. The god roll combination is tried and tested and is great to have in tougher situations and comes in handy with the close-quarters nature of this Shotgun. Heal Clip provides a solid chunk of health after a kill and reload and Incandescent provides some great utility causing Ignite and Scorch, making light work of lower-tier enemies and doing solid damage to tougher foes. tags:god-pve
+dimwishlist:item=2130875369&perks=839105230,1087426260,3017780555,4293542123
+dimwishlist:item=2130875369&perks=839105230,1087426260,3017780555,2675184851
+dimwishlist:item=2130875369&perks=839105230,1087426260,4223976499,4293542123
+dimwishlist:item=2130875369&perks=839105230,1087426260,4223976499,2675184851
+
+
+// Sojourner's Tale - PVE-2 (god-pve)
+//notes: Sojourner’s Tale can be tuned towards damage or getting stuck into waves of enemies causing big explosions and healing yourself in the process. With the current damage options out there and the Episodes focus on Stasis, the latter provides a great ‘fire and ice’ combination. Start with Arrowhead Brake to control the wide recoil and help keep shots on target after each blast. Appended Mag then adds extra shots to the Magazine to keep Sojourner’s Tale in the fight for longer before needing to reload. The god roll combination is tried and tested and is great to have in tougher situations and comes in handy with the close-quarters nature of this Shotgun. Heal Clip provides a solid chunk of health after a kill and reload and Incandescent provides some great utility causing Ignite and Scorch, making light work of lower-tier enemies and doing solid damage to tougher foes. tags:god-pve
+dimwishlist:item=2130875369&perks=839105230,1087426260,3300816228,555281244
+
+
+// Sojourner's Tale - PVE-2 (pve)
 //notes: tags:pve
+dimwishlist:item=2130875369&perks=3300816228,555281244
+
+
+// Sojourner's Tale - PVE (pve)
+//notes: Sojourner’s Tale can be tuned towards damage or getting stuck into waves of enemies causing big explosions and healing yourself in the process. With the current damage options out there and the Episodes focus on Stasis, the latter provides a great ‘fire and ice’ combination. Start with Arrowhead Brake to control the wide recoil and help keep shots on target after each blast. Appended Mag then adds extra shots to the Magazine to keep Sojourner’s Tale in the fight for longer before needing to reload. The god roll combination is tried and tested and is great to have in tougher situations and comes in handy with the close-quarters nature of this Shotgun. Heal Clip provides a solid chunk of health after a kill and reload and Incandescent provides some great utility causing Ignite and Scorch, making light work of lower-tier enemies and doing solid damage to tougher foes. tags:pve
 dimwishlist:item=2130875369&perks=3017780555,4293542123
 dimwishlist:item=2130875369&perks=3017780555,2675184851
 dimwishlist:item=2130875369&perks=4223976499,4293542123
@@ -2681,7 +2731,7 @@ dimwishlist:item=2130875369&perks=4223976499,2675184851
 
 
 // Sojourner's Tale - PVE-2 (pve)
-//notes: tags:pve
+//notes: Sojourner’s Tale can be tuned towards damage or getting stuck into waves of enemies causing big explosions and healing yourself in the process. With the current damage options out there and the Episodes focus on Stasis, the latter provides a great ‘fire and ice’ combination. Start with Arrowhead Brake to control the wide recoil and help keep shots on target after each blast. Appended Mag then adds extra shots to the Magazine to keep Sojourner’s Tale in the fight for longer before needing to reload. The god roll combination is tried and tested and is great to have in tougher situations and comes in handy with the close-quarters nature of this Shotgun. Heal Clip provides a solid chunk of health after a kill and reload and Incandescent provides some great utility causing Ignite and Scorch, making light work of lower-tier enemies and doing solid damage to tougher foes. tags:pve
 dimwishlist:item=2130875369&perks=3300816228,555281244
 
 
@@ -3236,6 +3286,11 @@ dimwishlist:item=2350330520&perks=3619207468,1015611457
 dimwishlist:item=2350330520&perks=3619207468,2923251173
 dimwishlist:item=2350330520&perks=3198323828,1015611457
 dimwishlist:item=2350330520&perks=3198323828,2923251173
+
+
+// Alethonym - Exotic (pve)
+//notes: tags:pve
+dimwishlist:item=2350354266&perks=
 
 
 // Witherhoard - PVE and PVP (god-pve,god-pvp)
@@ -3863,16 +3918,44 @@ dimwishlist:item=2591257541&perks=3418782618,781192741
 dimwishlist:item=2591746970&perks=265542500,3429800428,2399646028
 
 
+// Chroma Rush - PVE-1 (god-pve)
+//notes: While everything but your main two perks doesn’t really matter here, we’ll still try and seek out Fluted Barrel, Flared Magwell, and a stability masterwork for a nice sweep of increased stats. For perk one, Subsistence is your best bet due to Chroma Rush’s inherently large magazine size. For the second, Frenzy never fails to be a top-tier pick, while Kinetic Tremors and Rampage can be great as well depending on the situation. tags:god-pve
+dimwishlist:item=2598420927&perks=1840239774,3230963543,1820235745,3425386926
+dimwishlist:item=2598420927&perks=1840239774,3230963543,1820235745,3891536761
+dimwishlist:item=2598420927&perks=1840239774,3230963543,1820235745,288411554
+dimwishlist:item=2598420927&perks=1840239774,3230963543,1820235745,1549370717
+dimwishlist:item=2598420927&perks=1840239774,3230963543,1820235745,3007133316
+dimwishlist:item=2598420927&perks=1840239774,3230963543,1820235745,4104185692
+dimwishlist:item=2598420927&perks=1840239774,3230963543,4245865861,3425386926
+dimwishlist:item=2598420927&perks=1840239774,3230963543,4245865861,3891536761
+dimwishlist:item=2598420927&perks=1840239774,3230963543,4245865861,288411554
+dimwishlist:item=2598420927&perks=1840239774,3230963543,4245865861,1549370717
+dimwishlist:item=2598420927&perks=1840239774,3230963543,4245865861,3007133316
+dimwishlist:item=2598420927&perks=1840239774,3230963543,4245865861,4104185692
+
+
+// Chroma Rush - PVE-2 (god-pve)
+//notes: tags:god-pve
+dimwishlist:item=2598420927&perks=1840239774,3230963543,1359896290,365154968
+dimwishlist:item=2598420927&perks=1840239774,3230963543,1359896290,2939589096
+dimwishlist:item=2598420927&perks=1840239774,3230963543,3060983774,365154968
+dimwishlist:item=2598420927&perks=1840239774,3230963543,3060983774,2939589096
+
+
 // Chroma Rush - PVE-1 (pve)
-//notes: tags:pve
+//notes: While everything but your main two perks doesn’t really matter here, we’ll still try and seek out Fluted Barrel, Flared Magwell, and a stability masterwork for a nice sweep of increased stats. For perk one, Subsistence is your best bet due to Chroma Rush’s inherently large magazine size. For the second, Frenzy never fails to be a top-tier pick, while Kinetic Tremors and Rampage can be great as well depending on the situation. tags:pve
 dimwishlist:item=2598420927&perks=1820235745,3425386926
 dimwishlist:item=2598420927&perks=1820235745,3891536761
 dimwishlist:item=2598420927&perks=1820235745,288411554
 dimwishlist:item=2598420927&perks=1820235745,1549370717
+dimwishlist:item=2598420927&perks=1820235745,3007133316
+dimwishlist:item=2598420927&perks=1820235745,4104185692
 dimwishlist:item=2598420927&perks=4245865861,3425386926
 dimwishlist:item=2598420927&perks=4245865861,3891536761
 dimwishlist:item=2598420927&perks=4245865861,288411554
 dimwishlist:item=2598420927&perks=4245865861,1549370717
+dimwishlist:item=2598420927&perks=4245865861,3007133316
+dimwishlist:item=2598420927&perks=4245865861,4104185692
 
 
 // Chroma Rush - PVE-2 (pve)
@@ -3883,24 +3966,56 @@ dimwishlist:item=2598420927&perks=3060983774,365154968
 dimwishlist:item=2598420927&perks=3060983774,2939589096
 
 
+// Liturgy - PVE-1 (god-pve)
+//notes: Grenade Launchers, both special and heavy, tend to use the same barrel and magazine, which is no different here. Hard Launch gives us the most Velocity while reducing the Blast Radius, and Spike Grenades enhance our direct impact damage by roughly 12%. A Velocity or Reload Speed Masterwork will do you well, depending on where you find the most drawback. For Perk 1, it’s Envious Arsenal. Double-Fire GLs have been getting a lot of headway as damage weapons, and Envious Arsenal is perfect for that. Acting as a reload version of Bait and Switch means it’ll always be loaded and ready to go. Rimestealer is a great alternative for survival’s sake. Perk 2 also has a clear winner in Chill Clip. Regardless if it’s used for freezing or just applying a debuff, it’s just a solid perk all around. If you want to use it for larger ad-clear, Chain Reaction is still a solid choice, even after it’s nerf on special grenade launchers. tags:god-pve
+dimwishlist:item=2599338624&perks=981914802,3301904089,3987942396,2978966579
+dimwishlist:item=2599338624&perks=981914802,3301904089,3987942396,344235611
+dimwishlist:item=2599338624&perks=981914802,3301904089,3987942396,2396489472
+dimwishlist:item=2599338624&perks=981914802,3301904089,3987942396,598607952
+dimwishlist:item=2599338624&perks=981914802,3301904089,2817499044,2978966579
+dimwishlist:item=2599338624&perks=981914802,3301904089,2817499044,344235611
+dimwishlist:item=2599338624&perks=981914802,3301904089,2817499044,2396489472
+dimwishlist:item=2599338624&perks=981914802,3301904089,2817499044,598607952
+dimwishlist:item=2599338624&perks=981914802,3301904089,1955165503,2978966579
+dimwishlist:item=2599338624&perks=981914802,3301904089,1955165503,344235611
+dimwishlist:item=2599338624&perks=981914802,3301904089,1955165503,2396489472
+dimwishlist:item=2599338624&perks=981914802,3301904089,1955165503,598607952
+dimwishlist:item=2599338624&perks=981914802,3301904089,2617553311,2978966579
+dimwishlist:item=2599338624&perks=981914802,3301904089,2617553311,344235611
+dimwishlist:item=2599338624&perks=981914802,3301904089,2617553311,2396489472
+dimwishlist:item=2599338624&perks=981914802,3301904089,2617553311,598607952
+
+
 // Liturgy - PVE-1 (pve)
-//notes: tags:pve
-dimwishlist:item=2599338624&perks=2039302152,2396489472
-dimwishlist:item=2599338624&perks=2039302152,598607952
-dimwishlist:item=2599338624&perks=2396422520,2396489472
-dimwishlist:item=2599338624&perks=2396422520,598607952
-
-
-// Liturgy - PVE-2 (pve)
-//notes: tags:pve
+//notes: Grenade Launchers, both special and heavy, tend to use the same barrel and magazine, which is no different here. Hard Launch gives us the most Velocity while reducing the Blast Radius, and Spike Grenades enhance our direct impact damage by roughly 12%. A Velocity or Reload Speed Masterwork will do you well, depending on where you find the most drawback. For Perk 1, it’s Envious Arsenal. Double-Fire GLs have been getting a lot of headway as damage weapons, and Envious Arsenal is perfect for that. Acting as a reload version of Bait and Switch means it’ll always be loaded and ready to go. Rimestealer is a great alternative for survival’s sake. Perk 2 also has a clear winner in Chill Clip. Regardless if it’s used for freezing or just applying a debuff, it’s just a solid perk all around. If you want to use it for larger ad-clear, Chain Reaction is still a solid choice, even after it’s nerf on special grenade launchers. tags:pve
+dimwishlist:item=2599338624&perks=3987942396,2978966579
+dimwishlist:item=2599338624&perks=3987942396,344235611
+dimwishlist:item=2599338624&perks=3987942396,2396489472
+dimwishlist:item=2599338624&perks=3987942396,598607952
+dimwishlist:item=2599338624&perks=2817499044,2978966579
+dimwishlist:item=2599338624&perks=2817499044,344235611
+dimwishlist:item=2599338624&perks=2817499044,2396489472
+dimwishlist:item=2599338624&perks=2817499044,598607952
 dimwishlist:item=2599338624&perks=1955165503,2978966579
 dimwishlist:item=2599338624&perks=1955165503,344235611
+dimwishlist:item=2599338624&perks=1955165503,2396489472
+dimwishlist:item=2599338624&perks=1955165503,598607952
 dimwishlist:item=2599338624&perks=2617553311,2978966579
 dimwishlist:item=2599338624&perks=2617553311,344235611
+dimwishlist:item=2599338624&perks=2617553311,2396489472
+dimwishlist:item=2599338624&perks=2617553311,598607952
+
+
+// Bitter/Sweet - PVE (god-pve)
+//notes: Bitter/Sweet will still have the most benefit from Hard Launch for the sake of hitting targets a bit farther out and reducing the Blast Radius stat. Spike Grenades, as always, for better damage, and a Velocity Masterwork to bring it even higher. Perk 1 has an easy choice in Envious Arsenal. Reworked to fit better into damage rotations, it’s really the only good choice here for damage loadouts. Perpetual Motion is an alright alternative, but the reload speed buff is middling at best. Perk 2 is, of course, Bait and Switch, simply for how it synergizes with Envious. Having the same activation conditions means less hassle when it comes time to do DPS. tags:god-pve
+dimwishlist:item=2599338625&perks=981914802,3301904089,3987942396,3078487919
+dimwishlist:item=2599338625&perks=981914802,3301904089,3987942396,3744057135
+dimwishlist:item=2599338625&perks=981914802,3301904089,2817499044,3078487919
+dimwishlist:item=2599338625&perks=981914802,3301904089,2817499044,3744057135
 
 
 // Bitter/Sweet - PVE (pve)
-//notes: tags:pve
+//notes: Bitter/Sweet will still have the most benefit from Hard Launch for the sake of hitting targets a bit farther out and reducing the Blast Radius stat. Spike Grenades, as always, for better damage, and a Velocity Masterwork to bring it even higher. Perk 1 has an easy choice in Envious Arsenal. Reworked to fit better into damage rotations, it’s really the only good choice here for damage loadouts. Perpetual Motion is an alright alternative, but the reload speed buff is middling at best. Perk 2 is, of course, Bait and Switch, simply for how it synergizes with Envious. Having the same activation conditions means less hassle when it comes time to do DPS. tags:pve
 dimwishlist:item=2599338625&perks=3987942396,3078487919
 dimwishlist:item=2599338625&perks=3987942396,3744057135
 dimwishlist:item=2599338625&perks=2817499044,3078487919
@@ -3999,18 +4114,36 @@ dimwishlist:item=2728851518&perks=1645158859,699525795
 dimwishlist:item=2728851518&perks=1645158859,2451262963
 
 
+// Ignition Code - PVE (god-pve)
+//notes: In the current meta, Ignition Code simply isn’t meant for boss damage. So, instead, we’ll try and shape it into more of an ad clear role with our selected perks. Begin by seeking out Quick Launch and either a velocity or handling masterwork for general stat bumps. Then, for your magazine, it’s a toss-up between Spike Grenades and Blinding Grenades—the former is best for general gameplay, while the latter provides great utility. Slideshot is Ignition Code’s claim to fame for perk one, allowing you to spray enemies with grenades continuously. For the final column, Frenzy is far and away the best choice, even though you likely won’t feel it much in general gameplay. tags:god-pve
+dimwishlist:item=2761869150&perks=3525010810,3032599245,3161816588,4104185692
+dimwishlist:item=2761869150&perks=3525010810,3032599245,3161816588,3007133316
+dimwishlist:item=2761869150&perks=3525010810,3032599245,191144788,4104185692
+dimwishlist:item=2761869150&perks=3525010810,3032599245,191144788,3007133316
+dimwishlist:item=2761869150&perks=3525010810,3032599245,1556840489,4104185692
+dimwishlist:item=2761869150&perks=3525010810,3032599245,1556840489,3007133316
+dimwishlist:item=2761869150&perks=3525010810,3032599245,3442762221,4104185692
+dimwishlist:item=2761869150&perks=3525010810,3032599245,3442762221,3007133316
+dimwishlist:item=2761869150&perks=3525010810,3301904089,3161816588,4104185692
+dimwishlist:item=2761869150&perks=3525010810,3301904089,3161816588,3007133316
+dimwishlist:item=2761869150&perks=3525010810,3301904089,191144788,4104185692
+dimwishlist:item=2761869150&perks=3525010810,3301904089,191144788,3007133316
+dimwishlist:item=2761869150&perks=3525010810,3301904089,1556840489,4104185692
+dimwishlist:item=2761869150&perks=3525010810,3301904089,1556840489,3007133316
+dimwishlist:item=2761869150&perks=3525010810,3301904089,3442762221,4104185692
+dimwishlist:item=2761869150&perks=3525010810,3301904089,3442762221,3007133316
+
+
 // Ignition Code - PVE (pve)
-//notes: Blinding tags:pve
-dimwishlist:item=2761869150&perks=3032599245,3161816588
-dimwishlist:item=2761869150&perks=3032599245,191144788
-
-
-// Ignition Code - PVE (pvp)
-//notes: Damage tags:pvp
-dimwishlist:item=2761869150&perks=3301904089,3161816588,1546637391
-dimwishlist:item=2761869150&perks=3301904089,3161816588,3418165135
-dimwishlist:item=2761869150&perks=3301904089,191144788,1546637391
-dimwishlist:item=2761869150&perks=3301904089,191144788,3418165135
+//notes: In the current meta, Ignition Code simply isn’t meant for boss damage. So, instead, we’ll try and shape it into more of an ad clear role with our selected perks. Begin by seeking out Quick Launch and either a velocity or handling masterwork for general stat bumps. Then, for your magazine, it’s a toss-up between Spike Grenades and Blinding Grenades—the former is best for general gameplay, while the latter provides great utility. Slideshot is Ignition Code’s claim to fame for perk one, allowing you to spray enemies with grenades continuously. For the final column, Frenzy is far and away the best choice, even though you likely won’t feel it much in general gameplay. tags:pve
+dimwishlist:item=2761869150&perks=3161816588,4104185692
+dimwishlist:item=2761869150&perks=3161816588,3007133316
+dimwishlist:item=2761869150&perks=191144788,4104185692
+dimwishlist:item=2761869150&perks=191144788,3007133316
+dimwishlist:item=2761869150&perks=1556840489,4104185692
+dimwishlist:item=2761869150&perks=1556840489,3007133316
+dimwishlist:item=2761869150&perks=3442762221,4104185692
+dimwishlist:item=2761869150&perks=3442762221,3007133316
 
 
 // Midnight Coup - PVE (god-pve)
@@ -4269,8 +4402,16 @@ dimwishlist:item=2821677368&perks=461595545,555281244
 dimwishlist:item=2821677368&perks=461595545,332733060
 
 
+// Exuviae - PVE (god-pve)
+//notes: We recommend Fluted Barrel due to the increase in Stability and Handling. We also recommend Flared Magwell for the increase in Stability while also providing a boost to reload speed, which is a common pain point among 120 RPM Hand Cannons. The weapon perk pool for this weapon is slightly lackluster in terms of PvE however, the perks shown have good synergy in terms of increasing the players survivability. Critical kills will activate Headstone, creating a stasis crystal that the player can destroy which activates Rimestealer, granting Frost Armour and increasing the player’s damage resistance. The lack of perk options combined with 120s not being desirable in PvE nets Exuviae a C Tier ranking. #Stasis tags:god-pve
+dimwishlist:item=2823644677&perks=1840239774,3230963543,1955165503,124408337
+dimwishlist:item=2823644677&perks=1840239774,3230963543,1955165503,1171887445
+dimwishlist:item=2823644677&perks=1840239774,3230963543,2617553311,124408337
+dimwishlist:item=2823644677&perks=1840239774,3230963543,2617553311,1171887445
+
+
 // Exuviae - PVE (pve)
-//notes: Stasis build focused. tags:pve
+//notes: We recommend Fluted Barrel due to the increase in Stability and Handling. We also recommend Flared Magwell for the increase in Stability while also providing a boost to reload speed, which is a common pain point among 120 RPM Hand Cannons. The weapon perk pool for this weapon is slightly lackluster in terms of PvE however, the perks shown have good synergy in terms of increasing the players survivability. Critical kills will activate Headstone, creating a stasis crystal that the player can destroy which activates Rimestealer, granting Frost Armour and increasing the player’s damage resistance. The lack of perk options combined with 120s not being desirable in PvE nets Exuviae a C Tier ranking. #Stasis tags:pve
 dimwishlist:item=2823644677&perks=1955165503,124408337
 dimwishlist:item=2823644677&perks=1955165503,1171887445
 dimwishlist:item=2823644677&perks=2617553311,124408337
@@ -4952,12 +5093,36 @@ dimwishlist:item=3423493037&perks=1906147653,11612903
 dimwishlist:item=3423493037&perks=1906147653,2422968039
 
 
+// Gridskipper - PVE (god-pve)
+//notes: Gridskipper likely won’t compete with anything best in slot just because it doesn’t hit hard enough on those initial bursts. Its perk combinations, however, do make for a solid build and will work very well in lower to mid-tier content. Start off with Arrowhead Brake to control its wide recoil and then compliment that further by adding Ricochet Rounds, which helps keep the crosshairs central after every burst, which is essential for keeping shots on target with this fast-firing weapon. The main attraction comes from Repulsor Brace working in tandem with Destabilizing Rounds. Final blows cause surrounding enemies to become Volatile, and defeating those activates Repulsor Brace to grant the user an Overshield. This combination is excellent for many Void-focused builds and can tear through hordes of foes with ease when rolling. tags:god-pve
+dimwishlist:item=3433930495&perks=839105230,1885400500,776531651,2048641572
+dimwishlist:item=3433930495&perks=839105230,1885400500,776531651,1926441324
+dimwishlist:item=3433930495&perks=839105230,1885400500,2541826827,2048641572
+dimwishlist:item=3433930495&perks=839105230,1885400500,2541826827,1926441324
+
+
+// Gridskipper - PVE2 (god-pve)
+//notes: Gridskipper likely won’t compete with anything best in slot just because it doesn’t hit hard enough on those initial bursts. Its perk combinations, however, do make for a solid build and will work very well in lower to mid-tier content. Start off with Arrowhead Brake to control its wide recoil and then compliment that further by adding Ricochet Rounds, which helps keep the crosshairs central after every burst, which is essential for keeping shots on target with this fast-firing weapon. The main attraction comes from Repulsor Brace working in tandem with Destabilizing Rounds. Final blows cause surrounding enemies to become Volatile, and defeating those activates Repulsor Brace to grant the user an Overshield. This combination is excellent for many Void-focused builds and can tear through hordes of foes with ease when rolling. tags:god-pve
+dimwishlist:item=3433930495&perks=839105230,1885400500,3523296417,4104185692
+dimwishlist:item=3433930495&perks=839105230,1885400500,3523296417,3007133316
+dimwishlist:item=3433930495&perks=839105230,1885400500,1906147653,4104185692
+dimwishlist:item=3433930495&perks=839105230,1885400500,1906147653,3007133316
+
+
 // Gridskipper - PVE (pve)
-//notes: tags:pve
+//notes: Gridskipper likely won’t compete with anything best in slot just because it doesn’t hit hard enough on those initial bursts. Its perk combinations, however, do make for a solid build and will work very well in lower to mid-tier content. Start off with Arrowhead Brake to control its wide recoil and then compliment that further by adding Ricochet Rounds, which helps keep the crosshairs central after every burst, which is essential for keeping shots on target with this fast-firing weapon. The main attraction comes from Repulsor Brace working in tandem with Destabilizing Rounds. Final blows cause surrounding enemies to become Volatile, and defeating those activates Repulsor Brace to grant the user an Overshield. This combination is excellent for many Void-focused builds and can tear through hordes of foes with ease when rolling. tags:pve
 dimwishlist:item=3433930495&perks=776531651,2048641572
 dimwishlist:item=3433930495&perks=776531651,1926441324
 dimwishlist:item=3433930495&perks=2541826827,2048641572
 dimwishlist:item=3433930495&perks=2541826827,1926441324
+
+
+// Gridskipper - PVE2 (pve)
+//notes: Gridskipper likely won’t compete with anything best in slot just because it doesn’t hit hard enough on those initial bursts. Its perk combinations, however, do make for a solid build and will work very well in lower to mid-tier content. Start off with Arrowhead Brake to control its wide recoil and then compliment that further by adding Ricochet Rounds, which helps keep the crosshairs central after every burst, which is essential for keeping shots on target with this fast-firing weapon. The main attraction comes from Repulsor Brace working in tandem with Destabilizing Rounds. Final blows cause surrounding enemies to become Volatile, and defeating those activates Repulsor Brace to grant the user an Overshield. This combination is excellent for many Void-focused builds and can tear through hordes of foes with ease when rolling. tags:pve
+dimwishlist:item=3433930495&perks=3523296417,4104185692
+dimwishlist:item=3433930495&perks=3523296417,3007133316
+dimwishlist:item=3433930495&perks=1906147653,4104185692
+dimwishlist:item=3433930495&perks=1906147653,3007133316
 
 
 // Omniscient Eye - PVE (pve)
@@ -5454,28 +5619,56 @@ dimwishlist:item=3818198556&perks=3974407819,1134488199
 dimwishlist:item=3818198556&perks=3974407819,2904194311
 
 
+// Vantage Point - PVE (god-pve)
+//notes: Our god roll will begin with Fluted Barrel and Tactical Mag for a wide range of extra stats, including handling and reload speed. Because this weapon doesn’t have any major stat deficits, the masterwork here is up to you (although we highly recommend either handling or reload speed). Keep Away is a solid option for your first perk, since it’s typically active in the ranges you’ll be using this weapon. Assuming you’re looking to build into Arc a bit, the new Jolting Feedback is the clear choice for the final column. If you’re instead looking for a more classic, damage-focused roll, the combination of Stats for All and One for All is the play. tags:god-pve
+dimwishlist:item=3830941962&perks=1840239774,106909392,1583705720,3966416502
+dimwishlist:item=3830941962&perks=1840239774,106909392,1583705720,2173046394
+dimwishlist:item=3830941962&perks=1840239774,106909392,1583705720,717070634
+dimwishlist:item=3830941962&perks=1840239774,106909392,1409206216,3966416502
+dimwishlist:item=3830941962&perks=1840239774,106909392,1409206216,2173046394
+dimwishlist:item=3830941962&perks=1840239774,106909392,1409206216,717070634
+dimwishlist:item=3830941962&perks=1840239774,106909392,3619207468,3966416502
+dimwishlist:item=3830941962&perks=1840239774,106909392,3619207468,2173046394
+dimwishlist:item=3830941962&perks=1840239774,106909392,3619207468,717070634
+dimwishlist:item=3830941962&perks=1840239774,106909392,3198323828,3966416502
+dimwishlist:item=3830941962&perks=1840239774,106909392,3198323828,2173046394
+dimwishlist:item=3830941962&perks=1840239774,106909392,3198323828,717070634
+
+
+// Vantage Point - PVE2 (god-pve)
+//notes: #Arc #Amplified tags:god-pve
+dimwishlist:item=3830941962&perks=1840239774,106909392,684456054,3966416502
+dimwishlist:item=3830941962&perks=1840239774,106909392,684456054,2173046394
+dimwishlist:item=3830941962&perks=1840239774,106909392,684456054,717070634
+dimwishlist:item=3830941962&perks=1840239774,106909392,2785334058,3966416502
+dimwishlist:item=3830941962&perks=1840239774,106909392,2785334058,2173046394
+dimwishlist:item=3830941962&perks=1840239774,106909392,2785334058,717070634
+
+
 // Vantage Point - PVE (pve)
-//notes: arc jolt build focused tags:pve
-dimwishlist:item=3830941962&perks=684456054,3966416502
-dimwishlist:item=3830941962&perks=684456054,2173046394
-dimwishlist:item=3830941962&perks=684456054,717070634
-dimwishlist:item=3830941962&perks=2785334058,3966416502
-dimwishlist:item=3830941962&perks=2785334058,2173046394
-dimwishlist:item=3830941962&perks=2785334058,717070634
+//notes: Our god roll will begin with Fluted Barrel and Tactical Mag for a wide range of extra stats, including handling and reload speed. Because this weapon doesn’t have any major stat deficits, the masterwork here is up to you (although we highly recommend either handling or reload speed). Keep Away is a solid option for your first perk, since it’s typically active in the ranges you’ll be using this weapon. Assuming you’re looking to build into Arc a bit, the new Jolting Feedback is the clear choice for the final column. If you’re instead looking for a more classic, damage-focused roll, the combination of Stats for All and One for All is the play. tags:pve
 dimwishlist:item=3830941962&perks=1583705720,3966416502
 dimwishlist:item=3830941962&perks=1583705720,2173046394
 dimwishlist:item=3830941962&perks=1583705720,717070634
 dimwishlist:item=3830941962&perks=1409206216,3966416502
 dimwishlist:item=3830941962&perks=1409206216,2173046394
 dimwishlist:item=3830941962&perks=1409206216,717070634
+dimwishlist:item=3830941962&perks=3619207468,3966416502
+dimwishlist:item=3830941962&perks=3619207468,2173046394
+dimwishlist:item=3830941962&perks=3619207468,717070634
+dimwishlist:item=3830941962&perks=3198323828,3966416502
+dimwishlist:item=3830941962&perks=3198323828,2173046394
+dimwishlist:item=3830941962&perks=3198323828,717070634
 
 
-// Vantage Point - PVE (pve)
-//notes: tags:pve
-dimwishlist:item=3830941962&perks=1583705720,4049631843
-dimwishlist:item=3830941962&perks=1583705720,859780267
-dimwishlist:item=3830941962&perks=1409206216,4049631843
-dimwishlist:item=3830941962&perks=1409206216,859780267
+// Vantage Point - PVE2 (pve)
+//notes: #Arc #Amplified tags:pve
+dimwishlist:item=3830941962&perks=684456054,3966416502
+dimwishlist:item=3830941962&perks=684456054,2173046394
+dimwishlist:item=3830941962&perks=684456054,717070634
+dimwishlist:item=3830941962&perks=2785334058,3966416502
+dimwishlist:item=3830941962&perks=2785334058,2173046394
+dimwishlist:item=3830941962&perks=2785334058,717070634
 
 
 // Hawkmoon - Exotic (pve,pvp)
