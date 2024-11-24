@@ -4482,6 +4482,38 @@ dimwishlist:item=2823644677&perks=2617553311,124408337
 dimwishlist:item=2823644677&perks=2617553311,1171887445
 
 
+// Song of Ir Yût - PVE (god-pve)
+//notes: This PvE roll is made for maximum DPS on any tanky enemy. We start with a Polygonal Rifling and Extended Mag for extra stability and ammo. If you have an option for bonus reload speed, it’s also fine if you plan to reload while dealing damage instead of switching to another weapon. Rewind Rounds and Target Lock give this weapon a feel of Retrofit Escapade god roll, which has Fourth Time’s the Charm with Target Lock instead. The goal is to get increased damage from continuous target hits and then get ammo back for every hit. More ammo, more Target Lock uptime, more damage—as simple and efficient as that. We know that you probably think about the Reconstruction and Bait and Switch combo that is widely popular on the Apex Predator rocket launcher. Will it work here? It will, but we think that not only will it make the gameplay loop more complicated due to Bait and Switch, but you might end up with less total ammo to shoot when using Reconstruction during DPS. tags:god-pve
+dimwishlist:item=2828278545&perks=1392496348,2420895100,3418782618,365154968
+dimwishlist:item=2828278545&perks=1392496348,2420895100,3418782618,2939589096
+dimwishlist:item=2828278545&perks=1392496348,2420895100,1563455254,365154968
+dimwishlist:item=2828278545&perks=1392496348,2420895100,1563455254,2939589096
+
+
+// Song of Ir Yût - PVP (god-pvp)
+//notes: For PvP, only one roll really comes to mind, and that is Zen Moment with Target Lock, just to get it straight of the way. Both perks are really good in the Crucible and there’s just nothing else in the pool that can replace either of them. Keep Away can work, but you don’t really want to sacrifice Zen for it, and there’s no reason to choose Cascade Point or High Ground. The barrel and magazine are PvP classics. It’s all about the active range of your weapon. Hammer-Forged Rifling and Ricochet Rounds will give you a total of 15 range and 10 stability, which is not bad overall. tags:god-pvp
+dimwishlist:item=2828278545&perks=3250034553,1885400500,2387244414,365154968
+dimwishlist:item=2828278545&perks=3250034553,1885400500,2387244414,2939589096
+dimwishlist:item=2828278545&perks=3250034553,1885400500,1748774930,365154968
+dimwishlist:item=2828278545&perks=3250034553,1885400500,1748774930,2939589096
+
+
+// Song of Ir Yût - PVE (pve)
+//notes: This PvE roll is made for maximum DPS on any tanky enemy. We start with a Polygonal Rifling and Extended Mag for extra stability and ammo. If you have an option for bonus reload speed, it’s also fine if you plan to reload while dealing damage instead of switching to another weapon. Rewind Rounds and Target Lock give this weapon a feel of Retrofit Escapade god roll, which has Fourth Time’s the Charm with Target Lock instead. The goal is to get increased damage from continuous target hits and then get ammo back for every hit. More ammo, more Target Lock uptime, more damage—as simple and efficient as that. We know that you probably think about the Reconstruction and Bait and Switch combo that is widely popular on the Apex Predator rocket launcher. Will it work here? It will, but we think that not only will it make the gameplay loop more complicated due to Bait and Switch, but you might end up with less total ammo to shoot when using Reconstruction during DPS. tags:pve
+dimwishlist:item=2828278545&perks=3418782618,365154968
+dimwishlist:item=2828278545&perks=3418782618,2939589096
+dimwishlist:item=2828278545&perks=1563455254,365154968
+dimwishlist:item=2828278545&perks=1563455254,2939589096
+
+
+// Song of Ir Yût - PVP (pvp)
+//notes: For PvP, only one roll really comes to mind, and that is Zen Moment with Target Lock, just to get it straight of the way. Both perks are really good in the Crucible and there’s just nothing else in the pool that can replace either of them. Keep Away can work, but you don’t really want to sacrifice Zen for it, and there’s no reason to choose Cascade Point or High Ground. The barrel and magazine are PvP classics. It’s all about the active range of your weapon. Hammer-Forged Rifling and Ricochet Rounds will give you a total of 15 range and 10 stability, which is not bad overall. tags:pvp
+dimwishlist:item=2828278545&perks=2387244414,365154968
+dimwishlist:item=2828278545&perks=2387244414,2939589096
+dimwishlist:item=2828278545&perks=1748774930,365154968
+dimwishlist:item=2828278545&perks=1748774930,2939589096
+
+
 // Syncopation-53 (god-pve)
 //notes: tags:god-pve
 dimwishlist:item=2856514843&perks=839105230,1885400500,2717805783,124408337
