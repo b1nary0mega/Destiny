@@ -11985,6 +11985,146 @@
             "tags": [
                 "PVE"
             ]
+        },
+        {
+            "description": "This PvE roll is made for maximum DPS on any tanky enemy. We start with a Polygonal Rifling and Extended Mag for extra stability and ammo. If you have an option for bonus reload speed, it’s also fine if you plan to reload while dealing damage instead of switching to another weapon. Rewind Rounds and Target Lock give this weapon a feel of Retrofit Escapade god roll, which has Fourth Time’s the Charm with Target Lock instead. The goal is to get increased damage from continuous target hits and then get ammo back for every hit. More ammo, more Target Lock uptime, more damage—as simple and efficient as that. We know that you probably think about the Reconstruction and Bait and Switch combo that is widely popular on the Apex Predator rocket launcher. Will it work here? It will, but we think that not only will it make the gameplay loop more complicated due to Bait and Switch, but you might end up with less total ammo to shoot when using Reconstruction during DPS.",
+            "hash": 2828278545,
+            "name": "PVE",
+            "plugs": [
+                [
+                    1392496348
+                ],
+                [
+                    2420895100
+                ],
+                [
+                    3418782618,
+                    1563455254
+                ],
+                [
+                    365154968,
+                    2939589096
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "This PvE roll is made for maximum DPS on any tanky enemy. We start with a Polygonal Rifling and Extended Mag for extra stability and ammo. If you have an option for bonus reload speed, it’s also fine if you plan to reload while dealing damage instead of switching to another weapon. Rewind Rounds and Target Lock give this weapon a feel of Retrofit Escapade god roll, which has Fourth Time’s the Charm with Target Lock instead. The goal is to get increased damage from continuous target hits and then get ammo back for every hit. More ammo, more Target Lock uptime, more damage—as simple and efficient as that. We know that you probably think about the Reconstruction and Bait and Switch combo that is widely popular on the Apex Predator rocket launcher. Will it work here? It will, but we think that not only will it make the gameplay loop more complicated due to Bait and Switch, but you might end up with less total ammo to shoot when using Reconstruction during DPS.",
+            "hash": 2828278545,
+            "name": "PVE",
+            "plugs": [
+                [
+                    3418782618,
+                    1563455254
+                ],
+                [
+                    365154968,
+                    2939589096
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "For PvP, only one roll really comes to mind, and that is Zen Moment with Target Lock, just to get it straight of the way. Both perks are really good in the Crucible and there’s just nothing else in the pool that can replace either of them. Keep Away can work, but you don’t really want to sacrifice Zen for it, and there’s no reason to choose Cascade Point or High Ground. The barrel and magazine are PvP classics. It’s all about the active range of your weapon. Hammer-Forged Rifling and Ricochet Rounds will give you a total of 15 range and 10 stability, which is not bad overall.",
+            "hash": 2828278545,
+            "name": "PVP",
+            "plugs": [
+                [
+                    3250034553
+                ],
+                [
+                    1885400500
+                ],
+                [
+                    2387244414,
+                    1748774930
+                ],
+                [
+                    365154968,
+                    2939589096
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "For PvP, only one roll really comes to mind, and that is Zen Moment with Target Lock, just to get it straight of the way. Both perks are really good in the Crucible and there’s just nothing else in the pool that can replace either of them. Keep Away can work, but you don’t really want to sacrifice Zen for it, and there’s no reason to choose Cascade Point or High Ground. The barrel and magazine are PvP classics. It’s all about the active range of your weapon. Hammer-Forged Rifling and Ricochet Rounds will give you a total of 15 range and 10 stability, which is not bad overall.",
+            "hash": 2828278545,
+            "name": "PVP",
+            "plugs": [
+                [
+                    2387244414,
+                    1748774930
+                ],
+                [
+                    365154968,
+                    2939589096
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "Barrels mean very little inside of PvE. However, Oversoul Edict feels rather unwieldy and difficult to control, meaning the slight bump from Smallbore to Stability can help. High-Caliber Rounds is strong as it staggers enemies quicker than weapons without it, making it quite powerful, especially in challenging content. Perk 1 is barren for good PvE perks. Demolitionist is the only good PvE perk in this slot; however, Perpetual Motion isn’t awful either. In Perk 2 is where things heat up though. Sword Logic, Swashbuckler, Adrenaline Junkie, and Voltshot are all very powerful options, and you will probably be fine with any of them.",
+            "hash": 1098171824,
+            "name": "PVE",
+            "plugs": [
+                [
+                    1840239774,
+                    1482024992
+                ],
+                [
+                    1561002382,
+                    1885400500
+                ],
+                [
+                    3523296417,
+                    1906147653,
+                    1428297954,
+                    2014892510
+                ],
+                [
+                    2173046394,
+                    1720528630,
+                    31345821,
+                    11612903,
+                    2422968039,
+                    639190697
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Barrels mean very little inside of PvE. However, Oversoul Edict feels rather unwieldy and difficult to control, meaning the slight bump from Smallbore to Stability can help. High-Caliber Rounds is strong as it staggers enemies quicker than weapons without it, making it quite powerful, especially in challenging content. Perk 1 is barren for good PvE perks. Demolitionist is the only good PvE perk in this slot; however, Perpetual Motion isn’t awful either. In Perk 2 is where things heat up though. Sword Logic, Swashbuckler, Adrenaline Junkie, and Voltshot are all very powerful options, and you will probably be fine with any of them.",
+            "hash": 1098171824,
+            "name": "PVE",
+            "plugs": [
+                [
+                    3523296417,
+                    1906147653,
+                    1428297954,
+                    2014892510
+                ],
+                [
+                    2173046394,
+                    1720528630,
+                    31345821,
+                    11612903,
+                    2422968039,
+                    639190697
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
         }
     ]
 }
