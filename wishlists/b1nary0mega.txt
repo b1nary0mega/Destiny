@@ -1975,6 +1975,14 @@ dimwishlist:item=1492522228&perks=1563455254,1427256713,3988215619
 dimwishlist:item=1492522228&perks=1563455254,254337357,3988215619
 
 
+// Doomed Petitioner - PVE (god-pve)
+//notes: While it hasn’t fully entered the meta yet, Doomed Petitioner is still a relatively powerful choice for DPS scenarios. Arrowhead Brake and Fluted Barrel are relatively interchangeable, granting recoil direction and handling. Ionized Battery is typically the top pick for the second slot, granting another shot in the magazine (the reload speed decrease won’t matter because of your third-column perk). Envious Assassin is best for perk one; while it takes a bit more effort to use than Reconstruction, the power of a fully charged Envious Assassin magazine is unmatched.  Surrounded and Precision Instrument are both great choices for your final perk. While Surrounded grants a considerably higher damage buff, it can be a little tedious to trigger during a damage phase. Precision Instrument is a worthy substitute if need be, especially considering you can build up to maximum stacks in only two shots. Finally, handling is best for your masterwork, just in case you need to do any weapon swaps during a DPS phase. tags:god-pve
+dimwishlist:item=1501688142&perks=1840239774,1483536627,968510818,3708227201
+dimwishlist:item=1501688142&perks=1840239774,1483536627,968510818,781192741
+dimwishlist:item=1501688142&perks=1840239774,1483536627,424370782,3708227201
+dimwishlist:item=1501688142&perks=1840239774,1483536627,424370782,781192741
+
+
 // Claws of the Wolf - PVE (god-pve)
 //notes: MW: Reload; Though it's not really a PvE weapon in most cases, Claws of the Wolf does benefit from the Void double-whammy of Repulsor Brace and Destabilizing Rounds, giving it some serious synergy with Void builds. To start, though, your choices on barrel and magazine are pretty open, but Handling and Reload Speed are good places to put your focus; Range and Stability matter a lot less when you're not fighting other Guardians. Your main focus is on getting Repulsor Brace and Destabilizing Rounds together, which gives Claws of the Wolf some serious power in PvE. First, Destabilizing Rounds cause targets near any enemy you kill to become Volatile, which debuffs them and makes them explode, spreading around more Volatile. If you use Claws to kill a Volatile enemy, you'll trigger Repulsor Brace, which gives you an overshield. So especially when dealing with groups of weak enemies, the combination creates its own feedback loop that makes your killing more effective and your defense even stronger. Add this combo to a Void build that spreads around and takes advantage of more debuffs, and you'll get even more shields for your trouble. tags:god-pve
 dimwishlist:item=1505862304&perks=839105230,3230963543,776531651,2048641572
