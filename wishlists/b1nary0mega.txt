@@ -139,6 +139,14 @@ dimwishlist:item=93061497&perks=1906147653,2396489472
 dimwishlist:item=93061497&perks=1906147653,598607952
 
 
+// Crimil's Dagger - PVP (god-pve)
+//notes: MW: Range; Fluted Barrel is recommended due to the weapon’s lack of Stability and Handling at base stats. Accurized Rounds is recommended due to the increase in Range provided. We recommend Slideways as it provides a +20 stat boost to Stability and Handling (+25 Enhanced), and also partially refills the magazine which is very useful on 120 Hand Cannons due to the slow reload speed. We recommend Precision Instrument as it allows you to 2 Headshot 1 Bodyshot even against Tier 10 Resilience, while other perks only allow this up until Tier 6 Resilience. Range masterwork is preferred as the boost provides nearly 1.5m of extra range, and once Slideways has been activated, the low Stability and Handling becomes less of an issue due to the stat boost. Skulking Wolf is the preferred option, as removing your blip from the radar allows you to reposition and recover from the previous gunfight. tags:god-pve
+dimwishlist:item=198854575&perks=1840239774,3142289711,2039302152,555281244
+dimwishlist:item=198854575&perks=1840239774,3142289711,2039302152,332733060
+dimwishlist:item=198854575&perks=1840239774,3142289711,2396422520,555281244
+dimwishlist:item=198854575&perks=1840239774,3142289711,2396422520,332733060
+
+
 // Malfeasance - Exotic ()
 dimwishlist:item=204878059&perks=4090651448,2420895100,2130042297,1012699414
 
@@ -506,6 +514,26 @@ dimwishlist:item=431721920&perks=536173722,3523296417
 dimwishlist:item=431721920&perks=536173722,1906147653
 dimwishlist:item=431721920&perks=536173722,4293542123
 dimwishlist:item=431721920&perks=536173722,2675184851
+
+
+// Tinasha's Mastery - PVE (god-pve)
+//notes: MW: Velocity; Let’s get the easy ones out of the way. Quick Launch will help increase the Velocity and Handling, and Tactical Mag gives us a nice bump in Reload Speed and Stability, while also granting extra ammo to the mag. Velocity Masterwork as your Reload Speed will be enhanced even further by either of our perk choices. Perk 1 has a clear winner in Air Trigger. Not needing to run a reserves mod while also getting a nice Reload Speed just for being airborne is a great all-in-one package. However, Loose Change is a good alternative, especially when paired with Chill Clip. Speaking of, it’s the clear winner for Perk 2. While some might understandably go with a damage perk like Desperate Measures, Chill Clip’s utility is unmatched, and with such a high mag size, you’ll have more chances than most other weapons to apply it. tags:god-pve
+dimwishlist:item=480368036&perks=3525010810,106909392,1421772400,2109543898
+dimwishlist:item=480368036&perks=3525010810,106909392,1421772400,2799030358
+dimwishlist:item=480368036&perks=3525010810,106909392,1421772400,2978966579
+dimwishlist:item=480368036&perks=3525010810,106909392,1421772400,344235611
+dimwishlist:item=480368036&perks=3525010810,106909392,3291427296,2109543898
+dimwishlist:item=480368036&perks=3525010810,106909392,3291427296,2799030358
+dimwishlist:item=480368036&perks=3525010810,106909392,3291427296,2978966579
+dimwishlist:item=480368036&perks=3525010810,106909392,3291427296,344235611
+dimwishlist:item=480368036&perks=3525010810,106909392,1119449540,2109543898
+dimwishlist:item=480368036&perks=3525010810,106909392,1119449540,2799030358
+dimwishlist:item=480368036&perks=3525010810,106909392,1119449540,2978966579
+dimwishlist:item=480368036&perks=3525010810,106909392,1119449540,344235611
+dimwishlist:item=480368036&perks=3525010810,106909392,561986700,2109543898
+dimwishlist:item=480368036&perks=3525010810,106909392,561986700,2799030358
+dimwishlist:item=480368036&perks=3525010810,106909392,561986700,2978966579
+dimwishlist:item=480368036&perks=3525010810,106909392,561986700,344235611
 
 
 // Rufus's Fury - PVE (god-pve)
@@ -5323,6 +5351,18 @@ dimwishlist:item=3423493037&perks=3523296417,11612903
 dimwishlist:item=3423493037&perks=3523296417,2422968039
 dimwishlist:item=3423493037&perks=1906147653,11612903
 dimwishlist:item=3423493037&perks=1906147653,2422968039
+
+
+// Lethal Abundance - PVP (god-pvp)
+//notes: MW: Stability; This is where Lethal truly shines. While the quirky interaction of Torch + Slice is sure to make this gun very popular for Solar Hunters, it won’t stick around forever, so it’s better to focus on a future-proof roll than something seasonally sensational. As with the PvE roll, Chambered Compensator and Ricochet Rounds are your best picks here. With a Stability Masterwork, you’re looking at 85 Range and 61 Stability, which is insane for a High-Impact Auto. For the perks, there’s very little to choose from, and for once, that is a good thing. If you’re a Solar Hunter wanting to take advantage of Season 23’s Torch Artifact Perk, Slice and Tap the Trigger/Target Lock are your best choices. Target Lock will help if the enemy has an overshield, but Tap the Trigger gives that consistency that some might need. If you want something that will stand strong after the season’s over, then Dynamic Sway Reduction and Tap the Trigger are what you want. I’d also recommend Elemental Capacitor if you are running Void, as it buffs the Stability by 20, meaning this god roll would have 81 Stability! tags:god-pvp
+dimwishlist:item=3428407746&perks=3661387068,3142289711,923806249,365154968
+dimwishlist:item=3428407746&perks=3661387068,3142289711,923806249,1890422124
+dimwishlist:item=3428407746&perks=3661387068,3142289711,923806249,1523649716
+dimwishlist:item=3428407746&perks=3661387068,3142289711,923806249,2939589096
+dimwishlist:item=3428407746&perks=3661387068,3142289711,3422796781,365154968
+dimwishlist:item=3428407746&perks=3661387068,3142289711,3422796781,1890422124
+dimwishlist:item=3428407746&perks=3661387068,3142289711,3422796781,1523649716
+dimwishlist:item=3428407746&perks=3661387068,3142289711,3422796781,2939589096
 
 
 // Gridskipper - PVE (god-pve)
