@@ -518,20 +518,12 @@ dimwishlist:item=431721920&perks=536173722,2675184851
 
 // Tinasha's Mastery - PVE (god-pve)
 //notes: MW: Velocity; Let’s get the easy ones out of the way. Quick Launch will help increase the Velocity and Handling, and Tactical Mag gives us a nice bump in Reload Speed and Stability, while also granting extra ammo to the mag. Velocity Masterwork as your Reload Speed will be enhanced even further by either of our perk choices. Perk 1 has a clear winner in Air Trigger. Not needing to run a reserves mod while also getting a nice Reload Speed just for being airborne is a great all-in-one package. However, Loose Change is a good alternative, especially when paired with Chill Clip. Speaking of, it’s the clear winner for Perk 2. While some might understandably go with a damage perk like Desperate Measures, Chill Clip’s utility is unmatched, and with such a high mag size, you’ll have more chances than most other weapons to apply it. tags:god-pve
-dimwishlist:item=480368036&perks=3525010810,106909392,1421772400,2109543898
-dimwishlist:item=480368036&perks=3525010810,106909392,1421772400,2799030358
 dimwishlist:item=480368036&perks=3525010810,106909392,1421772400,2978966579
 dimwishlist:item=480368036&perks=3525010810,106909392,1421772400,344235611
-dimwishlist:item=480368036&perks=3525010810,106909392,3291427296,2109543898
-dimwishlist:item=480368036&perks=3525010810,106909392,3291427296,2799030358
 dimwishlist:item=480368036&perks=3525010810,106909392,3291427296,2978966579
 dimwishlist:item=480368036&perks=3525010810,106909392,3291427296,344235611
-dimwishlist:item=480368036&perks=3525010810,106909392,1119449540,2109543898
-dimwishlist:item=480368036&perks=3525010810,106909392,1119449540,2799030358
 dimwishlist:item=480368036&perks=3525010810,106909392,1119449540,2978966579
 dimwishlist:item=480368036&perks=3525010810,106909392,1119449540,344235611
-dimwishlist:item=480368036&perks=3525010810,106909392,561986700,2109543898
-dimwishlist:item=480368036&perks=3525010810,106909392,561986700,2799030358
 dimwishlist:item=480368036&perks=3525010810,106909392,561986700,2978966579
 dimwishlist:item=480368036&perks=3525010810,106909392,561986700,344235611
 
