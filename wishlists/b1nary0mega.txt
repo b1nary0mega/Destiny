@@ -6953,5 +6953,3 @@ dimwishlist:item=4287947559&perks=4090651448,791862061,4071163871,2679249093
 //notes: MW: Range;  This is a very strong shotgun for PvE. You gain a lot of benefits for just getting kills. The one drawback to this gun is you need to play close range and some enemies in PvE can Knock you back. If you find yourself getting knocked around a lot make sure to melee as soon as the enemy is done with their attack animation. The lunge you get will keep you in place. Consider using this strategy when using this weapon. tags:pve
 dimwishlist:item=4287947559&perks=691659142,2679249093
 dimwishlist:item=4287947559&perks=4071163871,2679249093
-
-
