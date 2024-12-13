@@ -151,110 +151,6 @@ dimwishlist:item=198854575&perks=1840239774,3142289711,2396422520,332733060
 dimwishlist:item=204878059&perks=4090651448,2420895100,2130042297,1012699414
 
 
-// Hammerhead - PVE (god-pve)
-//notes: MW: Handling; We’ll opt for Arrowhead Break, Appended Mag, and a Handling masterwork to get more handling and a more manageable recoil. From there, Rampage and Killing Tally is our preferred combo, as it is what makes the Hammerhead unique. Plus, this is the perfect combo if you want to go all in on the damage output. Rewind Rounds and Killing Tally is also an excellent combination, but there’s tons of room for mixing it up here. Fourth Time’s the Charm, Feeding Frenzy, and Envious Assassin all provide similar benefits to Rewind Rounds. Onslaught is also worth mentioning in the final column, which just got re-released and pairs perfectly with something like Rampage. Recommended Loadout: The Mountaintop, Sunshot, Hammerhead. tags:god-pve
-dimwishlist:item=211732170&perks=839105230,2420895100,3425386926,557221067
-dimwishlist:item=211732170&perks=839105230,2420895100,3425386926,2896748467
-dimwishlist:item=211732170&perks=839105230,2420895100,3425386926,95528736
-dimwishlist:item=211732170&perks=839105230,2420895100,3425386926,956288240
-dimwishlist:item=211732170&perks=839105230,2420895100,288411554,557221067
-dimwishlist:item=211732170&perks=839105230,2420895100,288411554,2896748467
-dimwishlist:item=211732170&perks=839105230,2420895100,288411554,95528736
-dimwishlist:item=211732170&perks=839105230,2420895100,288411554,956288240
-dimwishlist:item=211732170&perks=839105230,2420895100,1354429876,557221067
-dimwishlist:item=211732170&perks=839105230,2420895100,1354429876,2896748467
-dimwishlist:item=211732170&perks=839105230,2420895100,1354429876,95528736
-dimwishlist:item=211732170&perks=839105230,2420895100,1354429876,956288240
-dimwishlist:item=211732170&perks=839105230,2420895100,848860060,557221067
-dimwishlist:item=211732170&perks=839105230,2420895100,848860060,2896748467
-dimwishlist:item=211732170&perks=839105230,2420895100,848860060,95528736
-dimwishlist:item=211732170&perks=839105230,2420895100,848860060,956288240
-dimwishlist:item=211732170&perks=839105230,2420895100,3418782618,557221067
-dimwishlist:item=211732170&perks=839105230,2420895100,3418782618,2896748467
-dimwishlist:item=211732170&perks=839105230,2420895100,3418782618,95528736
-dimwishlist:item=211732170&perks=839105230,2420895100,3418782618,956288240
-dimwishlist:item=211732170&perks=839105230,2420895100,1563455254,557221067
-dimwishlist:item=211732170&perks=839105230,2420895100,1563455254,2896748467
-dimwishlist:item=211732170&perks=839105230,2420895100,1563455254,95528736
-dimwishlist:item=211732170&perks=839105230,2420895100,1563455254,956288240
-dimwishlist:item=211732170&perks=839105230,1087426260,3425386926,557221067
-dimwishlist:item=211732170&perks=839105230,1087426260,3425386926,2896748467
-dimwishlist:item=211732170&perks=839105230,1087426260,3425386926,95528736
-dimwishlist:item=211732170&perks=839105230,1087426260,3425386926,956288240
-dimwishlist:item=211732170&perks=839105230,1087426260,288411554,557221067
-dimwishlist:item=211732170&perks=839105230,1087426260,288411554,2896748467
-dimwishlist:item=211732170&perks=839105230,1087426260,288411554,95528736
-dimwishlist:item=211732170&perks=839105230,1087426260,288411554,956288240
-dimwishlist:item=211732170&perks=839105230,1087426260,1354429876,557221067
-dimwishlist:item=211732170&perks=839105230,1087426260,1354429876,2896748467
-dimwishlist:item=211732170&perks=839105230,1087426260,1354429876,95528736
-dimwishlist:item=211732170&perks=839105230,1087426260,1354429876,956288240
-dimwishlist:item=211732170&perks=839105230,1087426260,848860060,557221067
-dimwishlist:item=211732170&perks=839105230,1087426260,848860060,2896748467
-dimwishlist:item=211732170&perks=839105230,1087426260,848860060,95528736
-dimwishlist:item=211732170&perks=839105230,1087426260,848860060,956288240
-dimwishlist:item=211732170&perks=839105230,1087426260,3418782618,557221067
-dimwishlist:item=211732170&perks=839105230,1087426260,3418782618,2896748467
-dimwishlist:item=211732170&perks=839105230,1087426260,3418782618,95528736
-dimwishlist:item=211732170&perks=839105230,1087426260,3418782618,956288240
-dimwishlist:item=211732170&perks=839105230,1087426260,1563455254,557221067
-dimwishlist:item=211732170&perks=839105230,1087426260,1563455254,2896748467
-dimwishlist:item=211732170&perks=839105230,1087426260,1563455254,95528736
-dimwishlist:item=211732170&perks=839105230,1087426260,1563455254,956288240
-
-
-// Hammerhead - PVP (god-pvp)
-//notes: MW: Stability; We’ll begin by opting for higher stability through Arrowhead Break, Ricochet Rounds, and a Stability masterwork. Rampage may seem like a strange choice for perk one, but its increased damage is realistically the best thing you can get out of this column for The Crucible. As for the final column, we chose Tap the Trigger since two damage perks seemed like overkill. However, if you want to try for an extremely short TTK instead of wanting more consistency, exploring other offerings in this column isn’t a bad idea. tags:god-pvp
-dimwishlist:item=211732170&perks=839105230,1885400500,3425386926,1890422124
-dimwishlist:item=211732170&perks=839105230,1885400500,3425386926,1523649716
-dimwishlist:item=211732170&perks=839105230,1885400500,1870851715,1890422124
-dimwishlist:item=211732170&perks=839105230,1885400500,1870851715,1523649716
-dimwishlist:item=211732170&perks=839105230,1885400500,288411554,1890422124
-dimwishlist:item=211732170&perks=839105230,1885400500,288411554,1523649716
-dimwishlist:item=211732170&perks=839105230,1885400500,183938251,1890422124
-dimwishlist:item=211732170&perks=839105230,1885400500,183938251,1523649716
-
-
-// Hammerhead - PVE (pve)
-//notes: MW: Handling; We’ll opt for Arrowhead Break, Appended Mag, and a Handling masterwork to get more handling and a more manageable recoil. From there, Rampage and Killing Tally is our preferred combo, as it is what makes the Hammerhead unique. Plus, this is the perfect combo if you want to go all in on the damage output. Rewind Rounds and Killing Tally is also an excellent combination, but there’s tons of room for mixing it up here. Fourth Time’s the Charm, Feeding Frenzy, and Envious Assassin all provide similar benefits to Rewind Rounds. Onslaught is also worth mentioning in the final column, which just got re-released and pairs perfectly with something like Rampage. Recommended Loadout: The Mountaintop, Sunshot, Hammerhead. tags:pve
-dimwishlist:item=211732170&perks=3425386926,557221067
-dimwishlist:item=211732170&perks=3425386926,2896748467
-dimwishlist:item=211732170&perks=3425386926,95528736
-dimwishlist:item=211732170&perks=3425386926,956288240
-dimwishlist:item=211732170&perks=288411554,557221067
-dimwishlist:item=211732170&perks=288411554,2896748467
-dimwishlist:item=211732170&perks=288411554,95528736
-dimwishlist:item=211732170&perks=288411554,956288240
-dimwishlist:item=211732170&perks=1354429876,557221067
-dimwishlist:item=211732170&perks=1354429876,2896748467
-dimwishlist:item=211732170&perks=1354429876,95528736
-dimwishlist:item=211732170&perks=1354429876,956288240
-dimwishlist:item=211732170&perks=848860060,557221067
-dimwishlist:item=211732170&perks=848860060,2896748467
-dimwishlist:item=211732170&perks=848860060,95528736
-dimwishlist:item=211732170&perks=848860060,956288240
-dimwishlist:item=211732170&perks=3418782618,557221067
-dimwishlist:item=211732170&perks=3418782618,2896748467
-dimwishlist:item=211732170&perks=3418782618,95528736
-dimwishlist:item=211732170&perks=3418782618,956288240
-dimwishlist:item=211732170&perks=1563455254,557221067
-dimwishlist:item=211732170&perks=1563455254,2896748467
-dimwishlist:item=211732170&perks=1563455254,95528736
-dimwishlist:item=211732170&perks=1563455254,956288240
-
-
-// Hammerhead - PVP (pvp)
-//notes: MW: Stability; We’ll begin by opting for higher stability through Arrowhead Break, Ricochet Rounds, and a Stability masterwork. Rampage may seem like a strange choice for perk one, but its increased damage is realistically the best thing you can get out of this column for The Crucible. As for the final column, we chose Tap the Trigger since two damage perks seemed like overkill. However, if you want to try for an extremely short TTK instead of wanting more consistency, exploring other offerings in this column isn’t a bad idea. tags:pvp
-dimwishlist:item=211732170&perks=3425386926,1890422124
-dimwishlist:item=211732170&perks=3425386926,1523649716
-dimwishlist:item=211732170&perks=1870851715,1890422124
-dimwishlist:item=211732170&perks=1870851715,1523649716
-dimwishlist:item=211732170&perks=288411554,1890422124
-dimwishlist:item=211732170&perks=288411554,1523649716
-dimwishlist:item=211732170&perks=183938251,1890422124
-dimwishlist:item=211732170&perks=183938251,1523649716
-
-
 // Horror's Least - PVP (god-pvp)
 //notes: MW: Range; Able to dominate in the Crucible at mid-range, Horror's Least is one of the best pulse rifles in the game. With great stats, an Adept variant, and a well-rounded perk pool, this weapon is a beast and worth grinding if you're a pulse rifle fan. tags:god-pvp
 dimwishlist:item=216983039&perks=1482024992,3142289711,1428297954,1015611457
@@ -2004,23 +1900,179 @@ dimwishlist:item=1491665733&perks=424370782,781192741
 
 
 // Scintillation (Adept) - PVE (god-pve)
-//notes: MW: Charge; Adept: Charge; The Scintillation Adept’s God roll consists of the Vice string, Bait and Switch, Rewind Rounds, Accelerated Coils, Fluted Barrel, and the Adept charge time weapon mod. tags:god-pve
+//notes: MW: Charge; Adept: Charge; The Scintillation Adept’s God roll consists of Veist Stinger, Bait and Switch, Rewind Rounds, Accelerated Coils, Fluted Barrel, and the Adept charge time weapon mod. tags:god-pve
 dimwishlist:item=1492522228&perks=1840239774,689005463,3418782618,3078487919,3988215619
 dimwishlist:item=1492522228&perks=1840239774,689005463,3418782618,3744057135,3988215619
+dimwishlist:item=1492522228&perks=1840239774,689005463,3418782618,1771339417,3988215619
+dimwishlist:item=1492522228&perks=1840239774,689005463,3418782618,3708227201,3988215619
+dimwishlist:item=1492522228&perks=1840239774,689005463,3418782618,781192741,3988215619
+dimwishlist:item=1492522228&perks=1840239774,689005463,3418782618,395388285,3988215619
 dimwishlist:item=1492522228&perks=1840239774,689005463,1563455254,3078487919,3988215619
 dimwishlist:item=1492522228&perks=1840239774,689005463,1563455254,3744057135,3988215619
+dimwishlist:item=1492522228&perks=1840239774,689005463,1563455254,1771339417,3988215619
+dimwishlist:item=1492522228&perks=1840239774,689005463,1563455254,3708227201,3988215619
+dimwishlist:item=1492522228&perks=1840239774,689005463,1563455254,781192741,3988215619
+dimwishlist:item=1492522228&perks=1840239774,689005463,1563455254,395388285,3988215619
+dimwishlist:item=1492522228&perks=1840239774,689005463,968510818,3078487919,3988215619
+dimwishlist:item=1492522228&perks=1840239774,689005463,968510818,3744057135,3988215619
+dimwishlist:item=1492522228&perks=1840239774,689005463,968510818,1771339417,3988215619
+dimwishlist:item=1492522228&perks=1840239774,689005463,968510818,3708227201,3988215619
+dimwishlist:item=1492522228&perks=1840239774,689005463,968510818,781192741,3988215619
+dimwishlist:item=1492522228&perks=1840239774,689005463,968510818,395388285,3988215619
+dimwishlist:item=1492522228&perks=1840239774,689005463,424370782,3078487919,3988215619
+dimwishlist:item=1492522228&perks=1840239774,689005463,424370782,3744057135,3988215619
+dimwishlist:item=1492522228&perks=1840239774,689005463,424370782,1771339417,3988215619
+dimwishlist:item=1492522228&perks=1840239774,689005463,424370782,3708227201,3988215619
+dimwishlist:item=1492522228&perks=1840239774,689005463,424370782,781192741,3988215619
+dimwishlist:item=1492522228&perks=1840239774,689005463,424370782,395388285,3988215619
+dimwishlist:item=1492522228&perks=1840239774,1483536627,3418782618,3078487919,3988215619
+dimwishlist:item=1492522228&perks=1840239774,1483536627,3418782618,3744057135,3988215619
+dimwishlist:item=1492522228&perks=1840239774,1483536627,3418782618,1771339417,3988215619
+dimwishlist:item=1492522228&perks=1840239774,1483536627,3418782618,3708227201,3988215619
+dimwishlist:item=1492522228&perks=1840239774,1483536627,3418782618,781192741,3988215619
+dimwishlist:item=1492522228&perks=1840239774,1483536627,3418782618,395388285,3988215619
+dimwishlist:item=1492522228&perks=1840239774,1483536627,1563455254,3078487919,3988215619
+dimwishlist:item=1492522228&perks=1840239774,1483536627,1563455254,3744057135,3988215619
+dimwishlist:item=1492522228&perks=1840239774,1483536627,1563455254,1771339417,3988215619
+dimwishlist:item=1492522228&perks=1840239774,1483536627,1563455254,3708227201,3988215619
+dimwishlist:item=1492522228&perks=1840239774,1483536627,1563455254,781192741,3988215619
+dimwishlist:item=1492522228&perks=1840239774,1483536627,1563455254,395388285,3988215619
+dimwishlist:item=1492522228&perks=1840239774,1483536627,968510818,3078487919,3988215619
+dimwishlist:item=1492522228&perks=1840239774,1483536627,968510818,3744057135,3988215619
+dimwishlist:item=1492522228&perks=1840239774,1483536627,968510818,1771339417,3988215619
+dimwishlist:item=1492522228&perks=1840239774,1483536627,968510818,3708227201,3988215619
+dimwishlist:item=1492522228&perks=1840239774,1483536627,968510818,781192741,3988215619
+dimwishlist:item=1492522228&perks=1840239774,1483536627,968510818,395388285,3988215619
+dimwishlist:item=1492522228&perks=1840239774,1483536627,424370782,3078487919,3988215619
+dimwishlist:item=1492522228&perks=1840239774,1483536627,424370782,3744057135,3988215619
+dimwishlist:item=1492522228&perks=1840239774,1483536627,424370782,1771339417,3988215619
+dimwishlist:item=1492522228&perks=1840239774,1483536627,424370782,3708227201,3988215619
+dimwishlist:item=1492522228&perks=1840239774,1483536627,424370782,781192741,3988215619
+dimwishlist:item=1492522228&perks=1840239774,1483536627,424370782,395388285,3988215619
+dimwishlist:item=1492522228&perks=1840239774,2680121939,3418782618,3078487919,3988215619
+dimwishlist:item=1492522228&perks=1840239774,2680121939,3418782618,3744057135,3988215619
+dimwishlist:item=1492522228&perks=1840239774,2680121939,3418782618,1771339417,3988215619
+dimwishlist:item=1492522228&perks=1840239774,2680121939,3418782618,3708227201,3988215619
+dimwishlist:item=1492522228&perks=1840239774,2680121939,3418782618,781192741,3988215619
+dimwishlist:item=1492522228&perks=1840239774,2680121939,3418782618,395388285,3988215619
+dimwishlist:item=1492522228&perks=1840239774,2680121939,1563455254,3078487919,3988215619
+dimwishlist:item=1492522228&perks=1840239774,2680121939,1563455254,3744057135,3988215619
+dimwishlist:item=1492522228&perks=1840239774,2680121939,1563455254,1771339417,3988215619
+dimwishlist:item=1492522228&perks=1840239774,2680121939,1563455254,3708227201,3988215619
+dimwishlist:item=1492522228&perks=1840239774,2680121939,1563455254,781192741,3988215619
+dimwishlist:item=1492522228&perks=1840239774,2680121939,1563455254,395388285,3988215619
+dimwishlist:item=1492522228&perks=1840239774,2680121939,968510818,3078487919,3988215619
+dimwishlist:item=1492522228&perks=1840239774,2680121939,968510818,3744057135,3988215619
+dimwishlist:item=1492522228&perks=1840239774,2680121939,968510818,1771339417,3988215619
+dimwishlist:item=1492522228&perks=1840239774,2680121939,968510818,3708227201,3988215619
+dimwishlist:item=1492522228&perks=1840239774,2680121939,968510818,781192741,3988215619
+dimwishlist:item=1492522228&perks=1840239774,2680121939,968510818,395388285,3988215619
+dimwishlist:item=1492522228&perks=1840239774,2680121939,424370782,3078487919,3988215619
+dimwishlist:item=1492522228&perks=1840239774,2680121939,424370782,3744057135,3988215619
+dimwishlist:item=1492522228&perks=1840239774,2680121939,424370782,1771339417,3988215619
+dimwishlist:item=1492522228&perks=1840239774,2680121939,424370782,3708227201,3988215619
+dimwishlist:item=1492522228&perks=1840239774,2680121939,424370782,781192741,3988215619
+dimwishlist:item=1492522228&perks=1840239774,2680121939,424370782,395388285,3988215619
+dimwishlist:item=1492522228&perks=839105230,689005463,3418782618,3078487919,3988215619
+dimwishlist:item=1492522228&perks=839105230,689005463,3418782618,3744057135,3988215619
+dimwishlist:item=1492522228&perks=839105230,689005463,3418782618,1771339417,3988215619
+dimwishlist:item=1492522228&perks=839105230,689005463,3418782618,3708227201,3988215619
+dimwishlist:item=1492522228&perks=839105230,689005463,3418782618,781192741,3988215619
+dimwishlist:item=1492522228&perks=839105230,689005463,3418782618,395388285,3988215619
+dimwishlist:item=1492522228&perks=839105230,689005463,1563455254,3078487919,3988215619
+dimwishlist:item=1492522228&perks=839105230,689005463,1563455254,3744057135,3988215619
+dimwishlist:item=1492522228&perks=839105230,689005463,1563455254,1771339417,3988215619
+dimwishlist:item=1492522228&perks=839105230,689005463,1563455254,3708227201,3988215619
+dimwishlist:item=1492522228&perks=839105230,689005463,1563455254,781192741,3988215619
+dimwishlist:item=1492522228&perks=839105230,689005463,1563455254,395388285,3988215619
+dimwishlist:item=1492522228&perks=839105230,689005463,968510818,3078487919,3988215619
+dimwishlist:item=1492522228&perks=839105230,689005463,968510818,3744057135,3988215619
+dimwishlist:item=1492522228&perks=839105230,689005463,968510818,1771339417,3988215619
+dimwishlist:item=1492522228&perks=839105230,689005463,968510818,3708227201,3988215619
+dimwishlist:item=1492522228&perks=839105230,689005463,968510818,781192741,3988215619
+dimwishlist:item=1492522228&perks=839105230,689005463,968510818,395388285,3988215619
+dimwishlist:item=1492522228&perks=839105230,689005463,424370782,3078487919,3988215619
+dimwishlist:item=1492522228&perks=839105230,689005463,424370782,3744057135,3988215619
+dimwishlist:item=1492522228&perks=839105230,689005463,424370782,1771339417,3988215619
+dimwishlist:item=1492522228&perks=839105230,689005463,424370782,3708227201,3988215619
+dimwishlist:item=1492522228&perks=839105230,689005463,424370782,781192741,3988215619
+dimwishlist:item=1492522228&perks=839105230,689005463,424370782,395388285,3988215619
+dimwishlist:item=1492522228&perks=839105230,1483536627,3418782618,3078487919,3988215619
+dimwishlist:item=1492522228&perks=839105230,1483536627,3418782618,3744057135,3988215619
+dimwishlist:item=1492522228&perks=839105230,1483536627,3418782618,1771339417,3988215619
+dimwishlist:item=1492522228&perks=839105230,1483536627,3418782618,3708227201,3988215619
+dimwishlist:item=1492522228&perks=839105230,1483536627,3418782618,781192741,3988215619
+dimwishlist:item=1492522228&perks=839105230,1483536627,3418782618,395388285,3988215619
+dimwishlist:item=1492522228&perks=839105230,1483536627,1563455254,3078487919,3988215619
+dimwishlist:item=1492522228&perks=839105230,1483536627,1563455254,3744057135,3988215619
+dimwishlist:item=1492522228&perks=839105230,1483536627,1563455254,1771339417,3988215619
+dimwishlist:item=1492522228&perks=839105230,1483536627,1563455254,3708227201,3988215619
+dimwishlist:item=1492522228&perks=839105230,1483536627,1563455254,781192741,3988215619
+dimwishlist:item=1492522228&perks=839105230,1483536627,1563455254,395388285,3988215619
+dimwishlist:item=1492522228&perks=839105230,1483536627,968510818,3078487919,3988215619
+dimwishlist:item=1492522228&perks=839105230,1483536627,968510818,3744057135,3988215619
+dimwishlist:item=1492522228&perks=839105230,1483536627,968510818,1771339417,3988215619
+dimwishlist:item=1492522228&perks=839105230,1483536627,968510818,3708227201,3988215619
+dimwishlist:item=1492522228&perks=839105230,1483536627,968510818,781192741,3988215619
+dimwishlist:item=1492522228&perks=839105230,1483536627,968510818,395388285,3988215619
+dimwishlist:item=1492522228&perks=839105230,1483536627,424370782,3078487919,3988215619
+dimwishlist:item=1492522228&perks=839105230,1483536627,424370782,3744057135,3988215619
+dimwishlist:item=1492522228&perks=839105230,1483536627,424370782,1771339417,3988215619
+dimwishlist:item=1492522228&perks=839105230,1483536627,424370782,3708227201,3988215619
+dimwishlist:item=1492522228&perks=839105230,1483536627,424370782,781192741,3988215619
+dimwishlist:item=1492522228&perks=839105230,1483536627,424370782,395388285,3988215619
+dimwishlist:item=1492522228&perks=839105230,2680121939,3418782618,3078487919,3988215619
+dimwishlist:item=1492522228&perks=839105230,2680121939,3418782618,3744057135,3988215619
+dimwishlist:item=1492522228&perks=839105230,2680121939,3418782618,1771339417,3988215619
+dimwishlist:item=1492522228&perks=839105230,2680121939,3418782618,3708227201,3988215619
+dimwishlist:item=1492522228&perks=839105230,2680121939,3418782618,781192741,3988215619
+dimwishlist:item=1492522228&perks=839105230,2680121939,3418782618,395388285,3988215619
+dimwishlist:item=1492522228&perks=839105230,2680121939,1563455254,3078487919,3988215619
+dimwishlist:item=1492522228&perks=839105230,2680121939,1563455254,3744057135,3988215619
+dimwishlist:item=1492522228&perks=839105230,2680121939,1563455254,1771339417,3988215619
+dimwishlist:item=1492522228&perks=839105230,2680121939,1563455254,3708227201,3988215619
+dimwishlist:item=1492522228&perks=839105230,2680121939,1563455254,781192741,3988215619
+dimwishlist:item=1492522228&perks=839105230,2680121939,1563455254,395388285,3988215619
+dimwishlist:item=1492522228&perks=839105230,2680121939,968510818,3078487919,3988215619
+dimwishlist:item=1492522228&perks=839105230,2680121939,968510818,3744057135,3988215619
+dimwishlist:item=1492522228&perks=839105230,2680121939,968510818,1771339417,3988215619
+dimwishlist:item=1492522228&perks=839105230,2680121939,968510818,3708227201,3988215619
+dimwishlist:item=1492522228&perks=839105230,2680121939,968510818,781192741,3988215619
+dimwishlist:item=1492522228&perks=839105230,2680121939,968510818,395388285,3988215619
+dimwishlist:item=1492522228&perks=839105230,2680121939,424370782,3078487919,3988215619
+dimwishlist:item=1492522228&perks=839105230,2680121939,424370782,3744057135,3988215619
+dimwishlist:item=1492522228&perks=839105230,2680121939,424370782,1771339417,3988215619
+dimwishlist:item=1492522228&perks=839105230,2680121939,424370782,3708227201,3988215619
+dimwishlist:item=1492522228&perks=839105230,2680121939,424370782,781192741,3988215619
+dimwishlist:item=1492522228&perks=839105230,2680121939,424370782,395388285,3988215619
 
 
 // Scintillation (Adept) - PVE (pve)
-//notes: MW: Charge; Adept: Charge; The Scintillation Adept’s God roll consists of the Vice string, Bait and Switch, Rewind Rounds, Accelerated Coils, Fluted Barrel, and the Adept charge time weapon mod. tags:pve
+//notes: MW: Charge; Adept: Charge; The Scintillation Adept’s God roll consists of Veist Stinger, Bait and Switch, Rewind Rounds, Accelerated Coils, Fluted Barrel, and the Adept charge time weapon mod. tags:pve
 dimwishlist:item=1492522228&perks=3418782618,3078487919,3988215619
 dimwishlist:item=1492522228&perks=3418782618,3744057135,3988215619
-dimwishlist:item=1492522228&perks=3418782618,1427256713,3988215619
-dimwishlist:item=1492522228&perks=3418782618,254337357,3988215619
+dimwishlist:item=1492522228&perks=3418782618,1771339417,3988215619
+dimwishlist:item=1492522228&perks=3418782618,3708227201,3988215619
+dimwishlist:item=1492522228&perks=3418782618,781192741,3988215619
+dimwishlist:item=1492522228&perks=3418782618,395388285,3988215619
 dimwishlist:item=1492522228&perks=1563455254,3078487919,3988215619
 dimwishlist:item=1492522228&perks=1563455254,3744057135,3988215619
-dimwishlist:item=1492522228&perks=1563455254,1427256713,3988215619
-dimwishlist:item=1492522228&perks=1563455254,254337357,3988215619
+dimwishlist:item=1492522228&perks=1563455254,1771339417,3988215619
+dimwishlist:item=1492522228&perks=1563455254,3708227201,3988215619
+dimwishlist:item=1492522228&perks=1563455254,781192741,3988215619
+dimwishlist:item=1492522228&perks=1563455254,395388285,3988215619
+dimwishlist:item=1492522228&perks=968510818,3078487919,3988215619
+dimwishlist:item=1492522228&perks=968510818,3744057135,3988215619
+dimwishlist:item=1492522228&perks=968510818,1771339417,3988215619
+dimwishlist:item=1492522228&perks=968510818,3708227201,3988215619
+dimwishlist:item=1492522228&perks=968510818,781192741,3988215619
+dimwishlist:item=1492522228&perks=968510818,395388285,3988215619
+dimwishlist:item=1492522228&perks=424370782,3078487919,3988215619
+dimwishlist:item=1492522228&perks=424370782,3744057135,3988215619
+dimwishlist:item=1492522228&perks=424370782,1771339417,3988215619
+dimwishlist:item=1492522228&perks=424370782,3708227201,3988215619
+dimwishlist:item=1492522228&perks=424370782,781192741,3988215619
+dimwishlist:item=1492522228&perks=424370782,395388285,3988215619
 
 
 // Doomed Petitioner - PVE (god-pve)
@@ -3852,46 +3904,6 @@ dimwishlist:item=2450049485&perks=3755250867,47981717
 dimwishlist:item=2450049485&perks=3755250867,1370847713
 
 
-// Uzume RR4 - PVE (god-pve)
-//notes: MW: Handling; There are a couple of great combinations on an Uzume RR4 god roll, but this one focuses on Precision Instrument to boost your damage output. Uzume RR4 has a rather vertical recoil pattern, with the reticle bouncing to the left or right only slightly. Due to this, you can afford to use another option like Fluted Barrel. This will increase the Handling, allowing you to whip it out and aim at a crit-spot much faster. When it comes to the first perk and Magazine option, Clown Cartridge provides either on par or better ammo returns when compared to Fourth Time’s the Charm. Couple this with Tactical Mag for another round, a decrease to how long it takes to reload, and a little bump in Stability. For the final perk, Precision Instrument is a ramping damage boost that rewards ongoing critical hits. Keep landing those headshots to get a percentage bump to your damage, up to a maximum of 25 percent at six stacks. Just note you’ll lose all progress if you miss. A Handling Masterwork will make this feel snappier and an Adept Big Ones Spec mod will let you deal better damage to Majors and Bosses. tags:god-pve
-dimwishlist:item=2450917538&perks=1840239774,106909392,2284787283,555281244
-dimwishlist:item=2450917538&perks=1840239774,106909392,2284787283,332733060
-dimwishlist:item=2450917538&perks=1840239774,106909392,3563868667,555281244
-dimwishlist:item=2450917538&perks=1840239774,106909392,3563868667,332733060
-
-
-// Uzume RR4 - PVE (god-pve)
-//notes: MW: Handling; There are a couple of great combinations on an Uzume RR4 god roll, but this one focuses on Precision Instrument to boost your damage output. Uzume RR4 has a rather vertical recoil pattern, with the reticle bouncing to the left or right only slightly. Due to this, you can afford to use another option like Fluted Barrel. This will increase the Handling, allowing you to whip it out and aim at a crit-spot much faster. When it comes to the first perk and Magazine option, Clown Cartridge provides either on par or better ammo returns when compared to Fourth Time’s the Charm. Couple this with Tactical Mag for another round, a decrease to how long it takes to reload, and a little bump in Stability. For the final perk, Precision Instrument is a ramping damage boost that rewards ongoing critical hits. Keep landing those headshots to get a percentage bump to your damage, up to a maximum of 25 percent at six stacks. Just note you’ll lose all progress if you miss. A Handling Masterwork will make this feel snappier and an Adept Big Ones Spec mod will let you deal better damage to Majors and Bosses. tags:god-pve
-dimwishlist:item=2450917538&perks=1840239774,106909392,3978468247,3038247973
-dimwishlist:item=2450917538&perks=1840239774,106909392,3978468247,4293542123
-dimwishlist:item=2450917538&perks=1840239774,106909392,3978468247,64866129
-dimwishlist:item=2450917538&perks=1840239774,106909392,3978468247,2675184851
-dimwishlist:item=2450917538&perks=1840239774,106909392,906981559,3038247973
-dimwishlist:item=2450917538&perks=1840239774,106909392,906981559,4293542123
-dimwishlist:item=2450917538&perks=1840239774,106909392,906981559,64866129
-dimwishlist:item=2450917538&perks=1840239774,106909392,906981559,2675184851
-
-
-// Uzume RR4 - PVE (pve)
-//notes: MW: Handling; There are a couple of great combinations on an Uzume RR4 god roll, but this one focuses on Precision Instrument to boost your damage output. Uzume RR4 has a rather vertical recoil pattern, with the reticle bouncing to the left or right only slightly. Due to this, you can afford to use another option like Fluted Barrel. This will increase the Handling, allowing you to whip it out and aim at a crit-spot much faster. When it comes to the first perk and Magazine option, Clown Cartridge provides either on par or better ammo returns when compared to Fourth Time’s the Charm. Couple this with Tactical Mag for another round, a decrease to how long it takes to reload, and a little bump in Stability. For the final perk, Precision Instrument is a ramping damage boost that rewards ongoing critical hits. Keep landing those headshots to get a percentage bump to your damage, up to a maximum of 25 percent at six stacks. Just note you’ll lose all progress if you miss. A Handling Masterwork will make this feel snappier and an Adept Big Ones Spec mod will let you deal better damage to Majors and Bosses. tags:pve
-dimwishlist:item=2450917538&perks=2284787283,555281244
-dimwishlist:item=2450917538&perks=2284787283,332733060
-dimwishlist:item=2450917538&perks=3563868667,555281244
-dimwishlist:item=2450917538&perks=3563868667,332733060
-
-
-// Uzume RR4 - PVE (pve)
-//notes: MW: Handling; There are a couple of great combinations on an Uzume RR4 god roll, but this one focuses on Precision Instrument to boost your damage output. Uzume RR4 has a rather vertical recoil pattern, with the reticle bouncing to the left or right only slightly. Due to this, you can afford to use another option like Fluted Barrel. This will increase the Handling, allowing you to whip it out and aim at a crit-spot much faster. When it comes to the first perk and Magazine option, Clown Cartridge provides either on par or better ammo returns when compared to Fourth Time’s the Charm. Couple this with Tactical Mag for another round, a decrease to how long it takes to reload, and a little bump in Stability. For the final perk, Precision Instrument is a ramping damage boost that rewards ongoing critical hits. Keep landing those headshots to get a percentage bump to your damage, up to a maximum of 25 percent at six stacks. Just note you’ll lose all progress if you miss. A Handling Masterwork will make this feel snappier and an Adept Big Ones Spec mod will let you deal better damage to Majors and Bosses. tags:pve
-dimwishlist:item=2450917538&perks=3978468247,3038247973
-dimwishlist:item=2450917538&perks=3978468247,4293542123
-dimwishlist:item=2450917538&perks=3978468247,64866129
-dimwishlist:item=2450917538&perks=3978468247,2675184851
-dimwishlist:item=2450917538&perks=906981559,3038247973
-dimwishlist:item=2450917538&perks=906981559,4293542123
-dimwishlist:item=2450917538&perks=906981559,64866129
-dimwishlist:item=2450917538&perks=906981559,2675184851
-
-
 // CALUS Mini-Tool - PVE (pve,god-pve)
 //notes: Able to roll with the excellent perk Incandescent, CALUS Mini-Tool immediately cemented itself as a top-tier pick with the release of Solar 3.0. Plus, it's one of the few top-tier craftable SMGs currently in the game, meaning it's one of the easiest to get as well. tags:pve,god-pve
 dimwishlist:item=2490988246&perks=3250034553,3142289711,588594999,4293542123
@@ -3986,110 +3998,6 @@ dimwishlist:item=2510526114&perks=4245865861,365154968
 dimwishlist:item=2510526114&perks=4245865861,1171887445
 dimwishlist:item=2510526114&perks=4245865861,3007133316
 dimwishlist:item=2510526114&perks=4245865861,2939589096
-
-
-// Blast Furnace - PVE (god-pve)
-//notes: MW: Handling Pulses in PvE have seen highs and lows, but Blast Furnace might be able to break the mold they have been in for quite some time. Its amazing base stats means not much needs to be kicked up, but its handling is objectively sub-par, so we’ll use Fluted Barrel to kick it up a notch. Pair it with Flared Magwell for a reload speed buff, as well as a slight stability bump. For perk 1, it’s a “no contest” for Kinetic Tremors. Shoot to Loot, while nice to have, feels like a waste when a free damage perk is in the same slot. Since Blast Furnace fires 4 shots a burst, it’ll only take 3 bursts to activate it, as opposed to 4 on all others. Perk 2 has a lot of good in it, but it’s a toss-up between Desperate Measures and One-For-All. Desperate Measures requires a kill with the weapon or abilities to activate, whereas One-For-All doesn’t, and will also activate from Kinetic Tremors. tags:god-pve
-dimwishlist:item=2533990645&perks=1840239774,1087426260,3891536761,2109543898
-dimwishlist:item=2533990645&perks=1840239774,1087426260,3891536761,2799030358
-dimwishlist:item=2533990645&perks=1840239774,1087426260,3891536761,4049631843
-dimwishlist:item=2533990645&perks=1840239774,1087426260,3891536761,859780267
-dimwishlist:item=2533990645&perks=1840239774,1087426260,1549370717,2109543898
-dimwishlist:item=2533990645&perks=1840239774,1087426260,1549370717,2799030358
-dimwishlist:item=2533990645&perks=1840239774,1087426260,1549370717,4049631843
-dimwishlist:item=2533990645&perks=1840239774,1087426260,1549370717,859780267
-dimwishlist:item=2533990645&perks=1840239774,1087426260,3700496672,2109543898
-dimwishlist:item=2533990645&perks=1840239774,1087426260,3700496672,2799030358
-dimwishlist:item=2533990645&perks=1840239774,1087426260,3700496672,4049631843
-dimwishlist:item=2533990645&perks=1840239774,1087426260,3700496672,859780267
-dimwishlist:item=2533990645&perks=1840239774,1087426260,2840833776,2109543898
-dimwishlist:item=2533990645&perks=1840239774,1087426260,2840833776,2799030358
-dimwishlist:item=2533990645&perks=1840239774,1087426260,2840833776,4049631843
-dimwishlist:item=2533990645&perks=1840239774,1087426260,2840833776,859780267
-
-
-// Blast Furnace - PVP - 3v3 (god-pvp)
-//notes: MW: Stability or Handling; 3v3; PvP is where Blast Furnace will shine. A base of 79 range and 64 stability puts it above all other pulses in its frame, with the only downside being the base 65 recoil, but that’s easily fixable with Arrowhead Break, which will put it to 95 before a Counterbalance Stock mods bumps it to 100. Accurized Rounds will provide a +10 to your range, which is perfect for fighting longer range weapons. Perk 1 has many good PvP perks that it’s hard to narrow them down, but Zen Moment or Headseeker are what most are going to look for. Zen Moment will keep your reticle on target throughout the duel, and Headseeker can help push the fight in your favor if you miss a crit or two. Perk 2 really only has Rapid-Hit for 3v3 modes, as all the others are kill based, but who’s going to say ‘no’ to even more stability? tags:god-pvp
-dimwishlist:item=2533990645&perks=839105230,3142289711,2387244414,247725512
-dimwishlist:item=2533990645&perks=839105230,3142289711,2387244414,2938480696
-dimwishlist:item=2533990645&perks=839105230,3142289711,1748774930,247725512
-dimwishlist:item=2533990645&perks=839105230,3142289711,1748774930,2938480696
-dimwishlist:item=2533990645&perks=839105230,3142289711,460017080,247725512
-dimwishlist:item=2533990645&perks=839105230,3142289711,460017080,2938480696
-dimwishlist:item=2533990645&perks=839105230,3142289711,4045335048,247725512
-dimwishlist:item=2533990645&perks=839105230,3142289711,4045335048,2938480696
-
-
-// Blast Furnace - PVP - 6v6 (god-pvp)
-//notes: MW: Stability or Handling; 6v6; In 6v6 modes, you’ll find a good place for Perpetual Motion given how they play. Perpetual Motion gives you free stability for simply moving around, which is quite common when so many people are on the field. For Perk 2, any of the kill-based perks will work best, but Kill Clip and Rampage will probably be the easiest to use. Desperate Measures gets an honorable mention, too. tags:god-pvp
-dimwishlist:item=2533990645&perks=839105230,3142289711,2387244414,1015611457
-dimwishlist:item=2533990645&perks=839105230,3142289711,2387244414,3425386926
-dimwishlist:item=2533990645&perks=839105230,3142289711,2387244414,2923251173
-dimwishlist:item=2533990645&perks=839105230,3142289711,2387244414,288411554
-dimwishlist:item=2533990645&perks=839105230,3142289711,1748774930,1015611457
-dimwishlist:item=2533990645&perks=839105230,3142289711,1748774930,3425386926
-dimwishlist:item=2533990645&perks=839105230,3142289711,1748774930,2923251173
-dimwishlist:item=2533990645&perks=839105230,3142289711,1748774930,288411554
-dimwishlist:item=2533990645&perks=839105230,3142289711,1428297954,1015611457
-dimwishlist:item=2533990645&perks=839105230,3142289711,1428297954,3425386926
-dimwishlist:item=2533990645&perks=839105230,3142289711,1428297954,2923251173
-dimwishlist:item=2533990645&perks=839105230,3142289711,1428297954,288411554
-dimwishlist:item=2533990645&perks=839105230,3142289711,2014892510,1015611457
-dimwishlist:item=2533990645&perks=839105230,3142289711,2014892510,3425386926
-dimwishlist:item=2533990645&perks=839105230,3142289711,2014892510,2923251173
-dimwishlist:item=2533990645&perks=839105230,3142289711,2014892510,288411554
-
-
-// Blast Furnace - PVE (pve)
-//notes: MW: Handling Pulses in PvE have seen highs and lows, but Blast Furnace might be able to break the mold they have been in for quite some time. Its amazing base stats means not much needs to be kicked up, but its handling is objectively sub-par, so we’ll use Fluted Barrel to kick it up a notch. Pair it with Flared Magwell for a reload speed buff, as well as a slight stability bump. For perk 1, it’s a “no contest” for Kinetic Tremors. Shoot to Loot, while nice to have, feels like a waste when a free damage perk is in the same slot. Since Blast Furnace fires 4 shots a burst, it’ll only take 3 bursts to activate it, as opposed to 4 on all others. Perk 2 has a lot of good in it, but it’s a toss-up between Desperate Measures and One-For-All. Desperate Measures requires a kill with the weapon or abilities to activate, whereas One-For-All doesn’t, and will also activate from Kinetic Tremors. tags:pve
-dimwishlist:item=2533990645&perks=3891536761,2109543898
-dimwishlist:item=2533990645&perks=3891536761,2799030358
-dimwishlist:item=2533990645&perks=3891536761,4049631843
-dimwishlist:item=2533990645&perks=3891536761,859780267
-dimwishlist:item=2533990645&perks=1549370717,2109543898
-dimwishlist:item=2533990645&perks=1549370717,2799030358
-dimwishlist:item=2533990645&perks=1549370717,4049631843
-dimwishlist:item=2533990645&perks=1549370717,859780267
-dimwishlist:item=2533990645&perks=3700496672,2109543898
-dimwishlist:item=2533990645&perks=3700496672,2799030358
-dimwishlist:item=2533990645&perks=3700496672,4049631843
-dimwishlist:item=2533990645&perks=3700496672,859780267
-dimwishlist:item=2533990645&perks=2840833776,2109543898
-dimwishlist:item=2533990645&perks=2840833776,2799030358
-dimwishlist:item=2533990645&perks=2840833776,4049631843
-dimwishlist:item=2533990645&perks=2840833776,859780267
-
-
-// Blast Furnace - PVP - 3v3 (pvp)
-//notes: MW: Stability or Handling; 3v3; PvP is where Blast Furnace will shine. A base of 79 range and 64 stability puts it above all other pulses in its frame, with the only downside being the base 65 recoil, but that’s easily fixable with Arrowhead Break, which will put it to 95 before a Counterbalance Stock mods bumps it to 100. Accurized Rounds will provide a +10 to your range, which is perfect for fighting longer range weapons. Perk 1 has many good PvP perks that it’s hard to narrow them down, but Zen Moment or Headseeker are what most are going to look for. Zen Moment will keep your reticle on target throughout the duel, and Headseeker can help push the fight in your favor if you miss a crit or two. Perk 2 really only has Rapid-Hit for 3v3 modes, as all the others are kill based, but who’s going to say ‘no’ to even more stability? tags:pvp
-dimwishlist:item=2533990645&perks=2387244414,247725512
-dimwishlist:item=2533990645&perks=2387244414,2938480696
-dimwishlist:item=2533990645&perks=1748774930,247725512
-dimwishlist:item=2533990645&perks=1748774930,2938480696
-dimwishlist:item=2533990645&perks=460017080,247725512
-dimwishlist:item=2533990645&perks=460017080,2938480696
-dimwishlist:item=2533990645&perks=4045335048,247725512
-dimwishlist:item=2533990645&perks=4045335048,2938480696
-
-
-// Blast Furnace - PVP - 6v6 (pvp)
-//notes: MW: Stability or Handling; 6v6; In 6v6 modes, you’ll find a good place for Perpetual Motion given how they play. Perpetual Motion gives you free stability for simply moving around, which is quite common when so many people are on the field. For Perk 2, any of the kill-based perks will work best, but Kill Clip and Rampage will probably be the easiest to use. Desperate Measures gets an honorable mention, too. tags:pvp
-dimwishlist:item=2533990645&perks=2387244414,1015611457
-dimwishlist:item=2533990645&perks=2387244414,3425386926
-dimwishlist:item=2533990645&perks=2387244414,2923251173
-dimwishlist:item=2533990645&perks=2387244414,288411554
-dimwishlist:item=2533990645&perks=1748774930,1015611457
-dimwishlist:item=2533990645&perks=1748774930,3425386926
-dimwishlist:item=2533990645&perks=1748774930,2923251173
-dimwishlist:item=2533990645&perks=1748774930,288411554
-dimwishlist:item=2533990645&perks=1428297954,1015611457
-dimwishlist:item=2533990645&perks=1428297954,3425386926
-dimwishlist:item=2533990645&perks=1428297954,2923251173
-dimwishlist:item=2533990645&perks=1428297954,288411554
-dimwishlist:item=2533990645&perks=2014892510,1015611457
-dimwishlist:item=2533990645&perks=2014892510,3425386926
-dimwishlist:item=2533990645&perks=2014892510,2923251173
-dimwishlist:item=2533990645&perks=2014892510,288411554
 
 
 // Scatter Signal - PVE (god-pve)
@@ -4191,34 +4099,146 @@ dimwishlist:item=2591257541&perks=839105230,2680121939,968510818,3078487919
 dimwishlist:item=2591257541&perks=839105230,2680121939,968510818,3744057135
 dimwishlist:item=2591257541&perks=839105230,2680121939,968510818,3708227201
 dimwishlist:item=2591257541&perks=839105230,2680121939,968510818,781192741
+dimwishlist:item=2591257541&perks=839105230,2680121939,968510818,1771339417
+dimwishlist:item=2591257541&perks=839105230,2680121939,968510818,395388285
 dimwishlist:item=2591257541&perks=839105230,2680121939,424370782,3078487919
 dimwishlist:item=2591257541&perks=839105230,2680121939,424370782,3744057135
 dimwishlist:item=2591257541&perks=839105230,2680121939,424370782,3708227201
 dimwishlist:item=2591257541&perks=839105230,2680121939,424370782,781192741
+dimwishlist:item=2591257541&perks=839105230,2680121939,424370782,1771339417
+dimwishlist:item=2591257541&perks=839105230,2680121939,424370782,395388285
 dimwishlist:item=2591257541&perks=839105230,2680121939,1563455254,3078487919
 dimwishlist:item=2591257541&perks=839105230,2680121939,1563455254,3744057135
 dimwishlist:item=2591257541&perks=839105230,2680121939,1563455254,3708227201
 dimwishlist:item=2591257541&perks=839105230,2680121939,1563455254,781192741
+dimwishlist:item=2591257541&perks=839105230,2680121939,1563455254,1771339417
+dimwishlist:item=2591257541&perks=839105230,2680121939,1563455254,395388285
 dimwishlist:item=2591257541&perks=839105230,2680121939,3418782618,3078487919
 dimwishlist:item=2591257541&perks=839105230,2680121939,3418782618,3744057135
 dimwishlist:item=2591257541&perks=839105230,2680121939,3418782618,3708227201
 dimwishlist:item=2591257541&perks=839105230,2680121939,3418782618,781192741
+dimwishlist:item=2591257541&perks=839105230,2680121939,3418782618,1771339417
+dimwishlist:item=2591257541&perks=839105230,2680121939,3418782618,395388285
 dimwishlist:item=2591257541&perks=839105230,1483536627,968510818,3078487919
 dimwishlist:item=2591257541&perks=839105230,1483536627,968510818,3744057135
 dimwishlist:item=2591257541&perks=839105230,1483536627,968510818,3708227201
 dimwishlist:item=2591257541&perks=839105230,1483536627,968510818,781192741
+dimwishlist:item=2591257541&perks=839105230,1483536627,968510818,1771339417
+dimwishlist:item=2591257541&perks=839105230,1483536627,968510818,395388285
 dimwishlist:item=2591257541&perks=839105230,1483536627,424370782,3078487919
 dimwishlist:item=2591257541&perks=839105230,1483536627,424370782,3744057135
 dimwishlist:item=2591257541&perks=839105230,1483536627,424370782,3708227201
 dimwishlist:item=2591257541&perks=839105230,1483536627,424370782,781192741
+dimwishlist:item=2591257541&perks=839105230,1483536627,424370782,1771339417
+dimwishlist:item=2591257541&perks=839105230,1483536627,424370782,395388285
 dimwishlist:item=2591257541&perks=839105230,1483536627,1563455254,3078487919
 dimwishlist:item=2591257541&perks=839105230,1483536627,1563455254,3744057135
 dimwishlist:item=2591257541&perks=839105230,1483536627,1563455254,3708227201
 dimwishlist:item=2591257541&perks=839105230,1483536627,1563455254,781192741
+dimwishlist:item=2591257541&perks=839105230,1483536627,1563455254,1771339417
+dimwishlist:item=2591257541&perks=839105230,1483536627,1563455254,395388285
 dimwishlist:item=2591257541&perks=839105230,1483536627,3418782618,3078487919
 dimwishlist:item=2591257541&perks=839105230,1483536627,3418782618,3744057135
 dimwishlist:item=2591257541&perks=839105230,1483536627,3418782618,3708227201
 dimwishlist:item=2591257541&perks=839105230,1483536627,3418782618,781192741
+dimwishlist:item=2591257541&perks=839105230,1483536627,3418782618,1771339417
+dimwishlist:item=2591257541&perks=839105230,1483536627,3418782618,395388285
+dimwishlist:item=2591257541&perks=839105230,689005463,968510818,3078487919
+dimwishlist:item=2591257541&perks=839105230,689005463,968510818,3744057135
+dimwishlist:item=2591257541&perks=839105230,689005463,968510818,3708227201
+dimwishlist:item=2591257541&perks=839105230,689005463,968510818,781192741
+dimwishlist:item=2591257541&perks=839105230,689005463,968510818,1771339417
+dimwishlist:item=2591257541&perks=839105230,689005463,968510818,395388285
+dimwishlist:item=2591257541&perks=839105230,689005463,424370782,3078487919
+dimwishlist:item=2591257541&perks=839105230,689005463,424370782,3744057135
+dimwishlist:item=2591257541&perks=839105230,689005463,424370782,3708227201
+dimwishlist:item=2591257541&perks=839105230,689005463,424370782,781192741
+dimwishlist:item=2591257541&perks=839105230,689005463,424370782,1771339417
+dimwishlist:item=2591257541&perks=839105230,689005463,424370782,395388285
+dimwishlist:item=2591257541&perks=839105230,689005463,1563455254,3078487919
+dimwishlist:item=2591257541&perks=839105230,689005463,1563455254,3744057135
+dimwishlist:item=2591257541&perks=839105230,689005463,1563455254,3708227201
+dimwishlist:item=2591257541&perks=839105230,689005463,1563455254,781192741
+dimwishlist:item=2591257541&perks=839105230,689005463,1563455254,1771339417
+dimwishlist:item=2591257541&perks=839105230,689005463,1563455254,395388285
+dimwishlist:item=2591257541&perks=839105230,689005463,3418782618,3078487919
+dimwishlist:item=2591257541&perks=839105230,689005463,3418782618,3744057135
+dimwishlist:item=2591257541&perks=839105230,689005463,3418782618,3708227201
+dimwishlist:item=2591257541&perks=839105230,689005463,3418782618,781192741
+dimwishlist:item=2591257541&perks=839105230,689005463,3418782618,1771339417
+dimwishlist:item=2591257541&perks=839105230,689005463,3418782618,395388285
+dimwishlist:item=2591257541&perks=1840239774,2680121939,968510818,3078487919
+dimwishlist:item=2591257541&perks=1840239774,2680121939,968510818,3744057135
+dimwishlist:item=2591257541&perks=1840239774,2680121939,968510818,3708227201
+dimwishlist:item=2591257541&perks=1840239774,2680121939,968510818,781192741
+dimwishlist:item=2591257541&perks=1840239774,2680121939,968510818,1771339417
+dimwishlist:item=2591257541&perks=1840239774,2680121939,968510818,395388285
+dimwishlist:item=2591257541&perks=1840239774,2680121939,424370782,3078487919
+dimwishlist:item=2591257541&perks=1840239774,2680121939,424370782,3744057135
+dimwishlist:item=2591257541&perks=1840239774,2680121939,424370782,3708227201
+dimwishlist:item=2591257541&perks=1840239774,2680121939,424370782,781192741
+dimwishlist:item=2591257541&perks=1840239774,2680121939,424370782,1771339417
+dimwishlist:item=2591257541&perks=1840239774,2680121939,424370782,395388285
+dimwishlist:item=2591257541&perks=1840239774,2680121939,1563455254,3078487919
+dimwishlist:item=2591257541&perks=1840239774,2680121939,1563455254,3744057135
+dimwishlist:item=2591257541&perks=1840239774,2680121939,1563455254,3708227201
+dimwishlist:item=2591257541&perks=1840239774,2680121939,1563455254,781192741
+dimwishlist:item=2591257541&perks=1840239774,2680121939,1563455254,1771339417
+dimwishlist:item=2591257541&perks=1840239774,2680121939,1563455254,395388285
+dimwishlist:item=2591257541&perks=1840239774,2680121939,3418782618,3078487919
+dimwishlist:item=2591257541&perks=1840239774,2680121939,3418782618,3744057135
+dimwishlist:item=2591257541&perks=1840239774,2680121939,3418782618,3708227201
+dimwishlist:item=2591257541&perks=1840239774,2680121939,3418782618,781192741
+dimwishlist:item=2591257541&perks=1840239774,2680121939,3418782618,1771339417
+dimwishlist:item=2591257541&perks=1840239774,2680121939,3418782618,395388285
+dimwishlist:item=2591257541&perks=1840239774,1483536627,968510818,3078487919
+dimwishlist:item=2591257541&perks=1840239774,1483536627,968510818,3744057135
+dimwishlist:item=2591257541&perks=1840239774,1483536627,968510818,3708227201
+dimwishlist:item=2591257541&perks=1840239774,1483536627,968510818,781192741
+dimwishlist:item=2591257541&perks=1840239774,1483536627,968510818,1771339417
+dimwishlist:item=2591257541&perks=1840239774,1483536627,968510818,395388285
+dimwishlist:item=2591257541&perks=1840239774,1483536627,424370782,3078487919
+dimwishlist:item=2591257541&perks=1840239774,1483536627,424370782,3744057135
+dimwishlist:item=2591257541&perks=1840239774,1483536627,424370782,3708227201
+dimwishlist:item=2591257541&perks=1840239774,1483536627,424370782,781192741
+dimwishlist:item=2591257541&perks=1840239774,1483536627,424370782,1771339417
+dimwishlist:item=2591257541&perks=1840239774,1483536627,424370782,395388285
+dimwishlist:item=2591257541&perks=1840239774,1483536627,1563455254,3078487919
+dimwishlist:item=2591257541&perks=1840239774,1483536627,1563455254,3744057135
+dimwishlist:item=2591257541&perks=1840239774,1483536627,1563455254,3708227201
+dimwishlist:item=2591257541&perks=1840239774,1483536627,1563455254,781192741
+dimwishlist:item=2591257541&perks=1840239774,1483536627,1563455254,1771339417
+dimwishlist:item=2591257541&perks=1840239774,1483536627,1563455254,395388285
+dimwishlist:item=2591257541&perks=1840239774,1483536627,3418782618,3078487919
+dimwishlist:item=2591257541&perks=1840239774,1483536627,3418782618,3744057135
+dimwishlist:item=2591257541&perks=1840239774,1483536627,3418782618,3708227201
+dimwishlist:item=2591257541&perks=1840239774,1483536627,3418782618,781192741
+dimwishlist:item=2591257541&perks=1840239774,1483536627,3418782618,1771339417
+dimwishlist:item=2591257541&perks=1840239774,1483536627,3418782618,395388285
+dimwishlist:item=2591257541&perks=1840239774,689005463,968510818,3078487919
+dimwishlist:item=2591257541&perks=1840239774,689005463,968510818,3744057135
+dimwishlist:item=2591257541&perks=1840239774,689005463,968510818,3708227201
+dimwishlist:item=2591257541&perks=1840239774,689005463,968510818,781192741
+dimwishlist:item=2591257541&perks=1840239774,689005463,968510818,1771339417
+dimwishlist:item=2591257541&perks=1840239774,689005463,968510818,395388285
+dimwishlist:item=2591257541&perks=1840239774,689005463,424370782,3078487919
+dimwishlist:item=2591257541&perks=1840239774,689005463,424370782,3744057135
+dimwishlist:item=2591257541&perks=1840239774,689005463,424370782,3708227201
+dimwishlist:item=2591257541&perks=1840239774,689005463,424370782,781192741
+dimwishlist:item=2591257541&perks=1840239774,689005463,424370782,1771339417
+dimwishlist:item=2591257541&perks=1840239774,689005463,424370782,395388285
+dimwishlist:item=2591257541&perks=1840239774,689005463,1563455254,3078487919
+dimwishlist:item=2591257541&perks=1840239774,689005463,1563455254,3744057135
+dimwishlist:item=2591257541&perks=1840239774,689005463,1563455254,3708227201
+dimwishlist:item=2591257541&perks=1840239774,689005463,1563455254,781192741
+dimwishlist:item=2591257541&perks=1840239774,689005463,1563455254,1771339417
+dimwishlist:item=2591257541&perks=1840239774,689005463,1563455254,395388285
+dimwishlist:item=2591257541&perks=1840239774,689005463,3418782618,3078487919
+dimwishlist:item=2591257541&perks=1840239774,689005463,3418782618,3744057135
+dimwishlist:item=2591257541&perks=1840239774,689005463,3418782618,3708227201
+dimwishlist:item=2591257541&perks=1840239774,689005463,3418782618,781192741
+dimwishlist:item=2591257541&perks=1840239774,689005463,3418782618,1771339417
+dimwishlist:item=2591257541&perks=1840239774,689005463,3418782618,395388285
 
 
 // Scintillation - PVE (pve)
@@ -4227,18 +4247,26 @@ dimwishlist:item=2591257541&perks=968510818,3078487919
 dimwishlist:item=2591257541&perks=968510818,3744057135
 dimwishlist:item=2591257541&perks=968510818,3708227201
 dimwishlist:item=2591257541&perks=968510818,781192741
+dimwishlist:item=2591257541&perks=968510818,1771339417
+dimwishlist:item=2591257541&perks=968510818,395388285
 dimwishlist:item=2591257541&perks=424370782,3078487919
 dimwishlist:item=2591257541&perks=424370782,3744057135
 dimwishlist:item=2591257541&perks=424370782,3708227201
 dimwishlist:item=2591257541&perks=424370782,781192741
+dimwishlist:item=2591257541&perks=424370782,1771339417
+dimwishlist:item=2591257541&perks=424370782,395388285
 dimwishlist:item=2591257541&perks=1563455254,3078487919
 dimwishlist:item=2591257541&perks=1563455254,3744057135
 dimwishlist:item=2591257541&perks=1563455254,3708227201
 dimwishlist:item=2591257541&perks=1563455254,781192741
+dimwishlist:item=2591257541&perks=1563455254,1771339417
+dimwishlist:item=2591257541&perks=1563455254,395388285
 dimwishlist:item=2591257541&perks=3418782618,3078487919
 dimwishlist:item=2591257541&perks=3418782618,3744057135
 dimwishlist:item=2591257541&perks=3418782618,3708227201
 dimwishlist:item=2591257541&perks=3418782618,781192741
+dimwishlist:item=2591257541&perks=3418782618,1771339417
+dimwishlist:item=2591257541&perks=3418782618,395388285
 
 
 // Leviathan's Breath - PVE (god-pve)
@@ -4348,6 +4376,42 @@ dimwishlist:item=2599338625&perks=3987942396,3078487919
 dimwishlist:item=2599338625&perks=3987942396,3744057135
 dimwishlist:item=2599338625&perks=2817499044,3078487919
 dimwishlist:item=2599338625&perks=2817499044,3744057135
+
+
+// Albedo Wing - PVE (god-pve)
+//notes: Albedo Wing has a solid god roll for PvE and this can work well with ability-focused Guardian builds. Start off with Auxiliary Reserves which gives a big boosts to Shield Duration and Charge Time. This helps close the gap to your enemies safely or provide much needed protection in a tight spot. Appended Mag adds an extra projectile shot to Albedo Wing which helps pump out more damage at a distance when needed. Grave Robber then takes advantage of Albedo Wing’s most powerful tool, its melee attack. Melee kills refill the Magazine from reserves so promotes some great blast and stab playstyles which work great in game modes such as Gambit and lower tier Nightfalls. Finish off with Demolitionist which rewards any kill from Albedo Wing with 10 percent grenade energy. It also refills the Magazine when throwing a grenade so with a build focused around grenades, it can easily be built towards a never ending loop of a full Magazine, a powerful projectile blast, melees, and a grenade almost always up and ready to throw. tags:god-pve
+dimwishlist:item=2680976411&perks=580685494,1087426260,1631667848,3523296417,1607056502
+dimwishlist:item=2680976411&perks=580685494,1087426260,1631667848,1906147653,1607056502
+dimwishlist:item=2680976411&perks=580685494,1087426260,402033656,3523296417,1607056502
+dimwishlist:item=2680976411&perks=580685494,1087426260,402033656,1906147653,1607056502
+
+
+// Albedo Wing - PVE2 (god-pve)
+//notes: Albedo Wing has a ton going for it in PvE, and what you choose to run entirely depends on the context in which you’re using the weapon. Range and reload speed are the two most noticeable stats for PvE, so our haft, magazine, and masterwork picks work to optimize that. The perk combination most players will be looking for is Grave Robber and Demolitionist; Grave Robber synergizes perfectly with glaive functionality, while Demolitionist is an outstanding utility pick for any build or setup. Great alternatives to these choices are Beacon Rounds and Close to Melee. Beacon Rounds is currently exclusive to this glaive, making the choice irreplaceable if that’s what you’re looking for. Close to Melee is also potent to increase damage instead of gaining grenade energy. tags:god-pve
+dimwishlist:item=2680976411&perks=594346985,679225683,2859149211,1782407750,1607056502
+dimwishlist:item=2680976411&perks=594346985,679225683,2859149211,2241043034,1607056502
+dimwishlist:item=2680976411&perks=594346985,679225683,1135494563,1782407750,1607056502
+dimwishlist:item=2680976411&perks=594346985,679225683,1135494563,2241043034,1607056502
+dimwishlist:item=2680976411&perks=1934171651,679225683,2859149211,1782407750,1607056502
+dimwishlist:item=2680976411&perks=1934171651,679225683,2859149211,2241043034,1607056502
+dimwishlist:item=2680976411&perks=1934171651,679225683,1135494563,1782407750,1607056502
+dimwishlist:item=2680976411&perks=1934171651,679225683,1135494563,2241043034,1607056502
+
+
+// Albedo Wing - PVE2 (god-pve)
+//notes: Albedo Wing has a ton going for it in PvE, and what you choose to run entirely depends on the context in which you’re using the weapon. Range and reload speed are the two most noticeable stats for PvE, so our haft, magazine, and masterwork picks work to optimize that. The perk combination most players will be looking for is Grave Robber and Demolitionist; Grave Robber synergizes perfectly with glaive functionality, while Demolitionist is an outstanding utility pick for any build or setup. Great alternatives to these choices are Beacon Rounds and Close to Melee. Beacon Rounds is currently exclusive to this glaive, making the choice irreplaceable if that’s what you’re looking for. Close to Melee is also potent to increase damage instead of gaining grenade energy. tags:god-pve
+dimwishlist:item=2680976411&perks=2859149211,1782407750,1607056502
+dimwishlist:item=2680976411&perks=2859149211,2241043034,1607056502
+dimwishlist:item=2680976411&perks=1135494563,1782407750,1607056502
+dimwishlist:item=2680976411&perks=1135494563,2241043034,1607056502
+
+
+// Albedo Wing - PVE (pve)
+//notes: Albedo Wing has a solid god roll for PvE and this can work well with ability-focused Guardian builds. Start off with Auxiliary Reserves which gives a big boosts to Shield Duration and Charge Time. This helps close the gap to your enemies safely or provide much needed protection in a tight spot. Appended Mag adds an extra projectile shot to Albedo Wing which helps pump out more damage at a distance when needed. Grave Robber then takes advantage of Albedo Wing’s most powerful tool, its melee attack. Melee kills refill the Magazine from reserves so promotes some great blast and stab playstyles which work great in game modes such as Gambit and lower tier Nightfalls. Finish off with Demolitionist which rewards any kill from Albedo Wing with 10 percent grenade energy. It also refills the Magazine when throwing a grenade so with a build focused around grenades, it can easily be built towards a never ending loop of a full Magazine, a powerful projectile blast, melees, and a grenade almost always up and ready to throw. tags:pve
+dimwishlist:item=2680976411&perks=1631667848,3523296417,1607056502
+dimwishlist:item=2680976411&perks=1631667848,1906147653,1607056502
+dimwishlist:item=2680976411&perks=402033656,3523296417,1607056502
+dimwishlist:item=2680976411&perks=402033656,1906147653,1607056502
 
 
 // BxR-55 Battler - PVE (god-pve)
@@ -4924,102 +4988,6 @@ dimwishlist:item=3009199534&perks=3987942396,3078487919
 dimwishlist:item=3009199534&perks=3987942396,3744057135
 dimwishlist:item=3009199534&perks=2817499044,3078487919
 dimwishlist:item=3009199534&perks=2817499044,3744057135
-
-
-// The Recluse - PVP Void (god-pve)
-//notes: MW: Range or Stability; Void Build; As a compliment for your Void build, The Recluse is pretty easy: just look for subclass-related perks like Repulsor Brace, Destabilizing Rounds, and the new Desperate Measures. We find Desperate Measures to be significantly more potent than Destabilizing Rounds here, but it entirely depends on how your chosen build functions. Recommended Loadout: Scatter Signal or Tusk of the Boar, The Recluse, Commemoration. tags:god-pve
-dimwishlist:item=3098328572&perks=1482024992,3230963543,776531651,2048641572
-dimwishlist:item=3098328572&perks=1482024992,3230963543,776531651,1926441324
-dimwishlist:item=3098328572&perks=1482024992,3230963543,776531651,2109543898
-dimwishlist:item=3098328572&perks=1482024992,3230963543,776531651,2799030358
-dimwishlist:item=3098328572&perks=1482024992,3230963543,2541826827,2048641572
-dimwishlist:item=3098328572&perks=1482024992,3230963543,2541826827,1926441324
-dimwishlist:item=3098328572&perks=1482024992,3230963543,2541826827,2109543898
-dimwishlist:item=3098328572&perks=1482024992,3230963543,2541826827,2799030358
-
-
-// The Recluse - PVE (god-pve)
-//notes: MW: Range or Stability; If you’re looking for raw power, Frenzy is a clear choice in the final column due to its multitude of buffs (even though other picks offer more damage). As for column one, there really isn’t anything outstanding or synergistic—that’s why we opt for Repulsor Brace since you’re likely to encounter Void debuffs from your team regardless of your chosen subclass. In contrast, if you instead feel comfortable getting up close and personal with your enemies, the combination of Threat Detector and Surrounded can’t be overlooked. While it does place you in a risky spot, both perks are extremely potent and synergize perfectly with one another. Recommended Loadout: Scatter Signal, The Recluse, Apex Predator. tags:god-pve
-dimwishlist:item=3098328572&perks=1482024992,3230963543,776531651,3708227201
-dimwishlist:item=3098328572&perks=1482024992,3230963543,776531651,4104185692
-dimwishlist:item=3098328572&perks=1482024992,3230963543,776531651,781192741
-dimwishlist:item=3098328572&perks=1482024992,3230963543,776531651,3007133316
-dimwishlist:item=3098328572&perks=1482024992,3230963543,4071163871,3708227201
-dimwishlist:item=3098328572&perks=1482024992,3230963543,4071163871,4104185692
-dimwishlist:item=3098328572&perks=1482024992,3230963543,4071163871,781192741
-dimwishlist:item=3098328572&perks=1482024992,3230963543,4071163871,3007133316
-dimwishlist:item=3098328572&perks=1482024992,3230963543,2541826827,3708227201
-dimwishlist:item=3098328572&perks=1482024992,3230963543,2541826827,4104185692
-dimwishlist:item=3098328572&perks=1482024992,3230963543,2541826827,781192741
-dimwishlist:item=3098328572&perks=1482024992,3230963543,2541826827,3007133316
-dimwishlist:item=3098328572&perks=1482024992,3230963543,494941759,3708227201
-dimwishlist:item=3098328572&perks=1482024992,3230963543,494941759,4104185692
-dimwishlist:item=3098328572&perks=1482024992,3230963543,494941759,781192741
-dimwishlist:item=3098328572&perks=1482024992,3230963543,494941759,3007133316
-
-
-// The Recluse - PVP Trials (god-pvp)
-//notes: MW: Range; 3v3; For our 3v3 roll, we’re simply looking at any perk that increases The Recluse’s consistency. Through our chosen set of perks (Dynamic Sway Reduction, Tap the Trigger, and a potent barrel and magazine), you won’t be gaining any extra damage but instead more accuracy for each shot you fire. tags:god-pvp
-dimwishlist:item=3098328572&perks=3250034553,1885400500,1359896290,1890422124
-dimwishlist:item=3098328572&perks=3250034553,1885400500,1359896290,1523649716
-dimwishlist:item=3098328572&perks=3250034553,1885400500,3060983774,1890422124
-dimwishlist:item=3098328572&perks=3250034553,1885400500,3060983774,1523649716
-
-
-// The Recluse - PVP (god-pvp)
-//notes: MW: Range; 6v6; Generally speaking, 6v6 Crucible modes cater more toward kill-activated perks rather than neutral ones. For that reason, we recommend Master of Arms in the final column—while not the strongest, it’s the best thing The Recluse offers. For the first column, nothing really stands out, so we recommend Dynamic Sway Reduction (that said, if another neutral perk fits your style more, this one can be easily swapped). tags:god-pvp
-dimwishlist:item=3098328572&perks=3250034553,1885400500,1359896290,3081867624
-dimwishlist:item=3098328572&perks=3250034553,1885400500,1359896290,2963273944
-dimwishlist:item=3098328572&perks=3250034553,1885400500,3060983774,3081867624
-dimwishlist:item=3098328572&perks=3250034553,1885400500,3060983774,2963273944
-
-
-// The Recluse - PVP Void (pve)
-//notes: MW: Range or Stability; Void Build; As a compliment for your Void build, The Recluse is pretty easy: just look for subclass-related perks like Repulsor Brace, Destabilizing Rounds, and the new Desperate Measures. We find Desperate Measures to be significantly more potent than Destabilizing Rounds here, but it entirely depends on how your chosen build functions. Recommended Loadout: Scatter Signal or Tusk of the Boar, The Recluse, Commemoration. tags:pve
-dimwishlist:item=3098328572&perks=776531651,2048641572
-dimwishlist:item=3098328572&perks=776531651,1926441324
-dimwishlist:item=3098328572&perks=776531651,2109543898
-dimwishlist:item=3098328572&perks=776531651,2799030358
-dimwishlist:item=3098328572&perks=2541826827,2048641572
-dimwishlist:item=3098328572&perks=2541826827,1926441324
-dimwishlist:item=3098328572&perks=2541826827,2109543898
-dimwishlist:item=3098328572&perks=2541826827,2799030358
-
-
-// The Recluse - PVE (pve)
-//notes: MW: Range or Stability; If you’re looking for raw power, Frenzy is a clear choice in the final column due to its multitude of buffs (even though other picks offer more damage). As for column one, there really isn’t anything outstanding or synergistic—that’s why we opt for Repulsor Brace since you’re likely to encounter Void debuffs from your team regardless of your chosen subclass. In contrast, if you instead feel comfortable getting up close and personal with your enemies, the combination of Threat Detector and Surrounded can’t be overlooked. While it does place you in a risky spot, both perks are extremely potent and synergize perfectly with one another. Recommended Loadout: Scatter Signal, The Recluse, Apex Predator. tags:pve
-dimwishlist:item=3098328572&perks=776531651,3708227201
-dimwishlist:item=3098328572&perks=776531651,4104185692
-dimwishlist:item=3098328572&perks=776531651,781192741
-dimwishlist:item=3098328572&perks=776531651,3007133316
-dimwishlist:item=3098328572&perks=4071163871,3708227201
-dimwishlist:item=3098328572&perks=4071163871,4104185692
-dimwishlist:item=3098328572&perks=4071163871,781192741
-dimwishlist:item=3098328572&perks=4071163871,3007133316
-dimwishlist:item=3098328572&perks=2541826827,3708227201
-dimwishlist:item=3098328572&perks=2541826827,4104185692
-dimwishlist:item=3098328572&perks=2541826827,781192741
-dimwishlist:item=3098328572&perks=2541826827,3007133316
-dimwishlist:item=3098328572&perks=494941759,3708227201
-dimwishlist:item=3098328572&perks=494941759,4104185692
-dimwishlist:item=3098328572&perks=494941759,781192741
-dimwishlist:item=3098328572&perks=494941759,3007133316
-
-
-// The Recluse - PVP Trials (pvp)
-//notes: MW: Range; 3v3; For our 3v3 roll, we’re simply looking at any perk that increases The Recluse’s consistency. Through our chosen set of perks (Dynamic Sway Reduction, Tap the Trigger, and a potent barrel and magazine), you won’t be gaining any extra damage but instead more accuracy for each shot you fire. tags:pvp
-dimwishlist:item=3098328572&perks=1359896290,1890422124
-dimwishlist:item=3098328572&perks=1359896290,1523649716
-dimwishlist:item=3098328572&perks=3060983774,1890422124
-dimwishlist:item=3098328572&perks=3060983774,1523649716
-
-
-// The Recluse - PVP (pvp)
-//notes: MW: Range; 6v6; Generally speaking, 6v6 Crucible modes cater more toward kill-activated perks rather than neutral ones. For that reason, we recommend Master of Arms in the final column—while not the strongest, it’s the best thing The Recluse offers. For the first column, nothing really stands out, so we recommend Dynamic Sway Reduction (that said, if another neutral perk fits your style more, this one can be easily swapped). tags:pvp
-dimwishlist:item=3098328572&perks=1359896290,3081867624
-dimwishlist:item=3098328572&perks=1359896290,2963273944
-dimwishlist:item=3098328572&perks=3060983774,3081867624
-dimwishlist:item=3098328572&perks=3060983774,2963273944
 
 
 // Final Warning - Exotic ()
@@ -6953,3 +6921,5 @@ dimwishlist:item=4287947559&perks=4090651448,791862061,4071163871,2679249093
 //notes: MW: Range;  This is a very strong shotgun for PvE. You gain a lot of benefits for just getting kills. The one drawback to this gun is you need to play close range and some enemies in PvE can Knock you back. If you find yourself getting knocked around a lot make sure to melee as soon as the enemy is done with their attack animation. The lunge you get will keep you in place. Consider using this strategy when using this weapon. tags:pve
 dimwishlist:item=4287947559&perks=691659142,2679249093
 dimwishlist:item=4287947559&perks=4071163871,2679249093
+
+
