@@ -12036,7 +12036,7 @@
         },
         {
             "description": "Albedo Wing has a solid god roll for PvE and this can work well with ability-focused Guardian builds. Start off with Auxiliary Reserves which gives a big boosts to Shield Duration and Charge Time. This helps close the gap to your enemies safely or provide much needed protection in a tight spot. Appended Mag adds an extra projectile shot to Albedo Wing which helps pump out more damage at a distance when needed. Grave Robber then takes advantage of Albedo Wing’s most powerful tool, its melee attack. Melee kills refill the Magazine from reserves so promotes some great blast and stab playstyles which work great in game modes such as Gambit and lower tier Nightfalls. Finish off with Demolitionist which rewards any kill from Albedo Wing with 10 percent grenade energy. It also refills the Magazine when throwing a grenade so with a build focused around grenades, it can easily be built towards a never ending loop of a full Magazine, a powerful projectile blast, melees, and a grenade almost always up and ready to throw.",
-            "hash": 2680976411,
+            "hash": 1845372864,
             "name": "PVE",
             "plugs": [
                 [
@@ -12063,7 +12063,7 @@
         },
         {
             "description": "Albedo Wing has a solid god roll for PvE and this can work well with ability-focused Guardian builds. Start off with Auxiliary Reserves which gives a big boosts to Shield Duration and Charge Time. This helps close the gap to your enemies safely or provide much needed protection in a tight spot. Appended Mag adds an extra projectile shot to Albedo Wing which helps pump out more damage at a distance when needed. Grave Robber then takes advantage of Albedo Wing’s most powerful tool, its melee attack. Melee kills refill the Magazine from reserves so promotes some great blast and stab playstyles which work great in game modes such as Gambit and lower tier Nightfalls. Finish off with Demolitionist which rewards any kill from Albedo Wing with 10 percent grenade energy. It also refills the Magazine when throwing a grenade so with a build focused around grenades, it can easily be built towards a never ending loop of a full Magazine, a powerful projectile blast, melees, and a grenade almost always up and ready to throw.",
-            "hash": 2680976411,
+            "hash": 1845372864,
             "name": "PVE",
             "plugs": [
                 [
@@ -12084,7 +12084,7 @@
         },
         {
             "description": "Albedo Wing has a ton going for it in PvE, and what you choose to run entirely depends on the context in which you’re using the weapon. Range and reload speed are the two most noticeable stats for PvE, so our haft, magazine, and masterwork picks work to optimize that. The perk combination most players will be looking for is Grave Robber and Demolitionist; Grave Robber synergizes perfectly with glaive functionality, while Demolitionist is an outstanding utility pick for any build or setup. Great alternatives to these choices are Beacon Rounds and Close to Melee. Beacon Rounds is currently exclusive to this glaive, making the choice irreplaceable if that’s what you’re looking for. Close to Melee is also potent to increase damage instead of gaining grenade energy.",
-            "hash": 2680976411,
+            "hash": 1845372864,
             "name": "PVE2",
             "plugs": [
                 [
@@ -12112,7 +12112,7 @@
         },
         {
             "description": "Albedo Wing has a ton going for it in PvE, and what you choose to run entirely depends on the context in which you’re using the weapon. Range and reload speed are the two most noticeable stats for PvE, so our haft, magazine, and masterwork picks work to optimize that. The perk combination most players will be looking for is Grave Robber and Demolitionist; Grave Robber synergizes perfectly with glaive functionality, while Demolitionist is an outstanding utility pick for any build or setup. Great alternatives to these choices are Beacon Rounds and Close to Melee. Beacon Rounds is currently exclusive to this glaive, making the choice irreplaceable if that’s what you’re looking for. Close to Melee is also potent to increase damage instead of gaining grenade energy.",
-            "hash": 2680976411,
+            "hash": 1845372864,
             "name": "PVE2",
             "plugs": [
                 [
@@ -12173,6 +12173,54 @@
                 ],
                 [
                     4008116374
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "Stay Frosty is a real run-and-gun feeling Pulse Rifle and this god roll gets the best out of its strong points. Arrowhead Brake is a must for the Barrel slot as Stay Frosty comes with some wide Recoil patterns. Follow up with Tactical Mag for the extra burst from the Magazine and a welcome boost to Reload and Stability. This ensures Stay Frosty is easy to control and refilled quickly to get back to the fight. Enlightened Action is a new perk which Stay Frosty sees solid returns from. It provides increased Reload upon hitting an enemy which pairs up with Headstone to great effect. These perks together can ensure Stay Frosty is fully loaded and creating Stasis Crystals with each precision kill. These can then be destroyed causing massive damage to surrounding enemies.",
+            "hash": 1123433952,
+            "name": "PVE",
+            "plugs": [
+                [
+                    839105230
+                ],
+                [
+                    106909392
+                ],
+                [
+                    3828510309,
+                    1771736209
+                ],
+                [
+                    124408337,
+                    1171887445
+                ],
+                [
+                    2839173408
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Stay Frosty is a real run-and-gun feeling Pulse Rifle and this god roll gets the best out of its strong points. Arrowhead Brake is a must for the Barrel slot as Stay Frosty comes with some wide Recoil patterns. Follow up with Tactical Mag for the extra burst from the Magazine and a welcome boost to Reload and Stability. This ensures Stay Frosty is easy to control and refilled quickly to get back to the fight. Enlightened Action is a new perk which Stay Frosty sees solid returns from. It provides increased Reload upon hitting an enemy which pairs up with Headstone to great effect. These perks together can ensure Stay Frosty is fully loaded and creating Stasis Crystals with each precision kill. These can then be destroyed causing massive damage to surrounding enemies.",
+            "hash": 1123433952,
+            "name": "PVE",
+            "plugs": [
+                [
+                    3828510309,
+                    1771736209
+                ],
+                [
+                    124408337,
+                    1171887445
+                ],
+                [
+                    2839173408
                 ]
             ],
             "tags": [
