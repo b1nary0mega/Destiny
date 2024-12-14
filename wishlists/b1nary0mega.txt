@@ -2568,6 +2568,38 @@ dimwishlist:item=1821724780&perks=3161816588,1546637391
 dimwishlist:item=1821724780&perks=3161816588,2360754333
 
 
+// Avalanche - PVE (god-pve)
+//notes: Like most machine guns, Avalanche suffers from poor Handling and Stability, so to remedy that, Fluted Barrel is our best friend. And to help with the mag size and Reload Speed, Tactical Mag is great while also buffing Stability just a bit more. Perk 1 has two very strong perks. Dragonfly is great for ad-clear, especially when paired with Incandescent, and Subsistence lets you take way more advantage of Incandescent.. For Perk 2, Incandescent or Golden Tricorn are equally powerful options. Incandescent’s Scorch is free damage and can ignite if done quick enough, and Golden Tricorn’s 50% damage buff is hard to beat, especially with the amount of ability spam nowadays. tags:god-pve
+dimwishlist:item=1845978721&perks=1840239774,106909392,1820235745,365154968,4008116374
+dimwishlist:item=1845978721&perks=1840239774,106909392,1820235745,2939589096,4008116374
+dimwishlist:item=1845978721&perks=1840239774,106909392,4245865861,365154968,4008116374
+dimwishlist:item=1845978721&perks=1840239774,106909392,4245865861,2939589096,4008116374
+
+
+// Avalanche - PVE2 (god-pve)
+//notes: This Avalanche god roll is versatile in PvE where it can do some solid damage to tanky enemies while also being a great weapon for clearing waves of enemies with ease. The best Barrel choice is Arrowhead Brake, this gets Recoil Control to 100 making Avalanche easy to control when emptying its large magazine. Steady Rounds adds a large bump to Stability, keeping the barrel straight and easy to control when in combat. Rewind Rounds is a fantastic Machine Gun perk, refilling the magazine based on hits over kills. This works when fighting either low-tier mobs or endgame high-tier enemies. Incandescent then really brings the fire by causing explosions on kills, which Scorches nearby enemies, causing them to burn and lose health. If hit by enough Scorch, surrounding enemies can Ignite and explode themselves without taking a direct shot. This Avalanche god roll can absolutely shred through enemies in all tiers of content. tags:god-pve
+dimwishlist:item=1845978721&perks=839105230,3177308360,3418782618,4293542123,4008116374
+dimwishlist:item=1845978721&perks=839105230,3177308360,3418782618,2675184851,4008116374
+dimwishlist:item=1845978721&perks=839105230,3177308360,1563455254,4293542123,4008116374
+dimwishlist:item=1845978721&perks=839105230,3177308360,1563455254,2675184851,4008116374
+
+
+// Avalanche - PVE (pve)
+//notes: Like most machine guns, Avalanche suffers from poor Handling and Stability, so to remedy that, Fluted Barrel is our best friend. And to help with the mag size and Reload Speed, Tactical Mag is great while also buffing Stability just a bit more. Perk 1 has two very strong perks. Dragonfly is great for ad-clear, especially when paired with Incandescent, and Subsistence lets you take way more advantage of Incandescent.. For Perk 2, Incandescent or Golden Tricorn are equally powerful options. Incandescent’s Scorch is free damage and can ignite if done quick enough, and Golden Tricorn’s 50% damage buff is hard to beat, especially with the amount of ability spam nowadays. tags:pve
+dimwishlist:item=1845978721&perks=1820235745,365154968,4008116374
+dimwishlist:item=1845978721&perks=1820235745,2939589096,4008116374
+dimwishlist:item=1845978721&perks=4245865861,365154968,4008116374
+dimwishlist:item=1845978721&perks=4245865861,2939589096,4008116374
+
+
+// Avalanche - PVE2 (pve)
+//notes: This Avalanche god roll is versatile in PvE where it can do some solid damage to tanky enemies while also being a great weapon for clearing waves of enemies with ease. The best Barrel choice is Arrowhead Brake, this gets Recoil Control to 100 making Avalanche easy to control when emptying its large magazine. Steady Rounds adds a large bump to Stability, keeping the barrel straight and easy to control when in combat. Rewind Rounds is a fantastic Machine Gun perk, refilling the magazine based on hits over kills. This works when fighting either low-tier mobs or endgame high-tier enemies. Incandescent then really brings the fire by causing explosions on kills, which Scorches nearby enemies, causing them to burn and lose health. If hit by enough Scorch, surrounding enemies can Ignite and explode themselves without taking a direct shot. This Avalanche god roll can absolutely shred through enemies in all tiers of content. tags:pve
+dimwishlist:item=1845978721&perks=3418782618,4293542123,4008116374
+dimwishlist:item=1845978721&perks=3418782618,2675184851,4008116374
+dimwishlist:item=1845978721&perks=1563455254,4293542123,4008116374
+dimwishlist:item=1845978721&perks=1563455254,2675184851,4008116374
+
+
 // Apex Predator - PVE (god-pve)
 //notes: MW: Reload or Velocity; DPS; Apex Predator is a go-to PvE rocket launcher in today’s meta. Quick Launch and Impact casing will give the weapon much-needed handling and stability to fire quickly and consistently. But if you feel like you don’t need those extra stats, you can always switch to something like an Alloy Casing for more reload speed. The golden combo for Apex Predator is Reconstruction with Bait and Switch. Reconstruction is the best perk for boss damage as Perk 1. You can go for Demolitionist or Incandescent if you want to ad clear to the rocket launcher, but that is not something we’d recommend as rocket launchers shine at boss DPS. Bait and Switch has a few decent replacements like Explosive Light or Vorpal Weapon and can be decent if you find it difficult to trigger Bait and Switch. tags:god-pve
 dimwishlist:item=1851777734&perks=3525010810,3796465595,1523832109,3078487919
@@ -2686,6 +2718,22 @@ dimwishlist:item=1886840007&perks=711234314,2109543898
 dimwishlist:item=1886840007&perks=711234314,2319119708
 dimwishlist:item=1886840007&perks=711234314,2799030358
 dimwishlist:item=1886840007&perks=711234314,2140591236
+
+
+// Stay Frosty - PVE (god-pve)
+//notes: Stay Frosty is a real run-and-gun feeling Pulse Rifle and this god roll gets the best out of its strong points. Arrowhead Brake is a must for the Barrel slot as Stay Frosty comes with some wide Recoil patterns. Follow up with Tactical Mag for the extra burst from the Magazine and a welcome boost to Reload and Stability. This ensures Stay Frosty is easy to control and refilled quickly to get back to the fight. Enlightened Action is a new perk which Stay Frosty sees solid returns from. It provides increased Reload upon hitting an enemy which pairs up with Headstone to great effect. These perks together can ensure Stay Frosty is fully loaded and creating Stasis Crystals with each precision kill. These can then be destroyed causing massive damage to surrounding enemies. tags:god-pve
+dimwishlist:item=1891321753&perks=839105230,106909392,3828510309,124408337,2839173408
+dimwishlist:item=1891321753&perks=839105230,106909392,3828510309,1171887445,2839173408
+dimwishlist:item=1891321753&perks=839105230,106909392,1771736209,124408337,2839173408
+dimwishlist:item=1891321753&perks=839105230,106909392,1771736209,1171887445,2839173408
+
+
+// Stay Frosty - PVE (pve)
+//notes: Stay Frosty is a real run-and-gun feeling Pulse Rifle and this god roll gets the best out of its strong points. Arrowhead Brake is a must for the Barrel slot as Stay Frosty comes with some wide Recoil patterns. Follow up with Tactical Mag for the extra burst from the Magazine and a welcome boost to Reload and Stability. This ensures Stay Frosty is easy to control and refilled quickly to get back to the fight. Enlightened Action is a new perk which Stay Frosty sees solid returns from. It provides increased Reload upon hitting an enemy which pairs up with Headstone to great effect. These perks together can ensure Stay Frosty is fully loaded and creating Stasis Crystals with each precision kill. These can then be destroyed causing massive damage to surrounding enemies. tags:pve
+dimwishlist:item=1891321753&perks=3828510309,124408337,2839173408
+dimwishlist:item=1891321753&perks=3828510309,1171887445,2839173408
+dimwishlist:item=1891321753&perks=1771736209,124408337,2839173408
+dimwishlist:item=1891321753&perks=1771736209,1171887445,2839173408
 
 
 // Hammerhead - PVE (god-pve)
@@ -4380,38 +4428,38 @@ dimwishlist:item=2599338625&perks=2817499044,3744057135
 
 // Albedo Wing - PVE (god-pve)
 //notes: Albedo Wing has a solid god roll for PvE and this can work well with ability-focused Guardian builds. Start off with Auxiliary Reserves which gives a big boosts to Shield Duration and Charge Time. This helps close the gap to your enemies safely or provide much needed protection in a tight spot. Appended Mag adds an extra projectile shot to Albedo Wing which helps pump out more damage at a distance when needed. Grave Robber then takes advantage of Albedo Wing’s most powerful tool, its melee attack. Melee kills refill the Magazine from reserves so promotes some great blast and stab playstyles which work great in game modes such as Gambit and lower tier Nightfalls. Finish off with Demolitionist which rewards any kill from Albedo Wing with 10 percent grenade energy. It also refills the Magazine when throwing a grenade so with a build focused around grenades, it can easily be built towards a never ending loop of a full Magazine, a powerful projectile blast, melees, and a grenade almost always up and ready to throw. tags:god-pve
-dimwishlist:item=2680976411&perks=580685494,1087426260,1631667848,3523296417,1607056502
-dimwishlist:item=2680976411&perks=580685494,1087426260,1631667848,1906147653,1607056502
-dimwishlist:item=2680976411&perks=580685494,1087426260,402033656,3523296417,1607056502
-dimwishlist:item=2680976411&perks=580685494,1087426260,402033656,1906147653,1607056502
+dimwishlist:item=1845372864&perks=580685494,1087426260,1631667848,3523296417,1607056502
+dimwishlist:item=1845372864&perks=580685494,1087426260,1631667848,1906147653,1607056502
+dimwishlist:item=1845372864&perks=580685494,1087426260,402033656,3523296417,1607056502
+dimwishlist:item=1845372864&perks=580685494,1087426260,402033656,1906147653,1607056502
 
 
 // Albedo Wing - PVE2 (god-pve)
 //notes: Albedo Wing has a ton going for it in PvE, and what you choose to run entirely depends on the context in which you’re using the weapon. Range and reload speed are the two most noticeable stats for PvE, so our haft, magazine, and masterwork picks work to optimize that. The perk combination most players will be looking for is Grave Robber and Demolitionist; Grave Robber synergizes perfectly with glaive functionality, while Demolitionist is an outstanding utility pick for any build or setup. Great alternatives to these choices are Beacon Rounds and Close to Melee. Beacon Rounds is currently exclusive to this glaive, making the choice irreplaceable if that’s what you’re looking for. Close to Melee is also potent to increase damage instead of gaining grenade energy. tags:god-pve
-dimwishlist:item=2680976411&perks=594346985,679225683,2859149211,1782407750,1607056502
-dimwishlist:item=2680976411&perks=594346985,679225683,2859149211,2241043034,1607056502
-dimwishlist:item=2680976411&perks=594346985,679225683,1135494563,1782407750,1607056502
-dimwishlist:item=2680976411&perks=594346985,679225683,1135494563,2241043034,1607056502
-dimwishlist:item=2680976411&perks=1934171651,679225683,2859149211,1782407750,1607056502
-dimwishlist:item=2680976411&perks=1934171651,679225683,2859149211,2241043034,1607056502
-dimwishlist:item=2680976411&perks=1934171651,679225683,1135494563,1782407750,1607056502
-dimwishlist:item=2680976411&perks=1934171651,679225683,1135494563,2241043034,1607056502
+dimwishlist:item=1845372864&perks=594346985,679225683,2859149211,1782407750,1607056502
+dimwishlist:item=1845372864&perks=594346985,679225683,2859149211,2241043034,1607056502
+dimwishlist:item=1845372864&perks=594346985,679225683,1135494563,1782407750,1607056502
+dimwishlist:item=1845372864&perks=594346985,679225683,1135494563,2241043034,1607056502
+dimwishlist:item=1845372864&perks=1934171651,679225683,2859149211,1782407750,1607056502
+dimwishlist:item=1845372864&perks=1934171651,679225683,2859149211,2241043034,1607056502
+dimwishlist:item=1845372864&perks=1934171651,679225683,1135494563,1782407750,1607056502
+dimwishlist:item=1845372864&perks=1934171651,679225683,1135494563,2241043034,1607056502
 
 
 // Albedo Wing - PVE2 (god-pve)
 //notes: Albedo Wing has a ton going for it in PvE, and what you choose to run entirely depends on the context in which you’re using the weapon. Range and reload speed are the two most noticeable stats for PvE, so our haft, magazine, and masterwork picks work to optimize that. The perk combination most players will be looking for is Grave Robber and Demolitionist; Grave Robber synergizes perfectly with glaive functionality, while Demolitionist is an outstanding utility pick for any build or setup. Great alternatives to these choices are Beacon Rounds and Close to Melee. Beacon Rounds is currently exclusive to this glaive, making the choice irreplaceable if that’s what you’re looking for. Close to Melee is also potent to increase damage instead of gaining grenade energy. tags:god-pve
-dimwishlist:item=2680976411&perks=2859149211,1782407750,1607056502
-dimwishlist:item=2680976411&perks=2859149211,2241043034,1607056502
-dimwishlist:item=2680976411&perks=1135494563,1782407750,1607056502
-dimwishlist:item=2680976411&perks=1135494563,2241043034,1607056502
+dimwishlist:item=1845372864&perks=2859149211,1782407750,1607056502
+dimwishlist:item=1845372864&perks=2859149211,2241043034,1607056502
+dimwishlist:item=1845372864&perks=1135494563,1782407750,1607056502
+dimwishlist:item=1845372864&perks=1135494563,2241043034,1607056502
 
 
 // Albedo Wing - PVE (pve)
 //notes: Albedo Wing has a solid god roll for PvE and this can work well with ability-focused Guardian builds. Start off with Auxiliary Reserves which gives a big boosts to Shield Duration and Charge Time. This helps close the gap to your enemies safely or provide much needed protection in a tight spot. Appended Mag adds an extra projectile shot to Albedo Wing which helps pump out more damage at a distance when needed. Grave Robber then takes advantage of Albedo Wing’s most powerful tool, its melee attack. Melee kills refill the Magazine from reserves so promotes some great blast and stab playstyles which work great in game modes such as Gambit and lower tier Nightfalls. Finish off with Demolitionist which rewards any kill from Albedo Wing with 10 percent grenade energy. It also refills the Magazine when throwing a grenade so with a build focused around grenades, it can easily be built towards a never ending loop of a full Magazine, a powerful projectile blast, melees, and a grenade almost always up and ready to throw. tags:pve
-dimwishlist:item=2680976411&perks=1631667848,3523296417,1607056502
-dimwishlist:item=2680976411&perks=1631667848,1906147653,1607056502
-dimwishlist:item=2680976411&perks=402033656,3523296417,1607056502
-dimwishlist:item=2680976411&perks=402033656,1906147653,1607056502
+dimwishlist:item=1845372864&perks=1631667848,3523296417,1607056502
+dimwishlist:item=1845372864&perks=1631667848,1906147653,1607056502
+dimwishlist:item=1845372864&perks=402033656,3523296417,1607056502
+dimwishlist:item=1845372864&perks=402033656,1906147653,1607056502
 
 
 // BxR-55 Battler - PVE (god-pve)
@@ -6820,38 +6868,6 @@ dimwishlist:item=4207120603&perks=1749209109,3078487919
 dimwishlist:item=4207120603&perks=1749209109,3744057135
 dimwishlist:item=4207120603&perks=4085959009,3078487919
 dimwishlist:item=4207120603&perks=4085959009,3744057135
-
-
-// Avalanche - PVE (god-pve)
-//notes: Like most machine guns, Avalanche suffers from poor Handling and Stability, so to remedy that, Fluted Barrel is our best friend. And to help with the mag size and Reload Speed, Tactical Mag is great while also buffing Stability just a bit more. Perk 1 has two very strong perks. Dragonfly is great for ad-clear, especially when paired with Incandescent, and Subsistence lets you take way more advantage of Incandescent.. For Perk 2, Incandescent or Golden Tricorn are equally powerful options. Incandescent’s Scorch is free damage and can ignite if done quick enough, and Golden Tricorn’s 50% damage buff is hard to beat, especially with the amount of ability spam nowadays. tags:god-pve
-dimwishlist:item=1845978721&perks=1840239774,106909392,1820235745,365154968,4008116374
-dimwishlist:item=1845978721&perks=1840239774,106909392,1820235745,2939589096,4008116374
-dimwishlist:item=1845978721&perks=1840239774,106909392,4245865861,365154968,4008116374
-dimwishlist:item=1845978721&perks=1840239774,106909392,4245865861,2939589096,4008116374
-
-
-// Avalanche - PVE2 (god-pve)
-//notes: This Avalanche god roll is versatile in PvE where it can do some solid damage to tanky enemies while also being a great weapon for clearing waves of enemies with ease. The best Barrel choice is Arrowhead Brake, this gets Recoil Control to 100 making Avalanche easy to control when emptying its large magazine. Steady Rounds adds a large bump to Stability, keeping the barrel straight and easy to control when in combat. Rewind Rounds is a fantastic Machine Gun perk, refilling the magazine based on hits over kills. This works when fighting either low-tier mobs or endgame high-tier enemies. Incandescent then really brings the fire by causing explosions on kills, which Scorches nearby enemies, causing them to burn and lose health. If hit by enough Scorch, surrounding enemies can Ignite and explode themselves without taking a direct shot. This Avalanche god roll can absolutely shred through enemies in all tiers of content. tags:god-pve
-dimwishlist:item=1845978721&perks=839105230,3177308360,3418782618,4293542123,4008116374
-dimwishlist:item=1845978721&perks=839105230,3177308360,3418782618,2675184851,4008116374
-dimwishlist:item=1845978721&perks=839105230,3177308360,1563455254,4293542123,4008116374
-dimwishlist:item=1845978721&perks=839105230,3177308360,1563455254,2675184851,4008116374
-
-
-// Avalanche - PVE (pve)
-//notes: Like most machine guns, Avalanche suffers from poor Handling and Stability, so to remedy that, Fluted Barrel is our best friend. And to help with the mag size and Reload Speed, Tactical Mag is great while also buffing Stability just a bit more. Perk 1 has two very strong perks. Dragonfly is great for ad-clear, especially when paired with Incandescent, and Subsistence lets you take way more advantage of Incandescent.. For Perk 2, Incandescent or Golden Tricorn are equally powerful options. Incandescent’s Scorch is free damage and can ignite if done quick enough, and Golden Tricorn’s 50% damage buff is hard to beat, especially with the amount of ability spam nowadays. tags:pve
-dimwishlist:item=1845978721&perks=1820235745,365154968,4008116374
-dimwishlist:item=1845978721&perks=1820235745,2939589096,4008116374
-dimwishlist:item=1845978721&perks=4245865861,365154968,4008116374
-dimwishlist:item=1845978721&perks=4245865861,2939589096,4008116374
-
-
-// Avalanche - PVE2 (pve)
-//notes: This Avalanche god roll is versatile in PvE where it can do some solid damage to tanky enemies while also being a great weapon for clearing waves of enemies with ease. The best Barrel choice is Arrowhead Brake, this gets Recoil Control to 100 making Avalanche easy to control when emptying its large magazine. Steady Rounds adds a large bump to Stability, keeping the barrel straight and easy to control when in combat. Rewind Rounds is a fantastic Machine Gun perk, refilling the magazine based on hits over kills. This works when fighting either low-tier mobs or endgame high-tier enemies. Incandescent then really brings the fire by causing explosions on kills, which Scorches nearby enemies, causing them to burn and lose health. If hit by enough Scorch, surrounding enemies can Ignite and explode themselves without taking a direct shot. This Avalanche god roll can absolutely shred through enemies in all tiers of content. tags:pve
-dimwishlist:item=1845978721&perks=3418782618,4293542123,4008116374
-dimwishlist:item=1845978721&perks=3418782618,2675184851,4008116374
-dimwishlist:item=1845978721&perks=1563455254,4293542123,4008116374
-dimwishlist:item=1845978721&perks=1563455254,2675184851,4008116374
 
 
 // Heretic's Fervor - PVE (pve)
