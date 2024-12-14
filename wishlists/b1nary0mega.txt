@@ -6830,12 +6830,28 @@ dimwishlist:item=4220529694&perks=1840239774,106909392,4245865861,365154968,4008
 dimwishlist:item=4220529694&perks=1840239774,106909392,4245865861,2939589096,4008116374
 
 
+// Avalanche - PVE2 (god-pve)
+//notes: This Avalanche god roll is versatile in PvE where it can do some solid damage to tanky enemies while also being a great weapon for clearing waves of enemies with ease. The best Barrel choice is Arrowhead Brake, this gets Recoil Control to 100 making Avalanche easy to control when emptying its large magazine. Steady Rounds adds a large bump to Stability, keeping the barrel straight and easy to control when in combat. Rewind Rounds is a fantastic Machine Gun perk, refilling the magazine based on hits over kills. This works when fighting either low-tier mobs or endgame high-tier enemies. Incandescent then really brings the fire by causing explosions on kills, which Scorches nearby enemies, causing them to burn and lose health. If hit by enough Scorch, surrounding enemies can Ignite and explode themselves without taking a direct shot. This Avalanche god roll can absolutely shred through enemies in all tiers of content. tags:god-pve
+dimwishlist:item=4220529694&perks=839105230,3177308360,3418782618,4293542123,4008116374
+dimwishlist:item=4220529694&perks=839105230,3177308360,3418782618,2675184851,4008116374
+dimwishlist:item=4220529694&perks=839105230,3177308360,1563455254,4293542123,4008116374
+dimwishlist:item=4220529694&perks=839105230,3177308360,1563455254,2675184851,4008116374
+
+
 // Avalanche - PVE (pve)
 //notes: Like most machine guns, Avalanche suffers from poor Handling and Stability, so to remedy that, Fluted Barrel is our best friend. And to help with the mag size and Reload Speed, Tactical Mag is great while also buffing Stability just a bit more. Perk 1 has two very strong perks. Dragonfly is great for ad-clear, especially when paired with Incandescent, and Subsistence lets you take way more advantage of Incandescent.. For Perk 2, Incandescent or Golden Tricorn are equally powerful options. Incandescent’s Scorch is free damage and can ignite if done quick enough, and Golden Tricorn’s 50% damage buff is hard to beat, especially with the amount of ability spam nowadays. tags:pve
 dimwishlist:item=4220529694&perks=1820235745,365154968,4008116374
 dimwishlist:item=4220529694&perks=1820235745,2939589096,4008116374
 dimwishlist:item=4220529694&perks=4245865861,365154968,4008116374
 dimwishlist:item=4220529694&perks=4245865861,2939589096,4008116374
+
+
+// Avalanche - PVE2 (pve)
+//notes: This Avalanche god roll is versatile in PvE where it can do some solid damage to tanky enemies while also being a great weapon for clearing waves of enemies with ease. The best Barrel choice is Arrowhead Brake, this gets Recoil Control to 100 making Avalanche easy to control when emptying its large magazine. Steady Rounds adds a large bump to Stability, keeping the barrel straight and easy to control when in combat. Rewind Rounds is a fantastic Machine Gun perk, refilling the magazine based on hits over kills. This works when fighting either low-tier mobs or endgame high-tier enemies. Incandescent then really brings the fire by causing explosions on kills, which Scorches nearby enemies, causing them to burn and lose health. If hit by enough Scorch, surrounding enemies can Ignite and explode themselves without taking a direct shot. This Avalanche god roll can absolutely shred through enemies in all tiers of content. tags:pve
+dimwishlist:item=4220529694&perks=3418782618,4293542123,4008116374
+dimwishlist:item=4220529694&perks=3418782618,2675184851,4008116374
+dimwishlist:item=4220529694&perks=1563455254,4293542123,4008116374
+dimwishlist:item=4220529694&perks=1563455254,2675184851,4008116374
 
 
 // Heretic's Fervor - PVE (pve)
