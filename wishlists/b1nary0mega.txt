@@ -1541,6 +1541,22 @@ dimwishlist:item=1119734784&perks=1359896290,1890422124
 dimwishlist:item=1119734784&perks=1359896290,1015611457
 
 
+// Stay Frosty - PVE (god-pve)
+//notes: Stay Frosty is a real run-and-gun feeling Pulse Rifle and this god roll gets the best out of its strong points. Arrowhead Brake is a must for the Barrel slot as Stay Frosty comes with some wide Recoil patterns. Follow up with Tactical Mag for the extra burst from the Magazine and a welcome boost to Reload and Stability. This ensures Stay Frosty is easy to control and refilled quickly to get back to the fight. Enlightened Action is a new perk which Stay Frosty sees solid returns from. It provides increased Reload upon hitting an enemy which pairs up with Headstone to great effect. These perks together can ensure Stay Frosty is fully loaded and creating Stasis Crystals with each precision kill. These can then be destroyed causing massive damage to surrounding enemies. tags:god-pve
+dimwishlist:item=1123433952&perks=839105230,106909392,3828510309,124408337,2839173408
+dimwishlist:item=1123433952&perks=839105230,106909392,3828510309,1171887445,2839173408
+dimwishlist:item=1123433952&perks=839105230,106909392,1771736209,124408337,2839173408
+dimwishlist:item=1123433952&perks=839105230,106909392,1771736209,1171887445,2839173408
+
+
+// Stay Frosty - PVE (pve)
+//notes: Stay Frosty is a real run-and-gun feeling Pulse Rifle and this god roll gets the best out of its strong points. Arrowhead Brake is a must for the Barrel slot as Stay Frosty comes with some wide Recoil patterns. Follow up with Tactical Mag for the extra burst from the Magazine and a welcome boost to Reload and Stability. This ensures Stay Frosty is easy to control and refilled quickly to get back to the fight. Enlightened Action is a new perk which Stay Frosty sees solid returns from. It provides increased Reload upon hitting an enemy which pairs up with Headstone to great effect. These perks together can ensure Stay Frosty is fully loaded and creating Stasis Crystals with each precision kill. These can then be destroyed causing massive damage to surrounding enemies. tags:pve
+dimwishlist:item=1123433952&perks=3828510309,124408337,2839173408
+dimwishlist:item=1123433952&perks=3828510309,1171887445,2839173408
+dimwishlist:item=1123433952&perks=1771736209,124408337,2839173408
+dimwishlist:item=1123433952&perks=1771736209,1171887445,2839173408
+
+
 // Lost Signal - PVE (god-pve,pve)
 //notes: MW Handling; Quick Access Sling; Start this god roll off with Quick Launch, giving this Grenade Launcher boosts to key stats in Velocity, to ensure its grenades hit the target quickly, and Handling, which helps quickly swapping in and out to fire Lost Signal at enemies. Add High-Velocity Rounds to increase the speed the fired grenades get from barrel to target. The main perk combination is where Lost Signal shines and works perfectly for controlling areas causing big amounts of damage to enemies who run into its pools or from sticking a direct hit. The damage combination starts with the key perk, Auto-Loading Holster. Firing then stowing Lost Signal will reload after 2.5 seconds, the point here is to fire Lost Signal at the target then switch to another weapon to deal some damage then switch back. Due to how Lost Signal operates, the damage ticks away from its shots so it’s constantly doing damage while the Fireteam hits it with another weapon. Then when switching back, Lost Signal is ready to go again. Vorpal Weapon then comes in for this god roll for its 15 percent damage increase to higher-ranking combatants. This extra damage makes Lost Signal a great choice for taking on even the toughest challenges as it will consistently do tick damage when landing hits and then reload itself awaiting its next volley. tags:god-pve,pve
 dimwishlist:item=1197771438&perks=3525010810,2822142346,3300816228,4049631843
@@ -2568,6 +2584,42 @@ dimwishlist:item=1821724780&perks=3161816588,1546637391
 dimwishlist:item=1821724780&perks=3161816588,2360754333
 
 
+// Albedo Wing - PVE (god-pve)
+//notes: Albedo Wing has a solid god roll for PvE and this can work well with ability-focused Guardian builds. Start off with Auxiliary Reserves which gives a big boosts to Shield Duration and Charge Time. This helps close the gap to your enemies safely or provide much needed protection in a tight spot. Appended Mag adds an extra projectile shot to Albedo Wing which helps pump out more damage at a distance when needed. Grave Robber then takes advantage of Albedo Wing’s most powerful tool, its melee attack. Melee kills refill the Magazine from reserves so promotes some great blast and stab playstyles which work great in game modes such as Gambit and lower tier Nightfalls. Finish off with Demolitionist which rewards any kill from Albedo Wing with 10 percent grenade energy. It also refills the Magazine when throwing a grenade so with a build focused around grenades, it can easily be built towards a never ending loop of a full Magazine, a powerful projectile blast, melees, and a grenade almost always up and ready to throw. tags:god-pve
+dimwishlist:item=1845372864&perks=580685494,1087426260,1631667848,3523296417,1607056502
+dimwishlist:item=1845372864&perks=580685494,1087426260,1631667848,1906147653,1607056502
+dimwishlist:item=1845372864&perks=580685494,1087426260,402033656,3523296417,1607056502
+dimwishlist:item=1845372864&perks=580685494,1087426260,402033656,1906147653,1607056502
+
+
+// Albedo Wing - PVE2 (god-pve)
+//notes: Albedo Wing has a ton going for it in PvE, and what you choose to run entirely depends on the context in which you’re using the weapon. Range and reload speed are the two most noticeable stats for PvE, so our haft, magazine, and masterwork picks work to optimize that. The perk combination most players will be looking for is Grave Robber and Demolitionist; Grave Robber synergizes perfectly with glaive functionality, while Demolitionist is an outstanding utility pick for any build or setup. Great alternatives to these choices are Beacon Rounds and Close to Melee. Beacon Rounds is currently exclusive to this glaive, making the choice irreplaceable if that’s what you’re looking for. Close to Melee is also potent to increase damage instead of gaining grenade energy. tags:god-pve
+dimwishlist:item=1845372864&perks=594346985,679225683,2859149211,1782407750,1607056502
+dimwishlist:item=1845372864&perks=594346985,679225683,2859149211,2241043034,1607056502
+dimwishlist:item=1845372864&perks=594346985,679225683,1135494563,1782407750,1607056502
+dimwishlist:item=1845372864&perks=594346985,679225683,1135494563,2241043034,1607056502
+dimwishlist:item=1845372864&perks=1934171651,679225683,2859149211,1782407750,1607056502
+dimwishlist:item=1845372864&perks=1934171651,679225683,2859149211,2241043034,1607056502
+dimwishlist:item=1845372864&perks=1934171651,679225683,1135494563,1782407750,1607056502
+dimwishlist:item=1845372864&perks=1934171651,679225683,1135494563,2241043034,1607056502
+
+
+// Albedo Wing - PVE2 (god-pve)
+//notes: Albedo Wing has a ton going for it in PvE, and what you choose to run entirely depends on the context in which you’re using the weapon. Range and reload speed are the two most noticeable stats for PvE, so our haft, magazine, and masterwork picks work to optimize that. The perk combination most players will be looking for is Grave Robber and Demolitionist; Grave Robber synergizes perfectly with glaive functionality, while Demolitionist is an outstanding utility pick for any build or setup. Great alternatives to these choices are Beacon Rounds and Close to Melee. Beacon Rounds is currently exclusive to this glaive, making the choice irreplaceable if that’s what you’re looking for. Close to Melee is also potent to increase damage instead of gaining grenade energy. tags:god-pve
+dimwishlist:item=1845372864&perks=2859149211,1782407750,1607056502
+dimwishlist:item=1845372864&perks=2859149211,2241043034,1607056502
+dimwishlist:item=1845372864&perks=1135494563,1782407750,1607056502
+dimwishlist:item=1845372864&perks=1135494563,2241043034,1607056502
+
+
+// Albedo Wing - PVE (pve)
+//notes: Albedo Wing has a solid god roll for PvE and this can work well with ability-focused Guardian builds. Start off with Auxiliary Reserves which gives a big boosts to Shield Duration and Charge Time. This helps close the gap to your enemies safely or provide much needed protection in a tight spot. Appended Mag adds an extra projectile shot to Albedo Wing which helps pump out more damage at a distance when needed. Grave Robber then takes advantage of Albedo Wing’s most powerful tool, its melee attack. Melee kills refill the Magazine from reserves so promotes some great blast and stab playstyles which work great in game modes such as Gambit and lower tier Nightfalls. Finish off with Demolitionist which rewards any kill from Albedo Wing with 10 percent grenade energy. It also refills the Magazine when throwing a grenade so with a build focused around grenades, it can easily be built towards a never ending loop of a full Magazine, a powerful projectile blast, melees, and a grenade almost always up and ready to throw. tags:pve
+dimwishlist:item=1845372864&perks=1631667848,3523296417,1607056502
+dimwishlist:item=1845372864&perks=1631667848,1906147653,1607056502
+dimwishlist:item=1845372864&perks=402033656,3523296417,1607056502
+dimwishlist:item=1845372864&perks=402033656,1906147653,1607056502
+
+
 // Avalanche - PVE (god-pve)
 //notes: Like most machine guns, Avalanche suffers from poor Handling and Stability, so to remedy that, Fluted Barrel is our best friend. And to help with the mag size and Reload Speed, Tactical Mag is great while also buffing Stability just a bit more. Perk 1 has two very strong perks. Dragonfly is great for ad-clear, especially when paired with Incandescent, and Subsistence lets you take way more advantage of Incandescent.. For Perk 2, Incandescent or Golden Tricorn are equally powerful options. Incandescent’s Scorch is free damage and can ignite if done quick enough, and Golden Tricorn’s 50% damage buff is hard to beat, especially with the amount of ability spam nowadays. tags:god-pve
 dimwishlist:item=1845978721&perks=1840239774,106909392,1820235745,365154968,4008116374
@@ -2718,22 +2770,6 @@ dimwishlist:item=1886840007&perks=711234314,2109543898
 dimwishlist:item=1886840007&perks=711234314,2319119708
 dimwishlist:item=1886840007&perks=711234314,2799030358
 dimwishlist:item=1886840007&perks=711234314,2140591236
-
-
-// Stay Frosty - PVE (god-pve)
-//notes: Stay Frosty is a real run-and-gun feeling Pulse Rifle and this god roll gets the best out of its strong points. Arrowhead Brake is a must for the Barrel slot as Stay Frosty comes with some wide Recoil patterns. Follow up with Tactical Mag for the extra burst from the Magazine and a welcome boost to Reload and Stability. This ensures Stay Frosty is easy to control and refilled quickly to get back to the fight. Enlightened Action is a new perk which Stay Frosty sees solid returns from. It provides increased Reload upon hitting an enemy which pairs up with Headstone to great effect. These perks together can ensure Stay Frosty is fully loaded and creating Stasis Crystals with each precision kill. These can then be destroyed causing massive damage to surrounding enemies. tags:god-pve
-dimwishlist:item=1891321753&perks=839105230,106909392,3828510309,124408337,2839173408
-dimwishlist:item=1891321753&perks=839105230,106909392,3828510309,1171887445,2839173408
-dimwishlist:item=1891321753&perks=839105230,106909392,1771736209,124408337,2839173408
-dimwishlist:item=1891321753&perks=839105230,106909392,1771736209,1171887445,2839173408
-
-
-// Stay Frosty - PVE (pve)
-//notes: Stay Frosty is a real run-and-gun feeling Pulse Rifle and this god roll gets the best out of its strong points. Arrowhead Brake is a must for the Barrel slot as Stay Frosty comes with some wide Recoil patterns. Follow up with Tactical Mag for the extra burst from the Magazine and a welcome boost to Reload and Stability. This ensures Stay Frosty is easy to control and refilled quickly to get back to the fight. Enlightened Action is a new perk which Stay Frosty sees solid returns from. It provides increased Reload upon hitting an enemy which pairs up with Headstone to great effect. These perks together can ensure Stay Frosty is fully loaded and creating Stasis Crystals with each precision kill. These can then be destroyed causing massive damage to surrounding enemies. tags:pve
-dimwishlist:item=1891321753&perks=3828510309,124408337,2839173408
-dimwishlist:item=1891321753&perks=3828510309,1171887445,2839173408
-dimwishlist:item=1891321753&perks=1771736209,124408337,2839173408
-dimwishlist:item=1891321753&perks=1771736209,1171887445,2839173408
 
 
 // Hammerhead - PVE (god-pve)
@@ -4426,42 +4462,6 @@ dimwishlist:item=2599338625&perks=2817499044,3078487919
 dimwishlist:item=2599338625&perks=2817499044,3744057135
 
 
-// Albedo Wing - PVE (god-pve)
-//notes: Albedo Wing has a solid god roll for PvE and this can work well with ability-focused Guardian builds. Start off with Auxiliary Reserves which gives a big boosts to Shield Duration and Charge Time. This helps close the gap to your enemies safely or provide much needed protection in a tight spot. Appended Mag adds an extra projectile shot to Albedo Wing which helps pump out more damage at a distance when needed. Grave Robber then takes advantage of Albedo Wing’s most powerful tool, its melee attack. Melee kills refill the Magazine from reserves so promotes some great blast and stab playstyles which work great in game modes such as Gambit and lower tier Nightfalls. Finish off with Demolitionist which rewards any kill from Albedo Wing with 10 percent grenade energy. It also refills the Magazine when throwing a grenade so with a build focused around grenades, it can easily be built towards a never ending loop of a full Magazine, a powerful projectile blast, melees, and a grenade almost always up and ready to throw. tags:god-pve
-dimwishlist:item=1845372864&perks=580685494,1087426260,1631667848,3523296417,1607056502
-dimwishlist:item=1845372864&perks=580685494,1087426260,1631667848,1906147653,1607056502
-dimwishlist:item=1845372864&perks=580685494,1087426260,402033656,3523296417,1607056502
-dimwishlist:item=1845372864&perks=580685494,1087426260,402033656,1906147653,1607056502
-
-
-// Albedo Wing - PVE2 (god-pve)
-//notes: Albedo Wing has a ton going for it in PvE, and what you choose to run entirely depends on the context in which you’re using the weapon. Range and reload speed are the two most noticeable stats for PvE, so our haft, magazine, and masterwork picks work to optimize that. The perk combination most players will be looking for is Grave Robber and Demolitionist; Grave Robber synergizes perfectly with glaive functionality, while Demolitionist is an outstanding utility pick for any build or setup. Great alternatives to these choices are Beacon Rounds and Close to Melee. Beacon Rounds is currently exclusive to this glaive, making the choice irreplaceable if that’s what you’re looking for. Close to Melee is also potent to increase damage instead of gaining grenade energy. tags:god-pve
-dimwishlist:item=1845372864&perks=594346985,679225683,2859149211,1782407750,1607056502
-dimwishlist:item=1845372864&perks=594346985,679225683,2859149211,2241043034,1607056502
-dimwishlist:item=1845372864&perks=594346985,679225683,1135494563,1782407750,1607056502
-dimwishlist:item=1845372864&perks=594346985,679225683,1135494563,2241043034,1607056502
-dimwishlist:item=1845372864&perks=1934171651,679225683,2859149211,1782407750,1607056502
-dimwishlist:item=1845372864&perks=1934171651,679225683,2859149211,2241043034,1607056502
-dimwishlist:item=1845372864&perks=1934171651,679225683,1135494563,1782407750,1607056502
-dimwishlist:item=1845372864&perks=1934171651,679225683,1135494563,2241043034,1607056502
-
-
-// Albedo Wing - PVE2 (god-pve)
-//notes: Albedo Wing has a ton going for it in PvE, and what you choose to run entirely depends on the context in which you’re using the weapon. Range and reload speed are the two most noticeable stats for PvE, so our haft, magazine, and masterwork picks work to optimize that. The perk combination most players will be looking for is Grave Robber and Demolitionist; Grave Robber synergizes perfectly with glaive functionality, while Demolitionist is an outstanding utility pick for any build or setup. Great alternatives to these choices are Beacon Rounds and Close to Melee. Beacon Rounds is currently exclusive to this glaive, making the choice irreplaceable if that’s what you’re looking for. Close to Melee is also potent to increase damage instead of gaining grenade energy. tags:god-pve
-dimwishlist:item=1845372864&perks=2859149211,1782407750,1607056502
-dimwishlist:item=1845372864&perks=2859149211,2241043034,1607056502
-dimwishlist:item=1845372864&perks=1135494563,1782407750,1607056502
-dimwishlist:item=1845372864&perks=1135494563,2241043034,1607056502
-
-
-// Albedo Wing - PVE (pve)
-//notes: Albedo Wing has a solid god roll for PvE and this can work well with ability-focused Guardian builds. Start off with Auxiliary Reserves which gives a big boosts to Shield Duration and Charge Time. This helps close the gap to your enemies safely or provide much needed protection in a tight spot. Appended Mag adds an extra projectile shot to Albedo Wing which helps pump out more damage at a distance when needed. Grave Robber then takes advantage of Albedo Wing’s most powerful tool, its melee attack. Melee kills refill the Magazine from reserves so promotes some great blast and stab playstyles which work great in game modes such as Gambit and lower tier Nightfalls. Finish off with Demolitionist which rewards any kill from Albedo Wing with 10 percent grenade energy. It also refills the Magazine when throwing a grenade so with a build focused around grenades, it can easily be built towards a never ending loop of a full Magazine, a powerful projectile blast, melees, and a grenade almost always up and ready to throw. tags:pve
-dimwishlist:item=1845372864&perks=1631667848,3523296417,1607056502
-dimwishlist:item=1845372864&perks=1631667848,1906147653,1607056502
-dimwishlist:item=1845372864&perks=402033656,3523296417,1607056502
-dimwishlist:item=1845372864&perks=402033656,1906147653,1607056502
-
-
 // BxR-55 Battler - PVE (god-pve)
 //notes: MW: Stability; The BxR-55 Battler already feels solid in PVE, but the right perks can really turn it into a minion-slaying machine. Those rocking Solar Warlocks, especially when using Starfire Protocol, can enjoy a near-bottomless clip.Straight off, the Barrel and Magazine options are chosen to help straighten up the recoil direction to be perfectly vertical while also pushing out the effective range. This will help the Pulse Rifle deal more damage over greater distances, which is often the trouble with PVE content. For the perks, Demolitionist remains a great option as there are often plenty of enemies to defeat, allowing you to generate a grenade quickly. The second perk is Incandescent, a recent addition with Solar 3.0. This will help you spread scorch through the dense collection of enemies, which will inevitably lead to ignitions. tags:god-pve
 dimwishlist:item=2708806099&perks=839105230,1885400500,3523296417,4293542123
@@ -4896,6 +4896,16 @@ dimwishlist:item=2856514843&perks=839105230,1885400500,2717805783,124408337
 dimwishlist:item=2856514843&perks=839105230,1885400500,2717805783,1171887445
 dimwishlist:item=2856514843&perks=839105230,1885400500,588594999,124408337
 dimwishlist:item=2856514843&perks=839105230,1885400500,588594999,1171887445
+
+
+// Hung Jury SR4 (Adept) - Esoterickk - GM (god-pve)
+//notes: Mod: Backup mag tags:god-pve
+dimwishlist:item=2883684343&perks=1840239774,106909392,247725512,3891536761,1281216113
+
+
+// Hung Jury SR4 (Adept) - Esoterickk - GM (pve)
+//notes: Mod: Backup mag tags:pve
+dimwishlist:item=2883684343&perks=247725512,3891536761,1281216113
 
 
 // The Supremacy - PVE (god-pve)
@@ -6081,6 +6091,16 @@ dimwishlist:item=3830941962&perks=684456054,717070634
 dimwishlist:item=3830941962&perks=2785334058,3966416502
 dimwishlist:item=3830941962&perks=2785334058,2173046394
 dimwishlist:item=3830941962&perks=2785334058,717070634
+
+
+// Hung Jury SR4 - Esoterickk - GM (god-pve)
+//notes: Mod: Backup Mag tags:god-pve
+dimwishlist:item=3832743906&perks=1840239774,106909392,247725512,3891536761,1281216113
+
+
+// Hung Jury SR4 - Esoterickk - GM (pve)
+//notes: Mod: Backup Mag tags:pve
+dimwishlist:item=3832743906&perks=247725512,3891536761,1281216113
 
 
 // Hawkmoon - Exotic (pve,pvp)
