@@ -1827,6 +1827,74 @@ dimwishlist:item=1332123064&perks=1077019636,781192741
 dimwishlist:item=1363886209&perks=1478423395,2985827016,3874977694,1067908860
 
 
+// Fang of Ir Yût - PVE (god-pve)
+//notes: As mentioned earlier, Rapid-fire scouts fall behind ever so slightly because of their range. That isn’t to say they are useless because of it, however, as Aisha’s Embrace has long been a favorite among scout users. And Fang of Ir Yut has come to claim that spot. For your barrel, easily go with Smallbore for an equal stability and range increase, or Full Bore for a larger range increase at the expense of some stability. Flared Magwell or Light Mag are the best choices for the magazine, as Fang’s base mag size of 17 is sure to run out quickly, and the extra 2 from Appended/Extended Mag isn’t going to make a world of difference. Instead, it’s best to increase either stability or range, while also increasing reload speed. Like many raid weapons, perk pools for Columns 3 and 4 are small but powerful. For PvE, the two go-to’s are Rewind Rounds and Shoot to Loot. Both are extremely useful perks in all manners of content via instant reloads for basically doing what the gun was meant to do: shoot. Column 4 is stacked with damage perks, so much so it is very difficult to decide what is the de facto best. You have Kill Clip for ease of use, Golden Tricorn for the highest overall buff, Precision Instrument for sustained damage, Hatchling for Strand synergy, and the brand-new Sword Logic perk, which is untested as of this writing. Go with your gut fpr column 4. tags:god-pve
+dimwishlist:item=1432682459&perks=202670084,3230963543,3418782618,1015611457
+dimwishlist:item=1432682459&perks=202670084,3230963543,3418782618,31345821
+dimwishlist:item=1432682459&perks=202670084,3230963543,3418782618,2610012052
+dimwishlist:item=1432682459&perks=202670084,3230963543,3700496672,1015611457
+dimwishlist:item=1432682459&perks=202670084,3230963543,3700496672,31345821
+dimwishlist:item=1432682459&perks=202670084,3230963543,3700496672,2610012052
+dimwishlist:item=1432682459&perks=202670084,3230963543,2840833776,1015611457
+dimwishlist:item=1432682459&perks=202670084,3230963543,2840833776,31345821
+dimwishlist:item=1432682459&perks=202670084,3230963543,2840833776,2610012052
+dimwishlist:item=1432682459&perks=202670084,3230963543,1563455254,1015611457
+dimwishlist:item=1432682459&perks=202670084,3230963543,1563455254,31345821
+dimwishlist:item=1432682459&perks=202670084,3230963543,1563455254,2610012052
+dimwishlist:item=1432682459&perks=202670084,679225683,3418782618,1015611457
+dimwishlist:item=1432682459&perks=202670084,679225683,3418782618,31345821
+dimwishlist:item=1432682459&perks=202670084,679225683,3418782618,2610012052
+dimwishlist:item=1432682459&perks=202670084,679225683,3700496672,1015611457
+dimwishlist:item=1432682459&perks=202670084,679225683,3700496672,31345821
+dimwishlist:item=1432682459&perks=202670084,679225683,3700496672,2610012052
+dimwishlist:item=1432682459&perks=202670084,679225683,2840833776,1015611457
+dimwishlist:item=1432682459&perks=202670084,679225683,2840833776,31345821
+dimwishlist:item=1432682459&perks=202670084,679225683,2840833776,2610012052
+dimwishlist:item=1432682459&perks=202670084,679225683,1563455254,1015611457
+dimwishlist:item=1432682459&perks=202670084,679225683,1563455254,31345821
+dimwishlist:item=1432682459&perks=202670084,679225683,1563455254,2610012052
+dimwishlist:item=1432682459&perks=1482024992,3230963543,3418782618,1015611457
+dimwishlist:item=1432682459&perks=1482024992,3230963543,3418782618,31345821
+dimwishlist:item=1432682459&perks=1482024992,3230963543,3418782618,2610012052
+dimwishlist:item=1432682459&perks=1482024992,3230963543,3700496672,1015611457
+dimwishlist:item=1432682459&perks=1482024992,3230963543,3700496672,31345821
+dimwishlist:item=1432682459&perks=1482024992,3230963543,3700496672,2610012052
+dimwishlist:item=1432682459&perks=1482024992,3230963543,2840833776,1015611457
+dimwishlist:item=1432682459&perks=1482024992,3230963543,2840833776,31345821
+dimwishlist:item=1432682459&perks=1482024992,3230963543,2840833776,2610012052
+dimwishlist:item=1432682459&perks=1482024992,3230963543,1563455254,1015611457
+dimwishlist:item=1432682459&perks=1482024992,3230963543,1563455254,31345821
+dimwishlist:item=1432682459&perks=1482024992,3230963543,1563455254,2610012052
+dimwishlist:item=1432682459&perks=1482024992,679225683,3418782618,1015611457
+dimwishlist:item=1432682459&perks=1482024992,679225683,3418782618,31345821
+dimwishlist:item=1432682459&perks=1482024992,679225683,3418782618,2610012052
+dimwishlist:item=1432682459&perks=1482024992,679225683,3700496672,1015611457
+dimwishlist:item=1432682459&perks=1482024992,679225683,3700496672,31345821
+dimwishlist:item=1432682459&perks=1482024992,679225683,3700496672,2610012052
+dimwishlist:item=1432682459&perks=1482024992,679225683,2840833776,1015611457
+dimwishlist:item=1432682459&perks=1482024992,679225683,2840833776,31345821
+dimwishlist:item=1432682459&perks=1482024992,679225683,2840833776,2610012052
+dimwishlist:item=1432682459&perks=1482024992,679225683,1563455254,1015611457
+dimwishlist:item=1432682459&perks=1482024992,679225683,1563455254,31345821
+dimwishlist:item=1432682459&perks=1482024992,679225683,1563455254,2610012052
+
+
+// Fang of Ir Yût - PVE (pve)
+//notes: As mentioned earlier, Rapid-fire scouts fall behind ever so slightly because of their range. That isn’t to say they are useless because of it, however, as Aisha’s Embrace has long been a favorite among scout users. And Fang of Ir Yut has come to claim that spot. For your barrel, easily go with Smallbore for an equal stability and range increase, or Full Bore for a larger range increase at the expense of some stability. Flared Magwell or Light Mag are the best choices for the magazine, as Fang’s base mag size of 17 is sure to run out quickly, and the extra 2 from Appended/Extended Mag isn’t going to make a world of difference. Instead, it’s best to increase either stability or range, while also increasing reload speed. Like many raid weapons, perk pools for Columns 3 and 4 are small but powerful. For PvE, the two go-to’s are Rewind Rounds and Shoot to Loot. Both are extremely useful perks in all manners of content via instant reloads for basically doing what the gun was meant to do: shoot. Column 4 is stacked with damage perks, so much so it is very difficult to decide what is the de facto best. You have Kill Clip for ease of use, Golden Tricorn for the highest overall buff, Precision Instrument for sustained damage, Hatchling for Strand synergy, and the brand-new Sword Logic perk, which is untested as of this writing. Go with your gut fpr column 4. tags:pve
+dimwishlist:item=1432682459&perks=3418782618,1015611457
+dimwishlist:item=1432682459&perks=3418782618,31345821
+dimwishlist:item=1432682459&perks=3418782618,2610012052
+dimwishlist:item=1432682459&perks=3700496672,1015611457
+dimwishlist:item=1432682459&perks=3700496672,31345821
+dimwishlist:item=1432682459&perks=3700496672,2610012052
+dimwishlist:item=1432682459&perks=2840833776,1015611457
+dimwishlist:item=1432682459&perks=2840833776,31345821
+dimwishlist:item=1432682459&perks=2840833776,2610012052
+dimwishlist:item=1432682459&perks=1563455254,1015611457
+dimwishlist:item=1432682459&perks=1563455254,31345821
+dimwishlist:item=1432682459&perks=1563455254,2610012052
+
+
 // Hung Jury SR4 - PVE GMs (god-pve)
 //notes: MW: Reload; GMs; Handling and Reload Speed are important on Hung Jury, so we chose Fluted Barrel and Tactical Magazine for our barrel and magazine slots. Kinetic Tremors is a must-pick for PvE on Hung Jury as it helps deal some massive AoE damage, which is always handy on a Scout Rifle. Explosive Payload and Precision Instrument are both good options. Explosive Payload provides a more general buff, but Precision Instrument is better when using Hung Jury to take down a higher health target. Recommended Loadout: Hung Jury SR4, Cartesian Coordinate, Gjallarhorn. tags:god-pve
 dimwishlist:item=1453235079&perks=1840239774,106909392,3891536761,3038247973
@@ -2942,6 +3010,12 @@ dimwishlist:item=1975125963&perks=3400784728,365154968
 dimwishlist:item=1975125963&perks=3400784728,2939589096
 dimwishlist:item=1975125963&perks=573122728,365154968
 dimwishlist:item=1975125963&perks=573122728,2939589096
+
+
+// Lingering Dread - PVE (god-pve)
+//notes: For the Lingering Dread grenade launcher, the GOD roll typically focuses on enhancing blast radius, increasing projectile speed, and leveraging its special perks like Chill Clip for added crowd control. Pairing it with Auto-Loading Holster ensures you can keep firing effectively in long engagements without needing to reload manually. tags:god-pve
+dimwishlist:item=2026087437&perks=1844523823,2822142346,3300816228,2978966579
+dimwishlist:item=2026087437&perks=1844523823,3032599245,3300816228,2978966579
 
 
 // Wicked Sister - PVP (god-pvp)
@@ -5705,6 +5779,22 @@ dimwishlist:item=3610521673&perks=3978468247,3038247973
 dimwishlist:item=3610521673&perks=3978468247,4293542123
 dimwishlist:item=3610521673&perks=3978468247,64866129
 dimwishlist:item=3610521673&perks=3978468247,2675184851
+
+
+// Live Fire - PVE (god-pve)
+//notes: tags:god-pve
+dimwishlist:item=3612142623&perks=839105230,1087426260,1955165503,124408337
+dimwishlist:item=3612142623&perks=839105230,1087426260,1955165503,1171887445
+dimwishlist:item=3612142623&perks=839105230,1087426260,2617553311,124408337
+dimwishlist:item=3612142623&perks=839105230,1087426260,2617553311,1171887445
+
+
+// Live Fire - PVE (pve)
+//notes: tags:pve
+dimwishlist:item=3612142623&perks=1955165503,124408337
+dimwishlist:item=3612142623&perks=1955165503,1171887445
+dimwishlist:item=3612142623&perks=2617553311,124408337
+dimwishlist:item=3612142623&perks=2617553311,1171887445
 
 
 // Succession - PVE (god-pve)
