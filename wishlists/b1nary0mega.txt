@@ -5585,12 +5585,44 @@ dimwishlist:item=3388655311&perks=169755979,4293542123
 dimwishlist:item=3388655311&perks=169755979,2675184851
 
 
+// Red Tape - PVE (god-pve)
+//notes: Fluted Barrel and Flared Magwell are both recommended for a much needed boost to this weapon’s stability. In terms of perks, Rimestealer and Headstone are recommended as they have very nice synergy in terms of improving survivability in general play. Headstone creates Stasis Crystals on critical kills, which can then be used to activate Rimestealer, granting the user Frost Armour. Demolitionist and Adrenaline Junkie is also a viable option, especially when using ability focused builds. Demolitionist allows for much more frequent grenade usage, pairing with Adrenaline Junkie to provide a higher uptime on the weapon’s damage boost. Overall, a good weapon with uses in multiple different scenarios. tags:god-pve
+dimwishlist:item=3423493037&perks=1840239774,3230963543,1955165503,124408337
+dimwishlist:item=3423493037&perks=1840239774,3230963543,1955165503,1171887445
+dimwishlist:item=3423493037&perks=1840239774,3230963543,1955165503,11612903
+dimwishlist:item=3423493037&perks=1840239774,3230963543,1955165503,2422968039
+dimwishlist:item=3423493037&perks=1840239774,3230963543,2617553311,124408337
+dimwishlist:item=3423493037&perks=1840239774,3230963543,2617553311,1171887445
+dimwishlist:item=3423493037&perks=1840239774,3230963543,2617553311,11612903
+dimwishlist:item=3423493037&perks=1840239774,3230963543,2617553311,2422968039
+dimwishlist:item=3423493037&perks=1840239774,3230963543,3523296417,124408337
+dimwishlist:item=3423493037&perks=1840239774,3230963543,3523296417,1171887445
+dimwishlist:item=3423493037&perks=1840239774,3230963543,3523296417,11612903
+dimwishlist:item=3423493037&perks=1840239774,3230963543,3523296417,2422968039
+dimwishlist:item=3423493037&perks=1840239774,3230963543,1906147653,124408337
+dimwishlist:item=3423493037&perks=1840239774,3230963543,1906147653,1171887445
+dimwishlist:item=3423493037&perks=1840239774,3230963543,1906147653,11612903
+dimwishlist:item=3423493037&perks=1840239774,3230963543,1906147653,2422968039
+
+
 // Red Tape - PVE (pve)
-//notes: tags:pve
+//notes: Fluted Barrel and Flared Magwell are both recommended for a much needed boost to this weapon’s stability. In terms of perks, Rimestealer and Headstone are recommended as they have very nice synergy in terms of improving survivability in general play. Headstone creates Stasis Crystals on critical kills, which can then be used to activate Rimestealer, granting the user Frost Armour. Demolitionist and Adrenaline Junkie is also a viable option, especially when using ability focused builds. Demolitionist allows for much more frequent grenade usage, pairing with Adrenaline Junkie to provide a higher uptime on the weapon’s damage boost. Overall, a good weapon with uses in multiple different scenarios. tags:pve
 dimwishlist:item=3423493037&perks=3523296417,11612903
 dimwishlist:item=3423493037&perks=3523296417,2422968039
+dimwishlist:item=3423493037&perks=3523296417,124408337
+dimwishlist:item=3423493037&perks=3523296417,1171887445
 dimwishlist:item=3423493037&perks=1906147653,11612903
 dimwishlist:item=3423493037&perks=1906147653,2422968039
+dimwishlist:item=3423493037&perks=1906147653,124408337
+dimwishlist:item=3423493037&perks=1906147653,1171887445
+dimwishlist:item=3423493037&perks=1955165503,11612903
+dimwishlist:item=3423493037&perks=1955165503,2422968039
+dimwishlist:item=3423493037&perks=1955165503,124408337
+dimwishlist:item=3423493037&perks=1955165503,1171887445
+dimwishlist:item=3423493037&perks=2617553311,11612903
+dimwishlist:item=3423493037&perks=2617553311,2422968039
+dimwishlist:item=3423493037&perks=2617553311,124408337
+dimwishlist:item=3423493037&perks=2617553311,1171887445
 
 
 // Lethal Abundance - PVP (god-pvp)
