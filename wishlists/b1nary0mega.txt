@@ -7052,12 +7052,36 @@ dimwishlist:item=4207120603&perks=4085959009,3078487919
 dimwishlist:item=4207120603&perks=4085959009,3744057135
 
 
+// Heretic's Fervor - PVE (god-pve)
+//notes: Quick Launch is the standard pick for our barrel as it significantly boosts our velocity and handling, and Impact Casing is our magazine of choice, thanks to the small damage bonus it provides. In the first perk slot, Field Prep is ideal. Due to where this Rocket will be used (Nightfalls), we want to maximize our reserves so we always have a Rocket to spare. However, Auto-Loading Holster and Slideshot are good perks and can serve as worthy alternatives. In the second perk slot, Explosive Light is the best pick. Due to the number of Orbs available for creation with modern builds, you will always have an Explosive Light rocket ready to go, which can massively help fight beefier enemies. Despite this, Bipod is still a decent option, thanks to the massive boost to reserves it provides. tags:god-pve
+dimwishlist:item=4224667951&perks=3525010810,3796465595,3300816228,3194351027
+dimwishlist:item=4224667951&perks=3525010810,3796465595,3300816228,2275087323
+dimwishlist:item=4224667951&perks=3525010810,3796465595,3528046508,3194351027
+dimwishlist:item=4224667951&perks=3525010810,3796465595,3528046508,2275087323
+dimwishlist:item=4224667951&perks=3525010810,3796465595,2869569095,3194351027
+dimwishlist:item=4224667951&perks=3525010810,3796465595,2869569095,2275087323
+dimwishlist:item=4224667951&perks=3525010810,3796465595,2308090567,3194351027
+dimwishlist:item=4224667951&perks=3525010810,3796465595,2308090567,2275087323
+dimwishlist:item=4224667951&perks=3525010810,3796465595,3161816588,3194351027
+dimwishlist:item=4224667951&perks=3525010810,3796465595,3161816588,2275087323
+dimwishlist:item=4224667951&perks=3525010810,3796465595,191144788,3194351027
+dimwishlist:item=4224667951&perks=3525010810,3796465595,191144788,2275087323
+
+
 // Heretic's Fervor - PVE (pve)
-//notes: tags:pve
+//notes: Quick Launch is the standard pick for our barrel as it significantly boosts our velocity and handling, and Impact Casing is our magazine of choice, thanks to the small damage bonus it provides. In the first perk slot, Field Prep is ideal. Due to where this Rocket will be used (Nightfalls), we want to maximize our reserves so we always have a Rocket to spare. However, Auto-Loading Holster and Slideshot are good perks and can serve as worthy alternatives. In the second perk slot, Explosive Light is the best pick. Due to the number of Orbs available for creation with modern builds, you will always have an Explosive Light rocket ready to go, which can massively help fight beefier enemies. Despite this, Bipod is still a decent option, thanks to the massive boost to reserves it provides. tags:pve
 dimwishlist:item=4224667951&perks=3300816228,3194351027
 dimwishlist:item=4224667951&perks=3300816228,2275087323
 dimwishlist:item=4224667951&perks=3528046508,3194351027
 dimwishlist:item=4224667951&perks=3528046508,2275087323
+dimwishlist:item=4224667951&perks=2869569095,3194351027
+dimwishlist:item=4224667951&perks=2869569095,2275087323
+dimwishlist:item=4224667951&perks=2308090567,3194351027
+dimwishlist:item=4224667951&perks=2308090567,2275087323
+dimwishlist:item=4224667951&perks=3161816588,3194351027
+dimwishlist:item=4224667951&perks=3161816588,2275087323
+dimwishlist:item=4224667951&perks=191144788,3194351027
+dimwishlist:item=4224667951&perks=191144788,2275087323
 
 
 // VS Pyroelectric Propellant - PVE (god-pve)
