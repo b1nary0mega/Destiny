@@ -1208,6 +1208,11 @@ dimwishlist:item=999767358&perks=848860060,3744057135
 dimwishlist:item=1034055198&perks=839105230,1885400500,525593296,990298390
 
 
+// Slayer's Fang - PVE (god-pve)
+//notes: Handling is appreciated on special ammo weapons, meaning Arrowhead Brake and Short-Action Stock are ideal. Assault Mag is also a nice option for higher RPM on the weapon. For the catalyst, Repulsor Brace is ideal for buildcrafters, particularly those looking to make a Gyrfalcon build. Thanks to the submunitions, this weapon also works well with Volatile rounds. Alternatively, Cascade Point can be used as a more DPS-oriented option as, if the numbers on Slayer’s Fang’s damage are good, this Shotgun could be used as an interesting damage backup, similar to how Choir of One can be used. tags:god-pve
+dimwishlist:item=1047932517&perks=839105230,791862061,2607392828,1067908860,2883096194
+
+
 // The Recluse - PVE Void (god-pve)
 //notes: MW: Range or Stability; Void Build; As a compliment for your Void build, The Recluse is pretty easy: just look for subclass-related perks like Repulsor Brace, Destabilizing Rounds, and the new Desperate Measures. We find Desperate Measures to be significantly more potent than Destabilizing Rounds here, but it entirely depends on how your chosen build functions. Recommended Loadout: Scatter Signal or Tusk of the Boar, The Recluse, Commemoration. tags:god-pve
 dimwishlist:item=1050806815&perks=1482024992,3230963543,776531651,2048641572
