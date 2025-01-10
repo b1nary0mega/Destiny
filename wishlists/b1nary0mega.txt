@@ -5167,6 +5167,46 @@ dimwishlist:item=3009199534&perks=2817499044,3078487919
 dimwishlist:item=3009199534&perks=2817499044,3744057135
 
 
+// PLUG ONE.1 (Adept) - PVP (god-pvp)
+//notes: We’ll start our PvP roll with Extended Barrel, Projection Fuse, and a range or stability masterwork to allow this weapon to excel at longer distances. From there, our perk picks are pretty standard. Begin with Under Pressure in the first column, adding some stability and accuracy to most shots you’ll fire. Then, Closing Time (which has the same activation condition as Under Pressure) adds even more range and accuracy, allowing for a consistent kill every time. tags:god-pvp
+dimwishlist:item=3106557243&perks=1467527085,2969185026,1645158859,1194056669
+dimwishlist:item=3106557243&perks=1467527085,2969185026,1645158859,3955464425
+dimwishlist:item=3106557243&perks=1467527085,2969185026,3755250867,1194056669
+dimwishlist:item=3106557243&perks=1467527085,2969185026,3755250867,3955464425
+
+
+// PLUG ONE.1 (Adept) - PVE (god-pve)
+//notes: We’ll start by seeking a mix of increased handling and magazine size through Fluted Barrel, Enhanced Battery, and a handling masterwork. Reconstruction is the clear pick for your first main perk, which effectively doubles your magazine size and eliminates the need to ever reload. As for your final perk, it’s a toss-up between Reservoir Burst and Controlled Burst. The former offers solid ad clear and excels in casual content, while the latter is a great pick for single-target damage. tags:god-pve
+dimwishlist:item=3106557243&perks=1840239774,2680121939,1523832109,1427256713
+dimwishlist:item=3106557243&perks=1840239774,2680121939,1523832109,2594592626
+dimwishlist:item=3106557243&perks=1840239774,2680121939,1523832109,2037312142
+dimwishlist:item=3106557243&perks=1840239774,2680121939,1523832109,254337357
+dimwishlist:item=3106557243&perks=1840239774,2680121939,461595545,1427256713
+dimwishlist:item=3106557243&perks=1840239774,2680121939,461595545,2594592626
+dimwishlist:item=3106557243&perks=1840239774,2680121939,461595545,2037312142
+dimwishlist:item=3106557243&perks=1840239774,2680121939,461595545,254337357
+
+
+// PLUG ONE.1 (Adept) - PVP (pvp)
+//notes: We’ll start our PvP roll with Extended Barrel, Projection Fuse, and a range or stability masterwork to allow this weapon to excel at longer distances. From there, our perk picks are pretty standard. Begin with Under Pressure in the first column, adding some stability and accuracy to most shots you’ll fire. Then, Closing Time (which has the same activation condition as Under Pressure) adds even more range and accuracy, allowing for a consistent kill every time. tags:pvp
+dimwishlist:item=3106557243&perks=1645158859,1194056669
+dimwishlist:item=3106557243&perks=1645158859,3955464425
+dimwishlist:item=3106557243&perks=3755250867,1194056669
+dimwishlist:item=3106557243&perks=3755250867,3955464425
+
+
+// PLUG ONE.1 (Adept) - PVE (pve)
+//notes: We’ll start by seeking a mix of increased handling and magazine size through Fluted Barrel, Enhanced Battery, and a handling masterwork. Reconstruction is the clear pick for your first main perk, which effectively doubles your magazine size and eliminates the need to ever reload. As for your final perk, it’s a toss-up between Reservoir Burst and Controlled Burst. The former offers solid ad clear and excels in casual content, while the latter is a great pick for single-target damage. tags:pve
+dimwishlist:item=3106557243&perks=1523832109,1427256713
+dimwishlist:item=3106557243&perks=1523832109,2594592626
+dimwishlist:item=3106557243&perks=1523832109,2037312142
+dimwishlist:item=3106557243&perks=1523832109,254337357
+dimwishlist:item=3106557243&perks=461595545,1427256713
+dimwishlist:item=3106557243&perks=461595545,2594592626
+dimwishlist:item=3106557243&perks=461595545,2037312142
+dimwishlist:item=3106557243&perks=461595545,254337357
+
+
 // Final Warning - Exotic ()
 dimwishlist:item=3121540812&perks=3250034553,3230963543,1302052952,3438534621
 
@@ -5500,6 +5540,46 @@ dimwishlist:item=3257091166&perks=1749209109,2077819806
 dimwishlist:item=3257091166&perks=1749209109,1618208178
 dimwishlist:item=3257091166&perks=4085959009,2077819806
 dimwishlist:item=3257091166&perks=4085959009,1618208178
+
+
+// PLUG ONE.1 - PVE (god-pve)
+//notes: We’ll start by seeking a mix of increased handling and magazine size through Fluted Barrel, Enhanced Battery, and a handling masterwork. Reconstruction is the clear pick for your first main perk, which effectively doubles your magazine size and eliminates the need to ever reload. As for your final perk, it’s a toss-up between Reservoir Burst and Controlled Burst. The former offers solid ad clear and excels in casual content, while the latter is a great pick for single-target damage. tags:god-pve
+dimwishlist:item=3293524502&perks=1840239774,2680121939,1523832109,2594592626
+dimwishlist:item=3293524502&perks=1840239774,2680121939,1523832109,1427256713
+dimwishlist:item=3293524502&perks=1840239774,2680121939,1523832109,2037312142
+dimwishlist:item=3293524502&perks=1840239774,2680121939,1523832109,254337357
+dimwishlist:item=3293524502&perks=1840239774,2680121939,461595545,2594592626
+dimwishlist:item=3293524502&perks=1840239774,2680121939,461595545,1427256713
+dimwishlist:item=3293524502&perks=1840239774,2680121939,461595545,2037312142
+dimwishlist:item=3293524502&perks=1840239774,2680121939,461595545,254337357
+
+
+// PLUG ONE.1 - PVP (god-pvp)
+//notes: We’ll start our PvP roll with Extended Barrel, Projection Fuse, and a range or stability masterwork to allow this weapon to excel at longer distances. From there, our perk picks are pretty standard. Begin with Under Pressure in the first column, adding some stability and accuracy to most shots you’ll fire. Then, Closing Time (which has the same activation condition as Under Pressure) adds even more range and accuracy, allowing for a consistent kill every time. tags:god-pvp
+dimwishlist:item=3293524502&perks=1467527085,2969185026,1645158859,1194056669
+dimwishlist:item=3293524502&perks=1467527085,2969185026,1645158859,3955464425
+dimwishlist:item=3293524502&perks=1467527085,2969185026,3755250867,1194056669
+dimwishlist:item=3293524502&perks=1467527085,2969185026,3755250867,3955464425
+
+
+// PLUG ONE.1 - PVE (pve)
+//notes: We’ll start by seeking a mix of increased handling and magazine size through Fluted Barrel, Enhanced Battery, and a handling masterwork. Reconstruction is the clear pick for your first main perk, which effectively doubles your magazine size and eliminates the need to ever reload. As for your final perk, it’s a toss-up between Reservoir Burst and Controlled Burst. The former offers solid ad clear and excels in casual content, while the latter is a great pick for single-target damage. tags:pve
+dimwishlist:item=3293524502&perks=1523832109,2594592626
+dimwishlist:item=3293524502&perks=1523832109,1427256713
+dimwishlist:item=3293524502&perks=1523832109,2037312142
+dimwishlist:item=3293524502&perks=1523832109,254337357
+dimwishlist:item=3293524502&perks=461595545,2594592626
+dimwishlist:item=3293524502&perks=461595545,1427256713
+dimwishlist:item=3293524502&perks=461595545,2037312142
+dimwishlist:item=3293524502&perks=461595545,254337357
+
+
+// PLUG ONE.1 - PVP (pvp)
+//notes: We’ll start our PvP roll with Extended Barrel, Projection Fuse, and a range or stability masterwork to allow this weapon to excel at longer distances. From there, our perk picks are pretty standard. Begin with Under Pressure in the first column, adding some stability and accuracy to most shots you’ll fire. Then, Closing Time (which has the same activation condition as Under Pressure) adds even more range and accuracy, allowing for a consistent kill every time. tags:pvp
+dimwishlist:item=3293524502&perks=1645158859,1194056669
+dimwishlist:item=3293524502&perks=1645158859,3955464425
+dimwishlist:item=3293524502&perks=3755250867,1194056669
+dimwishlist:item=3293524502&perks=3755250867,3955464425
 
 
 // Thunderlord - DPS (god-pve)
