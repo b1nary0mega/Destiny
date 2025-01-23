@@ -1152,6 +1152,22 @@ dimwishlist:item=867154247&perks=424370782,3751912585
 dimwishlist:item=867154247&perks=424370782,331667533
 
 
+// Cataphract GL3 (Adept) - PVE (god-pve)
+//notes: Grenade Launcher barrels don’t mean much, as they are seen chiefly as stat bonuses. Quick Launch is the best option as it comes with a bump to Velocity and Handling, making it the best choice. With Magazines, there is only really one option- Spike Grenades. These slightly increase your damage, meaning it is the best pick. In perk slot 1, Envious Assassin is the best choice. However, players should pay attention to Auto-Loading Holster in a DPS swap-rotation loadout. In perk slot 2, Bait and Switch is the best choice as it is a 35% increase to your weapon damage, but if you get unlucky, Explosive Light isn’t an unusable alternative either. tags:god-pve
+dimwishlist:item=874623537&perks=3525010810,3301904089,968510818,3078487919
+dimwishlist:item=874623537&perks=3525010810,3301904089,968510818,3744057135
+dimwishlist:item=874623537&perks=3525010810,3301904089,424370782,3078487919
+dimwishlist:item=874623537&perks=3525010810,3301904089,424370782,3744057135
+
+
+// Cataphract GL3 (Adept) - PVE (pve)
+//notes: Grenade Launcher barrels don’t mean much, as they are seen chiefly as stat bonuses. Quick Launch is the best option as it comes with a bump to Velocity and Handling, making it the best choice. With Magazines, there is only really one option- Spike Grenades. These slightly increase your damage, meaning it is the best pick. In perk slot 1, Envious Assassin is the best choice. However, players should pay attention to Auto-Loading Holster in a DPS swap-rotation loadout. In perk slot 2, Bait and Switch is the best choice as it is a 35% increase to your weapon damage, but if you get unlucky, Explosive Light isn’t an unusable alternative either. tags:pve
+dimwishlist:item=874623537&perks=968510818,3078487919
+dimwishlist:item=874623537&perks=968510818,3744057135
+dimwishlist:item=874623537&perks=424370782,3078487919
+dimwishlist:item=874623537&perks=424370782,3744057135
+
+
 // Wild Style (Adept) - PVE (god-pve)
 //notes: MW: Reload; Compared to Wilderflight, Wild Style offers a much broader scope of perks. Where Wilderflight had a lot of damage buffing perks, Wild Style has a mix of damage and utility, which makes it much more flexible, though most will probably opt to use this as a damage weapon. However, the mainstays of Hard Launch and Spike Grenades will always be needed if using this for PvE. Blinding Grenades might also benefit you if you enjoy using them, especially given that you get two for one in each activation. For Perk 1, there are a few good ones that will help buff reload speed, while Envious Assassin is your only “free reload” perk. No Auto-Loading is an interesting sight, but there’s more than enough to compensate for it. Perk 2 is going to be your damage or utility perk, with Surrounded and Incandescent filling those roles very nicely. The pairing of Danger Zone and Surrounded means you can use this almost as a shotgun, and in doing so, you take full advantage of the increased damage over regular breech loaders. tags:god-pve
 dimwishlist:item=959037361&perks=981914802,3301904089,968510818,4293542123
@@ -4671,6 +4687,22 @@ dimwishlist:item=2728851518&perks=3161816588,699525795
 dimwishlist:item=2728851518&perks=3161816588,2451262963
 dimwishlist:item=2728851518&perks=1645158859,699525795
 dimwishlist:item=2728851518&perks=1645158859,2451262963
+
+
+// Cataphract GL3 - PVE (god-pve)
+//notes: Grenade Launcher barrels don’t mean much, as they are seen chiefly as stat bonuses. Quick Launch is the best option as it comes with a bump to Velocity and Handling, making it the best choice. With Magazines, there is only really one option- Spike Grenades. These slightly increase your damage, meaning it is the best pick. In perk slot 1, Envious Assassin is the best choice. However, players should pay attention to Auto-Loading Holster in a DPS swap-rotation loadout. In perk slot 2, Bait and Switch is the best choice as it is a 35% increase to your weapon damage, but if you get unlucky, Explosive Light isn’t an unusable alternative either. tags:god-pve
+dimwishlist:item=2738601016&perks=3525010810,3301904089,968510818,3078487919
+dimwishlist:item=2738601016&perks=3525010810,3301904089,968510818,3744057135
+dimwishlist:item=2738601016&perks=3525010810,3301904089,424370782,3078487919
+dimwishlist:item=2738601016&perks=3525010810,3301904089,424370782,3744057135
+
+
+// Cataphract GL3 - PVE (pve)
+//notes: Grenade Launcher barrels don’t mean much, as they are seen chiefly as stat bonuses. Quick Launch is the best option as it comes with a bump to Velocity and Handling, making it the best choice. With Magazines, there is only really one option- Spike Grenades. These slightly increase your damage, meaning it is the best pick. In perk slot 1, Envious Assassin is the best choice. However, players should pay attention to Auto-Loading Holster in a DPS swap-rotation loadout. In perk slot 2, Bait and Switch is the best choice as it is a 35% increase to your weapon damage, but if you get unlucky, Explosive Light isn’t an unusable alternative either. tags:pve
+dimwishlist:item=2738601016&perks=968510818,3078487919
+dimwishlist:item=2738601016&perks=968510818,3744057135
+dimwishlist:item=2738601016&perks=424370782,3078487919
+dimwishlist:item=2738601016&perks=424370782,3744057135
 
 
 // Ignition Code - PVE (god-pve)
