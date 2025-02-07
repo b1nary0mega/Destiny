@@ -6694,7 +6694,9 @@
                 ],
                 [
                     880644845,
-                    3120212825
+                    3120212825,
+                    1583705720,
+                    1409206216
                 ],
                 [
                     2173046394,
@@ -6714,7 +6716,9 @@
             "plugs": [
                 [
                     880644845,
-                    3120212825
+                    3120212825,
+                    1583705720,
+                    1409206216
                 ],
                 [
                     2173046394,
@@ -9779,17 +9783,21 @@
             ]
         },
         {
-            "description": "",
+            "description": "Fluted Barrel and Flared Magwell are both recommended for a much needed boost to this weapon’s stability. In terms of perks, Rimestealer and Headstone are recommended as they have very nice synergy in terms of improving survivability in general play. Headstone creates Stasis Crystals on critical kills, which can then be used to activate Rimestealer, granting the user Frost Armour. Demolitionist and Adrenaline Junkie is also a viable option, especially when using ability focused builds. Demolitionist allows for much more frequent grenade usage, pairing with Adrenaline Junkie to provide a higher uptime on the weapon’s damage boost. Overall, a good weapon with uses in multiple different scenarios.",
             "hash": 3423493037,
             "name": "PVE",
             "plugs": [
                 [
                     3523296417,
-                    1906147653
+                    1906147653,
+                    1955165503,
+                    2617553311
                 ],
                 [
                     11612903,
-                    2422968039
+                    2422968039,
+                    124408337,
+                    1171887445
                 ]
             ],
             "tags": [
@@ -9887,13 +9895,17 @@
             ]
         },
         {
-            "description": "",
+            "description": "Quick Launch is the standard pick for our barrel as it significantly boosts our velocity and handling, and Impact Casing is our magazine of choice, thanks to the small damage bonus it provides. In the first perk slot, Field Prep is ideal. Due to where this Rocket will be used (Nightfalls), we want to maximize our reserves so we always have a Rocket to spare. However, Auto-Loading Holster and Slideshot are good perks and can serve as worthy alternatives. In the second perk slot, Explosive Light is the best pick. Due to the number of Orbs available for creation with modern builds, you will always have an Explosive Light rocket ready to go, which can massively help fight beefier enemies. Despite this, Bipod is still a decent option, thanks to the massive boost to reserves it provides.",
             "hash": 4224667951,
             "name": "PVE",
             "plugs": [
                 [
                     3300816228,
-                    3528046508
+                    3528046508,
+                    2869569095,
+                    2308090567,
+                    3161816588,
+                    191144788
                 ],
                 [
                     3194351027,
@@ -11360,7 +11372,8 @@
                     3525010810
                 ],
                 [
-                    3301904089
+                    3301904089,
+                    2822142346
                 ],
                 [
                     3987942396,
@@ -12221,6 +12234,996 @@
                 ],
                 [
                     2839173408
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "Mod: Backup Mag",
+            "hash": 3832743906,
+            "name": "Esoterickk - GM",
+            "plugs": [
+                [
+                    1840239774
+                ],
+                [
+                    106909392
+                ],
+                [
+                    247725512
+                ],
+                [
+                    3891536761
+                ],
+                [
+                    1281216113
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Mod: Backup Mag",
+            "hash": 3832743906,
+            "name": "Esoterickk - GM",
+            "plugs": [
+                [
+                    247725512
+                ],
+                [
+                    3891536761
+                ],
+                [
+                    1281216113
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "Mod: Backup mag",
+            "hash": 2883684343,
+            "name": "Esoterickk - GM",
+            "plugs": [
+                [
+                    1840239774
+                ],
+                [
+                    106909392
+                ],
+                [
+                    247725512
+                ],
+                [
+                    3891536761
+                ],
+                [
+                    1281216113
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Mod: Backup mag",
+            "hash": 2883684343,
+            "name": "Esoterickk - GM",
+            "plugs": [
+                [
+                    247725512
+                ],
+                [
+                    3891536761
+                ],
+                [
+                    1281216113
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "For the Lingering Dread grenade launcher, the GOD roll typically focuses on enhancing blast radius, increasing projectile speed, and leveraging its special perks like Chill Clip for added crowd control. Pairing it with Auto-Loading Holster ensures you can keep firing effectively in long engagements without needing to reload manually.",
+            "hash": 2026087437,
+            "name": "PVE",
+            "plugs": [
+                [
+                    1844523823
+                ],
+                [
+                    2822142346,
+                    3032599245
+                ],
+                [
+                    3300816228
+                ],
+                [
+                    2978966579
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 3612142623,
+            "name": "PVE",
+            "plugs": [
+                [
+                    839105230
+                ],
+                [
+                    1087426260
+                ],
+                [
+                    1955165503,
+                    2617553311
+                ],
+                [
+                    124408337,
+                    1171887445
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 3612142623,
+            "name": "PVE",
+            "plugs": [
+                [
+                    1955165503,
+                    2617553311
+                ],
+                [
+                    124408337,
+                    1171887445
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "As mentioned earlier, Rapid-fire scouts fall behind ever so slightly because of their range. That isn’t to say they are useless because of it, however, as Aisha’s Embrace has long been a favorite among scout users. And Fang of Ir Yut has come to claim that spot. For your barrel, easily go with Smallbore for an equal stability and range increase, or Full Bore for a larger range increase at the expense of some stability. Flared Magwell or Light Mag are the best choices for the magazine, as Fang’s base mag size of 17 is sure to run out quickly, and the extra 2 from Appended/Extended Mag isn’t going to make a world of difference. Instead, it’s best to increase either stability or range, while also increasing reload speed. Like many raid weapons, perk pools for Columns 3 and 4 are small but powerful. For PvE, the two go-to’s are Rewind Rounds and Shoot to Loot. Both are extremely useful perks in all manners of content via instant reloads for basically doing what the gun was meant to do: shoot. Column 4 is stacked with damage perks, so much so it is very difficult to decide what is the de facto best. You have Kill Clip for ease of use, Golden Tricorn for the highest overall buff, Precision Instrument for sustained damage, Hatchling for Strand synergy, and the brand-new Sword Logic perk, which is untested as of this writing. Go with your gut fpr column 4.",
+            "hash": 1432682459,
+            "name": "PVE",
+            "plugs": [
+                [
+                    202670084,
+                    1482024992
+                ],
+                [
+                    3230963543,
+                    679225683
+                ],
+                [
+                    3418782618,
+                    3700496672,
+                    2840833776,
+                    1563455254
+                ],
+                [
+                    1015611457,
+                    31345821,
+                    2610012052
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "As mentioned earlier, Rapid-fire scouts fall behind ever so slightly because of their range. That isn’t to say they are useless because of it, however, as Aisha’s Embrace has long been a favorite among scout users. And Fang of Ir Yut has come to claim that spot. For your barrel, easily go with Smallbore for an equal stability and range increase, or Full Bore for a larger range increase at the expense of some stability. Flared Magwell or Light Mag are the best choices for the magazine, as Fang’s base mag size of 17 is sure to run out quickly, and the extra 2 from Appended/Extended Mag isn’t going to make a world of difference. Instead, it’s best to increase either stability or range, while also increasing reload speed. Like many raid weapons, perk pools for Columns 3 and 4 are small but powerful. For PvE, the two go-to’s are Rewind Rounds and Shoot to Loot. Both are extremely useful perks in all manners of content via instant reloads for basically doing what the gun was meant to do: shoot. Column 4 is stacked with damage perks, so much so it is very difficult to decide what is the de facto best. You have Kill Clip for ease of use, Golden Tricorn for the highest overall buff, Precision Instrument for sustained damage, Hatchling for Strand synergy, and the brand-new Sword Logic perk, which is untested as of this writing. Go with your gut fpr column 4.",
+            "hash": 1432682459,
+            "name": "PVE",
+            "plugs": [
+                [
+                    3418782618,
+                    3700496672,
+                    2840833776,
+                    1563455254
+                ],
+                [
+                    1015611457,
+                    31345821,
+                    2610012052
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "Fluted Barrel and Flared Magwell are both recommended for a much needed boost to this weapon’s stability. In terms of perks, Rimestealer and Headstone are recommended as they have very nice synergy in terms of improving survivability in general play. Headstone creates Stasis Crystals on critical kills, which can then be used to activate Rimestealer, granting the user Frost Armour. Demolitionist and Adrenaline Junkie is also a viable option, especially when using ability focused builds. Demolitionist allows for much more frequent grenade usage, pairing with Adrenaline Junkie to provide a higher uptime on the weapon’s damage boost. Overall, a good weapon with uses in multiple different scenarios.",
+            "hash": 3423493037,
+            "name": "PVE",
+            "plugs": [
+                [
+                    1840239774
+                ],
+                [
+                    3230963543
+                ],
+                [
+                    1955165503,
+                    2617553311,
+                    3523296417,
+                    1906147653
+                ],
+                [
+                    124408337,
+                    1171887445,
+                    11612903,
+                    2422968039
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Quick Launch is the standard pick for our barrel as it significantly boosts our velocity and handling, and Impact Casing is our magazine of choice, thanks to the small damage bonus it provides. In the first perk slot, Field Prep is ideal. Due to where this Rocket will be used (Nightfalls), we want to maximize our reserves so we always have a Rocket to spare. However, Auto-Loading Holster and Slideshot are good perks and can serve as worthy alternatives. In the second perk slot, Explosive Light is the best pick. Due to the number of Orbs available for creation with modern builds, you will always have an Explosive Light rocket ready to go, which can massively help fight beefier enemies. Despite this, Bipod is still a decent option, thanks to the massive boost to reserves it provides.",
+            "hash": 4224667951,
+            "name": "PVE",
+            "plugs": [
+                [
+                    3525010810
+                ],
+                [
+                    3796465595
+                ],
+                [
+                    3300816228,
+                    3528046508,
+                    2869569095,
+                    2308090567,
+                    3161816588,
+                    191144788
+                ],
+                [
+                    3194351027,
+                    2275087323
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Handling is appreciated on special ammo weapons, meaning Arrowhead Brake and Short-Action Stock are ideal. Assault Mag is also a nice option for higher RPM on the weapon. For the catalyst, Repulsor Brace is ideal for buildcrafters, particularly those looking to make a Gyrfalcon build. Thanks to the submunitions, this weapon also works well with Volatile rounds. Alternatively, Cascade Point can be used as a more DPS-oriented option as, if the numbers on Slayer’s Fang’s damage are good, this Shotgun could be used as an interesting damage backup, similar to how Choir of One can be used.",
+            "hash": 1047932517,
+            "name": "PVE",
+            "plugs": [
+                [
+                    839105230
+                ],
+                [
+                    791862061
+                ],
+                [
+                    2607392828
+                ],
+                [
+                    1067908860
+                ],
+                [
+                    2883096194
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "We’ll start by seeking a mix of increased handling and magazine size through Fluted Barrel, Enhanced Battery, and a handling masterwork. Reconstruction is the clear pick for your first main perk, which effectively doubles your magazine size and eliminates the need to ever reload. As for your final perk, it’s a toss-up between Reservoir Burst and Controlled Burst. The former offers solid ad clear and excels in casual content, while the latter is a great pick for single-target damage.",
+            "hash": 3293524502,
+            "name": "PVE",
+            "plugs": [
+                [
+                    1840239774
+                ],
+                [
+                    2680121939
+                ],
+                [
+                    1523832109,
+                    461595545
+                ],
+                [
+                    2594592626,
+                    1427256713,
+                    2037312142,
+                    254337357
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "We’ll start by seeking a mix of increased handling and magazine size through Fluted Barrel, Enhanced Battery, and a handling masterwork. Reconstruction is the clear pick for your first main perk, which effectively doubles your magazine size and eliminates the need to ever reload. As for your final perk, it’s a toss-up between Reservoir Burst and Controlled Burst. The former offers solid ad clear and excels in casual content, while the latter is a great pick for single-target damage.",
+            "hash": 3293524502,
+            "name": "PVE",
+            "plugs": [
+                [
+                    1523832109,
+                    461595545
+                ],
+                [
+                    2594592626,
+                    1427256713,
+                    2037312142,
+                    254337357
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "We’ll start our PvP roll with Extended Barrel, Projection Fuse, and a range or stability masterwork to allow this weapon to excel at longer distances. From there, our perk picks are pretty standard. Begin with Under Pressure in the first column, adding some stability and accuracy to most shots you’ll fire. Then, Closing Time (which has the same activation condition as Under Pressure) adds even more range and accuracy, allowing for a consistent kill every time.",
+            "hash": 3293524502,
+            "name": "PVP",
+            "plugs": [
+                [
+                    1467527085
+                ],
+                [
+                    2969185026
+                ],
+                [
+                    1645158859,
+                    3755250867
+                ],
+                [
+                    1194056669,
+                    3955464425
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "We’ll start our PvP roll with Extended Barrel, Projection Fuse, and a range or stability masterwork to allow this weapon to excel at longer distances. From there, our perk picks are pretty standard. Begin with Under Pressure in the first column, adding some stability and accuracy to most shots you’ll fire. Then, Closing Time (which has the same activation condition as Under Pressure) adds even more range and accuracy, allowing for a consistent kill every time.",
+            "hash": 3293524502,
+            "name": "PVP",
+            "plugs": [
+                [
+                    1645158859,
+                    3755250867
+                ],
+                [
+                    1194056669,
+                    3955464425
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "We’ll start our PvP roll with Extended Barrel, Projection Fuse, and a range or stability masterwork to allow this weapon to excel at longer distances. From there, our perk picks are pretty standard. Begin with Under Pressure in the first column, adding some stability and accuracy to most shots you’ll fire. Then, Closing Time (which has the same activation condition as Under Pressure) adds even more range and accuracy, allowing for a consistent kill every time.",
+            "hash": 3106557243,
+            "name": "PVP",
+            "plugs": [
+                [
+                    1467527085
+                ],
+                [
+                    2969185026
+                ],
+                [
+                    1645158859,
+                    3755250867
+                ],
+                [
+                    1194056669,
+                    3955464425
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "We’ll start our PvP roll with Extended Barrel, Projection Fuse, and a range or stability masterwork to allow this weapon to excel at longer distances. From there, our perk picks are pretty standard. Begin with Under Pressure in the first column, adding some stability and accuracy to most shots you’ll fire. Then, Closing Time (which has the same activation condition as Under Pressure) adds even more range and accuracy, allowing for a consistent kill every time.",
+            "hash": 3106557243,
+            "name": "PVP",
+            "plugs": [
+                [
+                    1645158859,
+                    3755250867
+                ],
+                [
+                    1194056669,
+                    3955464425
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "We’ll start by seeking a mix of increased handling and magazine size through Fluted Barrel, Enhanced Battery, and a handling masterwork. Reconstruction is the clear pick for your first main perk, which effectively doubles your magazine size and eliminates the need to ever reload. As for your final perk, it’s a toss-up between Reservoir Burst and Controlled Burst. The former offers solid ad clear and excels in casual content, while the latter is a great pick for single-target damage.",
+            "hash": 3106557243,
+            "name": "PVE",
+            "plugs": [
+                [
+                    1840239774
+                ],
+                [
+                    2680121939
+                ],
+                [
+                    1523832109,
+                    461595545
+                ],
+                [
+                    1427256713,
+                    2594592626,
+                    2037312142,
+                    254337357
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "We’ll start by seeking a mix of increased handling and magazine size through Fluted Barrel, Enhanced Battery, and a handling masterwork. Reconstruction is the clear pick for your first main perk, which effectively doubles your magazine size and eliminates the need to ever reload. As for your final perk, it’s a toss-up between Reservoir Burst and Controlled Burst. The former offers solid ad clear and excels in casual content, while the latter is a great pick for single-target damage.",
+            "hash": 3106557243,
+            "name": "PVE",
+            "plugs": [
+                [
+                    1523832109,
+                    461595545
+                ],
+                [
+                    1427256713,
+                    2594592626,
+                    2037312142,
+                    254337357
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "Grenade Launcher barrels don’t mean much, as they are seen chiefly as stat bonuses. Quick Launch is the best option as it comes with a bump to Velocity and Handling, making it the best choice. With Magazines, there is only really one option- Spike Grenades. These slightly increase your damage, meaning it is the best pick. In perk slot 1, Envious Assassin is the best choice. However, players should pay attention to Auto-Loading Holster in a DPS swap-rotation loadout. In perk slot 2, Bait and Switch is the best choice as it is a 35% increase to your weapon damage, but if you get unlucky, Explosive Light isn’t an unusable alternative either.",
+            "hash": 874623537,
+            "name": "PVE",
+            "plugs": [
+                [
+                    3525010810
+                ],
+                [
+                    3301904089
+                ],
+                [
+                    968510818,
+                    424370782
+                ],
+                [
+                    3078487919,
+                    3744057135
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Grenade Launcher barrels don’t mean much, as they are seen chiefly as stat bonuses. Quick Launch is the best option as it comes with a bump to Velocity and Handling, making it the best choice. With Magazines, there is only really one option- Spike Grenades. These slightly increase your damage, meaning it is the best pick. In perk slot 1, Envious Assassin is the best choice. However, players should pay attention to Auto-Loading Holster in a DPS swap-rotation loadout. In perk slot 2, Bait and Switch is the best choice as it is a 35% increase to your weapon damage, but if you get unlucky, Explosive Light isn’t an unusable alternative either.",
+            "hash": 874623537,
+            "name": "PVE",
+            "plugs": [
+                [
+                    968510818,
+                    424370782
+                ],
+                [
+                    3078487919,
+                    3744057135
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "Grenade Launcher barrels don’t mean much, as they are seen chiefly as stat bonuses. Quick Launch is the best option as it comes with a bump to Velocity and Handling, making it the best choice. With Magazines, there is only really one option- Spike Grenades. These slightly increase your damage, meaning it is the best pick. In perk slot 1, Envious Assassin is the best choice. However, players should pay attention to Auto-Loading Holster in a DPS swap-rotation loadout. In perk slot 2, Bait and Switch is the best choice as it is a 35% increase to your weapon damage, but if you get unlucky, Explosive Light isn’t an unusable alternative either.",
+            "hash": 2738601016,
+            "name": "PVE",
+            "plugs": [
+                [
+                    3525010810
+                ],
+                [
+                    3301904089
+                ],
+                [
+                    968510818,
+                    424370782
+                ],
+                [
+                    3078487919,
+                    3744057135
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Grenade Launcher barrels don’t mean much, as they are seen chiefly as stat bonuses. Quick Launch is the best option as it comes with a bump to Velocity and Handling, making it the best choice. With Magazines, there is only really one option- Spike Grenades. These slightly increase your damage, meaning it is the best pick. In perk slot 1, Envious Assassin is the best choice. However, players should pay attention to Auto-Loading Holster in a DPS swap-rotation loadout. In perk slot 2, Bait and Switch is the best choice as it is a 35% increase to your weapon damage, but if you get unlucky, Explosive Light isn’t an unusable alternative either.",
+            "hash": 2738601016,
+            "name": "PVE",
+            "plugs": [
+                [
+                    968510818,
+                    424370782
+                ],
+                [
+                    3078487919,
+                    3744057135
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "MW: Handling. Our PvE roll with begin with Fluted Barrel, Tactical Mag, and a handling masterwork, a classic combination that provides a nice balance of potent stats for PvE. Eddy Current isn’t an absurdly popular pick these days, but it’s the best the first column has here. Plus, it fits nicely with our final perk pick, which is Voltshot. Assuming you’re rocking an Arc build (which will be more potent this Episode through the artifact!), this combination is great for more casual activities.",
+            "hash": 3734001727,
+            "name": "PVE",
+            "plugs": [
+                [
+                    1840239774
+                ],
+                [
+                    106909392
+                ],
+                [
+                    684456054,
+                    2785334058
+                ],
+                [
+                    2173046394,
+                    1720528630
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "MW: Handling. Our PvE roll with begin with Fluted Barrel, Tactical Mag, and a handling masterwork, a classic combination that provides a nice balance of potent stats for PvE. Eddy Current isn’t an absurdly popular pick these days, but it’s the best the first column has here. Plus, it fits nicely with our final perk pick, which is Voltshot. Assuming you’re rocking an Arc build (which will be more potent this Episode through the artifact!), this combination is great for more casual activities.",
+            "hash": 3734001727,
+            "name": "PVE",
+            "plugs": [
+                [
+                    684456054,
+                    2785334058
+                ],
+                [
+                    2173046394,
+                    1720528630
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "MW: Handling. Our roll on Psychopomp is gearing it towards being used as a DPS option, so Quick Launch and High-Velocity Rounds are ideal here, thanks to the Handling and Velocity they provide. In Perk 1, you can choose whether to use this weapon as a DPS option with Envious Assassin or an add-clear option with Ambitious Assassin; the choice is yours, depending on what you wish your Psychopomp to accomplish. For Perk 2, we suggest Rolling Storm as it gives you a way to utilize Bolt Charge; however, Frenzy is a very suitable alternative, especially if you are using this weapon for add-clear.",
+            "hash": 4028298892,
+            "name": "PVE",
+            "plugs": [
+                [
+                    3525010810
+                ],
+                [
+                    2822142346
+                ],
+                [
+                    2010801679,
+                    3987942396,
+                    2817499044,
+                    3797647183
+                ],
+                [
+                    3218042543,
+                    2633604463
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "MW: Handling. Our roll on Psychopomp is gearing it towards being used as a DPS option, so Quick Launch and High-Velocity Rounds are ideal here, thanks to the Handling and Velocity they provide. In Perk 1, you can choose whether to use this weapon as a DPS option with Envious Assassin or an add-clear option with Ambitious Assassin; the choice is yours, depending on what you wish your Psychopomp to accomplish. For Perk 2, we suggest Rolling Storm as it gives you a way to utilize Bolt Charge; however, Frenzy is a very suitable alternative, especially if you are using this weapon for add-clear.",
+            "hash": 4028298892,
+            "name": "PVE",
+            "plugs": [
+                [
+                    2010801679,
+                    3987942396,
+                    2817499044,
+                    3797647183
+                ],
+                [
+                    3218042543,
+                    2633604463
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "MW: Handling or Stability. For our PvE roll, we’ll start with Fluted Barrel, Flared Magwell, and either a handling or stability masterwork to get a solid increase in stats. From there, our roll is pretty simple: opt for Reciprocity and Circle of Life. Both of these feed into the support frame’s loop and offer you substantial benefits (healing and a +25% damage buff) for very little work.",
+            "hash": 3229982889,
+            "name": "PVE",
+            "plugs": [
+                [
+                    1840239774
+                ],
+                [
+                    3230963543
+                ],
+                [
+                    692399809,
+                    4070834277
+                ],
+                [
+                    2298656195,
+                    674546187
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "MW: Handling or Stability. For our PvE roll, we’ll start with Fluted Barrel, Flared Magwell, and either a handling or stability masterwork to get a solid increase in stats. From there, our roll is pretty simple: opt for Reciprocity and Circle of Life. Both of these feed into the support frame’s loop and offer you substantial benefits (healing and a +25% damage buff) for very little work.",
+            "hash": 3229982889,
+            "name": "PVE",
+            "plugs": [
+                [
+                    692399809,
+                    4070834277
+                ],
+                [
+                    2298656195,
+                    674546187
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "MW: Handling. We’ll begin with Elastic String for significantly decreased draw time and slightly increased handling. From there, Fiberglass Arrow Shaft is great to balance out the significant amount of accuracy we lost from Elastic String, while a handling masterwork rounds everything out nicely. The most obvious (and potent) roll here is the classic combination of Repulsor Brace and Destabilizing Rounds. After its buff with Heresy’s launch, Destabilizing Rounds is a monster on any weapon that can roll with it. If you want to instead embrace the explosion fantasy a bit more, replacing Repulsor Brace for Dragonfly isn’t a horrible choice in more casual settings.",
+            "hash": 1536325168,
+            "name": "PVE",
+            "plugs": [
+                [
+                    2801223209
+                ],
+                [
+                    3429800428
+                ],
+                [
+                    776531651,
+                    2541826827,
+                    2848615171,
+                    169755979
+                ],
+                [
+                    2048641572,
+                    1926441324
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "MW: Handling. We’ll begin with Elastic String for significantly decreased draw time and slightly increased handling. From there, Fiberglass Arrow Shaft is great to balance out the significant amount of accuracy we lost from Elastic String, while a handling masterwork rounds everything out nicely. The most obvious (and potent) roll here is the classic combination of Repulsor Brace and Destabilizing Rounds. After its buff with Heresy’s launch, Destabilizing Rounds is a monster on any weapon that can roll with it. If you want to instead embrace the explosion fantasy a bit more, replacing Repulsor Brace for Dragonfly isn’t a horrible choice in more casual settings.",
+            "hash": 1536325168,
+            "name": "PVE",
+            "plugs": [
+                [
+                    776531651,
+                    2541826827,
+                    2848615171,
+                    169755979
+                ],
+                [
+                    2048641572,
+                    1926441324
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "MW: Charge Time or Stability. Polygonal Rifling is the ideal option here as it bumps our Stability. This bonus is furthered by Particle Repeater, which helps bring our Stability up to 75. In perk slot 1, Perfect Float is the ideal pick here as it drastically improves our flinch resistance, bringing it from 16.19% to a whopping 45.52% flinch resistance. For our second perk, we recommend Discord as it has the potential to give you a lot of heavy ammo, should you score kills while Discord is active.",
+            "hash": 727781522,
+            "name": "PVP",
+            "plugs": [
+                [
+                    1392496348
+                ],
+                [
+                    3868766766
+                ],
+                [
+                    2272927194,
+                    711628886
+                ],
+                [
+                    3978468247,
+                    906981559
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "MW: Charge Time or Stability. Polygonal Rifling is the ideal option here as it bumps our Stability. This bonus is furthered by Particle Repeater, which helps bring our Stability up to 75. In perk slot 1, Perfect Float is the ideal pick here as it drastically improves our flinch resistance, bringing it from 16.19% to a whopping 45.52% flinch resistance. For our second perk, we recommend Discord as it has the potential to give you a lot of heavy ammo, should you score kills while Discord is active.",
+            "hash": 727781522,
+            "name": "PVP",
+            "plugs": [
+                [
+                    2272927194,
+                    711628886
+                ],
+                [
+                    3978468247,
+                    906981559
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "MW: Handling. As the goal is to swap to Refusal after landing a kill with a different weapon, boosting our handling is top priority. Tempered Truss Rod, Swap Mag, and a handling masterwork should do you just fine. Discord has barely any contenders in its slot. While Envious Assassin and Replenishing Aegis are nice, Discord refunds the ammo from thin air, instead of pulling from reserves. Slice is the only other worthwhile perk as it can make those close-up encounters less stressful. As for Perk 2, Sword Logic just pairs so well with Discord that other options seem lackluster. However, Close to Melee is a solid alternative as it too can take advantage of Discord’s ammo refund.",
+            "hash": 25228802,
+            "name": "PVE",
+            "plugs": [
+                [
+                    5699512
+                ],
+                [
+                    3721627275
+                ],
+                [
+                    3978468247,
+                    906981559
+                ],
+                [
+                    31345821,
+                    639190697,
+                    1782407750,
+                    2241043034
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "MW: Handling. As the goal is to swap to Refusal after landing a kill with a different weapon, boosting our handling is top priority. Tempered Truss Rod, Swap Mag, and a handling masterwork should do you just fine. Discord has barely any contenders in its slot. While Envious Assassin and Replenishing Aegis are nice, Discord refunds the ammo from thin air, instead of pulling from reserves. Slice is the only other worthwhile perk as it can make those close-up encounters less stressful. As for Perk 2, Sword Logic just pairs so well with Discord that other options seem lackluster. However, Close to Melee is a solid alternative as it too can take advantage of Discord’s ammo refund.",
+            "hash": 25228802,
+            "name": "PVE",
+            "plugs": [
+                [
+                    5699512
+                ],
+                [
+                    3721627275
+                ],
+                [
+                    3978468247,
+                    906981559
+                ],
+                [
+                    31345821,
+                    639190697,
+                    1782407750,
+                    2241043034
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 2712683313,
+            "name": "PVE",
+            "plugs": [
+                [
+                    436053704
+                ],
+                [
+                    52780822
+                ],
+                [
+                    1749209109,
+                    4085959009
+                ],
+                [
+                    31345821,
+                    3708227201,
+                    639190697,
+                    781192741
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 2712683313,
+            "name": "PVE",
+            "plugs": [
+                [
+                    1749209109,
+                    4085959009
+                ],
+                [
+                    31345821,
+                    3708227201,
+                    639190697,
+                    781192741
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "MW: Range.At first glance, Afterlight might seem underwhelming for a Fusion Rifle. It lacks Controlled Burst for PvE DPS and is up against stiff competition for PvP players. Fortunately, this weapon has one trick up its sleeve: Discord. Only one other Fusion Rifle can roll with this perk, and that weapon is only obtainable during Iron Banner. Getting a kill with another weapon will cause Afterlight to refund ammunition on kill for seven seconds, effectively giving you infinite ammo if you can keep killing enemies. You can use the recently-buffed Destabilizing Rounds to give Afterlight Volatile Rounds or Successful Warm-Up for significantly shorter charge times. Do not sleep on this weapon.",
+            "hash": 3953163559,
+            "name": "PVE",
+            "plugs": [
+                [
+                    1482024992
+                ],
+                [
+                    2969185026
+                ],
+                [
+                    3978468247,
+                    906981559
+                ],
+                [
+                    2048641572,
+                    1926441324
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "MW: Range.At first glance, Afterlight might seem underwhelming for a Fusion Rifle. It lacks Controlled Burst for PvE DPS and is up against stiff competition for PvP players. Fortunately, this weapon has one trick up its sleeve: Discord. Only one other Fusion Rifle can roll with this perk, and that weapon is only obtainable during Iron Banner. Getting a kill with another weapon will cause Afterlight to refund ammunition on kill for seven seconds, effectively giving you infinite ammo if you can keep killing enemies. You can use the recently-buffed Destabilizing Rounds to give Afterlight Volatile Rounds or Successful Warm-Up for significantly shorter charge times. Do not sleep on this weapon.",
+            "hash": 3953163559,
+            "name": "PVE",
+            "plugs": [
+                [
+                    3978468247,
+                    906981559
+                ],
+                [
+                    2048641572,
+                    1926441324
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "MW: Range. Mirror Imago is a Strand variant of The Recluse, firing at a blistering 900 RPM with virtually no recoil. PvE players should keep their eyes peeled for Overflow and Sword Logic. Overflow fixes the small magazine sizes that most SMGs suffer from, while Sword Logic gives you a monstrous damage bonus if you can kill a major or miniboss with your SMG.",
+            "hash": 302039451,
+            "name": "PVE",
+            "plugs": [
+                [
+                    1482024992
+                ],
+                [
+                    3142289711
+                ],
+                [
+                    3643424744,
+                    2682205016
+                ],
+                [
+                    31345821,
+                    639190697
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "MW: Range. Mirror Imago is a Strand variant of The Recluse, firing at a blistering 900 RPM with virtually no recoil. PvE players should keep their eyes peeled for Overflow and Sword Logic. Overflow fixes the small magazine sizes that most SMGs suffer from, while Sword Logic gives you a monstrous damage bonus if you can kill a major or miniboss with your SMG.",
+            "hash": 302039451,
+            "name": "PVE",
+            "plugs": [
+                [
+                    3643424744,
+                    2682205016
+                ],
+                [
+                    31345821,
+                    639190697
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "MW: Range. Watchful Eye is the love child of Thunderlord and Hammerhead. It's a 600 RPM LMG that can get Rolling Storm, a new perk that grants Bolt Charge on kill. Once you get this buff, sustained damage will build up additional Bolt Charge, At ten stacks, your next ability cast will unleash a lightning bolt at the target's location. If you want the weapon itself to fire lightning rounds, then look no further than Jolting Feedback. You can pair either perk with Overflow to dramatically increase your magazine capacity and bypass reloading entirely. Alternatively, run Field Prep for a bigger reserve or even Eddy Current for fast reloads. You can even use this in PvP with great effect, utilizing Mulligan and Killing Tally for easy eliminations.",
+            "hash": 1757177186,
+            "name": "PVE",
+            "plugs": [
+                [
+                    1482024992
+                ],
+                [
+                    1885400500
+                ],
+                [
+                    3643424744,
+                    2682205016
+                ],
+                [
+                    3218042543,
+                    3966416502,
+                    717070634,
+                    2633604463
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "MW: Range. Watchful Eye is the love child of Thunderlord and Hammerhead. It's a 600 RPM LMG that can get Rolling Storm, a new perk that grants Bolt Charge on kill. Once you get this buff, sustained damage will build up additional Bolt Charge, At ten stacks, your next ability cast will unleash a lightning bolt at the target's location. If you want the weapon itself to fire lightning rounds, then look no further than Jolting Feedback. You can pair either perk with Overflow to dramatically increase your magazine capacity and bypass reloading entirely. Alternatively, run Field Prep for a bigger reserve or even Eddy Current for fast reloads. You can even use this in PvP with great effect, utilizing Mulligan and Killing Tally for easy eliminations.",
+            "hash": 1757177186,
+            "name": "PVE",
+            "plugs": [
+                [
+                    3643424744,
+                    2682205016
+                ],
+                [
+                    3966416502,
+                    3218042543,
+                    717070634,
+                    2633604463
                 ]
             ],
             "tags": [
