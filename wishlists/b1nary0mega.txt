@@ -6,6 +6,30 @@ description:Personally curated lists of [Demi]God rolls and game staples. Mostly
 dimwishlist:item=17096506&perks=1478423395,1996142143,2727957645,1067908860
 
 
+// Refusal of the Call (Adept) - PVE (god-pve)
+//notes: MW: Handling. As the goal is to swap to Refusal after landing a kill with a different weapon, boosting our handling is top priority. Tempered Truss Rod, Swap Mag, and a handling masterwork should do you just fine. Discord has barely any contenders in its slot. While Envious Assassin and Replenishing Aegis are nice, Discord refunds the ammo from thin air, instead of pulling from reserves. Slice is the only other worthwhile perk as it can make those close-up encounters less stressful. As for Perk 2, Sword Logic just pairs so well with Discord that other options seem lackluster. However, Close to Melee is a solid alternative as it too can take advantage of Discord’s ammo refund. tags:god-pve
+dimwishlist:item=25228802&perks=5699512,3721627275,3978468247,31345821
+dimwishlist:item=25228802&perks=5699512,3721627275,3978468247,639190697
+dimwishlist:item=25228802&perks=5699512,3721627275,3978468247,1782407750
+dimwishlist:item=25228802&perks=5699512,3721627275,3978468247,2241043034
+dimwishlist:item=25228802&perks=5699512,3721627275,906981559,31345821
+dimwishlist:item=25228802&perks=5699512,3721627275,906981559,639190697
+dimwishlist:item=25228802&perks=5699512,3721627275,906981559,1782407750
+dimwishlist:item=25228802&perks=5699512,3721627275,906981559,2241043034
+
+
+// Refusal of the Call (Adept) - PVE (pve)
+//notes: MW: Handling. As the goal is to swap to Refusal after landing a kill with a different weapon, boosting our handling is top priority. Tempered Truss Rod, Swap Mag, and a handling masterwork should do you just fine. Discord has barely any contenders in its slot. While Envious Assassin and Replenishing Aegis are nice, Discord refunds the ammo from thin air, instead of pulling from reserves. Slice is the only other worthwhile perk as it can make those close-up encounters less stressful. As for Perk 2, Sword Logic just pairs so well with Discord that other options seem lackluster. However, Close to Melee is a solid alternative as it too can take advantage of Discord’s ammo refund. tags:pve
+dimwishlist:item=25228802&perks=5699512,3721627275,3978468247,31345821
+dimwishlist:item=25228802&perks=5699512,3721627275,3978468247,639190697
+dimwishlist:item=25228802&perks=5699512,3721627275,3978468247,1782407750
+dimwishlist:item=25228802&perks=5699512,3721627275,3978468247,2241043034
+dimwishlist:item=25228802&perks=5699512,3721627275,906981559,31345821
+dimwishlist:item=25228802&perks=5699512,3721627275,906981559,639190697
+dimwishlist:item=25228802&perks=5699512,3721627275,906981559,1782407750
+dimwishlist:item=25228802&perks=5699512,3721627275,906981559,2241043034
+
+
 // Temptation's Hook - PVE (god-pve)
 //notes: MW: Impact and throw on a Backup Mag or Quick Access Sling. tags:god-pve
 dimwishlist:item=35794111&perks=3666208348,52780822,2590710093,3913600130
@@ -175,6 +199,22 @@ dimwishlist:item=216983039&perks=1428297954,4104185692
 dimwishlist:item=216983039&perks=1570042021,1015611457
 dimwishlist:item=216983039&perks=1570042021,2896038713
 dimwishlist:item=216983039&perks=1570042021,4104185692
+
+
+// Mirror Imago (Adept) - PVE (god-pve)
+//notes: MW: Range. Mirror Imago is a Strand variant of The Recluse, firing at a blistering 900 RPM with virtually no recoil. PvE players should keep their eyes peeled for Overflow and Sword Logic. Overflow fixes the small magazine sizes that most SMGs suffer from, while Sword Logic gives you a monstrous damage bonus if you can kill a major or miniboss with your SMG. tags:god-pve
+dimwishlist:item=302039451&perks=1482024992,3142289711,3643424744,31345821
+dimwishlist:item=302039451&perks=1482024992,3142289711,3643424744,639190697
+dimwishlist:item=302039451&perks=1482024992,3142289711,2682205016,31345821
+dimwishlist:item=302039451&perks=1482024992,3142289711,2682205016,639190697
+
+
+// Mirror Imago (Adept) - PVE (pve)
+//notes: MW: Range. Mirror Imago is a Strand variant of The Recluse, firing at a blistering 900 RPM with virtually no recoil. PvE players should keep their eyes peeled for Overflow and Sword Logic. Overflow fixes the small magazine sizes that most SMGs suffer from, while Sword Logic gives you a monstrous damage bonus if you can kill a major or miniboss with your SMG. tags:pve
+dimwishlist:item=302039451&perks=3643424744,31345821
+dimwishlist:item=302039451&perks=3643424744,639190697
+dimwishlist:item=302039451&perks=2682205016,31345821
+dimwishlist:item=302039451&perks=2682205016,639190697
 
 
 // Ace of Spades - Exotic (pve,pvp)
@@ -938,6 +978,22 @@ dimwishlist:item=586671776&perks=247725512,4104185692
 dimwishlist:item=586671776&perks=247725512,3007133316
 dimwishlist:item=586671776&perks=2938480696,4104185692
 dimwishlist:item=586671776&perks=2938480696,3007133316
+
+
+// Eyes Unveiled - PVP (god-pvp)
+//notes: MW: Charge Time or Stability. Polygonal Rifling is the ideal option here as it bumps our Stability. This bonus is furthered by Particle Repeater, which helps bring our Stability up to 75. In perk slot 1, Perfect Float is the ideal pick here as it drastically improves our flinch resistance, bringing it from 16.19% to a whopping 45.52% flinch resistance. For our second perk, we recommend Discord as it has the potential to give you a lot of heavy ammo, should you score kills while Discord is active. tags:god-pvp
+dimwishlist:item=727781522&perks=1392496348,3868766766,2272927194,3978468247
+dimwishlist:item=727781522&perks=1392496348,3868766766,2272927194,906981559
+dimwishlist:item=727781522&perks=1392496348,3868766766,711628886,3978468247
+dimwishlist:item=727781522&perks=1392496348,3868766766,711628886,906981559
+
+
+// Eyes Unveiled - PVP (pvp)
+//notes: MW: Charge Time or Stability. Polygonal Rifling is the ideal option here as it bumps our Stability. This bonus is furthered by Particle Repeater, which helps bring our Stability up to 75. In perk slot 1, Perfect Float is the ideal pick here as it drastically improves our flinch resistance, bringing it from 16.19% to a whopping 45.52% flinch resistance. For our second perk, we recommend Discord as it has the potential to give you a lot of heavy ammo, should you score kills while Discord is active. tags:pvp
+dimwishlist:item=727781522&perks=2272927194,3978468247
+dimwishlist:item=727781522&perks=2272927194,906981559
+dimwishlist:item=727781522&perks=711628886,3978468247
+dimwishlist:item=727781522&perks=711628886,906981559
 
 
 // Seventh Seraph VY-7 - PVE (pve)
@@ -2260,6 +2316,30 @@ dimwishlist:item=1505862304&perks=3416609154,288411554
 dimwishlist:item=1505862304&perks=3416609154,1748774930
 
 
+// Anamnesis (Adept) - PVE (god-pve)
+//notes: MW: Handling. We’ll begin with Elastic String for significantly decreased draw time and slightly increased handling. From there, Fiberglass Arrow Shaft is great to balance out the significant amount of accuracy we lost from Elastic String, while a handling masterwork rounds everything out nicely. The most obvious (and potent) roll here is the classic combination of Repulsor Brace and Destabilizing Rounds. After its buff with Heresy’s launch, Destabilizing Rounds is a monster on any weapon that can roll with it. If you want to instead embrace the explosion fantasy a bit more, replacing Repulsor Brace for Dragonfly isn’t a horrible choice in more casual settings. tags:god-pve
+dimwishlist:item=1536325168&perks=2801223209,3429800428,776531651,2048641572
+dimwishlist:item=1536325168&perks=2801223209,3429800428,776531651,1926441324
+dimwishlist:item=1536325168&perks=2801223209,3429800428,2541826827,2048641572
+dimwishlist:item=1536325168&perks=2801223209,3429800428,2541826827,1926441324
+dimwishlist:item=1536325168&perks=2801223209,3429800428,2848615171,2048641572
+dimwishlist:item=1536325168&perks=2801223209,3429800428,2848615171,1926441324
+dimwishlist:item=1536325168&perks=2801223209,3429800428,169755979,2048641572
+dimwishlist:item=1536325168&perks=2801223209,3429800428,169755979,1926441324
+
+
+// Anamnesis (Adept) - PVE (pve)
+//notes: MW: Handling. We’ll begin with Elastic String for significantly decreased draw time and slightly increased handling. From there, Fiberglass Arrow Shaft is great to balance out the significant amount of accuracy we lost from Elastic String, while a handling masterwork rounds everything out nicely. The most obvious (and potent) roll here is the classic combination of Repulsor Brace and Destabilizing Rounds. After its buff with Heresy’s launch, Destabilizing Rounds is a monster on any weapon that can roll with it. If you want to instead embrace the explosion fantasy a bit more, replacing Repulsor Brace for Dragonfly isn’t a horrible choice in more casual settings. tags:pve
+dimwishlist:item=1536325168&perks=776531651,2048641572
+dimwishlist:item=1536325168&perks=776531651,1926441324
+dimwishlist:item=1536325168&perks=2541826827,2048641572
+dimwishlist:item=1536325168&perks=2541826827,1926441324
+dimwishlist:item=1536325168&perks=2848615171,2048641572
+dimwishlist:item=1536325168&perks=2848615171,1926441324
+dimwishlist:item=1536325168&perks=169755979,2048641572
+dimwishlist:item=1536325168&perks=169755979,1926441324
+
+
 // Seventh Seraph Officer Revolver - PVE (pve)
 //notes: tags:pve
 dimwishlist:item=1555959830&perks=744594675,1546637391
@@ -2404,6 +2484,30 @@ dimwishlist:item=1719687748&perks=3563868667,2282937672
 dimwishlist:item=1719687748&perks=3563868667,406461158
 dimwishlist:item=1719687748&perks=3563868667,3708227201
 dimwishlist:item=1719687748&perks=3563868667,781192741
+
+
+// Watchful Eye - PVE (god-pve)
+//notes: MW: Range. Watchful Eye is the love child of Thunderlord and Hammerhead. It's a 600 RPM LMG that can get Rolling Storm, a new perk that grants Bolt Charge on kill. Once you get this buff, sustained damage will build up additional Bolt Charge, At ten stacks, your next ability cast will unleash a lightning bolt at the target's location. If you want the weapon itself to fire lightning rounds, then look no further than Jolting Feedback. You can pair either perk with Overflow to dramatically increase your magazine capacity and bypass reloading entirely. Alternatively, run Field Prep for a bigger reserve or even Eddy Current for fast reloads. You can even use this in PvP with great effect, utilizing Mulligan and Killing Tally for easy eliminations. tags:god-pve
+dimwishlist:item=1757177186&perks=1482024992,1885400500,3643424744,3218042543
+dimwishlist:item=1757177186&perks=1482024992,1885400500,3643424744,3966416502
+dimwishlist:item=1757177186&perks=1482024992,1885400500,3643424744,717070634
+dimwishlist:item=1757177186&perks=1482024992,1885400500,3643424744,2633604463
+dimwishlist:item=1757177186&perks=1482024992,1885400500,2682205016,3218042543
+dimwishlist:item=1757177186&perks=1482024992,1885400500,2682205016,3966416502
+dimwishlist:item=1757177186&perks=1482024992,1885400500,2682205016,717070634
+dimwishlist:item=1757177186&perks=1482024992,1885400500,2682205016,2633604463
+
+
+// Watchful Eye - PVE (pve)
+//notes: MW: Range. Watchful Eye is the love child of Thunderlord and Hammerhead. It's a 600 RPM LMG that can get Rolling Storm, a new perk that grants Bolt Charge on kill. Once you get this buff, sustained damage will build up additional Bolt Charge, At ten stacks, your next ability cast will unleash a lightning bolt at the target's location. If you want the weapon itself to fire lightning rounds, then look no further than Jolting Feedback. You can pair either perk with Overflow to dramatically increase your magazine capacity and bypass reloading entirely. Alternatively, run Field Prep for a bigger reserve or even Eddy Current for fast reloads. You can even use this in PvP with great effect, utilizing Mulligan and Killing Tally for easy eliminations. tags:pve
+dimwishlist:item=1757177186&perks=3643424744,3966416502
+dimwishlist:item=1757177186&perks=3643424744,3218042543
+dimwishlist:item=1757177186&perks=3643424744,717070634
+dimwishlist:item=1757177186&perks=3643424744,2633604463
+dimwishlist:item=1757177186&perks=2682205016,3966416502
+dimwishlist:item=1757177186&perks=2682205016,3218042543
+dimwishlist:item=1757177186&perks=2682205016,717070634
+dimwishlist:item=1757177186&perks=2682205016,2633604463
 
 
 // VS Chill Inhibitor - PVE (god-pve)
@@ -4613,6 +4717,30 @@ dimwishlist:item=2708806099&perks=1906147653,4293542123
 dimwishlist:item=2708806099&perks=1906147653,2675184851
 
 
+// Abyssal Edge (Adept) - PVE (god-pve)
+//notes: tags:god-pve
+dimwishlist:item=2712683313&perks=436053704,52780822,1749209109,31345821
+dimwishlist:item=2712683313&perks=436053704,52780822,1749209109,3708227201
+dimwishlist:item=2712683313&perks=436053704,52780822,1749209109,639190697
+dimwishlist:item=2712683313&perks=436053704,52780822,1749209109,781192741
+dimwishlist:item=2712683313&perks=436053704,52780822,4085959009,31345821
+dimwishlist:item=2712683313&perks=436053704,52780822,4085959009,3708227201
+dimwishlist:item=2712683313&perks=436053704,52780822,4085959009,639190697
+dimwishlist:item=2712683313&perks=436053704,52780822,4085959009,781192741
+
+
+// Abyssal Edge (Adept) - PVE (pve)
+//notes: tags:pve
+dimwishlist:item=2712683313&perks=1749209109,31345821
+dimwishlist:item=2712683313&perks=1749209109,3708227201
+dimwishlist:item=2712683313&perks=1749209109,639190697
+dimwishlist:item=2712683313&perks=1749209109,781192741
+dimwishlist:item=2712683313&perks=4085959009,31345821
+dimwishlist:item=2712683313&perks=4085959009,3708227201
+dimwishlist:item=2712683313&perks=4085959009,639190697
+dimwishlist:item=2712683313&perks=4085959009,781192741
+
+
 // Riptide - PVE (god-pve)
 //notes: MW: Charge Time; Like all fusions, stability and recoil direction are the stats you want to boost the most. To that end, Arrowhead is the best for recoil, Polygonal for stability, and Chambered for a mix of both. As for your battery, Enhanced Battery or Accelerated Coils are your go-to. Column 3 has a host of great perks that can match any playstyle, but most players will easily gravitate towards Auto-Loading Holster, Lead from Gold, or Field Prep. If being used as an anti-champion weapon, Auto-Loading or Field Prep is the way to go, as it allows for a more consistent uptime of Chill Clip. Speaking of Chill Clip, it and Vorpal are your two best choices for Column 4. As stated earlier, Chill Clip’s ability to freeze and slow combatants means that it can stun both Overloads and Unstoppables, as well as prevent Barrier Champions from spawning their shields. Vorpal can also be useful, as while it may not stun champions, it can certainly help burst them down once they are. tags:god-pve
 dimwishlist:item=2715240478&perks=839105230,689005463,3300816228,2978966579
@@ -5392,6 +5520,22 @@ dimwishlist:item=3228096719&perks=2621346526,1771339417
 dimwishlist:item=3228096719&perks=2621346526,395388285
 dimwishlist:item=3228096719&perks=2495011826,1771339417
 dimwishlist:item=3228096719&perks=2495011826,395388285
+
+
+// Adamantite - PVE (god-pve)
+//notes: MW: Handling or Stability. For our PvE roll, we’ll start with Fluted Barrel, Flared Magwell, and either a handling or stability masterwork to get a solid increase in stats. From there, our roll is pretty simple: opt for Reciprocity and Circle of Life. Both of these feed into the support frame’s loop and offer you substantial benefits (healing and a +25% damage buff) for very little work. tags:god-pve
+dimwishlist:item=3229982889&perks=1840239774,3230963543,692399809,2298656195
+dimwishlist:item=3229982889&perks=1840239774,3230963543,692399809,674546187
+dimwishlist:item=3229982889&perks=1840239774,3230963543,4070834277,2298656195
+dimwishlist:item=3229982889&perks=1840239774,3230963543,4070834277,674546187
+
+
+// Adamantite - PVE (pve)
+//notes: MW: Handling or Stability. For our PvE roll, we’ll start with Fluted Barrel, Flared Magwell, and either a handling or stability masterwork to get a solid increase in stats. From there, our roll is pretty simple: opt for Reciprocity and Circle of Life. Both of these feed into the support frame’s loop and offer you substantial benefits (healing and a +25% damage buff) for very little work. tags:pve
+dimwishlist:item=3229982889&perks=692399809,2298656195
+dimwishlist:item=3229982889&perks=692399809,674546187
+dimwishlist:item=3229982889&perks=4070834277,2298656195
+dimwishlist:item=3229982889&perks=4070834277,674546187
 
 
 // Someday - PVE (god-pve,pve)
@@ -6232,6 +6376,22 @@ dimwishlist:item=3686538757&perks=3797647183,4049631843
 dimwishlist:item=3686538757&perks=3797647183,859780267
 
 
+// Division (Adept) - PVE (god-pve)
+//notes: MW: Handling. Our PvE roll with begin with Fluted Barrel, Tactical Mag, and a handling masterwork, a classic combination that provides a nice balance of potent stats for PvE. Eddy Current isn’t an absurdly popular pick these days, but it’s the best the first column has here. Plus, it fits nicely with our final perk pick, which is Voltshot. Assuming you’re rocking an Arc build (which will be more potent this Episode through the artifact!), this combination is great for more casual activities. tags:god-pve
+dimwishlist:item=3734001727&perks=1840239774,106909392,684456054,2173046394
+dimwishlist:item=3734001727&perks=1840239774,106909392,684456054,1720528630
+dimwishlist:item=3734001727&perks=1840239774,106909392,2785334058,2173046394
+dimwishlist:item=3734001727&perks=1840239774,106909392,2785334058,1720528630
+
+
+// Division (Adept) - PVE (pve)
+//notes: MW: Handling. Our PvE roll with begin with Fluted Barrel, Tactical Mag, and a handling masterwork, a classic combination that provides a nice balance of potent stats for PvE. Eddy Current isn’t an absurdly popular pick these days, but it’s the best the first column has here. Plus, it fits nicely with our final perk pick, which is Voltshot. Assuming you’re rocking an Arc build (which will be more potent this Episode through the artifact!), this combination is great for more casual activities. tags:pve
+dimwishlist:item=3734001727&perks=684456054,2173046394
+dimwishlist:item=3734001727&perks=684456054,1720528630
+dimwishlist:item=3734001727&perks=2785334058,2173046394
+dimwishlist:item=3734001727&perks=2785334058,1720528630
+
+
 // Ill Omen - PVE (god-pve)
 //notes: MW: Impact; Backup Mag Mod; Start with Hungry Edge for the higher Magazine and Ammo Capacity. Providing Ill Omen with these increases gives more Heavy and Light attacks to spend when chopping down enemies. Add Swordmaster’s Guard for increases to key stats for blocking attacks and increase Charge Rate meaning Ill Omen can get out another Heavy Attack faster.The juice for this god roll comes within its main perk selection. Start with Relentless Strikes which refunds ammo after landing consecutive Light Attacks. This is where Cold Steel comes in. This perk applies to any type of attack so Light and Heavy Attacks cause Slow to any enemy it hits. This includes when using the Heavy Attack to cast an icy disc of damage toward foes. This also has an area of effect so surrounding enemies can be slowed or killed if close to its AoE. Land enough hits and enemies can be frozen solid and it can even stun certain Champion-level enemies, making them an easy target for Fireteam members to land critical hits on to get the kill. tags:god-pve
 dimwishlist:item=3794274730&perks=436053704,269888150,1749209109,3650930298
@@ -6772,6 +6932,22 @@ dimwishlist:item=3947966653&perks=1135494563,4290541820
 dimwishlist:item=3947966653&perks=1135494563,2799030358
 
 
+// Afterlight (Adept) - PVE (god-pve)
+//notes: MW: Range.At first glance, Afterlight might seem underwhelming for a Fusion Rifle. It lacks Controlled Burst for PvE DPS and is up against stiff competition for PvP players. Fortunately, this weapon has one trick up its sleeve: Discord. Only one other Fusion Rifle can roll with this perk, and that weapon is only obtainable during Iron Banner. Getting a kill with another weapon will cause Afterlight to refund ammunition on kill for seven seconds, effectively giving you infinite ammo if you can keep killing enemies. You can use the recently-buffed Destabilizing Rounds to give Afterlight Volatile Rounds or Successful Warm-Up for significantly shorter charge times. Do not sleep on this weapon. tags:god-pve
+dimwishlist:item=3953163559&perks=1482024992,2969185026,3978468247,2048641572
+dimwishlist:item=3953163559&perks=1482024992,2969185026,3978468247,1926441324
+dimwishlist:item=3953163559&perks=1482024992,2969185026,906981559,2048641572
+dimwishlist:item=3953163559&perks=1482024992,2969185026,906981559,1926441324
+
+
+// Afterlight (Adept) - PVE (pve)
+//notes: MW: Range.At first glance, Afterlight might seem underwhelming for a Fusion Rifle. It lacks Controlled Burst for PvE DPS and is up against stiff competition for PvP players. Fortunately, this weapon has one trick up its sleeve: Discord. Only one other Fusion Rifle can roll with this perk, and that weapon is only obtainable during Iron Banner. Getting a kill with another weapon will cause Afterlight to refund ammunition on kill for seven seconds, effectively giving you infinite ammo if you can keep killing enemies. You can use the recently-buffed Destabilizing Rounds to give Afterlight Volatile Rounds or Successful Warm-Up for significantly shorter charge times. Do not sleep on this weapon. tags:pve
+dimwishlist:item=3953163559&perks=3978468247,2048641572
+dimwishlist:item=3953163559&perks=3978468247,1926441324
+dimwishlist:item=3953163559&perks=906981559,2048641572
+dimwishlist:item=3953163559&perks=906981559,1926441324
+
+
 // Yarovit MG4 - PVE - Stasis (god-pve)
 //notes: Stasis build focused tags:god-pve
 dimwishlist:item=3959549446&perks=1482024992,1885400500,3418782618,124408337
@@ -6968,6 +7144,30 @@ dimwishlist:item=3998080529&perks=2717805783,332733060
 //notes: tags:pve
 dimwishlist:item=4020742303&perks=2779035018,2679249093
 dimwishlist:item=4020742303&perks=2039302152,2679249093
+
+
+// Psychopomp - PVE (god-pve)
+//notes: MW: Handling. Our roll on Psychopomp is gearing it towards being used as a DPS option, so Quick Launch and High-Velocity Rounds are ideal here, thanks to the Handling and Velocity they provide. In Perk 1, you can choose whether to use this weapon as a DPS option with Envious Assassin or an add-clear option with Ambitious Assassin; the choice is yours, depending on what you wish your Psychopomp to accomplish. For Perk 2, we suggest Rolling Storm as it gives you a way to utilize Bolt Charge; however, Frenzy is a very suitable alternative, especially if you are using this weapon for add-clear. tags:god-pve
+dimwishlist:item=4028298892&perks=3525010810,2822142346,2010801679,3218042543
+dimwishlist:item=4028298892&perks=3525010810,2822142346,2010801679,2633604463
+dimwishlist:item=4028298892&perks=3525010810,2822142346,3987942396,3218042543
+dimwishlist:item=4028298892&perks=3525010810,2822142346,3987942396,2633604463
+dimwishlist:item=4028298892&perks=3525010810,2822142346,2817499044,3218042543
+dimwishlist:item=4028298892&perks=3525010810,2822142346,2817499044,2633604463
+dimwishlist:item=4028298892&perks=3525010810,2822142346,3797647183,3218042543
+dimwishlist:item=4028298892&perks=3525010810,2822142346,3797647183,2633604463
+
+
+// Psychopomp - PVE (pve)
+//notes: MW: Handling. Our roll on Psychopomp is gearing it towards being used as a DPS option, so Quick Launch and High-Velocity Rounds are ideal here, thanks to the Handling and Velocity they provide. In Perk 1, you can choose whether to use this weapon as a DPS option with Envious Assassin or an add-clear option with Ambitious Assassin; the choice is yours, depending on what you wish your Psychopomp to accomplish. For Perk 2, we suggest Rolling Storm as it gives you a way to utilize Bolt Charge; however, Frenzy is a very suitable alternative, especially if you are using this weapon for add-clear. tags:pve
+dimwishlist:item=4028298892&perks=2010801679,3218042543
+dimwishlist:item=4028298892&perks=2010801679,2633604463
+dimwishlist:item=4028298892&perks=3987942396,3218042543
+dimwishlist:item=4028298892&perks=3987942396,2633604463
+dimwishlist:item=4028298892&perks=2817499044,3218042543
+dimwishlist:item=4028298892&perks=2817499044,2633604463
+dimwishlist:item=4028298892&perks=3797647183,3218042543
+dimwishlist:item=4028298892&perks=3797647183,2633604463
 
 
 // Hezen Vengeance - PVE (god-pve)
