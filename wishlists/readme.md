@@ -38,16 +38,26 @@ Here are some items to be on the lookout for. I would consider these staples.
 - 26 - Igneous Hammer / Luna's Howl
 
 ---
-# Hunter Exotic Class Items
 
-## God roll
+---
+# DIM Filtering
 
-### DIM Settings
+## Favorite Stuff
 
 - Locked
 - Tag as 'Favorite'
 
-### DIM Filters
+## Arms in need of improving
+
+```
+ is:exotic is:gauntlets stat:resilience:<20
+```
+
+## Hunter
+
+### Exotic Class Item 
+
+#### God roll
 
 ```
 (exactname:relativism exactperk:"spirit of caliban" exactperk:"spirit of synthoceps") OR 
@@ -57,14 +67,7 @@ Here are some items to be on the lookout for. I would consider these staples.
 (exactname:relativism exactperk:"spirit of the ophidian" exactperk:"spirit of the wormhusk")
 ```
 
-## Very good
-
-### DIM Settings
-
-- Locked
-- Tag as 'Keep'
-
-### DIM Filters
+#### Very good
 
 ```
 (exactname:relativism exactperk:"spirit of caliban" exactperk:"spirit of the star-eater") OR 
@@ -79,14 +82,7 @@ Here are some items to be on the lookout for. I would consider these staples.
 (exactname:relativism exactperk:"spirit of renewal" exactperk:"spirit of the liar")
 ```
 
-## Not trolling
-
-### DIM Settings
-
-- Locked
-- No tag applied
-
-### DIM Filters
+#### Not trolling
 
 ```
 (exactname:relativism exactperk:"spirit of caliban" exactperk:"spirit of the cyrtarachne") OR 
@@ -101,14 +97,7 @@ Here are some items to be on the lookout for. I would consider these staples.
 (exactname:relativism exactperk:"spirit of the foetracer" exactperk:"spirit of the liar")
 ```
 
-## That one horse drawing
-
-### DIM Settings
-
-- Locked
-- Tag as 'Archive'
-
-### DIM Filters
+#### That one horse drawing
 
 ```
 (exactname:relativism exactperk:"spirit of caliban" exactperk:"spirit of the coyote") OR 
@@ -130,14 +119,7 @@ Here are some items to be on the lookout for. I would consider these staples.
 (exactname:relativism exactperk:"spirit of the ophidian" exactperk:"spirit of the liar")
 ```
 
-## For fun
-
-### DIM Settings
-
-- Locked
-- No tag applied
-
-### DIM Filters
+#### For fun
 
 ```
 (exactname:relativism exactperk:"spirit of renewal" exactperk:"spirit of the gyrfalcon") OR 
@@ -165,16 +147,11 @@ Here are some items to be on the lookout for. I would consider these staples.
 
 ---
 
-# Titan Exotic Class Items
+## Titan 
 
-## God roll
+### Exotic Class Item
 
-### DIM Settings
-
-- Locked
-- Tag as 'Favorite'
-
-### DIM Filters
+#### God Roll
 
 ```
 (exactname:stoicism exactperk:"spirit of inmost light" exactperk:"spirit of synthoceps") OR 
@@ -183,14 +160,7 @@ Here are some items to be on the lookout for. I would consider these staples.
 (exactname:stoicism exactperk:"spirit of the bear" exactperk:"spirit of verity")
 ```
 
-## Very good
-
-### DIM Settings
-
-- Locked
-- Tag as 'Keep'
-
-### DIM Filters
+#### Very good
 
 ```
 (exactname:stoicism exactperk:"spirit of inmost light" exactperk:"spirit of contact") OR 
@@ -201,14 +171,7 @@ Here are some items to be on the lookout for. I would consider these staples.
 (exactname:stoicism exactperk:"spirit of the abeyant" exactperk:"spirit of the star-eater")
 ```
 
-## Not trolling
-
-### DIM Settings
-
-- Locked
-- No tag applied
-
-### DIM Filters
+#### Not trolling
 
 ```
 (exactname:stoicism exactperk:"spirit of inmost light" exactperk:"spirit of alpha lupi") OR 
@@ -219,14 +182,7 @@ Here are some items to be on the lookout for. I would consider these staples.
 (exactname:stoicism exactperk:"spirit of the eternal warrior" exactperk:"spirit of the star-eater")
 ```
 
-## That one horse drawing
-
-### DIM Settings
-
-- Locked
-- Tag as 'Archive'
-
-### DIM Filters
+#### That one horse drawing
 
 ```
 (exactname:stoicism exactperk:"spirit of hoarfrost" exactperk:"spirit of contact") OR 
@@ -256,14 +212,7 @@ Here are some items to be on the lookout for. I would consider these staples.
 (exactname:stoicism exactperk:"spirit of the ophidian" exactperk:"spirit of the star-eater")
 ```
 
-## For fun
-
-### DIM Settings
-
-- Locked
-- No tag applied
-
-### DIM Filters
+#### For fun
 
 ```
 (exactname:stoicism exactperk:"spirit of hoarfrost" exactperk:"spirit of alpha lupi") OR 
@@ -296,6 +245,7 @@ Here are some items to be on the lookout for. I would consider these staples.
 # DPS
 
 ## Hunter
+
 [Still Hunt Cycling](https://www.youtube.com/watch?v=hWGDIC4JWQw&t=1059s)
 : [Loadout](https://www.youtube.com/watch?v=hWGDIC4JWQw&t=1059s)
 
