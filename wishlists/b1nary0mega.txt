@@ -980,6 +980,30 @@ dimwishlist:item=586671776&perks=2938480696,4104185692
 dimwishlist:item=586671776&perks=2938480696,3007133316
 
 
+// Cynosure - PVE (god-pve)
+//notes: MW: Velocity. For our barrel, we like Quick Launch as the primary roll on this weapon focuses on using Cynosure as a part of a weapon damage rotation, and Quick Launch improves Handling. Impact Casing is the default pick for the magazine as it slightly increases your damage. Envious Arsenal is the best option for perk slot one as it massively improves the viability of Cynosure as a DPS weapon; however, Clown Cartridge is a decent alternative to turn this weapon into a single-weapon damage tool. For perk two, Explosive Light is the most accessible damage trait as it simply requires the gathering of Orbs, which is incredibly simple. As mentioned earlier, High Ground can work as another damage perk, but it is more conditional. Bipod is also a good choice; however, it’ll turn Cynosure into more of an add-clear focused weapon rather than a DPS option. tags:god-pve
+dimwishlist:item=694275488&perks=3525010810,3796465595,3987942396,3194351027
+dimwishlist:item=694275488&perks=3525010810,3796465595,3987942396,2275087323
+dimwishlist:item=694275488&perks=3525010810,3796465595,2284787283,3194351027
+dimwishlist:item=694275488&perks=3525010810,3796465595,2284787283,2275087323
+dimwishlist:item=694275488&perks=3525010810,3796465595,2817499044,3194351027
+dimwishlist:item=694275488&perks=3525010810,3796465595,2817499044,2275087323
+dimwishlist:item=694275488&perks=3525010810,3796465595,3563868667,3194351027
+dimwishlist:item=694275488&perks=3525010810,3796465595,3563868667,2275087323
+
+
+// Cynosure - PVE (god-pve)
+//notes: MW: Velocity. For our barrel, we like Quick Launch as the primary roll on this weapon focuses on using Cynosure as a part of a weapon damage rotation, and Quick Launch improves Handling. Impact Casing is the default pick for the magazine as it slightly increases your damage. Envious Arsenal is the best option for perk slot one as it massively improves the viability of Cynosure as a DPS weapon; however, Clown Cartridge is a decent alternative to turn this weapon into a single-weapon damage tool. For perk two, Explosive Light is the most accessible damage trait as it simply requires the gathering of Orbs, which is incredibly simple. As mentioned earlier, High Ground can work as another damage perk, but it is more conditional. Bipod is also a good choice; however, it’ll turn Cynosure into more of an add-clear focused weapon rather than a DPS option. tags:god-pve
+dimwishlist:item=694275488&perks=3987942396,3194351027
+dimwishlist:item=694275488&perks=3987942396,2275087323
+dimwishlist:item=694275488&perks=2284787283,3194351027
+dimwishlist:item=694275488&perks=2284787283,2275087323
+dimwishlist:item=694275488&perks=2817499044,3194351027
+dimwishlist:item=694275488&perks=2817499044,2275087323
+dimwishlist:item=694275488&perks=3563868667,3194351027
+dimwishlist:item=694275488&perks=3563868667,2275087323
+
+
 // Eyes Unveiled - PVP (god-pvp)
 //notes: MW: Charge Time or Stability. Polygonal Rifling is the ideal option here as it bumps our Stability. This bonus is furthered by Particle Repeater, which helps bring our Stability up to 75. In perk slot 1, Perfect Float is the ideal pick here as it drastically improves our flinch resistance, bringing it from 16.19% to a whopping 45.52% flinch resistance. For our second perk, we recommend Discord as it has the potential to give you a lot of heavy ammo, should you score kills while Discord is active. tags:god-pvp
 dimwishlist:item=727781522&perks=1392496348,3868766766,2272927194,3978468247
