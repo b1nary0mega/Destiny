@@ -42,12 +42,13 @@ Here are some items to be on the lookout for. I would consider these staples.
 ---
 # DIM Filtering
 
-## Favorite Stuff
+**Vault Cleaning**
 
-- Locked
-- Tag as 'Favorite'
+```
+-is:crafted kills:<5 -tag:infuse -is:exotic -wishlistnotes:god-
+```
 
-## Arms in need of improving
+**Arms in need of improving**
 
 ```
  is:exotic is:gauntlets stat:resilience:<20
