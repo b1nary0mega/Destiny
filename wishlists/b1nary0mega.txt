@@ -6608,6 +6608,30 @@ dimwishlist:item=3734001727&perks=2785334058,2173046394
 dimwishlist:item=3734001727&perks=2785334058,1720528630
 
 
+// Admetus-D - PVE (god-pve)
+//notes: MW: Range. High-Impact Scout Rifles are quite powerful if you can get a damage perk on them. Admetus-D certainly fits the bill. Frenzy, Precision Instrument, Elemental Honing, and even Withering Gaze are all obtainable on this weapon. The damage perk you choose in PvE will mostly boil down to preference. In our view, if you're using a Void Primary, you're most likely leaning into Repulsor Brace for high Overshield uptime. For that, use Demoralize or Withering Gaze. tags:god-pve
+dimwishlist:item=3776430252&perks=1482024992,1561002382,776531651,1134488199
+dimwishlist:item=3776430252&perks=1482024992,1561002382,776531651,1464081238
+dimwishlist:item=3776430252&perks=1482024992,1561002382,776531651,2904194311
+dimwishlist:item=3776430252&perks=1482024992,1561002382,776531651,2813913866
+dimwishlist:item=3776430252&perks=1482024992,1561002382,2541826827,1134488199
+dimwishlist:item=3776430252&perks=1482024992,1561002382,2541826827,1464081238
+dimwishlist:item=3776430252&perks=1482024992,1561002382,2541826827,2904194311
+dimwishlist:item=3776430252&perks=1482024992,1561002382,2541826827,2813913866
+
+
+// Admetus-D - PVE (pve)
+//notes: MW: Range. High-Impact Scout Rifles are quite powerful if you can get a damage perk on them. Admetus-D certainly fits the bill. Frenzy, Precision Instrument, Elemental Honing, and even Withering Gaze are all obtainable on this weapon. The damage perk you choose in PvE will mostly boil down to preference. In our view, if you're using a Void Primary, you're most likely leaning into Repulsor Brace for high Overshield uptime. For that, use Demoralize or Withering Gaze. tags:pve
+dimwishlist:item=3776430252&perks=776531651,1134488199
+dimwishlist:item=3776430252&perks=776531651,1464081238
+dimwishlist:item=3776430252&perks=776531651,2904194311
+dimwishlist:item=3776430252&perks=776531651,2813913866
+dimwishlist:item=3776430252&perks=2541826827,1134488199
+dimwishlist:item=3776430252&perks=2541826827,1464081238
+dimwishlist:item=3776430252&perks=2541826827,2904194311
+dimwishlist:item=3776430252&perks=2541826827,2813913866
+
+
 // Ill Omen - PVE (god-pve)
 //notes: MW: Impact; Backup Mag Mod; Start with Hungry Edge for the higher Magazine and Ammo Capacity. Providing Ill Omen with these increases gives more Heavy and Light attacks to spend when chopping down enemies. Add Swordmaster’s Guard for increases to key stats for blocking attacks and increase Charge Rate meaning Ill Omen can get out another Heavy Attack faster.The juice for this god roll comes within its main perk selection. Start with Relentless Strikes which refunds ammo after landing consecutive Light Attacks. This is where Cold Steel comes in. This perk applies to any type of attack so Light and Heavy Attacks cause Slow to any enemy it hits. This includes when using the Heavy Attack to cast an icy disc of damage toward foes. This also has an area of effect so surrounding enemies can be slowed or killed if close to its AoE. Land enough hits and enemies can be frozen solid and it can even stun certain Champion-level enemies, making them an easy target for Fireteam members to land critical hits on to get the kill. tags:god-pve
 dimwishlist:item=3794274730&perks=436053704,269888150,1749209109,3650930298
