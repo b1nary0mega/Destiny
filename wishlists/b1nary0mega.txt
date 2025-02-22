@@ -1052,6 +1052,22 @@ dimwishlist:item=727781522&perks=711628886,3978468247
 dimwishlist:item=727781522&perks=711628886,906981559
 
 
+// Qua Furor V - PVE (god-pve)
+//notes: MW: Reload or Stability tags:god-pve
+dimwishlist:item=751880654&perks=839105230,1087426260,2779035018,2848615171
+dimwishlist:item=751880654&perks=839105230,1087426260,2779035018,169755979
+dimwishlist:item=751880654&perks=839105230,1087426260,1171147302,2848615171
+dimwishlist:item=751880654&perks=839105230,1087426260,1171147302,169755979
+
+
+// Qua Furor V - PVE (pve)
+//notes: MW: Reload or Stability tags:pve
+dimwishlist:item=751880654&perks=2779035018,2848615171
+dimwishlist:item=751880654&perks=2779035018,169755979
+dimwishlist:item=751880654&perks=1171147302,2848615171
+dimwishlist:item=751880654&perks=1171147302,169755979
+
+
 // Seventh Seraph VY-7 - PVE (pve)
 //notes: Barrel: Fluted Barrel (Stability +5, Handling +15), Magazine: Appended Mag (Magazine +20) tags:pve
 dimwishlist:item=766323545&perks=2010801679,2779035018
