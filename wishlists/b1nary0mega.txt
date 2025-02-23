@@ -1044,12 +1044,54 @@ dimwishlist:item=727781522&perks=1392496348,3868766766,711628886,3978468247
 dimwishlist:item=727781522&perks=1392496348,3868766766,711628886,906981559
 
 
+// Eyes Unveiled - PVE (god-pve)
+//notes: For our barrel, we are going to opt for Arrowhead Break, as it massively improves the recoil direction of the weapon, making it easier to stay on target. For the magazine, Liquid Coils is the standard choice. 
+For perk 1, we suggest Overflow. This perk allows you to go far beyond the regular constraints of the magazine, and when paired with Runneth Over, you can potentially bring the magazine up to a whopping 18 shots. Alternatively, Triple Tap is a decent option as it is an easy way to help your ammo economy. In perk slot 2, we recommend Reservoir Burst. Due to the pairing we have between Runneth Over and Overflow, we can use Reservoir Burst to take advantage of the ammo we have available. Another option is Frenzy. This perk boosts our Handling and Reload speed while also giving us a lower but more consistent 15% damage bonus. tags:god-pve
+dimwishlist:item=727781522&perks=839105230,1687452232,3643424744,4104185692
+dimwishlist:item=727781522&perks=839105230,1687452232,3643424744,3007133316
+dimwishlist:item=727781522&perks=839105230,1687452232,3643424744,1427256713
+dimwishlist:item=727781522&perks=839105230,1687452232,3643424744,254337357
+dimwishlist:item=727781522&perks=839105230,1687452232,2682205016,4104185692
+dimwishlist:item=727781522&perks=839105230,1687452232,2682205016,3007133316
+dimwishlist:item=727781522&perks=839105230,1687452232,2682205016,1427256713
+dimwishlist:item=727781522&perks=839105230,1687452232,2682205016,254337357
+dimwishlist:item=727781522&perks=839105230,1687452232,3400784728,4104185692
+dimwishlist:item=727781522&perks=839105230,1687452232,3400784728,3007133316
+dimwishlist:item=727781522&perks=839105230,1687452232,3400784728,1427256713
+dimwishlist:item=727781522&perks=839105230,1687452232,3400784728,254337357
+dimwishlist:item=727781522&perks=839105230,1687452232,573122728,4104185692
+dimwishlist:item=727781522&perks=839105230,1687452232,573122728,3007133316
+dimwishlist:item=727781522&perks=839105230,1687452232,573122728,1427256713
+dimwishlist:item=727781522&perks=839105230,1687452232,573122728,254337357
+
+
 // Eyes Unveiled - PVP (pvp)
 //notes: MW: Charge Time or Stability. Polygonal Rifling is the ideal option here as it bumps our Stability. This bonus is furthered by Particle Repeater, which helps bring our Stability up to 75. In perk slot 1, Perfect Float is the ideal pick here as it drastically improves our flinch resistance, bringing it from 16.19% to a whopping 45.52% flinch resistance. For our second perk, we recommend Discord as it has the potential to give you a lot of heavy ammo, should you score kills while Discord is active. tags:pvp
 dimwishlist:item=727781522&perks=2272927194,3978468247
 dimwishlist:item=727781522&perks=2272927194,906981559
 dimwishlist:item=727781522&perks=711628886,3978468247
 dimwishlist:item=727781522&perks=711628886,906981559
+
+
+// Eyes Unveiled - PVE (pve)
+//notes: For our barrel, we are going to opt for Arrowhead Break, as it massively improves the recoil direction of the weapon, making it easier to stay on target. For the magazine, Liquid Coils is the standard choice. 
+For perk 1, we suggest Overflow. This perk allows you to go far beyond the regular constraints of the magazine, and when paired with Runneth Over, you can potentially bring the magazine up to a whopping 18 shots. Alternatively, Triple Tap is a decent option as it is an easy way to help your ammo economy. In perk slot 2, we recommend Reservoir Burst. Due to the pairing we have between Runneth Over and Overflow, we can use Reservoir Burst to take advantage of the ammo we have available. Another option is Frenzy. This perk boosts our Handling and Reload speed while also giving us a lower but more consistent 15% damage bonus. tags:pve
+dimwishlist:item=727781522&perks=3643424744,4104185692
+dimwishlist:item=727781522&perks=3643424744,3007133316
+dimwishlist:item=727781522&perks=3643424744,1427256713
+dimwishlist:item=727781522&perks=3643424744,254337357
+dimwishlist:item=727781522&perks=2682205016,4104185692
+dimwishlist:item=727781522&perks=2682205016,3007133316
+dimwishlist:item=727781522&perks=2682205016,1427256713
+dimwishlist:item=727781522&perks=2682205016,254337357
+dimwishlist:item=727781522&perks=3400784728,4104185692
+dimwishlist:item=727781522&perks=3400784728,3007133316
+dimwishlist:item=727781522&perks=3400784728,1427256713
+dimwishlist:item=727781522&perks=3400784728,254337357
+dimwishlist:item=727781522&perks=573122728,4104185692
+dimwishlist:item=727781522&perks=573122728,3007133316
+dimwishlist:item=727781522&perks=573122728,1427256713
+dimwishlist:item=727781522&perks=573122728,254337357
 
 
 // Qua Furor V - PVE (god-pve)
