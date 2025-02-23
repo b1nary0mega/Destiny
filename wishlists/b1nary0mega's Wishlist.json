@@ -13229,6 +13229,596 @@
             "tags": [
                 "PVE"
             ]
+        },
+        {
+            "description": "MW: Stability. To make this clunky weapon feel slightly better, we are opting for Arrowhead Brake and a Stability Masterwork, as the base stats on this gun are relatively low. Appended Mag is also good for slightly boosting the magazine size. Thankfully, we have Frenzy to help with handling or reload troubles, meaning we can be flexible with our barrel and magazine choices. For perk 1, we like Dragonfly to give the weapon some AoE potential, but Hatchling can work as an alternative, particularly if you are on Strand. For Perk 2, Frenzy is ideal to boost that Reload Speed while also giving a nice 15% damage boost. However, you can go for Elemental Honing if you want more damage.",
+            "hash": 2485881870,
+            "name": "PVE",
+            "plugs": [
+                [
+                    839105230
+                ],
+                [
+                    1087426260
+                ],
+                [
+                    2848615171,
+                    169755979,
+                    831391274,
+                    102912326
+                ],
+                [
+                    4104185692,
+                    3007133316
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "MW: Stability. To make this clunky weapon feel slightly better, we are opting for Arrowhead Brake and a Stability Masterwork, as the base stats on this gun are relatively low. Appended Mag is also good for slightly boosting the magazine size. Thankfully, we have Frenzy to help with handling or reload troubles, meaning we can be flexible with our barrel and magazine choices. For perk 1, we like Dragonfly to give the weapon some AoE potential, but Hatchling can work as an alternative, particularly if you are on Strand. For Perk 2, Frenzy is ideal to boost that Reload Speed while also giving a nice 15% damage boost. However, you can go for Elemental Honing if you want more damage.",
+            "hash": 2485881870,
+            "name": "PVE",
+            "plugs": [
+                [
+                    2848615171,
+                    169755979,
+                    831391274,
+                    102912326
+                ],
+                [
+                    4104185692,
+                    3007133316,
+                    1089671869,
+                    496047945
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "MW: Handling. In PvE, we’ll begin with Fluted Barrel, Light Battery, and a handling masterwork for a nice sweep of potent stats. From there, Shoot to Loot and Detonator Beam proves to be a monster of a combo for high-level activities, especially when using a double special weapon or Cenotaph Mask loadout. Tear is also worth mentioning in the first column, a new perk that offers some significant utility against larger groups of enemies.",
+            "hash": 1303313141,
+            "name": "",
+            "plugs": [
+                [
+                    1840239774
+                ],
+                [
+                    2749775325
+                ],
+                [
+                    3700496672,
+                    2840833776,
+                    960997401,
+                    3244229373
+                ],
+                [
+                    4198902903,
+                    222783511,
+                    557221067,
+                    2896748467
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "MW: Handling. In PvE, we’ll begin with Fluted Barrel, Light Battery, and a handling masterwork for a nice sweep of potent stats. From there, Shoot to Loot and Detonator Beam proves to be a monster of a combo for high-level activities, especially when using a double special weapon or Cenotaph Mask loadout. Tear is also worth mentioning in the first column, a new perk that offers some significant utility against larger groups of enemies.",
+            "hash": 1303313141,
+            "name": "",
+            "plugs": [
+                [
+                    3700496672,
+                    2840833776,
+                    960997401,
+                    3244229373
+                ],
+                [
+                    4198902903,
+                    222783511,
+                    557221067,
+                    2896748467
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "MW: Handling. For our barrel, Fluted Barrel is the optimal choice thanks to the quality of life it provides with the Handling boost. Appended Mag is also ideal for our Magazine because of the boost to the magazine it gives. For perk 1, Firefly is the best pick as it helps with add clear massively by providing an AoE explosion. This is furthered by us choosing Voltshot in the second perk slot to make this weapon an add-clearing machine.",
+            "hash": 2226158470,
+            "name": "PVE",
+            "plugs": [
+                [
+                    1840239774
+                ],
+                [
+                    1087426260
+                ],
+                [
+                    3824105627,
+                    1183436451
+                ],
+                [
+                    2173046394,
+                    1720528630
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "MW: Handling. For our barrel, Fluted Barrel is the optimal choice thanks to the quality of life it provides with the Handling boost. Appended Mag is also ideal for our Magazine because of the boost to the magazine it gives. For perk 1, Firefly is the best pick as it helps with add clear massively by providing an AoE explosion. This is furthered by us choosing Voltshot in the second perk slot to make this weapon an add-clearing machine.",
+            "hash": 2226158470,
+            "name": "PVE",
+            "plugs": [
+                [
+                    3824105627,
+                    1183436451
+                ],
+                [
+                    2173046394,
+                    1720528630
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "MW: Stability. Polygonal Rifling or Arrowhead Brake are the best options for the barrel as they further increase stability or improve the recoil direction of the weapon. Ricochet Rounds is good for the same Stability-boosting reasons. In perk slot 1, Rapid Hit is a clear choice as while Keep Away is appealing, Scouts rarely need more range; however, it does work as an alternative. For perk slot 2, Precision Instrument is the obvious winner as it makes the time-to-kill a blindingly fast 0.7s with 4 headshots. However, Zen Moment also works if you’d prefer a more consistent and easier option.",
+            "hash": 2226158470,
+            "name": "PVP",
+            "plugs": [
+                [
+                    1392496348,
+                    839105230
+                ],
+                [
+                    1885400500
+                ],
+                [
+                    247725512,
+                    2938480696,
+                    3619207468,
+                    3198323828
+                ],
+                [
+                    555281244,
+                    332733060,
+                    2387244414,
+                    1748774930
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "MW: Stability. Polygonal Rifling or Arrowhead Brake are the best options for the barrel as they further increase stability or improve the recoil direction of the weapon. Ricochet Rounds is good for the same Stability-boosting reasons. In perk slot 1, Rapid Hit is a clear choice as while Keep Away is appealing, Scouts rarely need more range; however, it does work as an alternative. For perk slot 2, Precision Instrument is the obvious winner as it makes the time-to-kill a blindingly fast 0.7s with 4 headshots. However, Zen Moment also works if you’d prefer a more consistent and easier option.",
+            "hash": 2226158470,
+            "name": "PVP",
+            "plugs": [
+                [
+                    247725512,
+                    2938480696,
+                    3619207468,
+                    3198323828
+                ],
+                [
+                    555281244,
+                    332733060,
+                    2387244414,
+                    1748774930
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "MW: Handling. Fluted Barrel and a handling masterwork grant us tons of additional handling, which is super important for PvE. For our magazine, it’s a toss-up between Assault Mag and Tactical Mag. Assault Mag increases the rate of fire, while Tactical Mag gives some various stat buffs; the choice between them is yours. Fourth Time’s the Charm is our first pick for column three, primarily because slug shotguns aren’t commonly used in full DPS rotations where Envious Arsenal would be better. Bait and Switch, however, is still the best damage perk out of the bunch, granting a whopping 30% increase. Finally, while using a slug shotgun for ad clear seems a bit silly, we’d be remiss if we didn’t mention Destabilizing Rounds and Demoralize. The combination only excels in casual settings, but it can be pretty fun with a potent Void build.",
+            "hash": 3360937899,
+            "name": "PVE",
+            "plugs": [
+                [
+                    1840239774
+                ],
+                [
+                    791862061,
+                    106909392
+                ],
+                [
+                    1354429876,
+                    3987942396,
+                    848860060,
+                    2817499044
+                ],
+                [
+                    3078487919,
+                    3744057135
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "MW: Handling. Fluted Barrel and a handling masterwork grant us tons of additional handling, which is super important for PvE. For our magazine, it’s a toss-up between Assault Mag and Tactical Mag. Assault Mag increases the rate of fire, while Tactical Mag gives some various stat buffs; the choice between them is yours. Fourth Time’s the Charm is our first pick for column three, primarily because slug shotguns aren’t commonly used in full DPS rotations where Envious Arsenal would be better. Bait and Switch, however, is still the best damage perk out of the bunch, granting a whopping 30% increase. Finally, while using a slug shotgun for ad clear seems a bit silly, we’d be remiss if we didn’t mention Destabilizing Rounds and Demoralize. The combination only excels in casual settings, but it can be pretty fun with a potent Void build.",
+            "hash": 3360937899,
+            "name": "PVE",
+            "plugs": [
+                [
+                    1354429876,
+                    3987942396,
+                    848860060,
+                    2817499044
+                ],
+                [
+                    3078487919,
+                    3744057135
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "MW: Handling. Fluted Barrel, Accurized Rounds, and a handling masterwork make up the base of our PvP roll. A range masterwork could be opted for instead to push the range stat to an even 100, but our fourth perk also passively grants range, making a masterwork for it rather repetitive. Lone Wolf offers multiple great benefits even when not technically active, making it our first pick for column three. For our final perk, Closing Time is the play. Realistically, it’ll be active all the time due to how little special ammo you typically work off of in The Crucible, making it pretty potent here.",
+            "hash": 3360937899,
+            "name": "PVP",
+            "plugs": [
+                [
+                    1840239774
+                ],
+                [
+                    3142289711
+                ],
+                [
+                    2579169598,
+                    2073244114
+                ],
+                [
+                    1194056669,
+                    3955464425
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "MW: Handling. Fluted Barrel, Accurized Rounds, and a handling masterwork make up the base of our PvP roll. A range masterwork could be opted for instead to push the range stat to an even 100, but our fourth perk also passively grants range, making a masterwork for it rather repetitive. Lone Wolf offers multiple great benefits even when not technically active, making it our first pick for column three. For our final perk, Closing Time is the play. Realistically, it’ll be active all the time due to how little special ammo you typically work off of in The Crucible, making it pretty potent here.",
+            "hash": 3360937899,
+            "name": "PVP",
+            "plugs": [
+                [
+                    2579169598,
+                    2073244114
+                ],
+                [
+                    1194056669,
+                    3955464425
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "MW: Velocity. For our barrel, we like Quick Launch as the primary roll on this weapon focuses on using Cynosure as a part of a weapon damage rotation, and Quick Launch improves Handling. Impact Casing is the default pick for the magazine as it slightly increases your damage. Envious Arsenal is the best option for perk slot one as it massively improves the viability of Cynosure as a DPS weapon; however, Clown Cartridge is a decent alternative to turn this weapon into a single-weapon damage tool. For perk two, Explosive Light is the most accessible damage trait as it simply requires the gathering of Orbs, which is incredibly simple. As mentioned earlier, High Ground can work as another damage perk, but it is more conditional. Bipod is also a good choice; however, it’ll turn Cynosure into more of an add-clear focused weapon rather than a DPS option.",
+            "hash": 694275488,
+            "name": "PVE",
+            "plugs": [
+                [
+                    3525010810
+                ],
+                [
+                    3796465595
+                ],
+                [
+                    3987942396,
+                    2284787283,
+                    2817499044,
+                    3563868667
+                ],
+                [
+                    3194351027,
+                    2275087323
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "MW: Velocity. For our barrel, we like Quick Launch as the primary roll on this weapon focuses on using Cynosure as a part of a weapon damage rotation, and Quick Launch improves Handling. Impact Casing is the default pick for the magazine as it slightly increases your damage. Envious Arsenal is the best option for perk slot one as it massively improves the viability of Cynosure as a DPS weapon; however, Clown Cartridge is a decent alternative to turn this weapon into a single-weapon damage tool. For perk two, Explosive Light is the most accessible damage trait as it simply requires the gathering of Orbs, which is incredibly simple. As mentioned earlier, High Ground can work as another damage perk, but it is more conditional. Bipod is also a good choice; however, it’ll turn Cynosure into more of an add-clear focused weapon rather than a DPS option.",
+            "hash": 694275488,
+            "name": "PVE",
+            "plugs": [
+                [
+                    3987942396,
+                    2284787283,
+                    2817499044,
+                    3563868667
+                ],
+                [
+                    3194351027,
+                    2275087323
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "MW: Range. High-Impact Scout Rifles are quite powerful if you can get a damage perk on them. Admetus-D certainly fits the bill. Frenzy, Precision Instrument, Elemental Honing, and even Withering Gaze are all obtainable on this weapon. The damage perk you choose in PvE will mostly boil down to preference. In our view, if you're using a Void Primary, you're most likely leaning into Repulsor Brace for high Overshield uptime. For that, use Demoralize or Withering Gaze.",
+            "hash": 3776430252,
+            "name": "PVE",
+            "plugs": [
+                [
+                    1482024992
+                ],
+                [
+                    1561002382
+                ],
+                [
+                    776531651,
+                    2541826827
+                ],
+                [
+                    1134488199,
+                    1464081238,
+                    2904194311,
+                    2813913866
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "MW: Range. High-Impact Scout Rifles are quite powerful if you can get a damage perk on them. Admetus-D certainly fits the bill. Frenzy, Precision Instrument, Elemental Honing, and even Withering Gaze are all obtainable on this weapon. The damage perk you choose in PvE will mostly boil down to preference. In our view, if you're using a Void Primary, you're most likely leaning into Repulsor Brace for high Overshield uptime. For that, use Demoralize or Withering Gaze.",
+            "hash": 3776430252,
+            "name": "PVE",
+            "plugs": [
+                [
+                    776531651,
+                    2541826827
+                ],
+                [
+                    1134488199,
+                    1464081238,
+                    2904194311,
+                    2813913866
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 558794124,
+            "name": "PVP",
+            "plugs": [
+                [
+                    839105230
+                ],
+                [
+                    2420895100
+                ],
+                [
+                    2387244414,
+                    1748774930
+                ],
+                [
+                    460017080,
+                    4045335048
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 558794124,
+            "name": "PVP",
+            "plugs": [
+                [
+                    2387244414,
+                    1748774930
+                ],
+                [
+                    460017080,
+                    4045335048
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 342027677,
+            "name": "PVE",
+            "plugs": [
+                [
+                    839105230
+                ],
+                [
+                    689005463
+                ],
+                [
+                    2010801679,
+                    3797647183
+                ],
+                [
+                    3218042543,
+                    2633604463
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 342027677,
+            "name": "PVE",
+            "plugs": [
+                [
+                    2010801679,
+                    3797647183
+                ],
+                [
+                    3218042543,
+                    2633604463
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 1587953057,
+            "name": "PVE",
+            "plugs": [
+                [
+                    436053704
+                ],
+                [
+                    52780822
+                ],
+                [
+                    1749209109,
+                    4085959009
+                ],
+                [
+                    2396489472,
+                    598607952
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 1587953057,
+            "name": "PVE",
+            "plugs": [
+                [
+                    1749209109,
+                    4085959009
+                ],
+                [
+                    2396489472,
+                    598607952
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "MW: Reload or Stability",
+            "hash": 751880654,
+            "name": "PVE",
+            "plugs": [
+                [
+                    839105230
+                ],
+                [
+                    1087426260
+                ],
+                [
+                    2779035018,
+                    1171147302
+                ],
+                [
+                    2848615171,
+                    169755979
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "MW: Reload or Stability",
+            "hash": 751880654,
+            "name": "PVE",
+            "plugs": [
+                [
+                    2779035018,
+                    1171147302
+                ],
+                [
+                    2848615171,
+                    169755979
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "For our barrel, we are going to opt for Arrowhead Break, as it massively improves the recoil direction of the weapon, making it easier to stay on target. For the magazine, Liquid Coils is the standard choice. \nFor perk 1, we suggest Overflow. This perk allows you to go far beyond the regular constraints of the magazine, and when paired with Runneth Over, you can potentially bring the magazine up to a whopping 18 shots. Alternatively, Triple Tap is a decent option as it is an easy way to help your ammo economy. In perk slot 2, we recommend Reservoir Burst. Due to the pairing we have between Runneth Over and Overflow, we can use Reservoir Burst to take advantage of the ammo we have available. Another option is Frenzy. This perk boosts our Handling and Reload speed while also giving us a lower but more consistent 15% damage bonus.",
+            "hash": 727781522,
+            "name": "PVE",
+            "plugs": [
+                [
+                    839105230
+                ],
+                [
+                    1687452232
+                ],
+                [
+                    3643424744,
+                    2682205016,
+                    3400784728,
+                    573122728
+                ],
+                [
+                    4104185692,
+                    3007133316,
+                    1427256713,
+                    254337357
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "For our barrel, we are going to opt for Arrowhead Break, as it massively improves the recoil direction of the weapon, making it easier to stay on target. For the magazine, Liquid Coils is the standard choice. \nFor perk 1, we suggest Overflow. This perk allows you to go far beyond the regular constraints of the magazine, and when paired with Runneth Over, you can potentially bring the magazine up to a whopping 18 shots. Alternatively, Triple Tap is a decent option as it is an easy way to help your ammo economy. In perk slot 2, we recommend Reservoir Burst. Due to the pairing we have between Runneth Over and Overflow, we can use Reservoir Burst to take advantage of the ammo we have available. Another option is Frenzy. This perk boosts our Handling and Reload speed while also giving us a lower but more consistent 15% damage bonus.",
+            "hash": 727781522,
+            "name": "PVE",
+            "plugs": [
+                [
+                    3643424744,
+                    2682205016,
+                    3400784728,
+                    573122728
+                ],
+                [
+                    4104185692,
+                    3007133316,
+                    1427256713,
+                    254337357
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
         }
     ]
 }
