@@ -1338,6 +1338,30 @@ dimwishlist:item=874623537&perks=424370782,3078487919
 dimwishlist:item=874623537&perks=424370782,3744057135
 
 
+// Cruoris FR4 - PVE (god-pve)
+//notes: tags:god-pve
+dimwishlist:item=891996636&perks=839105230,689005463,684456054,3218042543
+dimwishlist:item=891996636&perks=839105230,689005463,684456054,2633604463
+dimwishlist:item=891996636&perks=839105230,689005463,2785334058,3218042543
+dimwishlist:item=891996636&perks=839105230,689005463,2785334058,2633604463
+dimwishlist:item=891996636&perks=839105230,689005463,3978468247,3218042543
+dimwishlist:item=891996636&perks=839105230,689005463,3978468247,2633604463
+dimwishlist:item=891996636&perks=839105230,689005463,906981559,3218042543
+dimwishlist:item=891996636&perks=839105230,689005463,906981559,2633604463
+
+
+// Cruoris FR4 - PVE (pve)
+//notes: tags:pve
+dimwishlist:item=891996636&perks=684456054,3218042543
+dimwishlist:item=891996636&perks=684456054,2633604463
+dimwishlist:item=891996636&perks=2785334058,3218042543
+dimwishlist:item=891996636&perks=2785334058,2633604463
+dimwishlist:item=891996636&perks=3978468247,3218042543
+dimwishlist:item=891996636&perks=3978468247,2633604463
+dimwishlist:item=891996636&perks=906981559,3218042543
+dimwishlist:item=891996636&perks=906981559,2633604463
+
+
 // Wild Style (Adept) - PVE (god-pve)
 //notes: MW: Reload; Compared to Wilderflight, Wild Style offers a much broader scope of perks. Where Wilderflight had a lot of damage buffing perks, Wild Style has a mix of damage and utility, which makes it much more flexible, though most will probably opt to use this as a damage weapon. However, the mainstays of Hard Launch and Spike Grenades will always be needed if using this for PvE. Blinding Grenades might also benefit you if you enjoy using them, especially given that you get two for one in each activation. For Perk 1, there are a few good ones that will help buff reload speed, while Envious Assassin is your only “free reload” perk. No Auto-Loading is an interesting sight, but there’s more than enough to compensate for it. Perk 2 is going to be your damage or utility perk, with Surrounded and Incandescent filling those roles very nicely. The pairing of Danger Zone and Surrounded means you can use this almost as a shotgun, and in doing so, you take full advantage of the increased damage over regular breech loaders. tags:god-pve
 dimwishlist:item=959037361&perks=981914802,3301904089,968510818,4293542123
