@@ -13819,6 +13819,294 @@
             "tags": [
                 "PVE"
             ]
+        },
+        {
+            "description": "",
+            "hash": 891996636,
+            "name": "PVE",
+            "plugs": [
+                [
+                    839105230
+                ],
+                [
+                    689005463
+                ],
+                [
+                    684456054,
+                    2785334058,
+                    3978468247,
+                    906981559
+                ],
+                [
+                    3218042543,
+                    2633604463
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 891996636,
+            "name": "PVE",
+            "plugs": [
+                [
+                    684456054,
+                    2785334058,
+                    3978468247,
+                    906981559
+                ],
+                [
+                    3218042543,
+                    2633604463
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "MW: Handling or Reload; We’ll start our PvE roll with Fluted Barrel, Tactical Mag, and a handling masterwork for a mix of stat boosts. If reload speed becomes a problem as a result of opting against Outlaw, the masterwork can be swapped for reload speed. Explosive Payload isn’t an absurdly popular choice for PvE, but it’s the best The Palindrome has in this column. Plus, it supports our final column choice, Master of Arms, in increasing raw power. Speaking of which, Master of Arms is the best pick for column four, adding a 25% damage bonus when at two stacks.",
+            "hash": 4077588826,
+            "name": "PVE",
+            "plugs": [
+                [
+                    1840239774
+                ],
+                [
+                    106909392
+                ],
+                [
+                    1168162263,
+                    3038247973,
+                    1347741687,
+                    64866129
+                ],
+                [
+                    3218042543,
+                    2633604463,
+                    3081867624,
+                    2963273944
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "MW: Range; In The Crucible, prioritizing range and stability are vital. As a result, we’ll opt for Smallbore, Accurized Rounds, and a Range masterwork. Explosive Payload provides similar benefits, effectively adding some additional flinch and range. Magnificent Howl is a great choice for the final column—that is, assuming you’re skilled enough to chain multiple precision kills in one life. If you aren’t, or if you prefer a stat-boosting perk instead, Opening Shot will serve you well.",
+            "hash": 4077588826,
+            "name": "PVP",
+            "plugs": [
+                [
+                    1482024992
+                ],
+                [
+                    3142289711
+                ],
+                [
+                    3038247973,
+                    64866129
+                ],
+                [
+                    2720533289,
+                    3042219245,
+                    47981717,
+                    1370847713
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "MW: Range; In The Crucible, prioritizing range and stability are vital. As a result, we’ll opt for Smallbore, Accurized Rounds, and a Range masterwork. Explosive Payload provides similar benefits, effectively adding some additional flinch and range. Magnificent Howl is a great choice for the final column—that is, assuming you’re skilled enough to chain multiple precision kills in one life. If you aren’t, or if you prefer a stat-boosting perk instead, Opening Shot will serve you well.",
+            "hash": 4077588826,
+            "name": "PVP",
+            "plugs": [
+                [
+                    3038247973,
+                    64866129
+                ],
+                [
+                    2720533289,
+                    3042219245,
+                    47981717,
+                    1370847713
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "MW: Handling or Reload; We’ll start our PvE roll with Fluted Barrel, Tactical Mag, and a handling masterwork for a mix of stat boosts. If reload speed becomes a problem as a result of opting against Outlaw, the masterwork can be swapped for reload speed. Explosive Payload isn’t an absurdly popular choice for PvE, but it’s the best The Palindrome has in this column. Plus, it supports our final column choice, Master of Arms, in increasing raw power. Speaking of which, Master of Arms is the best pick for column four, adding a 25% damage bonus when at two stacks.",
+            "hash": 4077588826,
+            "name": "PVE",
+            "plugs": [
+                [
+                    1168162263,
+                    3038247973,
+                    1347741687,
+                    64866129
+                ],
+                [
+                    3218042543,
+                    2633604463,
+                    3081867624,
+                    2963273944
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "MW: Handling; To improve the feel of Keraunios, we recommend Fluted Barrel, Light Battery, and a Handling Masterwork, boosting the Handling to 84. For perk slot one, Recycled Energy is the more standard pick, but Discord has a lot of value, particularly for players who enjoy using Trace Rifles in a double-special ammo loadout. In perk slot two, you have a ton of options, but we recommend one of Jolting Feedback, Detonator Beam, or Rolling Storm, all of which improve the lethality of the weapon.",
+            "hash": 2029899814,
+            "name": "PVE",
+            "plugs": [
+                [
+                    1840239774
+                ],
+                [
+                    2749775325
+                ],
+                [
+                    3713215006,
+                    3555252274
+                ],
+                [
+                    4198902903,
+                    3218042543,
+                    3966416502,
+                    222783511,
+                    2633604463,
+                    717070634
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "MW: Handling; To improve the feel of Keraunios, we recommend Fluted Barrel, Light Battery, and a Handling Masterwork, boosting the Handling to 84. For perk slot one, Recycled Energy is the more standard pick, but Discord has a lot of value, particularly for players who enjoy using Trace Rifles in a double-special ammo loadout. In perk slot two, you have a ton of options, but we recommend one of Jolting Feedback, Detonator Beam, or Rolling Storm, all of which improve the lethality of the weapon.",
+            "hash": 2029899814,
+            "name": "PVE",
+            "plugs": [
+                [
+                    3713215006,
+                    3555252274
+                ],
+                [
+                    4198902903,
+                    3218042543,
+                    3966416502,
+                    222783511,
+                    2633604463,
+                    717070634
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "MW: Velocity; Starting off our PvE Roll, we’ve opted for Quick Launch as it provides a solid bump to Velocity, and a healthy increase to Handling which is always appreciated on Special weapons. This Velocity is further increased by High-Explosive Ordnance and a Velocity Masterwork. Our magazine choice also has the added benefit of slightly boosting our Blast Radius. Perk slot 1 has a plethora of brilliant options. While we have chosen Repulsor Brace as our main pick, it is tough to ignore Feeding Frenzy and Reconstruction. If you don’t want to fully lean into a Void build, one of those reload perks will serve you well. Perk slot 2 comes with the perk on everybody’s lips: Destabilizing Rounds. This is brilliant when paired with Repulsor Brace, but it also works well alone. However, if you want to forgo the Volatile capabilities of the perk, you can opt for Withering Gaze and treat Lotus-Eater as a utility pick rather than an add-clearing tool.",
+            "hash": 3922217119,
+            "name": "PVE",
+            "plugs": [
+                [
+                    3525010810
+                ],
+                [
+                    1380253176
+                ],
+                [
+                    776531651,
+                    2541826827
+                ],
+                [
+                    2048641572,
+                    1926441324
+                ],
+                [
+                    744217850
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "MW: Velocity; Starting off our PvE Roll, we’ve opted for Quick Launch as it provides a solid bump to Velocity, and a healthy increase to Handling which is always appreciated on Special weapons. This Velocity is further increased by High-Explosive Ordnance and a Velocity Masterwork. Our magazine choice also has the added benefit of slightly boosting our Blast Radius. Perk slot 1 has a plethora of brilliant options. While we have chosen Repulsor Brace as our main pick, it is tough to ignore Feeding Frenzy and Reconstruction. If you don’t want to fully lean into a Void build, one of those reload perks will serve you well. Perk slot 2 comes with the perk on everybody’s lips: Destabilizing Rounds. This is brilliant when paired with Repulsor Brace, but it also works well alone. However, if you want to forgo the Volatile capabilities of the perk, you can opt for Withering Gaze and treat Lotus-Eater as a utility pick rather than an add-clearing tool.",
+            "hash": 3922217119,
+            "name": "PVE",
+            "plugs": [
+                [
+                    776531651,
+                    2541826827
+                ],
+                [
+                    2048641572,
+                    1926441324
+                ],
+                [
+                    744217850
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "MW: Velocity; Starting off our PvE Roll, we’ve opted for Quick Launch as it provides a solid bump to Velocity, and a healthy increase to Handling which is always appreciated on Special weapons. This Velocity is further increased by High-Explosive Ordnance and a Velocity Masterwork. Our magazine choice also has the added benefit of slightly boosting our Blast Radius. Perk slot 1 has a plethora of brilliant options. While we have chosen Repulsor Brace as our main pick, it is tough to ignore Feeding Frenzy and Reconstruction. If you don’t want to fully lean into a Void build, one of those reload perks will serve you well. Perk slot 2 comes with the perk on everybody’s lips: Destabilizing Rounds. This is brilliant when paired with Repulsor Brace, but it also works well alone. However, if you want to forgo the Volatile capabilities of the perk, you can opt for Withering Gaze and treat Lotus-Eater as a utility pick rather than an add-clearing tool.",
+            "hash": 2697143634,
+            "name": "",
+            "plugs": [
+                [
+                    3525010810
+                ],
+                [
+                    1380253176
+                ],
+                [
+                    2541826827,
+                    776531651
+                ],
+                [
+                    1926441324,
+                    2048641572
+                ],
+                [
+                    744217850
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "MW: Velocity; Starting off our PvE Roll, we’ve opted for Quick Launch as it provides a solid bump to Velocity, and a healthy increase to Handling which is always appreciated on Special weapons. This Velocity is further increased by High-Explosive Ordnance and a Velocity Masterwork. Our magazine choice also has the added benefit of slightly boosting our Blast Radius. Perk slot 1 has a plethora of brilliant options. While we have chosen Repulsor Brace as our main pick, it is tough to ignore Feeding Frenzy and Reconstruction. If you don’t want to fully lean into a Void build, one of those reload perks will serve you well. Perk slot 2 comes with the perk on everybody’s lips: Destabilizing Rounds. This is brilliant when paired with Repulsor Brace, but it also works well alone. However, if you want to forgo the Volatile capabilities of the perk, you can opt for Withering Gaze and treat Lotus-Eater as a utility pick rather than an add-clearing tool.",
+            "hash": 2697143634,
+            "name": "",
+            "plugs": [
+                [
+                    2541826827,
+                    776531651
+                ],
+                [
+                    1926441324,
+                    2048641572
+                ],
+                [
+                    744217850
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
         }
     ]
 }
