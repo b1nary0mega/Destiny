@@ -16,6 +16,14 @@ dimwishlist:item=25228802&perks=5699512,3721627275,906981559,31345821
 dimwishlist:item=25228802&perks=5699512,3721627275,906981559,639190697
 dimwishlist:item=25228802&perks=5699512,3721627275,906981559,1782407750
 dimwishlist:item=25228802&perks=5699512,3721627275,906981559,2241043034
+dimwishlist:item=25228802&perks=5699512,3721627275,923806249,31345821
+dimwishlist:item=25228802&perks=5699512,3721627275,923806249,639190697
+dimwishlist:item=25228802&perks=5699512,3721627275,923806249,1782407750
+dimwishlist:item=25228802&perks=5699512,3721627275,923806249,2241043034
+dimwishlist:item=25228802&perks=5699512,3721627275,3422796781,31345821
+dimwishlist:item=25228802&perks=5699512,3721627275,3422796781,639190697
+dimwishlist:item=25228802&perks=5699512,3721627275,3422796781,1782407750
+dimwishlist:item=25228802&perks=5699512,3721627275,3422796781,2241043034
 
 
 // Refusal of the Call (Adept) - PVE (pve)
@@ -28,6 +36,14 @@ dimwishlist:item=25228802&perks=5699512,3721627275,906981559,31345821
 dimwishlist:item=25228802&perks=5699512,3721627275,906981559,639190697
 dimwishlist:item=25228802&perks=5699512,3721627275,906981559,1782407750
 dimwishlist:item=25228802&perks=5699512,3721627275,906981559,2241043034
+dimwishlist:item=25228802&perks=5699512,3721627275,923806249,31345821
+dimwishlist:item=25228802&perks=5699512,3721627275,923806249,639190697
+dimwishlist:item=25228802&perks=5699512,3721627275,923806249,1782407750
+dimwishlist:item=25228802&perks=5699512,3721627275,923806249,2241043034
+dimwishlist:item=25228802&perks=5699512,3721627275,3422796781,31345821
+dimwishlist:item=25228802&perks=5699512,3721627275,3422796781,639190697
+dimwishlist:item=25228802&perks=5699512,3721627275,3422796781,1782407750
+dimwishlist:item=25228802&perks=5699512,3721627275,3422796781,2241043034
 
 
 // Temptation's Hook - PVE (god-pve)
@@ -267,12 +283,44 @@ dimwishlist:item=302039451&perks=1482024992,3142289711,2682205016,31345821
 dimwishlist:item=302039451&perks=1482024992,3142289711,2682205016,639190697
 
 
+// Mirror Imago (Adept) - PVE (god-pve)
+//notes: MW: Stability; For some basic QoL, we’ll be running Fluted Barrel and Tactical Mag, as these keep the weapon feeling very consistent. Pair it with a stability masterwork and the Willing Vessel origin trait, and you’ll have no issue keeping shots on target. Perk 1 doesn’t have a lot of PvE options, but Grave Robber or Pugilist are easily the top two. Subsistence, while nice, might struggle in higher end activities or against heftier ads. As for Perk 2, any of the four damage options are nice, but Sword Logic or Swashbuckler feed into Perk 1’s options so that it’s hard to pick any others. tags:god-pve
+dimwishlist:item=302039451&perks=1840239774,106909392,1631667848,31345821
+dimwishlist:item=302039451&perks=1840239774,106909392,1631667848,639190697
+dimwishlist:item=302039451&perks=1840239774,106909392,402033656,31345821
+dimwishlist:item=302039451&perks=1840239774,106909392,402033656,639190697
+
+
+// Mirror Imago (Adept) - PVE-Melee (god-pve)
+//notes: MW: Stability; For some basic QoL, we’ll be running Fluted Barrel and Tactical Mag, as these keep the weapon feeling very consistent. Pair it with a stability masterwork and the Willing Vessel origin trait, and you’ll have no issue keeping shots on target. Perk 1 doesn’t have a lot of PvE options, but Grave Robber or Pugilist are easily the top two. Subsistence, while nice, might struggle in higher end activities or against heftier ads. As for Perk 2, any of the four damage options are nice, but Sword Logic or Swashbuckler feed into Perk 1’s options so that it’s hard to pick any others. tags:god-pve
+dimwishlist:item=302039451&perks=1840239774,106909392,691659142,4082225868
+dimwishlist:item=302039451&perks=1840239774,106909392,691659142,1161469972
+dimwishlist:item=302039451&perks=1840239774,106909392,536173722,4082225868
+dimwishlist:item=302039451&perks=1840239774,106909392,536173722,1161469972
+
+
 // Mirror Imago (Adept) - PVE (pve)
 //notes: MW: Range. Mirror Imago is a Strand variant of The Recluse, firing at a blistering 900 RPM with virtually no recoil. PvE players should keep their eyes peeled for Overflow and Sword Logic. Overflow fixes the small magazine sizes that most SMGs suffer from, while Sword Logic gives you a monstrous damage bonus if you can kill a major or miniboss with your SMG. tags:pve
 dimwishlist:item=302039451&perks=3643424744,31345821
 dimwishlist:item=302039451&perks=3643424744,639190697
 dimwishlist:item=302039451&perks=2682205016,31345821
 dimwishlist:item=302039451&perks=2682205016,639190697
+
+
+// Mirror Imago (Adept) - PVE (pve)
+//notes: MW: Stability; For some basic QoL, we’ll be running Fluted Barrel and Tactical Mag, as these keep the weapon feeling very consistent. Pair it with a stability masterwork and the Willing Vessel origin trait, and you’ll have no issue keeping shots on target. Perk 1 doesn’t have a lot of PvE options, but Grave Robber or Pugilist are easily the top two. Subsistence, while nice, might struggle in higher end activities or against heftier ads. As for Perk 2, any of the four damage options are nice, but Sword Logic or Swashbuckler feed into Perk 1’s options so that it’s hard to pick any others. tags:pve
+dimwishlist:item=302039451&perks=1631667848,31345821
+dimwishlist:item=302039451&perks=1631667848,639190697
+dimwishlist:item=302039451&perks=402033656,31345821
+dimwishlist:item=302039451&perks=402033656,639190697
+
+
+// Mirror Imago (Adept) - PVE-Melee (pve)
+//notes: MW: Stability; For some basic QoL, we’ll be running Fluted Barrel and Tactical Mag, as these keep the weapon feeling very consistent. Pair it with a stability masterwork and the Willing Vessel origin trait, and you’ll have no issue keeping shots on target. Perk 1 doesn’t have a lot of PvE options, but Grave Robber or Pugilist are easily the top two. Subsistence, while nice, might struggle in higher end activities or against heftier ads. As for Perk 2, any of the four damage options are nice, but Sword Logic or Swashbuckler feed into Perk 1’s options so that it’s hard to pick any others. tags:pve
+dimwishlist:item=302039451&perks=691659142,4082225868
+dimwishlist:item=302039451&perks=691659142,1161469972
+dimwishlist:item=302039451&perks=536173722,4082225868
+dimwishlist:item=302039451&perks=536173722,1161469972
 
 
 // Hollow Words - PVE (god-pve)
@@ -4005,6 +4053,30 @@ dimwishlist:item=2249996761&perks=2938480696,3891536761
 dimwishlist:item=2249996761&perks=2938480696,1549370717
 
 
+// Anamnesis - PVE (god-pve)
+//notes: MW: Handling; We’ll begin with Elastic String for significantly decreased draw time and slightly increased handling. From there, Fiberglass Arrow Shaft is great to balance out the significant amount of accuracy we lost from Elastic String, while a handling masterwork rounds everything out nicely. The most obvious (and potent) roll here is the classic combination of Repulsor Brace and Destabilizing Rounds. After its buff with Heresy’s launch, Destabilizing Rounds is a monster on any weapon that can roll with it. If you want to instead embrace the explosion fantasy a bit more, replacing Repulsor Brace for Dragonfly isn’t a horrible choice in more casual settings. tags:god-pve
+dimwishlist:item=2291392465&perks=2801223209,3429800428,2848615171,2048641572
+dimwishlist:item=2291392465&perks=2801223209,3429800428,2848615171,1926441324
+dimwishlist:item=2291392465&perks=2801223209,3429800428,776531651,2048641572
+dimwishlist:item=2291392465&perks=2801223209,3429800428,776531651,1926441324
+dimwishlist:item=2291392465&perks=2801223209,3429800428,169755979,2048641572
+dimwishlist:item=2291392465&perks=2801223209,3429800428,169755979,1926441324
+dimwishlist:item=2291392465&perks=2801223209,3429800428,2541826827,2048641572
+dimwishlist:item=2291392465&perks=2801223209,3429800428,2541826827,1926441324
+
+
+// Anamnesis - PVE (pve)
+//notes: MW: Handling; We’ll begin with Elastic String for significantly decreased draw time and slightly increased handling. From there, Fiberglass Arrow Shaft is great to balance out the significant amount of accuracy we lost from Elastic String, while a handling masterwork rounds everything out nicely. The most obvious (and potent) roll here is the classic combination of Repulsor Brace and Destabilizing Rounds. After its buff with Heresy’s launch, Destabilizing Rounds is a monster on any weapon that can roll with it. If you want to instead embrace the explosion fantasy a bit more, replacing Repulsor Brace for Dragonfly isn’t a horrible choice in more casual settings. tags:pve
+dimwishlist:item=2291392465&perks=2848615171,2048641572
+dimwishlist:item=2291392465&perks=2848615171,1926441324
+dimwishlist:item=2291392465&perks=776531651,2048641572
+dimwishlist:item=2291392465&perks=776531651,1926441324
+dimwishlist:item=2291392465&perks=169755979,2048641572
+dimwishlist:item=2291392465&perks=169755979,1926441324
+dimwishlist:item=2291392465&perks=2541826827,2048641572
+dimwishlist:item=2291392465&perks=2541826827,1926441324
+
+
 // Rake Angle - PVE (god-pve)
 //notes: As mentioned earlier, the main drawback to this weapon is a low mag size, so to help in the frequent reloads, we’ll be using Low-Impedance Windings, as it also gives a slight boost to Shield Duration as well. Appended Mag with a Backup Mag mod should bump the mag up to 6, but if it doesn’t, Alloy Mag is your best bet as a single extra shot is far less useful than a quick reload. Perk 1 is going to be Replenishing Aegis. It is perfect for getting the most out of Chill Clip as every second you block damage, a round is refunded to the mag, allowing you to apply it way more. However, Rimestealer’s utility cannot be denied. The drawback is how little you might be activating it on account of the mag size not lending too well to Chill Clip. On that note, Chill Clip or Close to Melee are perfect Perk 2 picks. Chill Clip is tried and true no matter where it’s found, and Close to Melee is excellent for getting up close, especially when paired with Synthoceps. tags:god-pve
 dimwishlist:item=2298039571&perks=2713678205,1087426260,1955165503,2978966579
@@ -5699,6 +5771,22 @@ dimwishlist:item=2896109856&perks=2617553311,124408337
 dimwishlist:item=2896109856&perks=2617553311,1171887445
 
 
+// Division - PVE (god-pve)
+//notes: MW: Handling; Our PvE roll with begin with Fluted Barrel, Tactical Mag, and a handling masterwork, a classic combination that provides a nice balance of potent stats for PvE. Eddy Current isn’t an absurdly popular pick these days, but it’s the best the first column has here. Plus, it fits nicely with our final perk pick, which is Voltshot. Assuming you’re rocking an Arc build (which will be more potent this Episode through the artifact!), this combination is great for more casual activities. tags:god-pve
+dimwishlist:item=2903168058&perks=1840239774,106909392,684456054,2173046394
+dimwishlist:item=2903168058&perks=1840239774,106909392,684456054,1720528630
+dimwishlist:item=2903168058&perks=1840239774,106909392,2785334058,2173046394
+dimwishlist:item=2903168058&perks=1840239774,106909392,2785334058,1720528630
+
+
+// Division - PVE (pve)
+//notes: MW: Handling; Our PvE roll with begin with Fluted Barrel, Tactical Mag, and a handling masterwork, a classic combination that provides a nice balance of potent stats for PvE. Eddy Current isn’t an absurdly popular pick these days, but it’s the best the first column has here. Plus, it fits nicely with our final perk pick, which is Voltshot. Assuming you’re rocking an Arc build (which will be more potent this Episode through the artifact!), this combination is great for more casual activities. tags:pve
+dimwishlist:item=2903168058&perks=684456054,2173046394
+dimwishlist:item=2903168058&perks=684456054,1720528630
+dimwishlist:item=2903168058&perks=2785334058,2173046394
+dimwishlist:item=2903168058&perks=2785334058,1720528630
+
+
 // Scavenger's Fate - PVE (pve)
 //notes: tags:pve
 dimwishlist:item=2913577176&perks=25606670,2048641572
@@ -5886,6 +5974,22 @@ dimwishlist:item=3211624072&perks=2717805783,1523649716
 dimwishlist:item=3211806999&perks=3661387068,3142289711,2866798147,3465198467
 
 
+// Redrix's Estoc - PVP (god-pvp)
+//notes: MW: Range; Redrix’s Estoc has such high base stats, meaning we can choose to aim to boost Range massively, so we opt for Corkscrew Rifling, Accurised Rounds, and a Range Masterwork, getting us up to 85 Range with a Ballsitcs Mod applied. We also recommend Fitted Stock for a boost to Stability and Recoil Direction. In perk slot 1, consistency is king, so Zen Moment or Lone Wolf is best. In perk 2, Headseeker or Kill Clip is recommended. Headseeker gives you some leniency in your aim, but Kill Clip drops the time-to-kill to 0.53s. We suggest Kill Clip for 6v6 games and Headseeker for more competitive settings like Trials of Osiris. tags:god-pvp
+dimwishlist:item=3218364298&perks=4090651448,3142289711,2579169598,460017080
+dimwishlist:item=3218364298&perks=4090651448,3142289711,2579169598,4045335048
+dimwishlist:item=3218364298&perks=4090651448,3142289711,2073244114,460017080
+dimwishlist:item=3218364298&perks=4090651448,3142289711,2073244114,4045335048
+
+
+// Redrix's Estoc - PVP (pvp)
+//notes: MW: Range; Redrix’s Estoc has such high base stats, meaning we can choose to aim to boost Range massively, so we opt for Corkscrew Rifling, Accurised Rounds, and a Range Masterwork, getting us up to 85 Range with a Ballsitcs Mod applied. We also recommend Fitted Stock for a boost to Stability and Recoil Direction. In perk slot 1, consistency is king, so Zen Moment or Lone Wolf is best. In perk 2, Headseeker or Kill Clip is recommended. Headseeker gives you some leniency in your aim, but Kill Clip drops the time-to-kill to 0.53s. We suggest Kill Clip for 6v6 games and Headseeker for more competitive settings like Trials of Osiris. tags:pvp
+dimwishlist:item=3218364298&perks=2579169598,460017080
+dimwishlist:item=3218364298&perks=2579169598,4045335048
+dimwishlist:item=3218364298&perks=2073244114,460017080
+dimwishlist:item=3218364298&perks=2073244114,4045335048
+
+
 // Laser Painter - PVE (god-pve)
 //notes: MW: Range;  tags:god-pve
 dimwishlist:item=3221722018&perks=839105230,689005463,247725512,2896038713,3988215619
@@ -5940,6 +6044,30 @@ dimwishlist:item=3228096719&perks=2621346526,1771339417
 dimwishlist:item=3228096719&perks=2621346526,395388285
 dimwishlist:item=3228096719&perks=2495011826,1771339417
 dimwishlist:item=3228096719&perks=2495011826,395388285
+
+
+// Afterlight - PVE (god-pve)
+//notes: MW: Charge Time; Since we’ll be using this primarily as a swap weapon, we want to get as much handling as possible. For that, Fluted Barrel is perfect as it also gives us a little stability too. Accelerated Coils and a charge time masterwork are paramount to getting the most out of Discord, as you’ll be able to land 2 more bursts before it expires with them on. Perk 1 has some good PvE options, but none compare to Discord and Lead from Gold. As previously explained, Discord gives any special weapon high-power ad clear thanks to the ammo refund, and Lead from Gold can help if you choose to use this for damage, though you’ll want Runneth Over as well. Ambitious Assassin gets an honorable mention thanks to the rework removing the time requirements, letting you build up a larger mag. And Perk 2, of course, will be Reservoir Burst. While Destabilizing Rounds is a solid choice, Reservoir Burst is both an AoE perk and a damage perk, and considering you’ll be facing stronger targets, it’ll pay to take it over anything else. tags:god-pve
+dimwishlist:item=3228630258&perks=1840239774,689005463,1556840489,2048641572
+dimwishlist:item=3228630258&perks=1840239774,689005463,1556840489,1926441324
+dimwishlist:item=3228630258&perks=1840239774,689005463,1556840489,1427256713
+dimwishlist:item=3228630258&perks=1840239774,689005463,1556840489,254337357
+dimwishlist:item=3228630258&perks=1840239774,689005463,3442762221,2048641572
+dimwishlist:item=3228630258&perks=1840239774,689005463,3442762221,1926441324
+dimwishlist:item=3228630258&perks=1840239774,689005463,3442762221,1427256713
+dimwishlist:item=3228630258&perks=1840239774,689005463,3442762221,254337357
+
+
+// Afterlight - PVE (pve)
+//notes: MW: Charge Time; Since we’ll be using this primarily as a swap weapon, we want to get as much handling as possible. For that, Fluted Barrel is perfect as it also gives us a little stability too. Accelerated Coils and a charge time masterwork are paramount to getting the most out of Discord, as you’ll be able to land 2 more bursts before it expires with them on. Perk 1 has some good PvE options, but none compare to Discord and Lead from Gold. As previously explained, Discord gives any special weapon high-power ad clear thanks to the ammo refund, and Lead from Gold can help if you choose to use this for damage, though you’ll want Runneth Over as well. Ambitious Assassin gets an honorable mention thanks to the rework removing the time requirements, letting you build up a larger mag. And Perk 2, of course, will be Reservoir Burst. While Destabilizing Rounds is a solid choice, Reservoir Burst is both an AoE perk and a damage perk, and considering you’ll be facing stronger targets, it’ll pay to take it over anything else. tags:pve
+dimwishlist:item=3228630258&perks=1556840489,2048641572
+dimwishlist:item=3228630258&perks=1556840489,1926441324
+dimwishlist:item=3228630258&perks=1556840489,1427256713
+dimwishlist:item=3228630258&perks=1556840489,254337357
+dimwishlist:item=3228630258&perks=3442762221,2048641572
+dimwishlist:item=3228630258&perks=3442762221,1926441324
+dimwishlist:item=3228630258&perks=3442762221,1427256713
+dimwishlist:item=3228630258&perks=3442762221,254337357
 
 
 // Adamantite - PVE (god-pve)
@@ -6012,6 +6140,38 @@ dimwishlist:item=3232203524&perks=4071163871,47981717
 dimwishlist:item=3232203524&perks=4071163871,1370847713
 dimwishlist:item=3232203524&perks=494941759,47981717
 dimwishlist:item=3232203524&perks=494941759,1370847713
+
+
+// Mirror Imago - PVE (god-pve)
+//notes: MW: StabilityFor some basic QoL, we’ll be running Fluted Barrel and Tactical Mag, as these keep the weapon feeling very consistent. Pair it with a stability masterwork and the Willing Vessel origin trait, and you’ll have no issue keeping shots on target. Perk 1 doesn’t have a lot of PvE options, but Grave Robber or Pugilist are easily the top two. Subsistence, while nice, might struggle in higher end activities or against heftier ads. As for Perk 2, any of the four damage options are nice, but Sword Logic or Swashbuckler feed into Perk 1’s options so that it’s hard to pick any others. tags:god-pve
+dimwishlist:item=3234363830&perks=1840239774,106909392,1631667848,31345821
+dimwishlist:item=3234363830&perks=1840239774,106909392,1631667848,639190697
+dimwishlist:item=3234363830&perks=1840239774,106909392,402033656,31345821
+dimwishlist:item=3234363830&perks=1840239774,106909392,402033656,639190697
+
+
+// Mirror Imago - PVE-Melee (god-pve)
+//notes: MW: StabilityFor some basic QoL, we’ll be running Fluted Barrel and Tactical Mag, as these keep the weapon feeling very consistent. Pair it with a stability masterwork and the Willing Vessel origin trait, and you’ll have no issue keeping shots on target. Perk 1 doesn’t have a lot of PvE options, but Grave Robber or Pugilist are easily the top two. Subsistence, while nice, might struggle in higher end activities or against heftier ads. As for Perk 2, any of the four damage options are nice, but Sword Logic or Swashbuckler feed into Perk 1’s options so that it’s hard to pick any others. tags:god-pve
+dimwishlist:item=3234363830&perks=1840239774,106909392,691659142,4082225868
+dimwishlist:item=3234363830&perks=1840239774,106909392,691659142,1161469972
+dimwishlist:item=3234363830&perks=1840239774,106909392,536173722,4082225868
+dimwishlist:item=3234363830&perks=1840239774,106909392,536173722,1161469972
+
+
+// Mirror Imago - PVE (pve)
+//notes: MW: StabilityFor some basic QoL, we’ll be running Fluted Barrel and Tactical Mag, as these keep the weapon feeling very consistent. Pair it with a stability masterwork and the Willing Vessel origin trait, and you’ll have no issue keeping shots on target. Perk 1 doesn’t have a lot of PvE options, but Grave Robber or Pugilist are easily the top two. Subsistence, while nice, might struggle in higher end activities or against heftier ads. As for Perk 2, any of the four damage options are nice, but Sword Logic or Swashbuckler feed into Perk 1’s options so that it’s hard to pick any others. tags:pve
+dimwishlist:item=3234363830&perks=1631667848,31345821
+dimwishlist:item=3234363830&perks=1631667848,639190697
+dimwishlist:item=3234363830&perks=402033656,31345821
+dimwishlist:item=3234363830&perks=402033656,639190697
+
+
+// Mirror Imago - PVE-Melee (pve)
+//notes: MW: StabilityFor some basic QoL, we’ll be running Fluted Barrel and Tactical Mag, as these keep the weapon feeling very consistent. Pair it with a stability masterwork and the Willing Vessel origin trait, and you’ll have no issue keeping shots on target. Perk 1 doesn’t have a lot of PvE options, but Grave Robber or Pugilist are easily the top two. Subsistence, while nice, might struggle in higher end activities or against heftier ads. As for Perk 2, any of the four damage options are nice, but Sword Logic or Swashbuckler feed into Perk 1’s options so that it’s hard to pick any others. tags:pve
+dimwishlist:item=3234363830&perks=691659142,4082225868
+dimwishlist:item=3234363830&perks=691659142,1161469972
+dimwishlist:item=3234363830&perks=536173722,4082225868
+dimwishlist:item=3234363830&perks=536173722,1161469972
 
 
 // Warden's Law (Adept) - PVE (god-pve)
@@ -6136,6 +6296,30 @@ dimwishlist:item=3257091166&perks=1749209109,2077819806
 dimwishlist:item=3257091166&perks=1749209109,1618208178
 dimwishlist:item=3257091166&perks=4085959009,2077819806
 dimwishlist:item=3257091166&perks=4085959009,1618208178
+
+
+// Refusal of the Call - PVE (god-pve)
+//notes: MW: Handling; As the goal is to swap to Refusal after landing a kill with a different weapon, boosting our handling is top priority. Tempered Truss Rod, Swap Mag, and a handling masterwork should do you just fine. Discord has barely any contenders in its slot. While Envious Assassin and Replenishing Aegis are nice, Discord refunds the ammo from thin air, instead of pulling from reserves. Slice is the only other worthwhile perk as it can make those close-up encounters less stressful. As for Perk 2, Sword Logic just pairs so well with Discord that other options seem lackluster. However, Close to Melee is a solid alternative as it too can take advantage of Discord’s ammo refund. tags:god-pve
+dimwishlist:item=3269398063&perks=5699512,3721627275,3978468247,31345821
+dimwishlist:item=3269398063&perks=5699512,3721627275,3978468247,639190697
+dimwishlist:item=3269398063&perks=5699512,3721627275,923806249,31345821
+dimwishlist:item=3269398063&perks=5699512,3721627275,923806249,639190697
+dimwishlist:item=3269398063&perks=5699512,3721627275,3422796781,31345821
+dimwishlist:item=3269398063&perks=5699512,3721627275,3422796781,639190697
+dimwishlist:item=3269398063&perks=5699512,3721627275,906981559,31345821
+dimwishlist:item=3269398063&perks=5699512,3721627275,906981559,639190697
+
+
+// Refusal of the Call - PVE (pve)
+//notes: MW: Handling; As the goal is to swap to Refusal after landing a kill with a different weapon, boosting our handling is top priority. Tempered Truss Rod, Swap Mag, and a handling masterwork should do you just fine. Discord has barely any contenders in its slot. While Envious Assassin and Replenishing Aegis are nice, Discord refunds the ammo from thin air, instead of pulling from reserves. Slice is the only other worthwhile perk as it can make those close-up encounters less stressful. As for Perk 2, Sword Logic just pairs so well with Discord that other options seem lackluster. However, Close to Melee is a solid alternative as it too can take advantage of Discord’s ammo refund. tags:pve
+dimwishlist:item=3269398063&perks=3978468247,31345821
+dimwishlist:item=3269398063&perks=3978468247,639190697
+dimwishlist:item=3269398063&perks=923806249,31345821
+dimwishlist:item=3269398063&perks=923806249,639190697
+dimwishlist:item=3269398063&perks=3422796781,31345821
+dimwishlist:item=3269398063&perks=3422796781,639190697
+dimwishlist:item=3269398063&perks=906981559,31345821
+dimwishlist:item=3269398063&perks=906981559,639190697
 
 
 // PLUG ONE.1 - PVE (god-pve)
