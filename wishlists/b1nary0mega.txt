@@ -281,14 +281,10 @@ dimwishlist:item=302039451&perks=1482024992,3142289711,3643424744,31345821
 dimwishlist:item=302039451&perks=1482024992,3142289711,3643424744,639190697
 dimwishlist:item=302039451&perks=1482024992,3142289711,2682205016,31345821
 dimwishlist:item=302039451&perks=1482024992,3142289711,2682205016,639190697
-
-
-// Mirror Imago (Adept) - PVE (god-pve)
-//notes: MW: Stability; For some basic QoL, we’ll be running Fluted Barrel and Tactical Mag, as these keep the weapon feeling very consistent. Pair it with a stability masterwork and the Willing Vessel origin trait, and you’ll have no issue keeping shots on target. Perk 1 doesn’t have a lot of PvE options, but Grave Robber or Pugilist are easily the top two. Subsistence, while nice, might struggle in higher end activities or against heftier ads. As for Perk 2, any of the four damage options are nice, but Sword Logic or Swashbuckler feed into Perk 1’s options so that it’s hard to pick any others. tags:god-pve
-dimwishlist:item=302039451&perks=1840239774,106909392,1631667848,31345821
-dimwishlist:item=302039451&perks=1840239774,106909392,1631667848,639190697
-dimwishlist:item=302039451&perks=1840239774,106909392,402033656,31345821
-dimwishlist:item=302039451&perks=1840239774,106909392,402033656,639190697
+dimwishlist:item=302039451&perks=1482024992,3142289711,1820235745,31345821
+dimwishlist:item=302039451&perks=1482024992,3142289711,1820235745,639190697
+dimwishlist:item=302039451&perks=1482024992,3142289711,4245865861,31345821
+dimwishlist:item=302039451&perks=1482024992,3142289711,4245865861,639190697
 
 
 // Mirror Imago (Adept) - PVE-Melee (god-pve)
@@ -301,18 +297,14 @@ dimwishlist:item=302039451&perks=1840239774,106909392,536173722,1161469972
 
 // Mirror Imago (Adept) - PVE (pve)
 //notes: MW: Range. Mirror Imago is a Strand variant of The Recluse, firing at a blistering 900 RPM with virtually no recoil. PvE players should keep their eyes peeled for Overflow and Sword Logic. Overflow fixes the small magazine sizes that most SMGs suffer from, while Sword Logic gives you a monstrous damage bonus if you can kill a major or miniboss with your SMG. tags:pve
+dimwishlist:item=302039451&perks=1820235745,31345821
+dimwishlist:item=302039451&perks=1820235745,639190697
 dimwishlist:item=302039451&perks=3643424744,31345821
 dimwishlist:item=302039451&perks=3643424744,639190697
+dimwishlist:item=302039451&perks=4245865861,31345821
+dimwishlist:item=302039451&perks=4245865861,639190697
 dimwishlist:item=302039451&perks=2682205016,31345821
 dimwishlist:item=302039451&perks=2682205016,639190697
-
-
-// Mirror Imago (Adept) - PVE (pve)
-//notes: MW: Stability; For some basic QoL, we’ll be running Fluted Barrel and Tactical Mag, as these keep the weapon feeling very consistent. Pair it with a stability masterwork and the Willing Vessel origin trait, and you’ll have no issue keeping shots on target. Perk 1 doesn’t have a lot of PvE options, but Grave Robber or Pugilist are easily the top two. Subsistence, while nice, might struggle in higher end activities or against heftier ads. As for Perk 2, any of the four damage options are nice, but Sword Logic or Swashbuckler feed into Perk 1’s options so that it’s hard to pick any others. tags:pve
-dimwishlist:item=302039451&perks=1631667848,31345821
-dimwishlist:item=302039451&perks=1631667848,639190697
-dimwishlist:item=302039451&perks=402033656,31345821
-dimwishlist:item=302039451&perks=402033656,639190697
 
 
 // Mirror Imago (Adept) - PVE-Melee (pve)
@@ -6144,10 +6136,14 @@ dimwishlist:item=3232203524&perks=494941759,1370847713
 
 // Mirror Imago - PVE (god-pve)
 //notes: MW: StabilityFor some basic QoL, we’ll be running Fluted Barrel and Tactical Mag, as these keep the weapon feeling very consistent. Pair it with a stability masterwork and the Willing Vessel origin trait, and you’ll have no issue keeping shots on target. Perk 1 doesn’t have a lot of PvE options, but Grave Robber or Pugilist are easily the top two. Subsistence, while nice, might struggle in higher end activities or against heftier ads. As for Perk 2, any of the four damage options are nice, but Sword Logic or Swashbuckler feed into Perk 1’s options so that it’s hard to pick any others. tags:god-pve
-dimwishlist:item=3234363830&perks=1840239774,106909392,1631667848,31345821
-dimwishlist:item=3234363830&perks=1840239774,106909392,1631667848,639190697
-dimwishlist:item=3234363830&perks=1840239774,106909392,402033656,31345821
-dimwishlist:item=3234363830&perks=1840239774,106909392,402033656,639190697
+dimwishlist:item=3234363830&perks=1840239774,106909392,1820235745,31345821
+dimwishlist:item=3234363830&perks=1840239774,106909392,1820235745,639190697
+dimwishlist:item=3234363830&perks=1840239774,106909392,4245865861,31345821
+dimwishlist:item=3234363830&perks=1840239774,106909392,4245865861,639190697
+dimwishlist:item=3234363830&perks=1840239774,106909392,2682205016,31345821
+dimwishlist:item=3234363830&perks=1840239774,106909392,2682205016,639190697
+dimwishlist:item=3234363830&perks=1840239774,106909392,3643424744,31345821
+dimwishlist:item=3234363830&perks=1840239774,106909392,3643424744,639190697
 
 
 // Mirror Imago - PVE-Melee (god-pve)
@@ -6160,10 +6156,14 @@ dimwishlist:item=3234363830&perks=1840239774,106909392,536173722,1161469972
 
 // Mirror Imago - PVE (pve)
 //notes: MW: StabilityFor some basic QoL, we’ll be running Fluted Barrel and Tactical Mag, as these keep the weapon feeling very consistent. Pair it with a stability masterwork and the Willing Vessel origin trait, and you’ll have no issue keeping shots on target. Perk 1 doesn’t have a lot of PvE options, but Grave Robber or Pugilist are easily the top two. Subsistence, while nice, might struggle in higher end activities or against heftier ads. As for Perk 2, any of the four damage options are nice, but Sword Logic or Swashbuckler feed into Perk 1’s options so that it’s hard to pick any others. tags:pve
-dimwishlist:item=3234363830&perks=1631667848,31345821
-dimwishlist:item=3234363830&perks=1631667848,639190697
-dimwishlist:item=3234363830&perks=402033656,31345821
-dimwishlist:item=3234363830&perks=402033656,639190697
+dimwishlist:item=3234363830&perks=1820235745,639190697
+dimwishlist:item=3234363830&perks=1820235745,31345821
+dimwishlist:item=3234363830&perks=4245865861,639190697
+dimwishlist:item=3234363830&perks=4245865861,31345821
+dimwishlist:item=3234363830&perks=2682205016,639190697
+dimwishlist:item=3234363830&perks=2682205016,31345821
+dimwishlist:item=3234363830&perks=3643424744,639190697
+dimwishlist:item=3234363830&perks=3643424744,31345821
 
 
 // Mirror Imago - PVE-Melee (pve)
