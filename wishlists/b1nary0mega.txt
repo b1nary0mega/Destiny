@@ -5972,14 +5972,22 @@ dimwishlist:item=3218364298&perks=4090651448,3142289711,2579169598,460017080
 dimwishlist:item=3218364298&perks=4090651448,3142289711,2579169598,4045335048
 dimwishlist:item=3218364298&perks=4090651448,3142289711,2073244114,460017080
 dimwishlist:item=3218364298&perks=4090651448,3142289711,2073244114,4045335048
+dimwishlist:item=3218364298&perks=4090651448,3142289711,2387244414,460017080
+dimwishlist:item=3218364298&perks=4090651448,3142289711,2387244414,4045335048
+dimwishlist:item=3218364298&perks=4090651448,3142289711,1748774930,460017080
+dimwishlist:item=3218364298&perks=4090651448,3142289711,1748774930,4045335048
 
 
 // Redrix's Estoc - PVP (pvp)
 //notes: MW: Range; Redrix’s Estoc has such high base stats, meaning we can choose to aim to boost Range massively, so we opt for Corkscrew Rifling, Accurised Rounds, and a Range Masterwork, getting us up to 85 Range with a Ballsitcs Mod applied. We also recommend Fitted Stock for a boost to Stability and Recoil Direction. In perk slot 1, consistency is king, so Zen Moment or Lone Wolf is best. In perk 2, Headseeker or Kill Clip is recommended. Headseeker gives you some leniency in your aim, but Kill Clip drops the time-to-kill to 0.53s. We suggest Kill Clip for 6v6 games and Headseeker for more competitive settings like Trials of Osiris. tags:pvp
-dimwishlist:item=3218364298&perks=2579169598,460017080
+dimwishlist:item=3218364298&perks=2387244414,4045335048
+dimwishlist:item=3218364298&perks=2387244414,460017080
 dimwishlist:item=3218364298&perks=2579169598,4045335048
-dimwishlist:item=3218364298&perks=2073244114,460017080
+dimwishlist:item=3218364298&perks=2579169598,460017080
 dimwishlist:item=3218364298&perks=2073244114,4045335048
+dimwishlist:item=3218364298&perks=2073244114,460017080
+dimwishlist:item=3218364298&perks=1748774930,4045335048
+dimwishlist:item=3218364298&perks=1748774930,460017080
 
 
 // Laser Painter - PVE (god-pve)
