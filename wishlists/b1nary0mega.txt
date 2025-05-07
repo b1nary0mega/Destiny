@@ -265,10 +265,6 @@ dimwishlist:item=233635202&perks=3198323828,460017080
 dimwishlist:item=233635202&perks=3198323828,4045335048
 
 
-// Cruel Mercy ()
-dimwishlist:item=233635202&perks=
-
-
 // Eyes Unveiled (Adept) - PVE (god-pve)
 //notes: For our barrel, we are going to opt for Arrowhead Break, as it massively improves the recoil direction of the weapon, making it easier to stay on target. For the magazine, Liquid Coils is the standard choice. 
 For perk 1, we suggest Overflow. This perk allows you to go far beyond the regular constraints of the magazine, and when paired with Runneth Over, you can potentially bring the magazine up to a whopping 18 shots. Alternatively, Triple Tap is a decent option as it is an easy way to help your ammo economy. In perk slot 2, we recommend Reservoir Burst. Due to the pairing we have between Runneth Over and Overflow, we can use Reservoir Burst to take advantage of the ammo we have available. Another option is Frenzy. This perk boosts our Handling and Reload speed while also giving us a lower but more consistent 15% damage bonus. tags:god-pve
