@@ -1500,6 +1500,70 @@ dimwishlist:item=874623537&perks=424370782,3078487919
 dimwishlist:item=874623537&perks=424370782,3744057135
 
 
+// Prosecutor - PVE (god-pve)
+//notes: MW: Handling or Reload Speed; Beyond being held back by its rather lackluster archetype, Prosecutor succeeds at surpassing most of its competition in terms of potency. Dragonfly, Attrition Orbs, Rolling Storm, and Voltshot are all fun options that synergize well with any arc build you pair them with. This is the main niche Prosecutor fills for PvE, assuming you prefer auto rifles over other primary weapons. Prosecutor isn’t too shabby in The Crucible either, containing consistency-boosting perks like Zen Moment, Tap the Trigger, and Target Lock. If 450RPM auto rifles ever get a buff, this is one to look out for. Prosecutor is A-Tier for PvE and A-Tier for PvP. tags:god-pve
+dimwishlist:item=880829467&perks=1840239774,3230963543,2848615171,2173046394,4129855581
+dimwishlist:item=880829467&perks=1840239774,3230963543,2848615171,3218042543,4129855581
+dimwishlist:item=880829467&perks=1840239774,3230963543,2848615171,2633604463,4129855581
+dimwishlist:item=880829467&perks=1840239774,3230963543,2848615171,1720528630,4129855581
+dimwishlist:item=880829467&perks=1840239774,3230963543,169755979,2173046394,4129855581
+dimwishlist:item=880829467&perks=1840239774,3230963543,169755979,3218042543,4129855581
+dimwishlist:item=880829467&perks=1840239774,3230963543,169755979,2633604463,4129855581
+dimwishlist:item=880829467&perks=1840239774,3230963543,169755979,1720528630,4129855581
+dimwishlist:item=880829467&perks=1840239774,3230963543,243981275,2173046394,4129855581
+dimwishlist:item=880829467&perks=1840239774,3230963543,243981275,3218042543,4129855581
+dimwishlist:item=880829467&perks=1840239774,3230963543,243981275,2633604463,4129855581
+dimwishlist:item=880829467&perks=1840239774,3230963543,243981275,1720528630,4129855581
+dimwishlist:item=880829467&perks=1840239774,3230963543,984655331,2173046394,4129855581
+dimwishlist:item=880829467&perks=1840239774,3230963543,984655331,3218042543,4129855581
+dimwishlist:item=880829467&perks=1840239774,3230963543,984655331,2633604463,4129855581
+dimwishlist:item=880829467&perks=1840239774,3230963543,984655331,1720528630,4129855581
+
+
+// Prosecutor - PVP (god-pvp)
+//notes: MW: Handling or Reload Speed; Beyond being held back by its rather lackluster archetype, Prosecutor succeeds at surpassing most of its competition in terms of potency. Dragonfly, Attrition Orbs, Rolling Storm, and Voltshot are all fun options that synergize well with any arc build you pair them with. This is the main niche Prosecutor fills for PvE, assuming you prefer auto rifles over other primary weapons. Prosecutor isn’t too shabby in The Crucible either, containing consistency-boosting perks like Zen Moment, Tap the Trigger, and Target Lock. If 450RPM auto rifles ever get a buff, this is one to look out for. Prosecutor is A-Tier for PvE and A-Tier for PvP. tags:god-pvp
+dimwishlist:item=880829467&perks=1482024992,1885400500,2387244414,1890422124
+dimwishlist:item=880829467&perks=1482024992,1885400500,2387244414,365154968
+dimwishlist:item=880829467&perks=1482024992,1885400500,2387244414,2939589096
+dimwishlist:item=880829467&perks=1482024992,1885400500,2387244414,1523649716
+dimwishlist:item=880829467&perks=1482024992,1885400500,1748774930,1890422124
+dimwishlist:item=880829467&perks=1482024992,1885400500,1748774930,365154968
+dimwishlist:item=880829467&perks=1482024992,1885400500,1748774930,2939589096
+dimwishlist:item=880829467&perks=1482024992,1885400500,1748774930,1523649716
+
+
+// Prosecutor - PVE (pve)
+//notes: MW: Handling or Reload Speed; Beyond being held back by its rather lackluster archetype, Prosecutor succeeds at surpassing most of its competition in terms of potency. Dragonfly, Attrition Orbs, Rolling Storm, and Voltshot are all fun options that synergize well with any arc build you pair them with. This is the main niche Prosecutor fills for PvE, assuming you prefer auto rifles over other primary weapons. Prosecutor isn’t too shabby in The Crucible either, containing consistency-boosting perks like Zen Moment, Tap the Trigger, and Target Lock. If 450RPM auto rifles ever get a buff, this is one to look out for. Prosecutor is A-Tier for PvE and A-Tier for PvP. tags:pve
+dimwishlist:item=880829467&perks=2848615171,2173046394,4129855581
+dimwishlist:item=880829467&perks=2848615171,3218042543,4129855581
+dimwishlist:item=880829467&perks=2848615171,2633604463,4129855581
+dimwishlist:item=880829467&perks=2848615171,1720528630,4129855581
+dimwishlist:item=880829467&perks=169755979,2173046394,4129855581
+dimwishlist:item=880829467&perks=169755979,3218042543,4129855581
+dimwishlist:item=880829467&perks=169755979,2633604463,4129855581
+dimwishlist:item=880829467&perks=169755979,1720528630,4129855581
+dimwishlist:item=880829467&perks=243981275,2173046394,4129855581
+dimwishlist:item=880829467&perks=243981275,3218042543,4129855581
+dimwishlist:item=880829467&perks=243981275,2633604463,4129855581
+dimwishlist:item=880829467&perks=243981275,1720528630,4129855581
+dimwishlist:item=880829467&perks=984655331,2173046394,4129855581
+dimwishlist:item=880829467&perks=984655331,3218042543,4129855581
+dimwishlist:item=880829467&perks=984655331,2633604463,4129855581
+dimwishlist:item=880829467&perks=984655331,1720528630,4129855581
+
+
+// Prosecutor - PVP (pvp)
+//notes: MW: Handling or Reload Speed; Beyond being held back by its rather lackluster archetype, Prosecutor succeeds at surpassing most of its competition in terms of potency. Dragonfly, Attrition Orbs, Rolling Storm, and Voltshot are all fun options that synergize well with any arc build you pair them with. This is the main niche Prosecutor fills for PvE, assuming you prefer auto rifles over other primary weapons. Prosecutor isn’t too shabby in The Crucible either, containing consistency-boosting perks like Zen Moment, Tap the Trigger, and Target Lock. If 450RPM auto rifles ever get a buff, this is one to look out for. Prosecutor is A-Tier for PvE and A-Tier for PvP. tags:pvp
+dimwishlist:item=880829467&perks=2387244414,1890422124
+dimwishlist:item=880829467&perks=2387244414,365154968
+dimwishlist:item=880829467&perks=2387244414,2939589096
+dimwishlist:item=880829467&perks=2387244414,1523649716
+dimwishlist:item=880829467&perks=1748774930,1890422124
+dimwishlist:item=880829467&perks=1748774930,365154968
+dimwishlist:item=880829467&perks=1748774930,2939589096
+dimwishlist:item=880829467&perks=1748774930,1523649716
+
+
 // Cruoris FR4 - PVE (god-pve)
 //notes: tags:god-pve
 dimwishlist:item=891996636&perks=839105230,689005463,684456054,3218042543
@@ -3493,6 +3557,62 @@ dimwishlist:item=1975125963&perks=573122728,365154968
 dimwishlist:item=1975125963&perks=573122728,2939589096
 
 
+// A Sudden Death - PVE (god-pve)
+//notes: MW: Reload; A Sudden Death was already a pretty solid option for both PvE and PvP thanks to its Season of the Wish refresh, but now it can stand with the best. In PvE, ASD now rolls with both One-Two Punch and Trench Barrel, making it perfect for those close quarters fights and Synthos combos, and Paracausal Affinity amps your damage to a solid 20%! You can also get a bit goofy with Redirection by building stacks through Discord and then popping the charged shots off at the larger targets. In PvP, the previous refresh already made it a meta pick thanks to granting it Slideshot and Opening Shot, but the addition of Closing Time gives players an alternative to Opening Shot that, despite its nerf, is still a very good choice for Special weapons, especially for those with very low handling. A Sudden Death is S-Tier for PvE and A-tier for PvP. tags:god-pve
+dimwishlist:item=1976481399&perks=1300023272,791862061,2679249093,2360754333,4129855581
+dimwishlist:item=1976481399&perks=1300023272,791862061,2679249093,2459015849,4129855581
+dimwishlist:item=1976481399&perks=1300023272,791862061,788178929,2360754333,4129855581
+dimwishlist:item=1976481399&perks=1300023272,791862061,788178929,2459015849,4129855581
+
+
+// A Sudden Death - PVE Void (god-pve)
+//notes: MW: Reload; A Sudden Death was already a pretty solid option for both PvE and PvP thanks to its Season of the Wish refresh, but now it can stand with the best. In PvE, ASD now rolls with both One-Two Punch and Trench Barrel, making it perfect for those close quarters fights and Synthos combos, and Paracausal Affinity amps your damage to a solid 20%! You can also get a bit goofy with Redirection by building stacks through Discord and then popping the charged shots off at the larger targets. In PvP, the previous refresh already made it a meta pick thanks to granting it Slideshot and Opening Shot, but the addition of Closing Time gives players an alternative to Opening Shot that, despite its nerf, is still a very good choice for Special weapons, especially for those with very low handling. A Sudden Death is S-Tier for PvE and A-tier for PvP. tags:god-pve
+dimwishlist:item=1976481399&perks=1300023272,791862061,776531651,2048641572,4129855581
+dimwishlist:item=1976481399&perks=1300023272,791862061,776531651,1926441324,4129855581
+dimwishlist:item=1976481399&perks=1300023272,791862061,2541826827,2048641572,4129855581
+dimwishlist:item=1976481399&perks=1300023272,791862061,2541826827,1926441324,4129855581
+
+
+// A Sudden Death - PVP (god-pvp)
+//notes: MW: Reload; A Sudden Death was already a pretty solid option for both PvE and PvP thanks to its Season of the Wish refresh, but now it can stand with the best. In PvE, ASD now rolls with both One-Two Punch and Trench Barrel, making it perfect for those close quarters fights and Synthos combos, and Paracausal Affinity amps your damage to a solid 20%! You can also get a bit goofy with Redirection by building stacks through Discord and then popping the charged shots off at the larger targets. In PvP, the previous refresh already made it a meta pick thanks to granting it Slideshot and Opening Shot, but the addition of Closing Time gives players an alternative to Opening Shot that, despite its nerf, is still a very good choice for Special weapons, especially for those with very low handling. A Sudden Death is S-Tier for PvE and A-tier for PvP. tags:god-pvp
+dimwishlist:item=1976481399&perks=1482024992,3142289711,3161816588,47981717,4129855581
+dimwishlist:item=1976481399&perks=1482024992,3142289711,3161816588,1370847713,4129855581
+dimwishlist:item=1976481399&perks=1482024992,3142289711,3161816588,1194056669,4129855581
+dimwishlist:item=1976481399&perks=1482024992,3142289711,3161816588,3955464425,4129855581
+dimwishlist:item=1976481399&perks=1482024992,3142289711,191144788,47981717,4129855581
+dimwishlist:item=1976481399&perks=1482024992,3142289711,191144788,1370847713,4129855581
+dimwishlist:item=1976481399&perks=1482024992,3142289711,191144788,1194056669,4129855581
+dimwishlist:item=1976481399&perks=1482024992,3142289711,191144788,3955464425,4129855581
+
+
+// A Sudden Death - PVE (pve)
+//notes: MW: Reload; A Sudden Death was already a pretty solid option for both PvE and PvP thanks to its Season of the Wish refresh, but now it can stand with the best. In PvE, ASD now rolls with both One-Two Punch and Trench Barrel, making it perfect for those close quarters fights and Synthos combos, and Paracausal Affinity amps your damage to a solid 20%! You can also get a bit goofy with Redirection by building stacks through Discord and then popping the charged shots off at the larger targets. In PvP, the previous refresh already made it a meta pick thanks to granting it Slideshot and Opening Shot, but the addition of Closing Time gives players an alternative to Opening Shot that, despite its nerf, is still a very good choice for Special weapons, especially for those with very low handling. A Sudden Death is S-Tier for PvE and A-tier for PvP. tags:pve
+dimwishlist:item=1976481399&perks=2679249093,2360754333,4129855581
+dimwishlist:item=1976481399&perks=2679249093,2459015849,4129855581
+dimwishlist:item=1976481399&perks=788178929,2360754333,4129855581
+dimwishlist:item=1976481399&perks=788178929,2459015849,4129855581
+
+
+// A Sudden Death - PVE Void (pve)
+//notes: MW: Reload; A Sudden Death was already a pretty solid option for both PvE and PvP thanks to its Season of the Wish refresh, but now it can stand with the best. In PvE, ASD now rolls with both One-Two Punch and Trench Barrel, making it perfect for those close quarters fights and Synthos combos, and Paracausal Affinity amps your damage to a solid 20%! You can also get a bit goofy with Redirection by building stacks through Discord and then popping the charged shots off at the larger targets. In PvP, the previous refresh already made it a meta pick thanks to granting it Slideshot and Opening Shot, but the addition of Closing Time gives players an alternative to Opening Shot that, despite its nerf, is still a very good choice for Special weapons, especially for those with very low handling. A Sudden Death is S-Tier for PvE and A-tier for PvP. tags:pve
+dimwishlist:item=1976481399&perks=776531651,2048641572,4129855581
+dimwishlist:item=1976481399&perks=776531651,1926441324,4129855581
+dimwishlist:item=1976481399&perks=2541826827,2048641572,4129855581
+dimwishlist:item=1976481399&perks=2541826827,1926441324,4129855581
+
+
+// A Sudden Death - PVP (pvp)
+//notes: MW: Reload; A Sudden Death was already a pretty solid option for both PvE and PvP thanks to its Season of the Wish refresh, but now it can stand with the best. In PvE, ASD now rolls with both One-Two Punch and Trench Barrel, making it perfect for those close quarters fights and Synthos combos, and Paracausal Affinity amps your damage to a solid 20%! You can also get a bit goofy with Redirection by building stacks through Discord and then popping the charged shots off at the larger targets. In PvP, the previous refresh already made it a meta pick thanks to granting it Slideshot and Opening Shot, but the addition of Closing Time gives players an alternative to Opening Shot that, despite its nerf, is still a very good choice for Special weapons, especially for those with very low handling. A Sudden Death is S-Tier for PvE and A-tier for PvP. tags:pvp
+dimwishlist:item=1976481399&perks=3161816588,47981717,4129855581
+dimwishlist:item=1976481399&perks=3161816588,1370847713,4129855581
+dimwishlist:item=1976481399&perks=3161816588,1194056669,4129855581
+dimwishlist:item=1976481399&perks=3161816588,3955464425,4129855581
+dimwishlist:item=1976481399&perks=191144788,47981717,4129855581
+dimwishlist:item=1976481399&perks=191144788,1370847713,4129855581
+dimwishlist:item=1976481399&perks=191144788,1194056669,4129855581
+dimwishlist:item=1976481399&perks=191144788,3955464425,4129855581
+
+
 // Lingering Dread - PVE (god-pve)
 //notes: For the Lingering Dread grenade launcher, the GOD roll typically focuses on enhancing blast radius, increasing projectile speed, and leveraging its special perks like Chill Clip for added crowd control. Pairing it with Auto-Loading Holster ensures you can keep firing effectively in long engagements without needing to reload manually. tags:god-pve
 dimwishlist:item=2026087437&perks=1844523823,2822142346,3300816228,2978966579
@@ -4059,6 +4179,62 @@ dimwishlist:item=2226158470&perks=3198323828,555281244
 dimwishlist:item=2226158470&perks=3198323828,332733060
 dimwishlist:item=2226158470&perks=3198323828,2387244414
 dimwishlist:item=2226158470&perks=3198323828,1748774930
+
+
+// Judgment - PVP (god-pvp)
+//notes: MW: Range or Stability; Judgment is a weapon geared towards The Crucible due to the presence of perks like Lone Wolf, Slideshot, Precision Instrument, and more. However, due to how strong and popular other Legendary Adaptive Hand Cannons are, such as Rose, Palindrome, and Exalted Truth, it’s hard to see Judgment jump apart from these weapons in any meaningful way, particularly considering the lower base stats on the weapon. However, due to the sheer variety of available perks and the ability to pick sights, it is an acceptable option. In PvE, Judgment isn’t anything special. While it can roll with the synergistic Headstone and Rimestealer, it isn’t exactly strong compared to traditional Kinetic 140s like Midnight Coup or Fatebringer. Judgment is C-Tier for PvE and A-tier for PvP. tags:god-pvp
+dimwishlist:item=2226572694&perks=1926090093,3142289711,2579169598,47981717,4129855581
+dimwishlist:item=2226572694&perks=1926090093,3142289711,2579169598,555281244,4129855581
+dimwishlist:item=2226572694&perks=1926090093,3142289711,2579169598,1370847713,4129855581
+dimwishlist:item=2226572694&perks=1926090093,3142289711,2579169598,332733060,4129855581
+dimwishlist:item=2226572694&perks=1926090093,3142289711,3619207468,47981717,4129855581
+dimwishlist:item=2226572694&perks=1926090093,3142289711,3619207468,555281244,4129855581
+dimwishlist:item=2226572694&perks=1926090093,3142289711,3619207468,1370847713,4129855581
+dimwishlist:item=2226572694&perks=1926090093,3142289711,3619207468,332733060,4129855581
+dimwishlist:item=2226572694&perks=1926090093,3142289711,3198323828,47981717,4129855581
+dimwishlist:item=2226572694&perks=1926090093,3142289711,3198323828,555281244,4129855581
+dimwishlist:item=2226572694&perks=1926090093,3142289711,3198323828,1370847713,4129855581
+dimwishlist:item=2226572694&perks=1926090093,3142289711,3198323828,332733060,4129855581
+dimwishlist:item=2226572694&perks=1926090093,3142289711,2073244114,47981717,4129855581
+dimwishlist:item=2226572694&perks=1926090093,3142289711,2073244114,555281244,4129855581
+dimwishlist:item=2226572694&perks=1926090093,3142289711,2073244114,1370847713,4129855581
+dimwishlist:item=2226572694&perks=1926090093,3142289711,2073244114,332733060,4129855581
+dimwishlist:item=2226572694&perks=1926090093,3142289711,191144788,47981717,4129855581
+dimwishlist:item=2226572694&perks=1926090093,3142289711,191144788,555281244,4129855581
+dimwishlist:item=2226572694&perks=1926090093,3142289711,191144788,1370847713,4129855581
+dimwishlist:item=2226572694&perks=1926090093,3142289711,191144788,332733060,4129855581
+dimwishlist:item=2226572694&perks=1926090093,3142289711,3161816588,47981717,4129855581
+dimwishlist:item=2226572694&perks=1926090093,3142289711,3161816588,555281244,4129855581
+dimwishlist:item=2226572694&perks=1926090093,3142289711,3161816588,1370847713,4129855581
+dimwishlist:item=2226572694&perks=1926090093,3142289711,3161816588,332733060,4129855581
+
+
+// Judgment - PVP (pvp)
+//notes: MW: Range or Stability; Judgment is a weapon geared towards The Crucible due to the presence of perks like Lone Wolf, Slideshot, Precision Instrument, and more. However, due to how strong and popular other Legendary Adaptive Hand Cannons are, such as Rose, Palindrome, and Exalted Truth, it’s hard to see Judgment jump apart from these weapons in any meaningful way, particularly considering the lower base stats on the weapon. However, due to the sheer variety of available perks and the ability to pick sights, it is an acceptable option. In PvE, Judgment isn’t anything special. While it can roll with the synergistic Headstone and Rimestealer, it isn’t exactly strong compared to traditional Kinetic 140s like Midnight Coup or Fatebringer. Judgment is C-Tier for PvE and A-tier for PvP. tags:pvp
+dimwishlist:item=2226572694&perks=2579169598,47981717,4129855581
+dimwishlist:item=2226572694&perks=2579169598,555281244,4129855581
+dimwishlist:item=2226572694&perks=2579169598,1370847713,4129855581
+dimwishlist:item=2226572694&perks=2579169598,332733060,4129855581
+dimwishlist:item=2226572694&perks=3619207468,47981717,4129855581
+dimwishlist:item=2226572694&perks=3619207468,555281244,4129855581
+dimwishlist:item=2226572694&perks=3619207468,1370847713,4129855581
+dimwishlist:item=2226572694&perks=3619207468,332733060,4129855581
+dimwishlist:item=2226572694&perks=3198323828,47981717,4129855581
+dimwishlist:item=2226572694&perks=3198323828,555281244,4129855581
+dimwishlist:item=2226572694&perks=3198323828,1370847713,4129855581
+dimwishlist:item=2226572694&perks=3198323828,332733060,4129855581
+dimwishlist:item=2226572694&perks=2073244114,47981717,4129855581
+dimwishlist:item=2226572694&perks=2073244114,555281244,4129855581
+dimwishlist:item=2226572694&perks=2073244114,1370847713,4129855581
+dimwishlist:item=2226572694&perks=2073244114,332733060,4129855581
+dimwishlist:item=2226572694&perks=191144788,47981717,4129855581
+dimwishlist:item=2226572694&perks=191144788,555281244,4129855581
+dimwishlist:item=2226572694&perks=191144788,1370847713,4129855581
+dimwishlist:item=2226572694&perks=191144788,332733060,4129855581
+dimwishlist:item=2226572694&perks=3161816588,47981717,4129855581
+dimwishlist:item=2226572694&perks=3161816588,555281244,4129855581
+dimwishlist:item=2226572694&perks=3161816588,1370847713,4129855581
+dimwishlist:item=2226572694&perks=3161816588,332733060,4129855581
 
 
 // Patron of Lost Causes - PVP (god-pvp)
@@ -5263,6 +5439,46 @@ dimwishlist:item=2599338625&perks=3987942396,3078487919
 dimwishlist:item=2599338625&perks=3987942396,3744057135
 dimwishlist:item=2599338625&perks=2817499044,3078487919
 dimwishlist:item=2599338625&perks=2817499044,3744057135
+
+
+// Nature Reclaimed - PVE (god-pve)
+//notes: MW: Reload or Handling; While Nature Reclaimed’s perks offer enough strength to push it past most competitors, its frame is historically weak in both PvE and PvP. Solar-based perks like Incandescent and Heal Clip offer potency in many PvE activities, whereas Shoot to Loot and Explosive Payload have you covered in high-difficulty settings. Scout Rifles are still an off-meta pick, however, so recommending them is tough even with a perk pool this solid. It’s a similar story for The Crucible: Kill Clip offers some nice benefits through a reduced TTK, but running this over other options typically isn’t worth it. Nature Reclaimed is A-Tier for PvE and B-Tier for PvP tags:god-pve
+dimwishlist:item=2639921391&perks=1840239774,106909392,3017780555,2675184851,3989629871
+dimwishlist:item=2639921391&perks=1840239774,106909392,3017780555,4293542123,3989629871
+dimwishlist:item=2639921391&perks=1840239774,106909392,3700496672,2675184851,3989629871
+dimwishlist:item=2639921391&perks=1840239774,106909392,3700496672,4293542123,3989629871
+dimwishlist:item=2639921391&perks=1840239774,106909392,4223976499,2675184851,3989629871
+dimwishlist:item=2639921391&perks=1840239774,106909392,4223976499,4293542123,3989629871
+dimwishlist:item=2639921391&perks=1840239774,106909392,2840833776,2675184851,3989629871
+dimwishlist:item=2639921391&perks=1840239774,106909392,2840833776,4293542123,3989629871
+
+
+// Nature Reclaimed - PVP (god-pvp)
+//notes: MW: Stability or Handling; While Nature Reclaimed’s perks offer enough strength to push it past most competitors, its frame is historically weak in both PvE and PvP. Solar-based perks like Incandescent and Heal Clip offer potency in many PvE activities, whereas Shoot to Loot and Explosive Payload have you covered in high-difficulty settings. Scout Rifles are still an off-meta pick, however, so recommending them is tough even with a perk pool this solid. It’s a similar story for The Crucible: Kill Clip offers some nice benefits through a reduced TTK, but running this over other options typically isn’t worth it. Nature Reclaimed is A-Tier for PvE and B-Tier for PvP tags:god-pvp
+dimwishlist:item=2639921391&perks=1840239774,106909392,2579169598,1015611457,3989629871
+dimwishlist:item=2639921391&perks=1840239774,106909392,2579169598,2923251173,3989629871
+dimwishlist:item=2639921391&perks=1840239774,106909392,2073244114,1015611457,3989629871
+dimwishlist:item=2639921391&perks=1840239774,106909392,2073244114,2923251173,3989629871
+
+
+// Nature Reclaimed - PVE (pve)
+//notes: MW: Reload or Handling; While Nature Reclaimed’s perks offer enough strength to push it past most competitors, its frame is historically weak in both PvE and PvP. Solar-based perks like Incandescent and Heal Clip offer potency in many PvE activities, whereas Shoot to Loot and Explosive Payload have you covered in high-difficulty settings. Scout Rifles are still an off-meta pick, however, so recommending them is tough even with a perk pool this solid. It’s a similar story for The Crucible: Kill Clip offers some nice benefits through a reduced TTK, but running this over other options typically isn’t worth it. Nature Reclaimed is A-Tier for PvE and B-Tier for PvP tags:pve
+dimwishlist:item=2639921391&perks=3017780555,2675184851,3989629871
+dimwishlist:item=2639921391&perks=3017780555,4293542123,3989629871
+dimwishlist:item=2639921391&perks=3700496672,2675184851,3989629871
+dimwishlist:item=2639921391&perks=3700496672,4293542123,3989629871
+dimwishlist:item=2639921391&perks=4223976499,2675184851,3989629871
+dimwishlist:item=2639921391&perks=4223976499,4293542123,3989629871
+dimwishlist:item=2639921391&perks=2840833776,2675184851,3989629871
+dimwishlist:item=2639921391&perks=2840833776,4293542123,3989629871
+
+
+// Nature Reclaimed - PVP (pvp)
+//notes: MW: Stability or Handling; While Nature Reclaimed’s perks offer enough strength to push it past most competitors, its frame is historically weak in both PvE and PvP. Solar-based perks like Incandescent and Heal Clip offer potency in many PvE activities, whereas Shoot to Loot and Explosive Payload have you covered in high-difficulty settings. Scout Rifles are still an off-meta pick, however, so recommending them is tough even with a perk pool this solid. It’s a similar story for The Crucible: Kill Clip offers some nice benefits through a reduced TTK, but running this over other options typically isn’t worth it. Nature Reclaimed is A-Tier for PvE and B-Tier for PvP tags:pvp
+dimwishlist:item=2639921391&perks=2579169598,1015611457,3989629871
+dimwishlist:item=2639921391&perks=2579169598,2923251173,3989629871
+dimwishlist:item=2639921391&perks=2073244114,1015611457,3989629871
+dimwishlist:item=2639921391&perks=2073244114,2923251173,3989629871
 
 
 // Lotus-Eater (Adept) (god-pve)
@@ -7130,6 +7346,30 @@ dimwishlist:item=3686538757&perks=3797647183,2173046394
 dimwishlist:item=3686538757&perks=3797647183,1720528630
 dimwishlist:item=3686538757&perks=3797647183,4049631843
 dimwishlist:item=3686538757&perks=3797647183,859780267
+
+
+// Relentless - PVP (god-pvp)
+//notes: MW: Stability; Beyond its unique synergies with the Strand subclasses, Relentless has missed the mark in most areas of the game. For the Strand enthusiasts out there, Relentless’ ability to roll with Slice, Tear, and Hatchling offers considerable buildcrafting opportunities. However, these opportunities aren’t specific to this weapon, and high-impact pulse rifles generally aren’t the strongest in PvE. The only other potential avenue for this weapon is with Firefly and Elemental Honing, which, while potent, is a bit too niche for most activities. In The Crucible, Relentless is slightly above average. With a couple of worthwhile perks here and there, you can’t necessarily go wrong with the weapon; on the whole, however, its competition simply outclasses it. Relentless is B-Tier for PvE and A-Tier for PvP. tags:god-pvp
+dimwishlist:item=3733988413&perks=1392496348,1885400500,3619207468,460017080
+dimwishlist:item=3733988413&perks=1392496348,1885400500,3619207468,4045335048
+dimwishlist:item=3733988413&perks=1392496348,1885400500,2579169598,460017080
+dimwishlist:item=3733988413&perks=1392496348,1885400500,2579169598,4045335048
+dimwishlist:item=3733988413&perks=1392496348,1885400500,2073244114,460017080
+dimwishlist:item=3733988413&perks=1392496348,1885400500,2073244114,4045335048
+dimwishlist:item=3733988413&perks=1392496348,1885400500,3198323828,460017080
+dimwishlist:item=3733988413&perks=1392496348,1885400500,3198323828,4045335048
+
+
+// Relentless - PVP (pvp)
+//notes: MW: Stability; Beyond its unique synergies with the Strand subclasses, Relentless has missed the mark in most areas of the game. For the Strand enthusiasts out there, Relentless’ ability to roll with Slice, Tear, and Hatchling offers considerable buildcrafting opportunities. However, these opportunities aren’t specific to this weapon, and high-impact pulse rifles generally aren’t the strongest in PvE. The only other potential avenue for this weapon is with Firefly and Elemental Honing, which, while potent, is a bit too niche for most activities. In The Crucible, Relentless is slightly above average. With a couple of worthwhile perks here and there, you can’t necessarily go wrong with the weapon; on the whole, however, its competition simply outclasses it. Relentless is B-Tier for PvE and A-Tier for PvP. tags:pvp
+dimwishlist:item=3733988413&perks=3619207468,460017080
+dimwishlist:item=3733988413&perks=3619207468,4045335048
+dimwishlist:item=3733988413&perks=2579169598,460017080
+dimwishlist:item=3733988413&perks=2579169598,4045335048
+dimwishlist:item=3733988413&perks=2073244114,460017080
+dimwishlist:item=3733988413&perks=2073244114,4045335048
+dimwishlist:item=3733988413&perks=3198323828,460017080
+dimwishlist:item=3733988413&perks=3198323828,4045335048
 
 
 // Division (Adept) - PVE (god-pve)
