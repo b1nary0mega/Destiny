@@ -3557,6 +3557,30 @@ dimwishlist:item=1937552980&perks=3418165135,4049631843
 dimwishlist:item=1937552980&perks=3418165135,859780267
 
 
+// Warlord's Spear - PVP (god-pve)
+//notes: MW: Handling; Because Trace Rifles don’t necessarily need many stats, we are going to opt for Handling-boosting perks, so Fluted Barrel, Light Battery, and a Handling masterwork are ideal here. For perk slot 1, Rewind Rounds is the go-to as it allows us to maintain the beam on healthier targets and minimizes downtime. For perk 2, Detonator Beam is our recommended pick thanks to the burst damage it provides, but Jolting Feedback is also a good way to go if you want to lean into Jolt more. tags:god-pve
+dimwishlist:item=1968711238&perks=1840239774,2749775325,3418782618,3966416502
+dimwishlist:item=1968711238&perks=1840239774,2749775325,3418782618,4198902903
+dimwishlist:item=1968711238&perks=1840239774,2749775325,3418782618,717070634
+dimwishlist:item=1968711238&perks=1840239774,2749775325,3418782618,222783511
+dimwishlist:item=1968711238&perks=1840239774,2749775325,1563455254,3966416502
+dimwishlist:item=1968711238&perks=1840239774,2749775325,1563455254,4198902903
+dimwishlist:item=1968711238&perks=1840239774,2749775325,1563455254,717070634
+dimwishlist:item=1968711238&perks=1840239774,2749775325,1563455254,222783511
+
+
+// Warlord's Spear - PVP (pve)
+//notes: MW: Handling; Because Trace Rifles don’t necessarily need many stats, we are going to opt for Handling-boosting perks, so Fluted Barrel, Light Battery, and a Handling masterwork are ideal here. For perk slot 1, Rewind Rounds is the go-to as it allows us to maintain the beam on healthier targets and minimizes downtime. For perk 2, Detonator Beam is our recommended pick thanks to the burst damage it provides, but Jolting Feedback is also a good way to go if you want to lean into Jolt more. tags:pve
+dimwishlist:item=1968711238&perks=3418782618,3966416502
+dimwishlist:item=1968711238&perks=3418782618,4198902903
+dimwishlist:item=1968711238&perks=3418782618,717070634
+dimwishlist:item=1968711238&perks=3418782618,222783511
+dimwishlist:item=1968711238&perks=1563455254,3966416502
+dimwishlist:item=1968711238&perks=1563455254,4198902903
+dimwishlist:item=1968711238&perks=1563455254,717070634
+dimwishlist:item=1968711238&perks=1563455254,222783511
+
+
 // Igneous Hammer - PVP (god-pvp)
 //notes: MW: Range or Stability; While Igneous Hammer dominated the meta for a while, its reprised perk pool and the nerf to crit damage on 120 RPM Hand Cannons has slightly reduced its presence. However, that’s not to say it doesn’t have a place. One part of Igneous’ dominance was its range, and so we’ll be boosting that alongside stability to give us the upper edge. To that end, Smallbore or Hammer Forged Rifling are the best Barrel picks. Smallbore equally boosts Range and Stability by +7, and Hammer Forged Rifling gives you +10 to Range at the cost of no Stability boosts. For Magazine, Ricochet Rounds or High-Caliber Rounds are the only viable choices. Both increase Range by +5, but only Ricochet gives an extra +10 to Stability. Eye of The Storm, Moving Target, and Opening Shot can help with dueling. With Keep Away, Rangefinder, or Fragile Focus in Column 3, you have some very strong options to boost your range, and the tried and true Rapid-Hit stuck around to help with some stability boosts. For a reprised PvP weapon, this one did not miss the mark. tags:god-pvp
 dimwishlist:item=1973107014&perks=3250034553,1885400500,3619207468,47981717
