@@ -179,6 +179,58 @@ dimwishlist:item=93061497&perks=1906147653,2396489472
 dimwishlist:item=93061497&perks=1906147653,598607952
 
 
+// Joxer's Longsword - PVE (god-pve)
+//notes: Handling is among the most beneficial stats for PvE, which is why we’ll opt for Fluted Barrel, Tactical Mag, and a handling masterwork. That said, your barrel can be swapped for Arrowhead Brake for better recoil direction and your masterwork can be traded for reload speed, if desired. For our main two perks, going for Repulsor Brace and Destabilizing Rounds is hard to argue against. While this combo was previously barely above average, the recent buff to Destabilizing Rounds allows Joxer’s Longsword to be a slightly less potent version of both Graviton Lance and Collective Obligation. tags:god-pve
+dimwishlist:item=157601190&perks=839105230,1968497646,776531651,2048641572
+dimwishlist:item=157601190&perks=839105230,1968497646,776531651,1926441324
+dimwishlist:item=157601190&perks=839105230,1968497646,2541826827,2048641572
+dimwishlist:item=157601190&perks=839105230,1968497646,2541826827,1926441324
+dimwishlist:item=157601190&perks=1840239774,1968497646,776531651,2048641572
+dimwishlist:item=157601190&perks=1840239774,1968497646,776531651,1926441324
+dimwishlist:item=157601190&perks=1840239774,1968497646,2541826827,2048641572
+dimwishlist:item=157601190&perks=1840239774,1968497646,2541826827,1926441324
+
+
+// Joxer's Longsword - PVP (god-pvp)
+//notes: MW: Range; We’ll start our PvP roll out with Arrowhead Brake, Steady Rounds, and a range masterwork to add a bit more consistency through the weapon’s base stats. Lone Wolf is the best option for column one, offering some extra aim assistance even when not fully active. As for our second perk, Headseeker is a great choice that you can feel working while also not having a niche activation requirement. tags:god-pvp
+dimwishlist:item=157601190&perks=839105230,1968497646,2579169598,460017080
+dimwishlist:item=157601190&perks=839105230,1968497646,2579169598,4045335048
+dimwishlist:item=157601190&perks=839105230,1968497646,1194056669,460017080
+dimwishlist:item=157601190&perks=839105230,1968497646,1194056669,4045335048
+dimwishlist:item=157601190&perks=839105230,1968497646,2073244114,460017080
+dimwishlist:item=157601190&perks=839105230,1968497646,2073244114,4045335048
+dimwishlist:item=157601190&perks=839105230,1968497646,3955464425,460017080
+dimwishlist:item=157601190&perks=839105230,1968497646,3955464425,4045335048
+dimwishlist:item=157601190&perks=839105230,1561002382,2579169598,460017080
+dimwishlist:item=157601190&perks=839105230,1561002382,2579169598,4045335048
+dimwishlist:item=157601190&perks=839105230,1561002382,1194056669,460017080
+dimwishlist:item=157601190&perks=839105230,1561002382,1194056669,4045335048
+dimwishlist:item=157601190&perks=839105230,1561002382,2073244114,460017080
+dimwishlist:item=157601190&perks=839105230,1561002382,2073244114,4045335048
+dimwishlist:item=157601190&perks=839105230,1561002382,3955464425,460017080
+dimwishlist:item=157601190&perks=839105230,1561002382,3955464425,4045335048
+
+
+// Joxer's Longsword - PVE (pve)
+//notes: Handling is among the most beneficial stats for PvE, which is why we’ll opt for Fluted Barrel, Tactical Mag, and a handling masterwork. That said, your barrel can be swapped for Arrowhead Brake for better recoil direction and your masterwork can be traded for reload speed, if desired. For our main two perks, going for Repulsor Brace and Destabilizing Rounds is hard to argue against. While this combo was previously barely above average, the recent buff to Destabilizing Rounds allows Joxer’s Longsword to be a slightly less potent version of both Graviton Lance and Collective Obligation. tags:pve
+dimwishlist:item=157601190&perks=776531651,2048641572
+dimwishlist:item=157601190&perks=776531651,1926441324
+dimwishlist:item=157601190&perks=2541826827,2048641572
+dimwishlist:item=157601190&perks=2541826827,1926441324
+
+
+// Joxer's Longsword - PVP (pvp)
+//notes: MW: Range; We’ll start our PvP roll out with Arrowhead Brake, Steady Rounds, and a range masterwork to add a bit more consistency through the weapon’s base stats. Lone Wolf is the best option for column one, offering some extra aim assistance even when not fully active. As for our second perk, Headseeker is a great choice that you can feel working while also not having a niche activation requirement. tags:pvp
+dimwishlist:item=157601190&perks=2579169598,460017080
+dimwishlist:item=157601190&perks=2579169598,4045335048
+dimwishlist:item=157601190&perks=1194056669,460017080
+dimwishlist:item=157601190&perks=1194056669,4045335048
+dimwishlist:item=157601190&perks=2073244114,460017080
+dimwishlist:item=157601190&perks=2073244114,4045335048
+dimwishlist:item=157601190&perks=3955464425,460017080
+dimwishlist:item=157601190&perks=3955464425,4045335048
+
+
 // Crimil's Dagger - PVP (god-pve)
 //notes: MW: Range; Fluted Barrel is recommended due to the weapon’s lack of Stability and Handling at base stats. Accurized Rounds is recommended due to the increase in Range provided. We recommend Slideways as it provides a +20 stat boost to Stability and Handling (+25 Enhanced), and also partially refills the magazine which is very useful on 120 Hand Cannons due to the slow reload speed. We recommend Precision Instrument as it allows you to 2 Headshot 1 Bodyshot even against Tier 10 Resilience, while other perks only allow this up until Tier 6 Resilience. Range masterwork is preferred as the boost provides nearly 1.5m of extra range, and once Slideways has been activated, the low Stability and Handling becomes less of an issue due to the stat boost. Skulking Wolf is the preferred option, as removing your blip from the radar allows you to reposition and recover from the previous gunfight. tags:god-pve
 dimwishlist:item=198854575&perks=1840239774,3142289711,2039302152,555281244
