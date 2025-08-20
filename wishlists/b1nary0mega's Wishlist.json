@@ -13015,7 +13015,9 @@
                 ],
                 [
                     3978468247,
-                    906981559
+                    906981559,
+                    923806249,
+                    3422796781
                 ],
                 [
                     31345821,
@@ -13041,7 +13043,9 @@
                 ],
                 [
                     3978468247,
-                    906981559
+                    906981559,
+                    923806249,
+                    3422796781
                 ],
                 [
                     31345821,
@@ -13155,7 +13159,9 @@
                 ],
                 [
                     3643424744,
-                    2682205016
+                    2682205016,
+                    1820235745,
+                    4245865861
                 ],
                 [
                     31345821,
@@ -13172,7 +13178,9 @@
             "name": "PVE",
             "plugs": [
                 [
+                    1820235745,
                     3643424744,
+                    4245865861,
                     2682205016
                 ],
                 [
@@ -13791,7 +13799,9 @@
                     4104185692,
                     3007133316,
                     1427256713,
-                    254337357
+                    254337357,
+                    1134488199,
+                    2904194311
                 ]
             ],
             "tags": [
@@ -13805,15 +13815,17 @@
             "plugs": [
                 [
                     3643424744,
-                    2682205016,
                     3400784728,
+                    2682205016,
                     573122728
                 ],
                 [
                     4104185692,
-                    3007133316,
                     1427256713,
-                    254337357
+                    1134488199,
+                    2904194311,
+                    254337357,
+                    3007133316
                 ]
             ],
             "tags": [
@@ -14106,6 +14118,1599 @@
             ],
             "tags": [
                 "PVE"
+            ]
+        },
+        {
+            "description": "For our barrel, we are going to opt for Arrowhead Break, as it massively improves the recoil direction of the weapon, making it easier to stay on target. For the magazine, Liquid Coils is the standard choice. \nFor perk 1, we suggest Overflow. This perk allows you to go far beyond the regular constraints of the magazine, and when paired with Runneth Over, you can potentially bring the magazine up to a whopping 18 shots. Alternatively, Triple Tap is a decent option as it is an easy way to help your ammo economy. In perk slot 2, we recommend Reservoir Burst. Due to the pairing we have between Runneth Over and Overflow, we can use Reservoir Burst to take advantage of the ammo we have available. Another option is Frenzy. This perk boosts our Handling and Reload speed while also giving us a lower but more consistent 15% damage bonus.",
+            "hash": 282549639,
+            "name": "PVE",
+            "plugs": [
+                [
+                    839105230
+                ],
+                [
+                    1687452232
+                ],
+                [
+                    3643424744,
+                    3400784728,
+                    2682205016,
+                    573122728
+                ],
+                [
+                    1427256713,
+                    4104185692,
+                    1134488199,
+                    254337357,
+                    3007133316,
+                    2904194311
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "For our barrel, we are going to opt for Arrowhead Break, as it massively improves the recoil direction of the weapon, making it easier to stay on target. For the magazine, Liquid Coils is the standard choice. \nFor perk 1, we suggest Overflow. This perk allows you to go far beyond the regular constraints of the magazine, and when paired with Runneth Over, you can potentially bring the magazine up to a whopping 18 shots. Alternatively, Triple Tap is a decent option as it is an easy way to help your ammo economy. In perk slot 2, we recommend Reservoir Burst. Due to the pairing we have between Runneth Over and Overflow, we can use Reservoir Burst to take advantage of the ammo we have available. Another option is Frenzy. This perk boosts our Handling and Reload speed while also giving us a lower but more consistent 15% damage bonus.",
+            "hash": 282549639,
+            "name": "PVE",
+            "plugs": [
+                [
+                    3643424744,
+                    3400784728,
+                    2682205016,
+                    573122728
+                ],
+                [
+                    1427256713,
+                    4104185692,
+                    1134488199,
+                    254337357,
+                    3007133316,
+                    2904194311
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "MW: Charge Time; Since we’ll be using this primarily as a swap weapon, we want to get as much handling as possible. For that, Fluted Barrel is perfect as it also gives us a little stability too. Accelerated Coils and a charge time masterwork are paramount to getting the most out of Discord, as you’ll be able to land 2 more bursts before it expires with them on. Perk 1 has some good PvE options, but none compare to Discord and Lead from Gold. As previously explained, Discord gives any special weapon high-power ad clear thanks to the ammo refund, and Lead from Gold can help if you choose to use this for damage, though you’ll want Runneth Over as well. Ambitious Assassin gets an honorable mention thanks to the rework removing the time requirements, letting you build up a larger mag. And Perk 2, of course, will be Reservoir Burst. While Destabilizing Rounds is a solid choice, Reservoir Burst is both an AoE perk and a damage perk, and considering you’ll be facing stronger targets, it’ll pay to take it over anything else.",
+            "hash": 3228630258,
+            "name": "PVE",
+            "plugs": [
+                [
+                    1840239774
+                ],
+                [
+                    689005463
+                ],
+                [
+                    1556840489,
+                    3442762221
+                ],
+                [
+                    2048641572,
+                    1926441324,
+                    1427256713,
+                    254337357
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "MW: Charge Time; Since we’ll be using this primarily as a swap weapon, we want to get as much handling as possible. For that, Fluted Barrel is perfect as it also gives us a little stability too. Accelerated Coils and a charge time masterwork are paramount to getting the most out of Discord, as you’ll be able to land 2 more bursts before it expires with them on. Perk 1 has some good PvE options, but none compare to Discord and Lead from Gold. As previously explained, Discord gives any special weapon high-power ad clear thanks to the ammo refund, and Lead from Gold can help if you choose to use this for damage, though you’ll want Runneth Over as well. Ambitious Assassin gets an honorable mention thanks to the rework removing the time requirements, letting you build up a larger mag. And Perk 2, of course, will be Reservoir Burst. While Destabilizing Rounds is a solid choice, Reservoir Burst is both an AoE perk and a damage perk, and considering you’ll be facing stronger targets, it’ll pay to take it over anything else.",
+            "hash": 3228630258,
+            "name": "PVE",
+            "plugs": [
+                [
+                    1556840489,
+                    3442762221
+                ],
+                [
+                    2048641572,
+                    1926441324,
+                    1427256713,
+                    254337357
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "MW: Handling; We’ll begin with Elastic String for significantly decreased draw time and slightly increased handling. From there, Fiberglass Arrow Shaft is great to balance out the significant amount of accuracy we lost from Elastic String, while a handling masterwork rounds everything out nicely. The most obvious (and potent) roll here is the classic combination of Repulsor Brace and Destabilizing Rounds. After its buff with Heresy’s launch, Destabilizing Rounds is a monster on any weapon that can roll with it. If you want to instead embrace the explosion fantasy a bit more, replacing Repulsor Brace for Dragonfly isn’t a horrible choice in more casual settings.",
+            "hash": 2291392465,
+            "name": "PVE",
+            "plugs": [
+                [
+                    2801223209
+                ],
+                [
+                    3429800428
+                ],
+                [
+                    2848615171,
+                    776531651,
+                    169755979,
+                    2541826827
+                ],
+                [
+                    2048641572,
+                    1926441324
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "MW: Handling; We’ll begin with Elastic String for significantly decreased draw time and slightly increased handling. From there, Fiberglass Arrow Shaft is great to balance out the significant amount of accuracy we lost from Elastic String, while a handling masterwork rounds everything out nicely. The most obvious (and potent) roll here is the classic combination of Repulsor Brace and Destabilizing Rounds. After its buff with Heresy’s launch, Destabilizing Rounds is a monster on any weapon that can roll with it. If you want to instead embrace the explosion fantasy a bit more, replacing Repulsor Brace for Dragonfly isn’t a horrible choice in more casual settings.",
+            "hash": 2291392465,
+            "name": "PVE",
+            "plugs": [
+                [
+                    2848615171,
+                    776531651,
+                    169755979,
+                    2541826827
+                ],
+                [
+                    2048641572,
+                    1926441324
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "MW: Handling; As the goal is to swap to Refusal after landing a kill with a different weapon, boosting our handling is top priority. Tempered Truss Rod, Swap Mag, and a handling masterwork should do you just fine. Discord has barely any contenders in its slot. While Envious Assassin and Replenishing Aegis are nice, Discord refunds the ammo from thin air, instead of pulling from reserves. Slice is the only other worthwhile perk as it can make those close-up encounters less stressful. As for Perk 2, Sword Logic just pairs so well with Discord that other options seem lackluster. However, Close to Melee is a solid alternative as it too can take advantage of Discord’s ammo refund.",
+            "hash": 3269398063,
+            "name": "PVE",
+            "plugs": [
+                [
+                    5699512
+                ],
+                [
+                    3721627275
+                ],
+                [
+                    3978468247,
+                    923806249,
+                    3422796781,
+                    906981559
+                ],
+                [
+                    31345821,
+                    639190697
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "MW: Handling; As the goal is to swap to Refusal after landing a kill with a different weapon, boosting our handling is top priority. Tempered Truss Rod, Swap Mag, and a handling masterwork should do you just fine. Discord has barely any contenders in its slot. While Envious Assassin and Replenishing Aegis are nice, Discord refunds the ammo from thin air, instead of pulling from reserves. Slice is the only other worthwhile perk as it can make those close-up encounters less stressful. As for Perk 2, Sword Logic just pairs so well with Discord that other options seem lackluster. However, Close to Melee is a solid alternative as it too can take advantage of Discord’s ammo refund.",
+            "hash": 3269398063,
+            "name": "PVE",
+            "plugs": [
+                [
+                    3978468247,
+                    923806249,
+                    3422796781,
+                    906981559
+                ],
+                [
+                    31345821,
+                    639190697
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "MW: StabilityFor some basic QoL, we’ll be running Fluted Barrel and Tactical Mag, as these keep the weapon feeling very consistent. Pair it with a stability masterwork and the Willing Vessel origin trait, and you’ll have no issue keeping shots on target. Perk 1 doesn’t have a lot of PvE options, but Grave Robber or Pugilist are easily the top two. Subsistence, while nice, might struggle in higher end activities or against heftier ads. As for Perk 2, any of the four damage options are nice, but Sword Logic or Swashbuckler feed into Perk 1’s options so that it’s hard to pick any others.",
+            "hash": 3234363830,
+            "name": "PVE",
+            "plugs": [
+                [
+                    1840239774
+                ],
+                [
+                    106909392
+                ],
+                [
+                    1820235745,
+                    4245865861,
+                    2682205016,
+                    3643424744
+                ],
+                [
+                    31345821,
+                    639190697
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "MW: StabilityFor some basic QoL, we’ll be running Fluted Barrel and Tactical Mag, as these keep the weapon feeling very consistent. Pair it with a stability masterwork and the Willing Vessel origin trait, and you’ll have no issue keeping shots on target. Perk 1 doesn’t have a lot of PvE options, but Grave Robber or Pugilist are easily the top two. Subsistence, while nice, might struggle in higher end activities or against heftier ads. As for Perk 2, any of the four damage options are nice, but Sword Logic or Swashbuckler feed into Perk 1’s options so that it’s hard to pick any others.",
+            "hash": 3234363830,
+            "name": "PVE",
+            "plugs": [
+                [
+                    1820235745,
+                    4245865861,
+                    2682205016,
+                    3643424744
+                ],
+                [
+                    639190697,
+                    31345821
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "MW: StabilityFor some basic QoL, we’ll be running Fluted Barrel and Tactical Mag, as these keep the weapon feeling very consistent. Pair it with a stability masterwork and the Willing Vessel origin trait, and you’ll have no issue keeping shots on target. Perk 1 doesn’t have a lot of PvE options, but Grave Robber or Pugilist are easily the top two. Subsistence, while nice, might struggle in higher end activities or against heftier ads. As for Perk 2, any of the four damage options are nice, but Sword Logic or Swashbuckler feed into Perk 1’s options so that it’s hard to pick any others.",
+            "hash": 3234363830,
+            "name": "PVE-Melee",
+            "plugs": [
+                [
+                    1840239774
+                ],
+                [
+                    106909392
+                ],
+                [
+                    691659142,
+                    536173722
+                ],
+                [
+                    4082225868,
+                    1161469972
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "MW: StabilityFor some basic QoL, we’ll be running Fluted Barrel and Tactical Mag, as these keep the weapon feeling very consistent. Pair it with a stability masterwork and the Willing Vessel origin trait, and you’ll have no issue keeping shots on target. Perk 1 doesn’t have a lot of PvE options, but Grave Robber or Pugilist are easily the top two. Subsistence, while nice, might struggle in higher end activities or against heftier ads. As for Perk 2, any of the four damage options are nice, but Sword Logic or Swashbuckler feed into Perk 1’s options so that it’s hard to pick any others.",
+            "hash": 3234363830,
+            "name": "PVE-Melee",
+            "plugs": [
+                [
+                    691659142,
+                    536173722
+                ],
+                [
+                    4082225868,
+                    1161469972
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "MW: Stability; For some basic QoL, we’ll be running Fluted Barrel and Tactical Mag, as these keep the weapon feeling very consistent. Pair it with a stability masterwork and the Willing Vessel origin trait, and you’ll have no issue keeping shots on target. Perk 1 doesn’t have a lot of PvE options, but Grave Robber or Pugilist are easily the top two. Subsistence, while nice, might struggle in higher end activities or against heftier ads. As for Perk 2, any of the four damage options are nice, but Sword Logic or Swashbuckler feed into Perk 1’s options so that it’s hard to pick any others.",
+            "hash": 302039451,
+            "name": "PVE-Melee",
+            "plugs": [
+                [
+                    1840239774
+                ],
+                [
+                    106909392
+                ],
+                [
+                    691659142,
+                    536173722
+                ],
+                [
+                    4082225868,
+                    1161469972
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "MW: Stability; For some basic QoL, we’ll be running Fluted Barrel and Tactical Mag, as these keep the weapon feeling very consistent. Pair it with a stability masterwork and the Willing Vessel origin trait, and you’ll have no issue keeping shots on target. Perk 1 doesn’t have a lot of PvE options, but Grave Robber or Pugilist are easily the top two. Subsistence, while nice, might struggle in higher end activities or against heftier ads. As for Perk 2, any of the four damage options are nice, but Sword Logic or Swashbuckler feed into Perk 1’s options so that it’s hard to pick any others.",
+            "hash": 302039451,
+            "name": "PVE-Melee",
+            "plugs": [
+                [
+                    691659142,
+                    536173722
+                ],
+                [
+                    4082225868,
+                    1161469972
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "MW: Handling; Our PvE roll with begin with Fluted Barrel, Tactical Mag, and a handling masterwork, a classic combination that provides a nice balance of potent stats for PvE. Eddy Current isn’t an absurdly popular pick these days, but it’s the best the first column has here. Plus, it fits nicely with our final perk pick, which is Voltshot. Assuming you’re rocking an Arc build (which will be more potent this Episode through the artifact!), this combination is great for more casual activities.",
+            "hash": 2903168058,
+            "name": "PVE",
+            "plugs": [
+                [
+                    1840239774
+                ],
+                [
+                    106909392
+                ],
+                [
+                    684456054,
+                    2785334058
+                ],
+                [
+                    2173046394,
+                    1720528630
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "MW: Handling; Our PvE roll with begin with Fluted Barrel, Tactical Mag, and a handling masterwork, a classic combination that provides a nice balance of potent stats for PvE. Eddy Current isn’t an absurdly popular pick these days, but it’s the best the first column has here. Plus, it fits nicely with our final perk pick, which is Voltshot. Assuming you’re rocking an Arc build (which will be more potent this Episode through the artifact!), this combination is great for more casual activities.",
+            "hash": 2903168058,
+            "name": "PVE",
+            "plugs": [
+                [
+                    684456054,
+                    2785334058
+                ],
+                [
+                    2173046394,
+                    1720528630
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "MW: Range; Redrix’s Estoc has such high base stats, meaning we can choose to aim to boost Range massively, so we opt for Corkscrew Rifling, Accurised Rounds, and a Range Masterwork, getting us up to 85 Range with a Ballsitcs Mod applied. We also recommend Fitted Stock for a boost to Stability and Recoil Direction. In perk slot 1, consistency is king, so Zen Moment or Lone Wolf is best. In perk 2, Headseeker or Kill Clip is recommended. Headseeker gives you some leniency in your aim, but Kill Clip drops the time-to-kill to 0.53s. We suggest Kill Clip for 6v6 games and Headseeker for more competitive settings like Trials of Osiris.",
+            "hash": 3218364298,
+            "name": "PVP",
+            "plugs": [
+                [
+                    4090651448
+                ],
+                [
+                    3142289711
+                ],
+                [
+                    2579169598,
+                    2073244114,
+                    2387244414,
+                    1748774930
+                ],
+                [
+                    460017080,
+                    4045335048
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "MW: Range; Redrix’s Estoc has such high base stats, meaning we can choose to aim to boost Range massively, so we opt for Corkscrew Rifling, Accurised Rounds, and a Range Masterwork, getting us up to 85 Range with a Ballsitcs Mod applied. We also recommend Fitted Stock for a boost to Stability and Recoil Direction. In perk slot 1, consistency is king, so Zen Moment or Lone Wolf is best. In perk 2, Headseeker or Kill Clip is recommended. Headseeker gives you some leniency in your aim, but Kill Clip drops the time-to-kill to 0.53s. We suggest Kill Clip for 6v6 games and Headseeker for more competitive settings like Trials of Osiris.",
+            "hash": 3218364298,
+            "name": "PVP",
+            "plugs": [
+                [
+                    2387244414,
+                    2579169598,
+                    2073244114,
+                    1748774930
+                ],
+                [
+                    4045335048,
+                    460017080
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 3754408118,
+            "name": "PVP",
+            "plugs": [
+                [
+                    4090651448
+                ],
+                [
+                    1885400500
+                ],
+                [
+                    1890422124,
+                    2387244414,
+                    1523649716,
+                    1748774930
+                ],
+                [
+                    1359896290,
+                    1015611457,
+                    3060983774,
+                    2923251173
+                ],
+                [
+                    4259401308
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 3754408118,
+            "name": "PVP",
+            "plugs": [
+                [
+                    1890422124,
+                    2387244414,
+                    1523649716,
+                    1748774930
+                ],
+                [
+                    1359896290,
+                    1015611457,
+                    3060983774,
+                    2923251173
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 233635202,
+            "name": "PVE",
+            "plugs": [
+                [
+                    839105230
+                ],
+                [
+                    1087426260
+                ],
+                [
+                    2848615171,
+                    2785334058,
+                    169755979,
+                    684456054
+                ],
+                [
+                    3218042543,
+                    2633604463
+                ],
+                [
+                    2839173408
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 233635202,
+            "name": "PVE",
+            "plugs": [
+                [
+                    2848615171,
+                    2785334058,
+                    169755979,
+                    684456054
+                ],
+                [
+                    3218042543,
+                    2633604463
+                ],
+                [
+                    2839173408
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 233635202,
+            "name": "PVP",
+            "plugs": [
+                [
+                    3661387068
+                ],
+                [
+                    1885400500
+                ],
+                [
+                    2579169598,
+                    3619207468,
+                    2073244114,
+                    3198323828
+                ],
+                [
+                    460017080,
+                    4045335048
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 233635202,
+            "name": "PVP",
+            "plugs": [
+                [
+                    2579169598,
+                    3619207468,
+                    2073244114,
+                    3198323828
+                ],
+                [
+                    460017080,
+                    4045335048
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 2347178967,
+            "name": "PVE",
+            "plugs": [
+                [
+                    839105230
+                ],
+                [
+                    1087426260
+                ],
+                [
+                    2848615171,
+                    684456054,
+                    169755979,
+                    2785334058
+                ],
+                [
+                    2633604463,
+                    3218042543
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 2347178967,
+            "name": "PVE",
+            "plugs": [
+                [
+                    2848615171,
+                    684456054,
+                    169755979,
+                    2785334058
+                ],
+                [
+                    2633604463,
+                    3218042543
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 2347178967,
+            "name": "PVP",
+            "plugs": [
+                [
+                    3661387068
+                ],
+                [
+                    1885400500
+                ],
+                [
+                    2579169598,
+                    3619207468,
+                    3198323828,
+                    2073244114
+                ],
+                [
+                    4045335048,
+                    460017080
+                ],
+                [
+                    2839173408
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 2347178967,
+            "name": "PVP",
+            "plugs": [
+                [
+                    2579169598,
+                    3619207468,
+                    3198323828,
+                    2073244114
+                ],
+                [
+                    4045335048,
+                    460017080
+                ],
+                [
+                    2839173408
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "MW: Reload or Handling; While Nature Reclaimed’s perks offer enough strength to push it past most competitors, its frame is historically weak in both PvE and PvP. Solar-based perks like Incandescent and Heal Clip offer potency in many PvE activities, whereas Shoot to Loot and Explosive Payload have you covered in high-difficulty settings. Scout Rifles are still an off-meta pick, however, so recommending them is tough even with a perk pool this solid. It’s a similar story for The Crucible: Kill Clip offers some nice benefits through a reduced TTK, but running this over other options typically isn’t worth it. Nature Reclaimed is A-Tier for PvE and B-Tier for PvP",
+            "hash": 2639921391,
+            "name": "PVE",
+            "plugs": [
+                [
+                    1840239774
+                ],
+                [
+                    106909392
+                ],
+                [
+                    3017780555,
+                    3700496672,
+                    4223976499,
+                    2840833776
+                ],
+                [
+                    2675184851,
+                    4293542123
+                ],
+                [
+                    3989629871
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "MW: Reload or Handling; While Nature Reclaimed’s perks offer enough strength to push it past most competitors, its frame is historically weak in both PvE and PvP. Solar-based perks like Incandescent and Heal Clip offer potency in many PvE activities, whereas Shoot to Loot and Explosive Payload have you covered in high-difficulty settings. Scout Rifles are still an off-meta pick, however, so recommending them is tough even with a perk pool this solid. It’s a similar story for The Crucible: Kill Clip offers some nice benefits through a reduced TTK, but running this over other options typically isn’t worth it. Nature Reclaimed is A-Tier for PvE and B-Tier for PvP",
+            "hash": 2639921391,
+            "name": "PVE",
+            "plugs": [
+                [
+                    3017780555,
+                    3700496672,
+                    4223976499,
+                    2840833776
+                ],
+                [
+                    2675184851,
+                    4293542123
+                ],
+                [
+                    3989629871
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "MW: Stability or Handling; While Nature Reclaimed’s perks offer enough strength to push it past most competitors, its frame is historically weak in both PvE and PvP. Solar-based perks like Incandescent and Heal Clip offer potency in many PvE activities, whereas Shoot to Loot and Explosive Payload have you covered in high-difficulty settings. Scout Rifles are still an off-meta pick, however, so recommending them is tough even with a perk pool this solid. It’s a similar story for The Crucible: Kill Clip offers some nice benefits through a reduced TTK, but running this over other options typically isn’t worth it. Nature Reclaimed is A-Tier for PvE and B-Tier for PvP",
+            "hash": 2639921391,
+            "name": "PVP",
+            "plugs": [
+                [
+                    1840239774
+                ],
+                [
+                    106909392
+                ],
+                [
+                    2579169598,
+                    2073244114
+                ],
+                [
+                    1015611457,
+                    2923251173
+                ],
+                [
+                    3989629871
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "MW: Stability or Handling; While Nature Reclaimed’s perks offer enough strength to push it past most competitors, its frame is historically weak in both PvE and PvP. Solar-based perks like Incandescent and Heal Clip offer potency in many PvE activities, whereas Shoot to Loot and Explosive Payload have you covered in high-difficulty settings. Scout Rifles are still an off-meta pick, however, so recommending them is tough even with a perk pool this solid. It’s a similar story for The Crucible: Kill Clip offers some nice benefits through a reduced TTK, but running this over other options typically isn’t worth it. Nature Reclaimed is A-Tier for PvE and B-Tier for PvP",
+            "hash": 2639921391,
+            "name": "PVP",
+            "plugs": [
+                [
+                    2579169598,
+                    2073244114
+                ],
+                [
+                    1015611457,
+                    2923251173
+                ],
+                [
+                    3989629871
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "MW: Reload; A Sudden Death was already a pretty solid option for both PvE and PvP thanks to its Season of the Wish refresh, but now it can stand with the best. In PvE, ASD now rolls with both One-Two Punch and Trench Barrel, making it perfect for those close quarters fights and Synthos combos, and Paracausal Affinity amps your damage to a solid 20%! You can also get a bit goofy with Redirection by building stacks through Discord and then popping the charged shots off at the larger targets. In PvP, the previous refresh already made it a meta pick thanks to granting it Slideshot and Opening Shot, but the addition of Closing Time gives players an alternative to Opening Shot that, despite its nerf, is still a very good choice for Special weapons, especially for those with very low handling. A Sudden Death is S-Tier for PvE and A-tier for PvP.",
+            "hash": 1976481399,
+            "name": "PVE",
+            "plugs": [
+                [
+                    1300023272
+                ],
+                [
+                    791862061
+                ],
+                [
+                    2679249093,
+                    788178929
+                ],
+                [
+                    2360754333,
+                    2459015849
+                ],
+                [
+                    4129855581
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "MW: Reload; A Sudden Death was already a pretty solid option for both PvE and PvP thanks to its Season of the Wish refresh, but now it can stand with the best. In PvE, ASD now rolls with both One-Two Punch and Trench Barrel, making it perfect for those close quarters fights and Synthos combos, and Paracausal Affinity amps your damage to a solid 20%! You can also get a bit goofy with Redirection by building stacks through Discord and then popping the charged shots off at the larger targets. In PvP, the previous refresh already made it a meta pick thanks to granting it Slideshot and Opening Shot, but the addition of Closing Time gives players an alternative to Opening Shot that, despite its nerf, is still a very good choice for Special weapons, especially for those with very low handling. A Sudden Death is S-Tier for PvE and A-tier for PvP.",
+            "hash": 1976481399,
+            "name": "PVE Void",
+            "plugs": [
+                [
+                    1300023272
+                ],
+                [
+                    791862061
+                ],
+                [
+                    776531651,
+                    2541826827
+                ],
+                [
+                    2048641572,
+                    1926441324
+                ],
+                [
+                    4129855581
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "MW: Reload; A Sudden Death was already a pretty solid option for both PvE and PvP thanks to its Season of the Wish refresh, but now it can stand with the best. In PvE, ASD now rolls with both One-Two Punch and Trench Barrel, making it perfect for those close quarters fights and Synthos combos, and Paracausal Affinity amps your damage to a solid 20%! You can also get a bit goofy with Redirection by building stacks through Discord and then popping the charged shots off at the larger targets. In PvP, the previous refresh already made it a meta pick thanks to granting it Slideshot and Opening Shot, but the addition of Closing Time gives players an alternative to Opening Shot that, despite its nerf, is still a very good choice for Special weapons, especially for those with very low handling. A Sudden Death is S-Tier for PvE and A-tier for PvP.",
+            "hash": 1976481399,
+            "name": "PVE",
+            "plugs": [
+                [
+                    2679249093,
+                    788178929
+                ],
+                [
+                    2360754333,
+                    2459015849
+                ],
+                [
+                    4129855581
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "MW: Reload; A Sudden Death was already a pretty solid option for both PvE and PvP thanks to its Season of the Wish refresh, but now it can stand with the best. In PvE, ASD now rolls with both One-Two Punch and Trench Barrel, making it perfect for those close quarters fights and Synthos combos, and Paracausal Affinity amps your damage to a solid 20%! You can also get a bit goofy with Redirection by building stacks through Discord and then popping the charged shots off at the larger targets. In PvP, the previous refresh already made it a meta pick thanks to granting it Slideshot and Opening Shot, but the addition of Closing Time gives players an alternative to Opening Shot that, despite its nerf, is still a very good choice for Special weapons, especially for those with very low handling. A Sudden Death is S-Tier for PvE and A-tier for PvP.",
+            "hash": 1976481399,
+            "name": "PVE Void",
+            "plugs": [
+                [
+                    776531651,
+                    2541826827
+                ],
+                [
+                    2048641572,
+                    1926441324
+                ],
+                [
+                    4129855581
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "MW: Reload; A Sudden Death was already a pretty solid option for both PvE and PvP thanks to its Season of the Wish refresh, but now it can stand with the best. In PvE, ASD now rolls with both One-Two Punch and Trench Barrel, making it perfect for those close quarters fights and Synthos combos, and Paracausal Affinity amps your damage to a solid 20%! You can also get a bit goofy with Redirection by building stacks through Discord and then popping the charged shots off at the larger targets. In PvP, the previous refresh already made it a meta pick thanks to granting it Slideshot and Opening Shot, but the addition of Closing Time gives players an alternative to Opening Shot that, despite its nerf, is still a very good choice for Special weapons, especially for those with very low handling. A Sudden Death is S-Tier for PvE and A-tier for PvP.",
+            "hash": 1976481399,
+            "name": "PVP",
+            "plugs": [
+                [
+                    1482024992
+                ],
+                [
+                    3142289711
+                ],
+                [
+                    3161816588,
+                    191144788
+                ],
+                [
+                    47981717,
+                    1370847713,
+                    1194056669,
+                    3955464425
+                ],
+                [
+                    4129855581
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "MW: Reload; A Sudden Death was already a pretty solid option for both PvE and PvP thanks to its Season of the Wish refresh, but now it can stand with the best. In PvE, ASD now rolls with both One-Two Punch and Trench Barrel, making it perfect for those close quarters fights and Synthos combos, and Paracausal Affinity amps your damage to a solid 20%! You can also get a bit goofy with Redirection by building stacks through Discord and then popping the charged shots off at the larger targets. In PvP, the previous refresh already made it a meta pick thanks to granting it Slideshot and Opening Shot, but the addition of Closing Time gives players an alternative to Opening Shot that, despite its nerf, is still a very good choice for Special weapons, especially for those with very low handling. A Sudden Death is S-Tier for PvE and A-tier for PvP.",
+            "hash": 1976481399,
+            "name": "PVP",
+            "plugs": [
+                [
+                    3161816588,
+                    191144788
+                ],
+                [
+                    47981717,
+                    1370847713,
+                    1194056669,
+                    3955464425
+                ],
+                [
+                    4129855581
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "MW: Range or Stability; Judgment is a weapon geared towards The Crucible due to the presence of perks like Lone Wolf, Slideshot, Precision Instrument, and more. However, due to how strong and popular other Legendary Adaptive Hand Cannons are, such as Rose, Palindrome, and Exalted Truth, it’s hard to see Judgment jump apart from these weapons in any meaningful way, particularly considering the lower base stats on the weapon. However, due to the sheer variety of available perks and the ability to pick sights, it is an acceptable option. In PvE, Judgment isn’t anything special. While it can roll with the synergistic Headstone and Rimestealer, it isn’t exactly strong compared to traditional Kinetic 140s like Midnight Coup or Fatebringer. Judgment is C-Tier for PvE and A-tier for PvP.",
+            "hash": 2226572694,
+            "name": "PVP",
+            "plugs": [
+                [
+                    1926090093
+                ],
+                [
+                    3142289711
+                ],
+                [
+                    2579169598,
+                    3619207468,
+                    3198323828,
+                    2073244114,
+                    191144788,
+                    3161816588
+                ],
+                [
+                    47981717,
+                    555281244,
+                    1370847713,
+                    332733060
+                ],
+                [
+                    4129855581
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "MW: Range or Stability; Judgment is a weapon geared towards The Crucible due to the presence of perks like Lone Wolf, Slideshot, Precision Instrument, and more. However, due to how strong and popular other Legendary Adaptive Hand Cannons are, such as Rose, Palindrome, and Exalted Truth, it’s hard to see Judgment jump apart from these weapons in any meaningful way, particularly considering the lower base stats on the weapon. However, due to the sheer variety of available perks and the ability to pick sights, it is an acceptable option. In PvE, Judgment isn’t anything special. While it can roll with the synergistic Headstone and Rimestealer, it isn’t exactly strong compared to traditional Kinetic 140s like Midnight Coup or Fatebringer. Judgment is C-Tier for PvE and A-tier for PvP.",
+            "hash": 2226572694,
+            "name": "PVP",
+            "plugs": [
+                [
+                    2579169598,
+                    3619207468,
+                    3198323828,
+                    2073244114,
+                    191144788,
+                    3161816588
+                ],
+                [
+                    47981717,
+                    555281244,
+                    1370847713,
+                    332733060
+                ],
+                [
+                    4129855581
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "MW: Handling or Reload Speed; Beyond being held back by its rather lackluster archetype, Prosecutor succeeds at surpassing most of its competition in terms of potency. Dragonfly, Attrition Orbs, Rolling Storm, and Voltshot are all fun options that synergize well with any arc build you pair them with. This is the main niche Prosecutor fills for PvE, assuming you prefer auto rifles over other primary weapons. Prosecutor isn’t too shabby in The Crucible either, containing consistency-boosting perks like Zen Moment, Tap the Trigger, and Target Lock. If 450RPM auto rifles ever get a buff, this is one to look out for. Prosecutor is A-Tier for PvE and A-Tier for PvP.",
+            "hash": 880829467,
+            "name": "PVE",
+            "plugs": [
+                [
+                    1840239774
+                ],
+                [
+                    3230963543
+                ],
+                [
+                    2848615171,
+                    169755979,
+                    243981275,
+                    984655331
+                ],
+                [
+                    2173046394,
+                    3218042543,
+                    2633604463,
+                    1720528630
+                ],
+                [
+                    4129855581
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "MW: Handling or Reload Speed; Beyond being held back by its rather lackluster archetype, Prosecutor succeeds at surpassing most of its competition in terms of potency. Dragonfly, Attrition Orbs, Rolling Storm, and Voltshot are all fun options that synergize well with any arc build you pair them with. This is the main niche Prosecutor fills for PvE, assuming you prefer auto rifles over other primary weapons. Prosecutor isn’t too shabby in The Crucible either, containing consistency-boosting perks like Zen Moment, Tap the Trigger, and Target Lock. If 450RPM auto rifles ever get a buff, this is one to look out for. Prosecutor is A-Tier for PvE and A-Tier for PvP.",
+            "hash": 880829467,
+            "name": "PVE",
+            "plugs": [
+                [
+                    2848615171,
+                    169755979,
+                    243981275,
+                    984655331
+                ],
+                [
+                    2173046394,
+                    3218042543,
+                    2633604463,
+                    1720528630
+                ],
+                [
+                    4129855581
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "MW: Handling or Reload Speed; Beyond being held back by its rather lackluster archetype, Prosecutor succeeds at surpassing most of its competition in terms of potency. Dragonfly, Attrition Orbs, Rolling Storm, and Voltshot are all fun options that synergize well with any arc build you pair them with. This is the main niche Prosecutor fills for PvE, assuming you prefer auto rifles over other primary weapons. Prosecutor isn’t too shabby in The Crucible either, containing consistency-boosting perks like Zen Moment, Tap the Trigger, and Target Lock. If 450RPM auto rifles ever get a buff, this is one to look out for. Prosecutor is A-Tier for PvE and A-Tier for PvP.",
+            "hash": 880829467,
+            "name": "PVP",
+            "plugs": [
+                [
+                    1482024992
+                ],
+                [
+                    1885400500
+                ],
+                [
+                    2387244414,
+                    1748774930
+                ],
+                [
+                    1890422124,
+                    365154968,
+                    2939589096,
+                    1523649716
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "MW: Handling or Reload Speed; Beyond being held back by its rather lackluster archetype, Prosecutor succeeds at surpassing most of its competition in terms of potency. Dragonfly, Attrition Orbs, Rolling Storm, and Voltshot are all fun options that synergize well with any arc build you pair them with. This is the main niche Prosecutor fills for PvE, assuming you prefer auto rifles over other primary weapons. Prosecutor isn’t too shabby in The Crucible either, containing consistency-boosting perks like Zen Moment, Tap the Trigger, and Target Lock. If 450RPM auto rifles ever get a buff, this is one to look out for. Prosecutor is A-Tier for PvE and A-Tier for PvP.",
+            "hash": 880829467,
+            "name": "PVP",
+            "plugs": [
+                [
+                    2387244414,
+                    1748774930
+                ],
+                [
+                    1890422124,
+                    365154968,
+                    2939589096,
+                    1523649716
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "MW: Stability; Beyond its unique synergies with the Strand subclasses, Relentless has missed the mark in most areas of the game. For the Strand enthusiasts out there, Relentless’ ability to roll with Slice, Tear, and Hatchling offers considerable buildcrafting opportunities. However, these opportunities aren’t specific to this weapon, and high-impact pulse rifles generally aren’t the strongest in PvE. The only other potential avenue for this weapon is with Firefly and Elemental Honing, which, while potent, is a bit too niche for most activities. In The Crucible, Relentless is slightly above average. With a couple of worthwhile perks here and there, you can’t necessarily go wrong with the weapon; on the whole, however, its competition simply outclasses it. Relentless is B-Tier for PvE and A-Tier for PvP.",
+            "hash": 3733988413,
+            "name": "PVP",
+            "plugs": [
+                [
+                    1392496348
+                ],
+                [
+                    1885400500
+                ],
+                [
+                    3619207468,
+                    2579169598,
+                    2073244114,
+                    3198323828
+                ],
+                [
+                    460017080,
+                    4045335048
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "MW: Stability; Beyond its unique synergies with the Strand subclasses, Relentless has missed the mark in most areas of the game. For the Strand enthusiasts out there, Relentless’ ability to roll with Slice, Tear, and Hatchling offers considerable buildcrafting opportunities. However, these opportunities aren’t specific to this weapon, and high-impact pulse rifles generally aren’t the strongest in PvE. The only other potential avenue for this weapon is with Firefly and Elemental Honing, which, while potent, is a bit too niche for most activities. In The Crucible, Relentless is slightly above average. With a couple of worthwhile perks here and there, you can’t necessarily go wrong with the weapon; on the whole, however, its competition simply outclasses it. Relentless is B-Tier for PvE and A-Tier for PvP.",
+            "hash": 3733988413,
+            "name": "PVP",
+            "plugs": [
+                [
+                    3619207468,
+                    2579169598,
+                    2073244114,
+                    3198323828
+                ],
+                [
+                    460017080,
+                    4045335048
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "Handling is among the most beneficial stats for PvE, which is why we’ll opt for Fluted Barrel, Tactical Mag, and a handling masterwork. That said, your barrel can be swapped for Arrowhead Brake for better recoil direction and your masterwork can be traded for reload speed, if desired. For our main two perks, going for Repulsor Brace and Destabilizing Rounds is hard to argue against. While this combo was previously barely above average, the recent buff to Destabilizing Rounds allows Joxer’s Longsword to be a slightly less potent version of both Graviton Lance and Collective Obligation.",
+            "hash": 157601190,
+            "name": "PVE",
+            "plugs": [
+                [
+                    839105230,
+                    1840239774
+                ],
+                [
+                    1968497646
+                ],
+                [
+                    776531651,
+                    2541826827
+                ],
+                [
+                    2048641572,
+                    1926441324
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Handling is among the most beneficial stats for PvE, which is why we’ll opt for Fluted Barrel, Tactical Mag, and a handling masterwork. That said, your barrel can be swapped for Arrowhead Brake for better recoil direction and your masterwork can be traded for reload speed, if desired. For our main two perks, going for Repulsor Brace and Destabilizing Rounds is hard to argue against. While this combo was previously barely above average, the recent buff to Destabilizing Rounds allows Joxer’s Longsword to be a slightly less potent version of both Graviton Lance and Collective Obligation.",
+            "hash": 157601190,
+            "name": "PVE",
+            "plugs": [
+                [
+                    776531651,
+                    2541826827
+                ],
+                [
+                    2048641572,
+                    1926441324
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "MW: Range; We’ll start our PvP roll out with Arrowhead Brake, Steady Rounds, and a range masterwork to add a bit more consistency through the weapon’s base stats. Lone Wolf is the best option for column one, offering some extra aim assistance even when not fully active. As for our second perk, Headseeker is a great choice that you can feel working while also not having a niche activation requirement.",
+            "hash": 157601190,
+            "name": "PVP",
+            "plugs": [
+                [
+                    839105230
+                ],
+                [
+                    1968497646,
+                    1561002382
+                ],
+                [
+                    2579169598,
+                    1194056669,
+                    2073244114,
+                    3955464425
+                ],
+                [
+                    460017080,
+                    4045335048
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "MW: Range; We’ll start our PvP roll out with Arrowhead Brake, Steady Rounds, and a range masterwork to add a bit more consistency through the weapon’s base stats. Lone Wolf is the best option for column one, offering some extra aim assistance even when not fully active. As for our second perk, Headseeker is a great choice that you can feel working while also not having a niche activation requirement.",
+            "hash": 157601190,
+            "name": "PVP",
+            "plugs": [
+                [
+                    2579169598,
+                    1194056669,
+                    2073244114,
+                    3955464425
+                ],
+                [
+                    460017080,
+                    4045335048
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "MW: Handling; Because Trace Rifles don’t necessarily need many stats, we are going to opt for Handling-boosting perks, so Fluted Barrel, Light Battery, and a Handling masterwork are ideal here. For perk slot 1, Rewind Rounds is the go-to as it allows us to maintain the beam on healthier targets and minimizes downtime. For perk 2, Detonator Beam is our recommended pick thanks to the burst damage it provides, but Jolting Feedback is also a good way to go if you want to lean into Jolt more.",
+            "hash": 1968711238,
+            "name": "PVP",
+            "plugs": [
+                [
+                    1840239774
+                ],
+                [
+                    2749775325
+                ],
+                [
+                    3418782618,
+                    1563455254
+                ],
+                [
+                    3966416502,
+                    4198902903,
+                    717070634,
+                    222783511
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "MW: Handling; Because Trace Rifles don’t necessarily need many stats, we are going to opt for Handling-boosting perks, so Fluted Barrel, Light Battery, and a Handling masterwork are ideal here. For perk slot 1, Rewind Rounds is the go-to as it allows us to maintain the beam on healthier targets and minimizes downtime. For perk 2, Detonator Beam is our recommended pick thanks to the burst damage it provides, but Jolting Feedback is also a good way to go if you want to lean into Jolt more.",
+            "hash": 1968711238,
+            "name": "PVP",
+            "plugs": [
+                [
+                    3418782618,
+                    1563455254
+                ],
+                [
+                    3966416502,
+                    4198902903,
+                    717070634,
+                    222783511
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 970034755,
+            "name": "PVE",
+            "plugs": [
+                [
+                    1840239774,
+                    1124871858
+                ],
+                [
+                    3230963543,
+                    1709045111
+                ],
+                [
+                    3523296417,
+                    3700496672,
+                    1906147653,
+                    2840833776
+                ],
+                [
+                    3891536761,
+                    4049631843,
+                    1549370717,
+                    859780267
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 970034755,
+            "name": "PVE",
+            "plugs": [
+                [
+                    3523296417,
+                    3700496672,
+                    1906147653,
+                    2840833776
+                ],
+                [
+                    3891536761,
+                    4049631843,
+                    1549370717,
+                    859780267
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 970034755,
+            "name": "PVP",
+            "plugs": [
+                [
+                    1482024992,
+                    2860123632
+                ],
+                [
+                    1885400500,
+                    1968098204
+                ],
+                [
+                    588594999,
+                    2717805783
+                ],
+                [
+                    2387244414,
+                    2458213969,
+                    1748774930,
+                    2570477205
+                ]
+            ],
+            "tags": [
+                "GodPVP",
+                "PVP"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 970034755,
+            "name": "PVP",
+            "plugs": [
+                [
+                    588594999,
+                    2717805783
+                ],
+                [
+                    2387244414,
+                    2458213969,
+                    1748774930,
+                    2570477205
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 42435996,
+            "name": "PVE",
+            "plugs": [
+                [
+                    3525010810,
+                    3250572790
+                ],
+                [
+                    2822142346,
+                    2108812838,
+                    3230963543,
+                    1709045111
+                ],
+                [
+                    3987942396,
+                    2817499044
+                ],
+                [
+                    4049631843,
+                    1089671869,
+                    859780267,
+                    496047945
+                ]
+            ],
+            "tags": [
+                "GodPVE",
+                "PVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 42435996,
+            "name": "PVE",
+            "plugs": [
+                [
+                    3987942396,
+                    2817499044
+                ],
+                [
+                    4049631843,
+                    1089671869,
+                    859780267,
+                    496047945
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 2631466936,
+            "name": "PVE",
+            "plugs": [
+                [
+                    3768438372,
+                    4201007276
+                ],
+                [
+                    16392701,
+                    2732340361
+                ],
+                [
+                    776531651,
+                    2541826827
+                ],
+                [
+                    2048641572,
+                    1926441324
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 2631466936,
+            "name": "PVE",
+            "plugs": [
+                [
+                    3768438372,
+                    4201007276
+                ],
+                [
+                    16392701,
+                    2732340361
+                ],
+                [
+                    2848615171,
+                    169755979
+                ],
+                [
+                    1464081238,
+                    2813913866
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 2631466936,
+            "name": "PVE",
+            "plugs": [
+                [
+                    776531651,
+                    2541826827
+                ],
+                [
+                    2048641572,
+                    1926441324
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 2631466936,
+            "name": "PVE",
+            "plugs": [
+                [
+                    2848615171,
+                    169755979
+                ],
+                [
+                    1464081238,
+                    2813913866
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 4124362340,
+            "name": "PVE",
+            "plugs": [
+                [
+                    1840239774,
+                    1124871858
+                ],
+                [
+                    3230963543,
+                    1709045111
+                ],
+                [
+                    3017780555,
+                    4223976499
+                ],
+                [
+                    3824105627,
+                    2890807135,
+                    4293542123,
+                    3581929919,
+                    2675184851,
+                    1183436451
+                ]
+            ],
+            "tags": [
+                "GodPVE",
+                "PVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 4124362340,
+            "name": "PVE",
+            "plugs": [
+                [
+                    3017780555,
+                    4223976499
+                ],
+                [
+                    3824105627,
+                    2890807135,
+                    4293542123,
+                    3581929919,
+                    2675184851,
+                    1183436451
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 4124362340,
+            "name": "PVP",
+            "plugs": [
+                [
+                    1482024992,
+                    2860123632
+                ],
+                [
+                    1885400500,
+                    1968098204
+                ],
+                [
+                    588594999,
+                    1195158366,
+                    2717805783,
+                    838873202
+                ],
+                [
+                    555281244,
+                    332733060
+                ]
+            ],
+            "tags": [
+                "GodPVP",
+                "PVP"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 4124362340,
+            "name": "PVP",
+            "plugs": [
+                [
+                    588594999,
+                    1195158366,
+                    2717805783,
+                    838873202
+                ],
+                [
+                    555281244,
+                    332733060
+                ]
+            ],
+            "tags": [
+                "PVP"
             ]
         }
     ]
