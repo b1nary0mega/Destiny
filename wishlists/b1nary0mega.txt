@@ -8512,6 +8512,94 @@ dimwishlist:item=3922217119&perks=2541826827,1926441324,744217850
 dimwishlist:item=3937866388&perks=3523296417,2848615171
 
 
+// MIDA Mini-Tool - PVE (god-pve,pve)
+//notes: When it comes to the Barrel and Magazine, we recommend Fluted Barrel for the extra handling, and Flared Magwell for the extra reload speed; making it easier to reload for Heal Clip. In the first perk column, Heal Clip is the obvious pick. It’s great for survivability and provides an easy way to stay alive in almost any situation, which is great on such a close-range weapon. Attrition Orbs will give you 1-2 orbs per magazine with sustained damage but with the downside of less immediate survivability, especially as Recouperation isn’t as free as it used to be with the introduction of the Health stat. Moving on to the second perk column, Incandescent is our choice. This AoE perk is great for splash damage, and is the signature Solar ad-clear perk for a reason. Otherwise, if you want an option for sustained fire, Burning Ambition can inflict scorch in one magazine, which is great for passive damage over time and staggering combatants. tags:god-pve,pve
+dimwishlist:item=3946054154&perks=1840239774,3230963543,3017780555,4293542123
+dimwishlist:item=3946054154&perks=1840239774,3230963543,3017780555,2675184851
+dimwishlist:item=3946054154&perks=1840239774,3230963543,3017780555,3581929919
+dimwishlist:item=3946054154&perks=1840239774,3230963543,3017780555,2890807135
+dimwishlist:item=3946054154&perks=1840239774,3230963543,4223976499,4293542123
+dimwishlist:item=3946054154&perks=1840239774,3230963543,4223976499,2675184851
+dimwishlist:item=3946054154&perks=1840239774,3230963543,4223976499,3581929919
+dimwishlist:item=3946054154&perks=1840239774,3230963543,4223976499,2890807135
+dimwishlist:item=3946054154&perks=1840239774,3230963543,984655331,4293542123
+dimwishlist:item=3946054154&perks=1840239774,3230963543,984655331,2675184851
+dimwishlist:item=3946054154&perks=1840239774,3230963543,984655331,3581929919
+dimwishlist:item=3946054154&perks=1840239774,3230963543,984655331,2890807135
+dimwishlist:item=3946054154&perks=1840239774,3230963543,243981275,4293542123
+dimwishlist:item=3946054154&perks=1840239774,3230963543,243981275,2675184851
+dimwishlist:item=3946054154&perks=1840239774,3230963543,243981275,3581929919
+dimwishlist:item=3946054154&perks=1840239774,3230963543,243981275,2890807135
+dimwishlist:item=3946054154&perks=1840239774,1709045111,3017780555,4293542123
+dimwishlist:item=3946054154&perks=1840239774,1709045111,3017780555,2675184851
+dimwishlist:item=3946054154&perks=1840239774,1709045111,3017780555,3581929919
+dimwishlist:item=3946054154&perks=1840239774,1709045111,3017780555,2890807135
+dimwishlist:item=3946054154&perks=1840239774,1709045111,4223976499,4293542123
+dimwishlist:item=3946054154&perks=1840239774,1709045111,4223976499,2675184851
+dimwishlist:item=3946054154&perks=1840239774,1709045111,4223976499,3581929919
+dimwishlist:item=3946054154&perks=1840239774,1709045111,4223976499,2890807135
+dimwishlist:item=3946054154&perks=1840239774,1709045111,984655331,4293542123
+dimwishlist:item=3946054154&perks=1840239774,1709045111,984655331,2675184851
+dimwishlist:item=3946054154&perks=1840239774,1709045111,984655331,3581929919
+dimwishlist:item=3946054154&perks=1840239774,1709045111,984655331,2890807135
+dimwishlist:item=3946054154&perks=1840239774,1709045111,243981275,4293542123
+dimwishlist:item=3946054154&perks=1840239774,1709045111,243981275,2675184851
+dimwishlist:item=3946054154&perks=1840239774,1709045111,243981275,3581929919
+dimwishlist:item=3946054154&perks=1840239774,1709045111,243981275,2890807135
+dimwishlist:item=3946054154&perks=1124871858,3230963543,3017780555,4293542123
+dimwishlist:item=3946054154&perks=1124871858,3230963543,3017780555,2675184851
+dimwishlist:item=3946054154&perks=1124871858,3230963543,3017780555,3581929919
+dimwishlist:item=3946054154&perks=1124871858,3230963543,3017780555,2890807135
+dimwishlist:item=3946054154&perks=1124871858,3230963543,4223976499,4293542123
+dimwishlist:item=3946054154&perks=1124871858,3230963543,4223976499,2675184851
+dimwishlist:item=3946054154&perks=1124871858,3230963543,4223976499,3581929919
+dimwishlist:item=3946054154&perks=1124871858,3230963543,4223976499,2890807135
+dimwishlist:item=3946054154&perks=1124871858,3230963543,984655331,4293542123
+dimwishlist:item=3946054154&perks=1124871858,3230963543,984655331,2675184851
+dimwishlist:item=3946054154&perks=1124871858,3230963543,984655331,3581929919
+dimwishlist:item=3946054154&perks=1124871858,3230963543,984655331,2890807135
+dimwishlist:item=3946054154&perks=1124871858,3230963543,243981275,4293542123
+dimwishlist:item=3946054154&perks=1124871858,3230963543,243981275,2675184851
+dimwishlist:item=3946054154&perks=1124871858,3230963543,243981275,3581929919
+dimwishlist:item=3946054154&perks=1124871858,3230963543,243981275,2890807135
+dimwishlist:item=3946054154&perks=1124871858,1709045111,3017780555,4293542123
+dimwishlist:item=3946054154&perks=1124871858,1709045111,3017780555,2675184851
+dimwishlist:item=3946054154&perks=1124871858,1709045111,3017780555,3581929919
+dimwishlist:item=3946054154&perks=1124871858,1709045111,3017780555,2890807135
+dimwishlist:item=3946054154&perks=1124871858,1709045111,4223976499,4293542123
+dimwishlist:item=3946054154&perks=1124871858,1709045111,4223976499,2675184851
+dimwishlist:item=3946054154&perks=1124871858,1709045111,4223976499,3581929919
+dimwishlist:item=3946054154&perks=1124871858,1709045111,4223976499,2890807135
+dimwishlist:item=3946054154&perks=1124871858,1709045111,984655331,4293542123
+dimwishlist:item=3946054154&perks=1124871858,1709045111,984655331,2675184851
+dimwishlist:item=3946054154&perks=1124871858,1709045111,984655331,3581929919
+dimwishlist:item=3946054154&perks=1124871858,1709045111,984655331,2890807135
+dimwishlist:item=3946054154&perks=1124871858,1709045111,243981275,4293542123
+dimwishlist:item=3946054154&perks=1124871858,1709045111,243981275,2675184851
+dimwishlist:item=3946054154&perks=1124871858,1709045111,243981275,3581929919
+dimwishlist:item=3946054154&perks=1124871858,1709045111,243981275,2890807135
+
+
+// MIDA Mini-Tool - PVE (pve)
+//notes: When it comes to the Barrel and Magazine, we recommend Fluted Barrel for the extra handling, and Flared Magwell for the extra reload speed; making it easier to reload for Heal Clip. In the first perk column, Heal Clip is the obvious pick. It’s great for survivability and provides an easy way to stay alive in almost any situation, which is great on such a close-range weapon. Attrition Orbs will give you 1-2 orbs per magazine with sustained damage but with the downside of less immediate survivability, especially as Recouperation isn’t as free as it used to be with the introduction of the Health stat. Moving on to the second perk column, Incandescent is our choice. This AoE perk is great for splash damage, and is the signature Solar ad-clear perk for a reason. Otherwise, if you want an option for sustained fire, Burning Ambition can inflict scorch in one magazine, which is great for passive damage over time and staggering combatants. tags:pve
+dimwishlist:item=3946054154&perks=3017780555,4293542123
+dimwishlist:item=3946054154&perks=3017780555,2675184851
+dimwishlist:item=3946054154&perks=3017780555,3581929919
+dimwishlist:item=3946054154&perks=3017780555,2890807135
+dimwishlist:item=3946054154&perks=4223976499,4293542123
+dimwishlist:item=3946054154&perks=4223976499,2675184851
+dimwishlist:item=3946054154&perks=4223976499,3581929919
+dimwishlist:item=3946054154&perks=4223976499,2890807135
+dimwishlist:item=3946054154&perks=984655331,4293542123
+dimwishlist:item=3946054154&perks=984655331,2675184851
+dimwishlist:item=3946054154&perks=984655331,3581929919
+dimwishlist:item=3946054154&perks=984655331,2890807135
+dimwishlist:item=3946054154&perks=243981275,4293542123
+dimwishlist:item=3946054154&perks=243981275,2675184851
+dimwishlist:item=3946054154&perks=243981275,3581929919
+dimwishlist:item=3946054154&perks=243981275,2890807135
+
+
 // The Call - PVE (god-pve,pve)
 //notes: PVE; MW Reload; There are two main approaches here when it comes to the PVE god roll. Warlocks and other threadling enjoyers will likely want to pair Demolitionist and Hatchling, giving them access to even more threadlings and even more grenades. Everyone else, especially strand hunters, will probably be looking for Slice, to debuff enemies and generate tangles, partnered with a reliable damage perk like One For All or Desperate Measures. One For All is particularly good here, due to the splash damage ensuring you are frequently hitting multiple targets. Whichever path you choose, your magazine and masterwork choices will be dictated by the slow reload speed of rocket sidearms, something you might want to consider using subsistence in the third column to offset. tags:god-pve,pve
 dimwishlist:item=3947966653&perks=1441682018,2822142346,1820235745,4049631843
