@@ -4800,16 +4800,140 @@ dimwishlist:item=2152484073&perks=2717805783,1015611457
 dimwishlist:item=2152484073&perks=2717805783,2923251173
 
 
+// Haliaetus - PVE (god-pve,pve)
+//notes: The main perks focus on a team setup to get the most damage output, and that starts with the Auto-Loading Holster perk. Fire a rocket and immediately switch to your next big hitter weapon, while unloading, Haliaetus will refill its ammo while holstered, ready for its next rotation. Adding Aggregate Charge here is where the big damage comes from. Applying 3 debuffs gives this perk a 40% damage buff, and while it only lasts 3 seconds, it can easily be reapplied if someone on the team is using Tractor Cannon. You can also use other weapons and abilities to apply these debuffs solo, so Haliaetus does remain effective at all times. The ‘also good’ perk selection can also provide a lot of fun. Envious Assassin can push the magazine size up to 3 shots with Elemental Honing, bringing solid damage at 5 stacks. tags:god-pve,pve
+dimwishlist:item=2155534128&perks=3525010810,3796465595,3300816228,3764420437
+dimwishlist:item=2155534128&perks=3525010810,3796465595,3300816228,1089671869
+dimwishlist:item=2155534128&perks=3525010810,3796465595,3300816228,3192447905
+dimwishlist:item=2155534128&perks=3525010810,3796465595,3300816228,496047945
+dimwishlist:item=2155534128&perks=3525010810,3796465595,968510818,3764420437
+dimwishlist:item=2155534128&perks=3525010810,3796465595,968510818,1089671869
+dimwishlist:item=2155534128&perks=3525010810,3796465595,968510818,3192447905
+dimwishlist:item=2155534128&perks=3525010810,3796465595,968510818,496047945
+dimwishlist:item=2155534128&perks=3525010810,3796465595,3528046508,3764420437
+dimwishlist:item=2155534128&perks=3525010810,3796465595,3528046508,1089671869
+dimwishlist:item=2155534128&perks=3525010810,3796465595,3528046508,3192447905
+dimwishlist:item=2155534128&perks=3525010810,3796465595,3528046508,496047945
+dimwishlist:item=2155534128&perks=3525010810,3796465595,424370782,3764420437
+dimwishlist:item=2155534128&perks=3525010810,3796465595,424370782,1089671869
+dimwishlist:item=2155534128&perks=3525010810,3796465595,424370782,3192447905
+dimwishlist:item=2155534128&perks=3525010810,3796465595,424370782,496047945
+dimwishlist:item=2155534128&perks=3525010810,274905539,3300816228,3764420437
+dimwishlist:item=2155534128&perks=3525010810,274905539,3300816228,1089671869
+dimwishlist:item=2155534128&perks=3525010810,274905539,3300816228,3192447905
+dimwishlist:item=2155534128&perks=3525010810,274905539,3300816228,496047945
+dimwishlist:item=2155534128&perks=3525010810,274905539,968510818,3764420437
+dimwishlist:item=2155534128&perks=3525010810,274905539,968510818,1089671869
+dimwishlist:item=2155534128&perks=3525010810,274905539,968510818,3192447905
+dimwishlist:item=2155534128&perks=3525010810,274905539,968510818,496047945
+dimwishlist:item=2155534128&perks=3525010810,274905539,3528046508,3764420437
+dimwishlist:item=2155534128&perks=3525010810,274905539,3528046508,1089671869
+dimwishlist:item=2155534128&perks=3525010810,274905539,3528046508,3192447905
+dimwishlist:item=2155534128&perks=3525010810,274905539,3528046508,496047945
+dimwishlist:item=2155534128&perks=3525010810,274905539,424370782,3764420437
+dimwishlist:item=2155534128&perks=3525010810,274905539,424370782,1089671869
+dimwishlist:item=2155534128&perks=3525010810,274905539,424370782,3192447905
+dimwishlist:item=2155534128&perks=3525010810,274905539,424370782,496047945
+dimwishlist:item=2155534128&perks=3250572790,3796465595,3300816228,3764420437
+dimwishlist:item=2155534128&perks=3250572790,3796465595,3300816228,1089671869
+dimwishlist:item=2155534128&perks=3250572790,3796465595,3300816228,3192447905
+dimwishlist:item=2155534128&perks=3250572790,3796465595,3300816228,496047945
+dimwishlist:item=2155534128&perks=3250572790,3796465595,968510818,3764420437
+dimwishlist:item=2155534128&perks=3250572790,3796465595,968510818,1089671869
+dimwishlist:item=2155534128&perks=3250572790,3796465595,968510818,3192447905
+dimwishlist:item=2155534128&perks=3250572790,3796465595,968510818,496047945
+dimwishlist:item=2155534128&perks=3250572790,3796465595,3528046508,3764420437
+dimwishlist:item=2155534128&perks=3250572790,3796465595,3528046508,1089671869
+dimwishlist:item=2155534128&perks=3250572790,3796465595,3528046508,3192447905
+dimwishlist:item=2155534128&perks=3250572790,3796465595,3528046508,496047945
+dimwishlist:item=2155534128&perks=3250572790,3796465595,424370782,3764420437
+dimwishlist:item=2155534128&perks=3250572790,3796465595,424370782,1089671869
+dimwishlist:item=2155534128&perks=3250572790,3796465595,424370782,3192447905
+dimwishlist:item=2155534128&perks=3250572790,3796465595,424370782,496047945
+dimwishlist:item=2155534128&perks=3250572790,274905539,3300816228,3764420437
+dimwishlist:item=2155534128&perks=3250572790,274905539,3300816228,1089671869
+dimwishlist:item=2155534128&perks=3250572790,274905539,3300816228,3192447905
+dimwishlist:item=2155534128&perks=3250572790,274905539,3300816228,496047945
+dimwishlist:item=2155534128&perks=3250572790,274905539,968510818,3764420437
+dimwishlist:item=2155534128&perks=3250572790,274905539,968510818,1089671869
+dimwishlist:item=2155534128&perks=3250572790,274905539,968510818,3192447905
+dimwishlist:item=2155534128&perks=3250572790,274905539,968510818,496047945
+dimwishlist:item=2155534128&perks=3250572790,274905539,3528046508,3764420437
+dimwishlist:item=2155534128&perks=3250572790,274905539,3528046508,1089671869
+dimwishlist:item=2155534128&perks=3250572790,274905539,3528046508,3192447905
+dimwishlist:item=2155534128&perks=3250572790,274905539,3528046508,496047945
+dimwishlist:item=2155534128&perks=3250572790,274905539,424370782,3764420437
+dimwishlist:item=2155534128&perks=3250572790,274905539,424370782,1089671869
+dimwishlist:item=2155534128&perks=3250572790,274905539,424370782,3192447905
+dimwishlist:item=2155534128&perks=3250572790,274905539,424370782,496047945
+
+
+// Haliaetus - PVE DPS (god-pve,pve)
+//notes: The main perks focus on a team setup to get the most damage output, and that starts with the Auto-Loading Holster perk. Fire a rocket and immediately switch to your next big hitter weapon, while unloading, Haliaetus will refill its ammo while holstered, ready for its next rotation. Adding Aggregate Charge here is where the big damage comes from. Applying 3 debuffs gives this perk a 40% damage buff, and while it only lasts 3 seconds, it can easily be reapplied if someone on the team is using Tractor Cannon. You can also use other weapons and abilities to apply these debuffs solo, so Haliaetus does remain effective at all times. The ‘also good’ perk selection can also provide a lot of fun. Envious Assassin can push the magazine size up to 3 shots with Elemental Honing, bringing solid damage at 5 stacks. tags:god-pve,pve
+dimwishlist:item=2155534128&perks=3525010810,3796465595,1275731761,3764420437
+dimwishlist:item=2155534128&perks=3525010810,3796465595,1275731761,3192447905
+dimwishlist:item=2155534128&perks=3525010810,3796465595,1275731761,113508675
+dimwishlist:item=2155534128&perks=3525010810,3796465595,1275731761,177189259
+dimwishlist:item=2155534128&perks=3525010810,3796465595,2091001077,3764420437
+dimwishlist:item=2155534128&perks=3525010810,3796465595,2091001077,3192447905
+dimwishlist:item=2155534128&perks=3525010810,3796465595,2091001077,113508675
+dimwishlist:item=2155534128&perks=3525010810,3796465595,2091001077,177189259
+dimwishlist:item=2155534128&perks=3525010810,274905539,1275731761,3764420437
+dimwishlist:item=2155534128&perks=3525010810,274905539,1275731761,3192447905
+dimwishlist:item=2155534128&perks=3525010810,274905539,1275731761,113508675
+dimwishlist:item=2155534128&perks=3525010810,274905539,1275731761,177189259
+dimwishlist:item=2155534128&perks=3525010810,274905539,2091001077,3764420437
+dimwishlist:item=2155534128&perks=3525010810,274905539,2091001077,3192447905
+dimwishlist:item=2155534128&perks=3525010810,274905539,2091001077,113508675
+dimwishlist:item=2155534128&perks=3525010810,274905539,2091001077,177189259
+dimwishlist:item=2155534128&perks=3250572790,3796465595,1275731761,3764420437
+dimwishlist:item=2155534128&perks=3250572790,3796465595,1275731761,3192447905
+dimwishlist:item=2155534128&perks=3250572790,3796465595,1275731761,113508675
+dimwishlist:item=2155534128&perks=3250572790,3796465595,1275731761,177189259
+dimwishlist:item=2155534128&perks=3250572790,3796465595,2091001077,3764420437
+dimwishlist:item=2155534128&perks=3250572790,3796465595,2091001077,3192447905
+dimwishlist:item=2155534128&perks=3250572790,3796465595,2091001077,113508675
+dimwishlist:item=2155534128&perks=3250572790,3796465595,2091001077,177189259
+dimwishlist:item=2155534128&perks=3250572790,274905539,1275731761,3764420437
+dimwishlist:item=2155534128&perks=3250572790,274905539,1275731761,3192447905
+dimwishlist:item=2155534128&perks=3250572790,274905539,1275731761,113508675
+dimwishlist:item=2155534128&perks=3250572790,274905539,1275731761,177189259
+dimwishlist:item=2155534128&perks=3250572790,274905539,2091001077,3764420437
+dimwishlist:item=2155534128&perks=3250572790,274905539,2091001077,3192447905
+dimwishlist:item=2155534128&perks=3250572790,274905539,2091001077,113508675
+dimwishlist:item=2155534128&perks=3250572790,274905539,2091001077,177189259
+
+
+// Haliaetus - PVE (pve)
+//notes: The main perks focus on a team setup to get the most damage output, and that starts with the Auto-Loading Holster perk. Fire a rocket and immediately switch to your next big hitter weapon, while unloading, Haliaetus will refill its ammo while holstered, ready for its next rotation. Adding Aggregate Charge here is where the big damage comes from. Applying 3 debuffs gives this perk a 40% damage buff, and while it only lasts 3 seconds, it can easily be reapplied if someone on the team is using Tractor Cannon. You can also use other weapons and abilities to apply these debuffs solo, so Haliaetus does remain effective at all times. The ‘also good’ perk selection can also provide a lot of fun. Envious Assassin can push the magazine size up to 3 shots with Elemental Honing, bringing solid damage at 5 stacks. tags:pve
+dimwishlist:item=2155534128&perks=3300816228,3764420437
+dimwishlist:item=2155534128&perks=3300816228,1089671869
+dimwishlist:item=2155534128&perks=3300816228,3192447905
+dimwishlist:item=2155534128&perks=3300816228,496047945
+dimwishlist:item=2155534128&perks=968510818,3764420437
+dimwishlist:item=2155534128&perks=968510818,1089671869
+dimwishlist:item=2155534128&perks=968510818,3192447905
+dimwishlist:item=2155534128&perks=968510818,496047945
+dimwishlist:item=2155534128&perks=3528046508,3764420437
+dimwishlist:item=2155534128&perks=3528046508,1089671869
+dimwishlist:item=2155534128&perks=3528046508,3192447905
+dimwishlist:item=2155534128&perks=3528046508,496047945
+dimwishlist:item=2155534128&perks=424370782,3764420437
+dimwishlist:item=2155534128&perks=424370782,1089671869
+dimwishlist:item=2155534128&perks=424370782,3192447905
+dimwishlist:item=2155534128&perks=424370782,496047945
+
+
 // Haliaetus - PVE DPS (pve)
-//notes: tags:pve
-dimwishlist:item=2155534128&perks=1275731761,3764420437,4139916815
-dimwishlist:item=2155534128&perks=1275731761,3764420437,4232410959
-dimwishlist:item=2155534128&perks=1275731761,3192447905,4139916815
-dimwishlist:item=2155534128&perks=1275731761,3192447905,4232410959
-dimwishlist:item=2155534128&perks=2091001077,3764420437,4139916815
-dimwishlist:item=2155534128&perks=2091001077,3764420437,4232410959
-dimwishlist:item=2155534128&perks=2091001077,3192447905,4139916815
-dimwishlist:item=2155534128&perks=2091001077,3192447905,4232410959
+//notes: The main perks focus on a team setup to get the most damage output, and that starts with the Auto-Loading Holster perk. Fire a rocket and immediately switch to your next big hitter weapon, while unloading, Haliaetus will refill its ammo while holstered, ready for its next rotation. Adding Aggregate Charge here is where the big damage comes from. Applying 3 debuffs gives this perk a 40% damage buff, and while it only lasts 3 seconds, it can easily be reapplied if someone on the team is using Tractor Cannon. You can also use other weapons and abilities to apply these debuffs solo, so Haliaetus does remain effective at all times. The ‘also good’ perk selection can also provide a lot of fun. Envious Assassin can push the magazine size up to 3 shots with Elemental Honing, bringing solid damage at 5 stacks. tags:pve
+dimwishlist:item=2155534128&perks=1275731761,3764420437
+dimwishlist:item=2155534128&perks=1275731761,3192447905
+dimwishlist:item=2155534128&perks=1275731761,113508675
+dimwishlist:item=2155534128&perks=1275731761,177189259
+dimwishlist:item=2155534128&perks=2091001077,3764420437
+dimwishlist:item=2155534128&perks=2091001077,3192447905
+dimwishlist:item=2155534128&perks=2091001077,113508675
+dimwishlist:item=2155534128&perks=2091001077,177189259
 
 
 // Forerunner - Exotic ()
