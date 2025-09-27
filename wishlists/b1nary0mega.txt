@@ -1474,6 +1474,94 @@ dimwishlist:item=586671776&perks=2938480696,4104185692
 dimwishlist:item=586671776&perks=2938480696,3007133316
 
 
+// Lance Ephemeral - PVE (god-pve,pve)
+//notes: Fluted Barrel and Tactical Mag will start us off with some much needed handling and stability boosts while also offering two extra rounds in the mag. Tack on a stability Masterwork to ensure you’re hitting as many crits as possible. Perk 1 has all the reload perks one could ask for, so it’s really up to you whether you want Rewind Rounds, Fourth Time’s the Charm, or Envious Arsenal. Fourth Time’s is arguably the best as it returns ammo from thin air, but the other two are good in their own right. For Perk 2, Bait and Switch is the best choice here, with Elemental Honing a good alternative. Both offer the same max damage buff, but Elemental Honing requires a bit more effort to activate, though the tradeoff is a much longer duration. tags:god-pve,pve
+dimwishlist:item=688593230&perks=1840239774,106909392,1354429876,3078487919
+dimwishlist:item=688593230&perks=1840239774,106909392,1354429876,1089671869
+dimwishlist:item=688593230&perks=1840239774,106909392,1354429876,3744057135
+dimwishlist:item=688593230&perks=1840239774,106909392,1354429876,496047945
+dimwishlist:item=688593230&perks=1840239774,106909392,3418782618,3078487919
+dimwishlist:item=688593230&perks=1840239774,106909392,3418782618,1089671869
+dimwishlist:item=688593230&perks=1840239774,106909392,3418782618,3744057135
+dimwishlist:item=688593230&perks=1840239774,106909392,3418782618,496047945
+dimwishlist:item=688593230&perks=1840239774,106909392,1563455254,3078487919
+dimwishlist:item=688593230&perks=1840239774,106909392,1563455254,1089671869
+dimwishlist:item=688593230&perks=1840239774,106909392,1563455254,3744057135
+dimwishlist:item=688593230&perks=1840239774,106909392,1563455254,496047945
+dimwishlist:item=688593230&perks=1840239774,106909392,848860060,3078487919
+dimwishlist:item=688593230&perks=1840239774,106909392,848860060,1089671869
+dimwishlist:item=688593230&perks=1840239774,106909392,848860060,3744057135
+dimwishlist:item=688593230&perks=1840239774,106909392,848860060,496047945
+dimwishlist:item=688593230&perks=1840239774,1783397184,1354429876,3078487919
+dimwishlist:item=688593230&perks=1840239774,1783397184,1354429876,1089671869
+dimwishlist:item=688593230&perks=1840239774,1783397184,1354429876,3744057135
+dimwishlist:item=688593230&perks=1840239774,1783397184,1354429876,496047945
+dimwishlist:item=688593230&perks=1840239774,1783397184,3418782618,3078487919
+dimwishlist:item=688593230&perks=1840239774,1783397184,3418782618,1089671869
+dimwishlist:item=688593230&perks=1840239774,1783397184,3418782618,3744057135
+dimwishlist:item=688593230&perks=1840239774,1783397184,3418782618,496047945
+dimwishlist:item=688593230&perks=1840239774,1783397184,1563455254,3078487919
+dimwishlist:item=688593230&perks=1840239774,1783397184,1563455254,1089671869
+dimwishlist:item=688593230&perks=1840239774,1783397184,1563455254,3744057135
+dimwishlist:item=688593230&perks=1840239774,1783397184,1563455254,496047945
+dimwishlist:item=688593230&perks=1840239774,1783397184,848860060,3078487919
+dimwishlist:item=688593230&perks=1840239774,1783397184,848860060,1089671869
+dimwishlist:item=688593230&perks=1840239774,1783397184,848860060,3744057135
+dimwishlist:item=688593230&perks=1840239774,1783397184,848860060,496047945
+dimwishlist:item=688593230&perks=1124871858,106909392,1354429876,3078487919
+dimwishlist:item=688593230&perks=1124871858,106909392,1354429876,1089671869
+dimwishlist:item=688593230&perks=1124871858,106909392,1354429876,3744057135
+dimwishlist:item=688593230&perks=1124871858,106909392,1354429876,496047945
+dimwishlist:item=688593230&perks=1124871858,106909392,3418782618,3078487919
+dimwishlist:item=688593230&perks=1124871858,106909392,3418782618,1089671869
+dimwishlist:item=688593230&perks=1124871858,106909392,3418782618,3744057135
+dimwishlist:item=688593230&perks=1124871858,106909392,3418782618,496047945
+dimwishlist:item=688593230&perks=1124871858,106909392,1563455254,3078487919
+dimwishlist:item=688593230&perks=1124871858,106909392,1563455254,1089671869
+dimwishlist:item=688593230&perks=1124871858,106909392,1563455254,3744057135
+dimwishlist:item=688593230&perks=1124871858,106909392,1563455254,496047945
+dimwishlist:item=688593230&perks=1124871858,106909392,848860060,3078487919
+dimwishlist:item=688593230&perks=1124871858,106909392,848860060,1089671869
+dimwishlist:item=688593230&perks=1124871858,106909392,848860060,3744057135
+dimwishlist:item=688593230&perks=1124871858,106909392,848860060,496047945
+dimwishlist:item=688593230&perks=1124871858,1783397184,1354429876,3078487919
+dimwishlist:item=688593230&perks=1124871858,1783397184,1354429876,1089671869
+dimwishlist:item=688593230&perks=1124871858,1783397184,1354429876,3744057135
+dimwishlist:item=688593230&perks=1124871858,1783397184,1354429876,496047945
+dimwishlist:item=688593230&perks=1124871858,1783397184,3418782618,3078487919
+dimwishlist:item=688593230&perks=1124871858,1783397184,3418782618,1089671869
+dimwishlist:item=688593230&perks=1124871858,1783397184,3418782618,3744057135
+dimwishlist:item=688593230&perks=1124871858,1783397184,3418782618,496047945
+dimwishlist:item=688593230&perks=1124871858,1783397184,1563455254,3078487919
+dimwishlist:item=688593230&perks=1124871858,1783397184,1563455254,1089671869
+dimwishlist:item=688593230&perks=1124871858,1783397184,1563455254,3744057135
+dimwishlist:item=688593230&perks=1124871858,1783397184,1563455254,496047945
+dimwishlist:item=688593230&perks=1124871858,1783397184,848860060,3078487919
+dimwishlist:item=688593230&perks=1124871858,1783397184,848860060,1089671869
+dimwishlist:item=688593230&perks=1124871858,1783397184,848860060,3744057135
+dimwishlist:item=688593230&perks=1124871858,1783397184,848860060,496047945
+
+
+// Lance Ephemeral - PVE (pve)
+//notes: Fluted Barrel and Tactical Mag will start us off with some much needed handling and stability boosts while also offering two extra rounds in the mag. Tack on a stability Masterwork to ensure you’re hitting as many crits as possible. Perk 1 has all the reload perks one could ask for, so it’s really up to you whether you want Rewind Rounds, Fourth Time’s the Charm, or Envious Arsenal. Fourth Time’s is arguably the best as it returns ammo from thin air, but the other two are good in their own right. For Perk 2, Bait and Switch is the best choice here, with Elemental Honing a good alternative. Both offer the same max damage buff, but Elemental Honing requires a bit more effort to activate, though the tradeoff is a much longer duration. tags:pve
+dimwishlist:item=688593230&perks=1354429876,3078487919
+dimwishlist:item=688593230&perks=1354429876,1089671869
+dimwishlist:item=688593230&perks=1354429876,3744057135
+dimwishlist:item=688593230&perks=1354429876,496047945
+dimwishlist:item=688593230&perks=3418782618,3078487919
+dimwishlist:item=688593230&perks=3418782618,1089671869
+dimwishlist:item=688593230&perks=3418782618,3744057135
+dimwishlist:item=688593230&perks=3418782618,496047945
+dimwishlist:item=688593230&perks=1563455254,3078487919
+dimwishlist:item=688593230&perks=1563455254,1089671869
+dimwishlist:item=688593230&perks=1563455254,3744057135
+dimwishlist:item=688593230&perks=1563455254,496047945
+dimwishlist:item=688593230&perks=848860060,3078487919
+dimwishlist:item=688593230&perks=848860060,1089671869
+dimwishlist:item=688593230&perks=848860060,3744057135
+dimwishlist:item=688593230&perks=848860060,496047945
+
+
 // Cynosure - PVE (god-pve)
 //notes: MW: Velocity. For our barrel, we like Quick Launch as the primary roll on this weapon focuses on using Cynosure as a part of a weapon damage rotation, and Quick Launch improves Handling. Impact Casing is the default pick for the magazine as it slightly increases your damage. Envious Arsenal is the best option for perk slot one as it massively improves the viability of Cynosure as a DPS weapon; however, Clown Cartridge is a decent alternative to turn this weapon into a single-weapon damage tool. For perk two, Explosive Light is the most accessible damage trait as it simply requires the gathering of Orbs, which is incredibly simple. As mentioned earlier, High Ground can work as another damage perk, but it is more conditional. Bipod is also a good choice; however, it’ll turn Cynosure into more of an add-clear focused weapon rather than a DPS option. tags:god-pve
 dimwishlist:item=694275488&perks=3525010810,3796465595,3987942396,3194351027
@@ -2828,6 +2916,122 @@ dimwishlist:item=1432682459&perks=1563455254,31345821
 dimwishlist:item=1432682459&perks=1563455254,2610012052
 
 
+// Antedate - PVP (god-pvp,pvp)
+//notes: The main thing you’re looking for on SMGs in The Crucible is range, so we’ll opt for Hammer-Forged Rifling, Ricochet Rounds, and either a range or stability masterwork. Frame of Reference, the weapon’s origin trait, provides even more range (among other things), making this a pretty great contender for PvP right out of the gate. Rangefinder is our pick for column three for the same reasons listed above (there also isn’t much else here, save for maybe Zen Moment). Our final perk selection is Target Lock, which makes for more consistent and shorter kills. tags:god-pvp,pvp
+dimwishlist:item=1435808083&perks=3250034553,1885400500,2846385770,365154968
+dimwishlist:item=1435808083&perks=3250034553,1885400500,2846385770,2939589096
+dimwishlist:item=1435808083&perks=3250034553,1885400500,509594246,365154968
+dimwishlist:item=1435808083&perks=3250034553,1885400500,509594246,2939589096
+dimwishlist:item=1435808083&perks=3250034553,1968098204,2846385770,365154968
+dimwishlist:item=1435808083&perks=3250034553,1968098204,2846385770,2939589096
+dimwishlist:item=1435808083&perks=3250034553,1968098204,509594246,365154968
+dimwishlist:item=1435808083&perks=3250034553,1968098204,509594246,2939589096
+dimwishlist:item=1435808083&perks=1147230557,1885400500,2846385770,365154968
+dimwishlist:item=1435808083&perks=1147230557,1885400500,2846385770,2939589096
+dimwishlist:item=1435808083&perks=1147230557,1885400500,509594246,365154968
+dimwishlist:item=1435808083&perks=1147230557,1885400500,509594246,2939589096
+dimwishlist:item=1435808083&perks=1147230557,1968098204,2846385770,365154968
+dimwishlist:item=1435808083&perks=1147230557,1968098204,2846385770,2939589096
+dimwishlist:item=1435808083&perks=1147230557,1968098204,509594246,365154968
+dimwishlist:item=1435808083&perks=1147230557,1968098204,509594246,2939589096
+
+
+// Antedate - PVE (god-pve,pve)
+//notes: Fluted Barrel, Flared Magwell, and a handling masterwork are our choices for stat-boosting perks. While we’d typically opt for a reload speed masterwork here, it really isn’t worth it due to our other choices and the weapon’s origin trait. Rolling Storm in the third column is hard to pass up. Even though it’s slightly less popular than other subclass-synergistic perks due to how easy Bolt Charge is to build up, it’s an extremely strong perk for the third column, making it our top pick. If you’re not running an Arc build, however, Dragonfly could prove equally enticing. From there, you have a choice between Jolting Feedback and Frenzy; the former plays even more into Arc synergy, while the latter provides additional damage and reload speed bonuses on top of Antedate’s origin trait. tags:god-pve,pve
+dimwishlist:item=1435808083&perks=1840239774,3230963543,2848615171,3966416502
+dimwishlist:item=1435808083&perks=1840239774,3230963543,2848615171,4104185692
+dimwishlist:item=1435808083&perks=1840239774,3230963543,2848615171,717070634
+dimwishlist:item=1435808083&perks=1840239774,3230963543,2848615171,3007133316
+dimwishlist:item=1435808083&perks=1840239774,3230963543,3218042543,3966416502
+dimwishlist:item=1435808083&perks=1840239774,3230963543,3218042543,4104185692
+dimwishlist:item=1435808083&perks=1840239774,3230963543,3218042543,717070634
+dimwishlist:item=1435808083&perks=1840239774,3230963543,3218042543,3007133316
+dimwishlist:item=1435808083&perks=1840239774,3230963543,2633604463,3966416502
+dimwishlist:item=1435808083&perks=1840239774,3230963543,2633604463,4104185692
+dimwishlist:item=1435808083&perks=1840239774,3230963543,2633604463,717070634
+dimwishlist:item=1435808083&perks=1840239774,3230963543,2633604463,3007133316
+dimwishlist:item=1435808083&perks=1840239774,3230963543,169755979,3966416502
+dimwishlist:item=1435808083&perks=1840239774,3230963543,169755979,4104185692
+dimwishlist:item=1435808083&perks=1840239774,3230963543,169755979,717070634
+dimwishlist:item=1435808083&perks=1840239774,3230963543,169755979,3007133316
+dimwishlist:item=1435808083&perks=1840239774,1709045111,2848615171,3966416502
+dimwishlist:item=1435808083&perks=1840239774,1709045111,2848615171,4104185692
+dimwishlist:item=1435808083&perks=1840239774,1709045111,2848615171,717070634
+dimwishlist:item=1435808083&perks=1840239774,1709045111,2848615171,3007133316
+dimwishlist:item=1435808083&perks=1840239774,1709045111,3218042543,3966416502
+dimwishlist:item=1435808083&perks=1840239774,1709045111,3218042543,4104185692
+dimwishlist:item=1435808083&perks=1840239774,1709045111,3218042543,717070634
+dimwishlist:item=1435808083&perks=1840239774,1709045111,3218042543,3007133316
+dimwishlist:item=1435808083&perks=1840239774,1709045111,2633604463,3966416502
+dimwishlist:item=1435808083&perks=1840239774,1709045111,2633604463,4104185692
+dimwishlist:item=1435808083&perks=1840239774,1709045111,2633604463,717070634
+dimwishlist:item=1435808083&perks=1840239774,1709045111,2633604463,3007133316
+dimwishlist:item=1435808083&perks=1840239774,1709045111,169755979,3966416502
+dimwishlist:item=1435808083&perks=1840239774,1709045111,169755979,4104185692
+dimwishlist:item=1435808083&perks=1840239774,1709045111,169755979,717070634
+dimwishlist:item=1435808083&perks=1840239774,1709045111,169755979,3007133316
+dimwishlist:item=1435808083&perks=1124871858,3230963543,2848615171,3966416502
+dimwishlist:item=1435808083&perks=1124871858,3230963543,2848615171,4104185692
+dimwishlist:item=1435808083&perks=1124871858,3230963543,2848615171,717070634
+dimwishlist:item=1435808083&perks=1124871858,3230963543,2848615171,3007133316
+dimwishlist:item=1435808083&perks=1124871858,3230963543,3218042543,3966416502
+dimwishlist:item=1435808083&perks=1124871858,3230963543,3218042543,4104185692
+dimwishlist:item=1435808083&perks=1124871858,3230963543,3218042543,717070634
+dimwishlist:item=1435808083&perks=1124871858,3230963543,3218042543,3007133316
+dimwishlist:item=1435808083&perks=1124871858,3230963543,2633604463,3966416502
+dimwishlist:item=1435808083&perks=1124871858,3230963543,2633604463,4104185692
+dimwishlist:item=1435808083&perks=1124871858,3230963543,2633604463,717070634
+dimwishlist:item=1435808083&perks=1124871858,3230963543,2633604463,3007133316
+dimwishlist:item=1435808083&perks=1124871858,3230963543,169755979,3966416502
+dimwishlist:item=1435808083&perks=1124871858,3230963543,169755979,4104185692
+dimwishlist:item=1435808083&perks=1124871858,3230963543,169755979,717070634
+dimwishlist:item=1435808083&perks=1124871858,3230963543,169755979,3007133316
+dimwishlist:item=1435808083&perks=1124871858,1709045111,2848615171,3966416502
+dimwishlist:item=1435808083&perks=1124871858,1709045111,2848615171,4104185692
+dimwishlist:item=1435808083&perks=1124871858,1709045111,2848615171,717070634
+dimwishlist:item=1435808083&perks=1124871858,1709045111,2848615171,3007133316
+dimwishlist:item=1435808083&perks=1124871858,1709045111,3218042543,3966416502
+dimwishlist:item=1435808083&perks=1124871858,1709045111,3218042543,4104185692
+dimwishlist:item=1435808083&perks=1124871858,1709045111,3218042543,717070634
+dimwishlist:item=1435808083&perks=1124871858,1709045111,3218042543,3007133316
+dimwishlist:item=1435808083&perks=1124871858,1709045111,2633604463,3966416502
+dimwishlist:item=1435808083&perks=1124871858,1709045111,2633604463,4104185692
+dimwishlist:item=1435808083&perks=1124871858,1709045111,2633604463,717070634
+dimwishlist:item=1435808083&perks=1124871858,1709045111,2633604463,3007133316
+dimwishlist:item=1435808083&perks=1124871858,1709045111,169755979,3966416502
+dimwishlist:item=1435808083&perks=1124871858,1709045111,169755979,4104185692
+dimwishlist:item=1435808083&perks=1124871858,1709045111,169755979,717070634
+dimwishlist:item=1435808083&perks=1124871858,1709045111,169755979,3007133316
+
+
+// Antedate - PVP (pvp)
+//notes: The main thing you’re looking for on SMGs in The Crucible is range, so we’ll opt for Hammer-Forged Rifling, Ricochet Rounds, and either a range or stability masterwork. Frame of Reference, the weapon’s origin trait, provides even more range (among other things), making this a pretty great contender for PvP right out of the gate. Rangefinder is our pick for column three for the same reasons listed above (there also isn’t much else here, save for maybe Zen Moment). Our final perk selection is Target Lock, which makes for more consistent and shorter kills. tags:pvp
+dimwishlist:item=1435808083&perks=2846385770,365154968
+dimwishlist:item=1435808083&perks=2846385770,2939589096
+dimwishlist:item=1435808083&perks=509594246,365154968
+dimwishlist:item=1435808083&perks=509594246,2939589096
+
+
+// Antedate - PVE (pve)
+//notes: Fluted Barrel, Flared Magwell, and a handling masterwork are our choices for stat-boosting perks. While we’d typically opt for a reload speed masterwork here, it really isn’t worth it due to our other choices and the weapon’s origin trait. Rolling Storm in the third column is hard to pass up. Even though it’s slightly less popular than other subclass-synergistic perks due to how easy Bolt Charge is to build up, it’s an extremely strong perk for the third column, making it our top pick. If you’re not running an Arc build, however, Dragonfly could prove equally enticing. From there, you have a choice between Jolting Feedback and Frenzy; the former plays even more into Arc synergy, while the latter provides additional damage and reload speed bonuses on top of Antedate’s origin trait. tags:pve
+dimwishlist:item=1435808083&perks=2848615171,3966416502
+dimwishlist:item=1435808083&perks=2848615171,4104185692
+dimwishlist:item=1435808083&perks=2848615171,717070634
+dimwishlist:item=1435808083&perks=2848615171,3007133316
+dimwishlist:item=1435808083&perks=3218042543,3966416502
+dimwishlist:item=1435808083&perks=3218042543,4104185692
+dimwishlist:item=1435808083&perks=3218042543,717070634
+dimwishlist:item=1435808083&perks=3218042543,3007133316
+dimwishlist:item=1435808083&perks=2633604463,3966416502
+dimwishlist:item=1435808083&perks=2633604463,4104185692
+dimwishlist:item=1435808083&perks=2633604463,717070634
+dimwishlist:item=1435808083&perks=2633604463,3007133316
+dimwishlist:item=1435808083&perks=169755979,3966416502
+dimwishlist:item=1435808083&perks=169755979,4104185692
+dimwishlist:item=1435808083&perks=169755979,717070634
+dimwishlist:item=1435808083&perks=169755979,3007133316
+
+
 // Hung Jury SR4 - PVE GMs (god-pve)
 //notes: MW: Reload; GMs; Handling and Reload Speed are important on Hung Jury, so we chose Fluted Barrel and Tactical Magazine for our barrel and magazine slots. Kinetic Tremors is a must-pick for PvE on Hung Jury as it helps deal some massive AoE damage, which is always handy on a Scout Rifle. Explosive Payload and Precision Instrument are both good options. Explosive Payload provides a more general buff, but Precision Instrument is better when using Hung Jury to take down a higher health target. Recommended Loadout: Hung Jury SR4, Cartesian Coordinate, Gjallarhorn. tags:god-pve
 dimwishlist:item=1453235079&perks=1840239774,106909392,3891536761,3038247973
@@ -3194,6 +3398,94 @@ dimwishlist:item=1536325168&perks=2848615171,2048641572
 dimwishlist:item=1536325168&perks=2848615171,1926441324
 dimwishlist:item=1536325168&perks=169755979,2048641572
 dimwishlist:item=1536325168&perks=169755979,1926441324
+
+
+// Opaque Hourglass - PVE (god-pve)
+//notes: As stated earlier, DPS is not this weapon’s strong suit, so we’ll go for Empowered Rail to up the Persistence stat. This stat governs how long bolts stay up before expiring, so having it as high as possible allows you more time to retrieve it. This is perfect as Charged Bolts deal damage over time while in a target, so the longer it is up, the better. For Perk 1, Impulse Amplifier or Bolt Collector are good general picks. Impulse will let you hit farther away more reliably, and Bolt Collector lets you use the crossbow in a more CQC setting. Perk 2 will be either Frenzy or Master of Arms for their easy and powerful damage buffs, which will also affect Charged Bolts’ damage as well. And if you want to try a DPS roll, Field Prep and Elemental Honing can make for a good swap build. tags:god-pve
+dimwishlist:item=1553681400&perks=4196967425,2955427634,951095735,4104185692
+dimwishlist:item=1553681400&perks=4196967425,2955427634,951095735,3081867624
+dimwishlist:item=1553681400&perks=4196967425,2955427634,951095735,2963273944
+dimwishlist:item=1553681400&perks=4196967425,2955427634,951095735,3007133316
+dimwishlist:item=1553681400&perks=4196967425,2955427634,4042220767,4104185692
+dimwishlist:item=1553681400&perks=4196967425,2955427634,4042220767,3081867624
+dimwishlist:item=1553681400&perks=4196967425,2955427634,4042220767,2963273944
+dimwishlist:item=1553681400&perks=4196967425,2955427634,4042220767,3007133316
+dimwishlist:item=1553681400&perks=4196967425,2955427634,883665727,4104185692
+dimwishlist:item=1553681400&perks=4196967425,2955427634,883665727,3081867624
+dimwishlist:item=1553681400&perks=4196967425,2955427634,883665727,2963273944
+dimwishlist:item=1553681400&perks=4196967425,2955427634,883665727,3007133316
+dimwishlist:item=1553681400&perks=4196967425,2955427634,3878366039,4104185692
+dimwishlist:item=1553681400&perks=4196967425,2955427634,3878366039,3081867624
+dimwishlist:item=1553681400&perks=4196967425,2955427634,3878366039,2963273944
+dimwishlist:item=1553681400&perks=4196967425,2955427634,3878366039,3007133316
+dimwishlist:item=1553681400&perks=4196967425,2783367502,951095735,4104185692
+dimwishlist:item=1553681400&perks=4196967425,2783367502,951095735,3081867624
+dimwishlist:item=1553681400&perks=4196967425,2783367502,951095735,2963273944
+dimwishlist:item=1553681400&perks=4196967425,2783367502,951095735,3007133316
+dimwishlist:item=1553681400&perks=4196967425,2783367502,4042220767,4104185692
+dimwishlist:item=1553681400&perks=4196967425,2783367502,4042220767,3081867624
+dimwishlist:item=1553681400&perks=4196967425,2783367502,4042220767,2963273944
+dimwishlist:item=1553681400&perks=4196967425,2783367502,4042220767,3007133316
+dimwishlist:item=1553681400&perks=4196967425,2783367502,883665727,4104185692
+dimwishlist:item=1553681400&perks=4196967425,2783367502,883665727,3081867624
+dimwishlist:item=1553681400&perks=4196967425,2783367502,883665727,2963273944
+dimwishlist:item=1553681400&perks=4196967425,2783367502,883665727,3007133316
+dimwishlist:item=1553681400&perks=4196967425,2783367502,3878366039,4104185692
+dimwishlist:item=1553681400&perks=4196967425,2783367502,3878366039,3081867624
+dimwishlist:item=1553681400&perks=4196967425,2783367502,3878366039,2963273944
+dimwishlist:item=1553681400&perks=4196967425,2783367502,3878366039,3007133316
+dimwishlist:item=1553681400&perks=2398680997,2955427634,951095735,4104185692
+dimwishlist:item=1553681400&perks=2398680997,2955427634,951095735,3081867624
+dimwishlist:item=1553681400&perks=2398680997,2955427634,951095735,2963273944
+dimwishlist:item=1553681400&perks=2398680997,2955427634,951095735,3007133316
+dimwishlist:item=1553681400&perks=2398680997,2955427634,4042220767,4104185692
+dimwishlist:item=1553681400&perks=2398680997,2955427634,4042220767,3081867624
+dimwishlist:item=1553681400&perks=2398680997,2955427634,4042220767,2963273944
+dimwishlist:item=1553681400&perks=2398680997,2955427634,4042220767,3007133316
+dimwishlist:item=1553681400&perks=2398680997,2955427634,883665727,4104185692
+dimwishlist:item=1553681400&perks=2398680997,2955427634,883665727,3081867624
+dimwishlist:item=1553681400&perks=2398680997,2955427634,883665727,2963273944
+dimwishlist:item=1553681400&perks=2398680997,2955427634,883665727,3007133316
+dimwishlist:item=1553681400&perks=2398680997,2955427634,3878366039,4104185692
+dimwishlist:item=1553681400&perks=2398680997,2955427634,3878366039,3081867624
+dimwishlist:item=1553681400&perks=2398680997,2955427634,3878366039,2963273944
+dimwishlist:item=1553681400&perks=2398680997,2955427634,3878366039,3007133316
+dimwishlist:item=1553681400&perks=2398680997,2783367502,951095735,4104185692
+dimwishlist:item=1553681400&perks=2398680997,2783367502,951095735,3081867624
+dimwishlist:item=1553681400&perks=2398680997,2783367502,951095735,2963273944
+dimwishlist:item=1553681400&perks=2398680997,2783367502,951095735,3007133316
+dimwishlist:item=1553681400&perks=2398680997,2783367502,4042220767,4104185692
+dimwishlist:item=1553681400&perks=2398680997,2783367502,4042220767,3081867624
+dimwishlist:item=1553681400&perks=2398680997,2783367502,4042220767,2963273944
+dimwishlist:item=1553681400&perks=2398680997,2783367502,4042220767,3007133316
+dimwishlist:item=1553681400&perks=2398680997,2783367502,883665727,4104185692
+dimwishlist:item=1553681400&perks=2398680997,2783367502,883665727,3081867624
+dimwishlist:item=1553681400&perks=2398680997,2783367502,883665727,2963273944
+dimwishlist:item=1553681400&perks=2398680997,2783367502,883665727,3007133316
+dimwishlist:item=1553681400&perks=2398680997,2783367502,3878366039,4104185692
+dimwishlist:item=1553681400&perks=2398680997,2783367502,3878366039,3081867624
+dimwishlist:item=1553681400&perks=2398680997,2783367502,3878366039,2963273944
+dimwishlist:item=1553681400&perks=2398680997,2783367502,3878366039,3007133316
+
+
+// Opaque Hourglass - PVE (pve)
+//notes: As stated earlier, DPS is not this weapon’s strong suit, so we’ll go for Empowered Rail to up the Persistence stat. This stat governs how long bolts stay up before expiring, so having it as high as possible allows you more time to retrieve it. This is perfect as Charged Bolts deal damage over time while in a target, so the longer it is up, the better. For Perk 1, Impulse Amplifier or Bolt Collector are good general picks. Impulse will let you hit farther away more reliably, and Bolt Collector lets you use the crossbow in a more CQC setting. Perk 2 will be either Frenzy or Master of Arms for their easy and powerful damage buffs, which will also affect Charged Bolts’ damage as well. And if you want to try a DPS roll, Field Prep and Elemental Honing can make for a good swap build. tags:pve
+dimwishlist:item=1553681400&perks=951095735,4104185692
+dimwishlist:item=1553681400&perks=951095735,3081867624
+dimwishlist:item=1553681400&perks=951095735,2963273944
+dimwishlist:item=1553681400&perks=951095735,3007133316
+dimwishlist:item=1553681400&perks=4042220767,4104185692
+dimwishlist:item=1553681400&perks=4042220767,3081867624
+dimwishlist:item=1553681400&perks=4042220767,2963273944
+dimwishlist:item=1553681400&perks=4042220767,3007133316
+dimwishlist:item=1553681400&perks=883665727,4104185692
+dimwishlist:item=1553681400&perks=883665727,3081867624
+dimwishlist:item=1553681400&perks=883665727,2963273944
+dimwishlist:item=1553681400&perks=883665727,3007133316
+dimwishlist:item=1553681400&perks=3878366039,4104185692
+dimwishlist:item=1553681400&perks=3878366039,3081867624
+dimwishlist:item=1553681400&perks=3878366039,2963273944
+dimwishlist:item=1553681400&perks=3878366039,3007133316
 
 
 // Seventh Seraph Officer Revolver - PVE (pve)
@@ -9387,6 +9679,54 @@ dimwishlist:item=4124362340&perks=838873202,332733060
 // Khvostov 7G-0X - All The Things (god-pve,god-pvp)
 //notes: Just get it. tags:god-pve,god-pvp
 dimwishlist:item=4129629253&perks=3250034553,1431678320,2135276011,3700496672,3465198467
+
+
+// Outrageous Fortune - PVE (god-pve)
+//notes: Quick Launch, a handling masterwork, and Problem Solver provide us with some great utility through improved handling and reduced incoming boss damage. As for our magazine choice, Spike Grenades is always the go-to option, providing some extra free damage. In regards to our main perks, Envious Arsenal and Bait and Switch is the obvious combo. Not only are they extremely potent on their own, but they also synergize perfectly with one another, which is why it’s the cornerstone of both this weapon and VS Chill Inhibitor. tags:god-pve
+dimwishlist:item=4146673634&perks=3525010810,3301904089,3987942396,3078487919,3454102905
+dimwishlist:item=4146673634&perks=3525010810,3301904089,3987942396,3078487919,2223800157
+dimwishlist:item=4146673634&perks=3525010810,3301904089,3987942396,3744057135,3454102905
+dimwishlist:item=4146673634&perks=3525010810,3301904089,3987942396,3744057135,2223800157
+dimwishlist:item=4146673634&perks=3525010810,3301904089,2817499044,3078487919,3454102905
+dimwishlist:item=4146673634&perks=3525010810,3301904089,2817499044,3078487919,2223800157
+dimwishlist:item=4146673634&perks=3525010810,3301904089,2817499044,3744057135,3454102905
+dimwishlist:item=4146673634&perks=3525010810,3301904089,2817499044,3744057135,2223800157
+dimwishlist:item=4146673634&perks=3525010810,409713597,3987942396,3078487919,3454102905
+dimwishlist:item=4146673634&perks=3525010810,409713597,3987942396,3078487919,2223800157
+dimwishlist:item=4146673634&perks=3525010810,409713597,3987942396,3744057135,3454102905
+dimwishlist:item=4146673634&perks=3525010810,409713597,3987942396,3744057135,2223800157
+dimwishlist:item=4146673634&perks=3525010810,409713597,2817499044,3078487919,3454102905
+dimwishlist:item=4146673634&perks=3525010810,409713597,2817499044,3078487919,2223800157
+dimwishlist:item=4146673634&perks=3525010810,409713597,2817499044,3744057135,3454102905
+dimwishlist:item=4146673634&perks=3525010810,409713597,2817499044,3744057135,2223800157
+dimwishlist:item=4146673634&perks=3250572790,3301904089,3987942396,3078487919,3454102905
+dimwishlist:item=4146673634&perks=3250572790,3301904089,3987942396,3078487919,2223800157
+dimwishlist:item=4146673634&perks=3250572790,3301904089,3987942396,3744057135,3454102905
+dimwishlist:item=4146673634&perks=3250572790,3301904089,3987942396,3744057135,2223800157
+dimwishlist:item=4146673634&perks=3250572790,3301904089,2817499044,3078487919,3454102905
+dimwishlist:item=4146673634&perks=3250572790,3301904089,2817499044,3078487919,2223800157
+dimwishlist:item=4146673634&perks=3250572790,3301904089,2817499044,3744057135,3454102905
+dimwishlist:item=4146673634&perks=3250572790,3301904089,2817499044,3744057135,2223800157
+dimwishlist:item=4146673634&perks=3250572790,409713597,3987942396,3078487919,3454102905
+dimwishlist:item=4146673634&perks=3250572790,409713597,3987942396,3078487919,2223800157
+dimwishlist:item=4146673634&perks=3250572790,409713597,3987942396,3744057135,3454102905
+dimwishlist:item=4146673634&perks=3250572790,409713597,3987942396,3744057135,2223800157
+dimwishlist:item=4146673634&perks=3250572790,409713597,2817499044,3078487919,3454102905
+dimwishlist:item=4146673634&perks=3250572790,409713597,2817499044,3078487919,2223800157
+dimwishlist:item=4146673634&perks=3250572790,409713597,2817499044,3744057135,3454102905
+dimwishlist:item=4146673634&perks=3250572790,409713597,2817499044,3744057135,2223800157
+
+
+// Outrageous Fortune - PVE (pve)
+//notes: Quick Launch, a handling masterwork, and Problem Solver provide us with some great utility through improved handling and reduced incoming boss damage. As for our magazine choice, Spike Grenades is always the go-to option, providing some extra free damage. In regards to our main perks, Envious Arsenal and Bait and Switch is the obvious combo. Not only are they extremely potent on their own, but they also synergize perfectly with one another, which is why it’s the cornerstone of both this weapon and VS Chill Inhibitor. tags:pve
+dimwishlist:item=4146673634&perks=3987942396,3078487919,3454102905
+dimwishlist:item=4146673634&perks=3987942396,3078487919,2223800157
+dimwishlist:item=4146673634&perks=3987942396,3744057135,3454102905
+dimwishlist:item=4146673634&perks=3987942396,3744057135,2223800157
+dimwishlist:item=4146673634&perks=2817499044,3078487919,3454102905
+dimwishlist:item=4146673634&perks=2817499044,3078487919,2223800157
+dimwishlist:item=4146673634&perks=2817499044,3744057135,3454102905
+dimwishlist:item=4146673634&perks=2817499044,3744057135,2223800157
 
 
 // Compass Rose - PVP (god-pvp)
