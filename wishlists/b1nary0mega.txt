@@ -2848,6 +2848,54 @@ dimwishlist:item=1332123064&perks=1077019636,781192741
 dimwishlist:item=1363886209&perks=1478423395,2985827016,3874977694,1067908860
 
 
+// Ahab Char - PVE (god-pve,pve)
+//notes: Ahab Char has some stiff competition. Fan favorites Auto Rifles like Chroma Rush and Reckless Oracle got reprised last year, and Giver’s Blessing dropped right alongside it, all rolling with heavy-hitting perks. So what makes it special? Two things: being Solar and the Braytech Legacy Origin Trait. It might be hard to swallow, but our last new Solar Rapid Fire Auto was added in Beyond Light, and it wasn’t very good. Now we have one that can actually use the Solar-based perks, and with the origin trait activating off of damage, you’ll hardly ever see an ability cooldown. That’s not all. Stat for stat, Ahab is almost identical to Chroma Rush, a fan favorite PvP auto rifle, though the perk selections for Ahab aren’t quite at the same level of lethality. But as we all know, it’s the wielder, not the weapon, that makes the difference. Ahab Char is A-Tier for PvE and A-Tier for PvP. tags:god-pve,pve
+dimwishlist:item=1411560894&perks=1840239774,3230963543,3017780555,2890807135
+dimwishlist:item=1411560894&perks=1840239774,3230963543,3017780555,3581929919
+dimwishlist:item=1411560894&perks=1840239774,3230963543,1820235745,2890807135
+dimwishlist:item=1411560894&perks=1840239774,3230963543,1820235745,3581929919
+dimwishlist:item=1411560894&perks=1840239774,3230963543,4245865861,2890807135
+dimwishlist:item=1411560894&perks=1840239774,3230963543,4245865861,3581929919
+dimwishlist:item=1411560894&perks=1840239774,3230963543,4223976499,2890807135
+dimwishlist:item=1411560894&perks=1840239774,3230963543,4223976499,3581929919
+dimwishlist:item=1411560894&perks=1840239774,1709045111,3017780555,2890807135
+dimwishlist:item=1411560894&perks=1840239774,1709045111,3017780555,3581929919
+dimwishlist:item=1411560894&perks=1840239774,1709045111,1820235745,2890807135
+dimwishlist:item=1411560894&perks=1840239774,1709045111,1820235745,3581929919
+dimwishlist:item=1411560894&perks=1840239774,1709045111,4245865861,2890807135
+dimwishlist:item=1411560894&perks=1840239774,1709045111,4245865861,3581929919
+dimwishlist:item=1411560894&perks=1840239774,1709045111,4223976499,2890807135
+dimwishlist:item=1411560894&perks=1840239774,1709045111,4223976499,3581929919
+dimwishlist:item=1411560894&perks=1124871858,3230963543,3017780555,2890807135
+dimwishlist:item=1411560894&perks=1124871858,3230963543,3017780555,3581929919
+dimwishlist:item=1411560894&perks=1124871858,3230963543,1820235745,2890807135
+dimwishlist:item=1411560894&perks=1124871858,3230963543,1820235745,3581929919
+dimwishlist:item=1411560894&perks=1124871858,3230963543,4245865861,2890807135
+dimwishlist:item=1411560894&perks=1124871858,3230963543,4245865861,3581929919
+dimwishlist:item=1411560894&perks=1124871858,3230963543,4223976499,2890807135
+dimwishlist:item=1411560894&perks=1124871858,3230963543,4223976499,3581929919
+dimwishlist:item=1411560894&perks=1124871858,1709045111,3017780555,2890807135
+dimwishlist:item=1411560894&perks=1124871858,1709045111,3017780555,3581929919
+dimwishlist:item=1411560894&perks=1124871858,1709045111,1820235745,2890807135
+dimwishlist:item=1411560894&perks=1124871858,1709045111,1820235745,3581929919
+dimwishlist:item=1411560894&perks=1124871858,1709045111,4245865861,2890807135
+dimwishlist:item=1411560894&perks=1124871858,1709045111,4245865861,3581929919
+dimwishlist:item=1411560894&perks=1124871858,1709045111,4223976499,2890807135
+dimwishlist:item=1411560894&perks=1124871858,1709045111,4223976499,3581929919
+
+
+// Ahab Char - PVE (pve)
+//notes: Ahab Char has some stiff competition. Fan favorites Auto Rifles like Chroma Rush and Reckless Oracle got reprised last year, and Giver’s Blessing dropped right alongside it, all rolling with heavy-hitting perks. So what makes it special? Two things: being Solar and the Braytech Legacy Origin Trait. It might be hard to swallow, but our last new Solar Rapid Fire Auto was added in Beyond Light, and it wasn’t very good. Now we have one that can actually use the Solar-based perks, and with the origin trait activating off of damage, you’ll hardly ever see an ability cooldown. That’s not all. Stat for stat, Ahab is almost identical to Chroma Rush, a fan favorite PvP auto rifle, though the perk selections for Ahab aren’t quite at the same level of lethality. But as we all know, it’s the wielder, not the weapon, that makes the difference. Ahab Char is A-Tier for PvE and A-Tier for PvP. tags:pve
+dimwishlist:item=1411560894&perks=3017780555,2890807135
+dimwishlist:item=1411560894&perks=3017780555,3581929919
+dimwishlist:item=1411560894&perks=1820235745,2890807135
+dimwishlist:item=1411560894&perks=1820235745,3581929919
+dimwishlist:item=1411560894&perks=4245865861,2890807135
+dimwishlist:item=1411560894&perks=4245865861,3581929919
+dimwishlist:item=1411560894&perks=4223976499,2890807135
+dimwishlist:item=1411560894&perks=4223976499,3581929919
+
+
 // Fang of Ir Yût - PVE (god-pve)
 //notes: As mentioned earlier, Rapid-fire scouts fall behind ever so slightly because of their range. That isn’t to say they are useless because of it, however, as Aisha’s Embrace has long been a favorite among scout users. And Fang of Ir Yut has come to claim that spot. For your barrel, easily go with Smallbore for an equal stability and range increase, or Full Bore for a larger range increase at the expense of some stability. Flared Magwell or Light Mag are the best choices for the magazine, as Fang’s base mag size of 17 is sure to run out quickly, and the extra 2 from Appended/Extended Mag isn’t going to make a world of difference. Instead, it’s best to increase either stability or range, while also increasing reload speed. Like many raid weapons, perk pools for Columns 3 and 4 are small but powerful. For PvE, the two go-to’s are Rewind Rounds and Shoot to Loot. Both are extremely useful perks in all manners of content via instant reloads for basically doing what the gun was meant to do: shoot. Column 4 is stacked with damage perks, so much so it is very difficult to decide what is the de facto best. You have Kill Clip for ease of use, Golden Tricorn for the highest overall buff, Precision Instrument for sustained damage, Hatchling for Strand synergy, and the brand-new Sword Logic perk, which is untested as of this writing. Go with your gut fpr column 4. tags:god-pve
 dimwishlist:item=1432682459&perks=202670084,3230963543,3418782618,1015611457
