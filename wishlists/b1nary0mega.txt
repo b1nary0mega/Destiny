@@ -4045,6 +4045,130 @@ dimwishlist:item=1821724780&perks=3161816588,1546637391
 dimwishlist:item=1821724780&perks=3161816588,2360754333
 
 
+// Synanceia - PVE (god-pve,pve)
+//notes: MW:Impact - Synanceia is one of the most complete Swords in PvE when it comes to its main perk slots. Starting with Honed Edge for added Impact, and Swordmaster’s Guard to help its defensive capabilities when blocking, these lay the foundations for a powerful weapon to add to your Guardian’s loadout. For the god roll, the best option to start with is Relentless Strikes, which grants Sword ammo after three light attack hits in quick succession. This helps keep ammo up out of battle to feed the Eager Edge perk, but also for utilising the wave from the heavy attack. Eager Edge is one of the most popular perks in Destiny 2 for its ability to launch players forward, not only for closing the gap in battle, but for traversal purposes to get from A to B faster. If you want to tap into the high damage potential of Synanceia, the combination of Sharp Harvest or Relentless Strikes with Elemental Honing works well together for great effect. Surrounded gives an instant 35% damage buff in the thick of battle when three enemies or more enemies are in proximity, so there are combinations here to suit various playstyles effectively. tags:god-pve,pve
+dimwishlist:item=1823308496&perks=938542991,269888150,1749209109,2077819806
+dimwishlist:item=1823308496&perks=938542991,269888150,1749209109,1618208178
+dimwishlist:item=1823308496&perks=938542991,269888150,1749209109,3708227201
+dimwishlist:item=1823308496&perks=938542991,269888150,1749209109,781192741
+dimwishlist:item=1823308496&perks=938542991,269888150,243981275,2077819806
+dimwishlist:item=1823308496&perks=938542991,269888150,243981275,1618208178
+dimwishlist:item=1823308496&perks=938542991,269888150,243981275,3708227201
+dimwishlist:item=1823308496&perks=938542991,269888150,243981275,781192741
+dimwishlist:item=1823308496&perks=938542991,269888150,4085959009,2077819806
+dimwishlist:item=1823308496&perks=938542991,269888150,4085959009,1618208178
+dimwishlist:item=1823308496&perks=938542991,269888150,4085959009,3708227201
+dimwishlist:item=1823308496&perks=938542991,269888150,4085959009,781192741
+dimwishlist:item=1823308496&perks=938542991,269888150,984655331,2077819806
+dimwishlist:item=1823308496&perks=938542991,269888150,984655331,1618208178
+dimwishlist:item=1823308496&perks=938542991,269888150,984655331,3708227201
+dimwishlist:item=1823308496&perks=938542991,269888150,984655331,781192741
+dimwishlist:item=1823308496&perks=938542991,125241418,1749209109,2077819806
+dimwishlist:item=1823308496&perks=938542991,125241418,1749209109,1618208178
+dimwishlist:item=1823308496&perks=938542991,125241418,1749209109,3708227201
+dimwishlist:item=1823308496&perks=938542991,125241418,1749209109,781192741
+dimwishlist:item=1823308496&perks=938542991,125241418,243981275,2077819806
+dimwishlist:item=1823308496&perks=938542991,125241418,243981275,1618208178
+dimwishlist:item=1823308496&perks=938542991,125241418,243981275,3708227201
+dimwishlist:item=1823308496&perks=938542991,125241418,243981275,781192741
+dimwishlist:item=1823308496&perks=938542991,125241418,4085959009,2077819806
+dimwishlist:item=1823308496&perks=938542991,125241418,4085959009,1618208178
+dimwishlist:item=1823308496&perks=938542991,125241418,4085959009,3708227201
+dimwishlist:item=1823308496&perks=938542991,125241418,4085959009,781192741
+dimwishlist:item=1823308496&perks=938542991,125241418,984655331,2077819806
+dimwishlist:item=1823308496&perks=938542991,125241418,984655331,1618208178
+dimwishlist:item=1823308496&perks=938542991,125241418,984655331,3708227201
+dimwishlist:item=1823308496&perks=938542991,125241418,984655331,781192741
+dimwishlist:item=1823308496&perks=766579919,269888150,1749209109,2077819806
+dimwishlist:item=1823308496&perks=766579919,269888150,1749209109,1618208178
+dimwishlist:item=1823308496&perks=766579919,269888150,1749209109,3708227201
+dimwishlist:item=1823308496&perks=766579919,269888150,1749209109,781192741
+dimwishlist:item=1823308496&perks=766579919,269888150,243981275,2077819806
+dimwishlist:item=1823308496&perks=766579919,269888150,243981275,1618208178
+dimwishlist:item=1823308496&perks=766579919,269888150,243981275,3708227201
+dimwishlist:item=1823308496&perks=766579919,269888150,243981275,781192741
+dimwishlist:item=1823308496&perks=766579919,269888150,4085959009,2077819806
+dimwishlist:item=1823308496&perks=766579919,269888150,4085959009,1618208178
+dimwishlist:item=1823308496&perks=766579919,269888150,4085959009,3708227201
+dimwishlist:item=1823308496&perks=766579919,269888150,4085959009,781192741
+dimwishlist:item=1823308496&perks=766579919,269888150,984655331,2077819806
+dimwishlist:item=1823308496&perks=766579919,269888150,984655331,1618208178
+dimwishlist:item=1823308496&perks=766579919,269888150,984655331,3708227201
+dimwishlist:item=1823308496&perks=766579919,269888150,984655331,781192741
+dimwishlist:item=1823308496&perks=766579919,125241418,1749209109,2077819806
+dimwishlist:item=1823308496&perks=766579919,125241418,1749209109,1618208178
+dimwishlist:item=1823308496&perks=766579919,125241418,1749209109,3708227201
+dimwishlist:item=1823308496&perks=766579919,125241418,1749209109,781192741
+dimwishlist:item=1823308496&perks=766579919,125241418,243981275,2077819806
+dimwishlist:item=1823308496&perks=766579919,125241418,243981275,1618208178
+dimwishlist:item=1823308496&perks=766579919,125241418,243981275,3708227201
+dimwishlist:item=1823308496&perks=766579919,125241418,243981275,781192741
+dimwishlist:item=1823308496&perks=766579919,125241418,4085959009,2077819806
+dimwishlist:item=1823308496&perks=766579919,125241418,4085959009,1618208178
+dimwishlist:item=1823308496&perks=766579919,125241418,4085959009,3708227201
+dimwishlist:item=1823308496&perks=766579919,125241418,4085959009,781192741
+dimwishlist:item=1823308496&perks=766579919,125241418,984655331,2077819806
+dimwishlist:item=1823308496&perks=766579919,125241418,984655331,1618208178
+dimwishlist:item=1823308496&perks=766579919,125241418,984655331,3708227201
+dimwishlist:item=1823308496&perks=766579919,125241418,984655331,781192741
+
+
+// Synanceia - PVE - DPS (god-pve,pve)
+//notes: DPS - MW:Impact - Synanceia is one of the most complete Swords in PvE when it comes to its main perk slots. Starting with Honed Edge for added Impact, and Swordmaster’s Guard to help its defensive capabilities when blocking, these lay the foundations for a powerful weapon to add to your Guardian’s loadout. For the god roll, the best option to start with is Relentless Strikes, which grants Sword ammo after three light attack hits in quick succession. This helps keep ammo up out of battle to feed the Eager Edge perk, but also for utilising the wave from the heavy attack. Eager Edge is one of the most popular perks in Destiny 2 for its ability to launch players forward, not only for closing the gap in battle, but for traversal purposes to get from A to B faster. If you want to tap into the high damage potential of Synanceia, the combination of Sharp Harvest or Relentless Strikes with Elemental Honing works well together for great effect. Surrounded gives an instant 35% damage buff in the thick of battle when three enemies or more enemies are in proximity, so there are combinations here to suit various playstyles effectively. tags:god-pve,pve
+dimwishlist:item=1823308496&perks=938542991,269888150,4132187021,1089671869
+dimwishlist:item=1823308496&perks=938542991,269888150,4132187021,496047945
+dimwishlist:item=1823308496&perks=938542991,269888150,2581144697,1089671869
+dimwishlist:item=1823308496&perks=938542991,269888150,2581144697,496047945
+dimwishlist:item=1823308496&perks=938542991,125241418,4132187021,1089671869
+dimwishlist:item=1823308496&perks=938542991,125241418,4132187021,496047945
+dimwishlist:item=1823308496&perks=938542991,125241418,2581144697,1089671869
+dimwishlist:item=1823308496&perks=938542991,125241418,2581144697,496047945
+dimwishlist:item=1823308496&perks=766579919,269888150,4132187021,1089671869
+dimwishlist:item=1823308496&perks=766579919,269888150,4132187021,496047945
+dimwishlist:item=1823308496&perks=766579919,269888150,2581144697,1089671869
+dimwishlist:item=1823308496&perks=766579919,269888150,2581144697,496047945
+dimwishlist:item=1823308496&perks=766579919,125241418,4132187021,1089671869
+dimwishlist:item=1823308496&perks=766579919,125241418,4132187021,496047945
+dimwishlist:item=1823308496&perks=766579919,125241418,2581144697,1089671869
+dimwishlist:item=1823308496&perks=766579919,125241418,2581144697,496047945
+
+
+// Synanceia - PVE (pve)
+//notes: MW:Impact - Synanceia is one of the most complete Swords in PvE when it comes to its main perk slots. Starting with Honed Edge for added Impact, and Swordmaster’s Guard to help its defensive capabilities when blocking, these lay the foundations for a powerful weapon to add to your Guardian’s loadout. For the god roll, the best option to start with is Relentless Strikes, which grants Sword ammo after three light attack hits in quick succession. This helps keep ammo up out of battle to feed the Eager Edge perk, but also for utilising the wave from the heavy attack. Eager Edge is one of the most popular perks in Destiny 2 for its ability to launch players forward, not only for closing the gap in battle, but for traversal purposes to get from A to B faster. If you want to tap into the high damage potential of Synanceia, the combination of Sharp Harvest or Relentless Strikes with Elemental Honing works well together for great effect. Surrounded gives an instant 35% damage buff in the thick of battle when three enemies or more enemies are in proximity, so there are combinations here to suit various playstyles effectively. tags:pve
+dimwishlist:item=1823308496&perks=1749209109,2077819806
+dimwishlist:item=1823308496&perks=1749209109,1089671869
+dimwishlist:item=1823308496&perks=1749209109,1618208178
+dimwishlist:item=1823308496&perks=1749209109,496047945
+dimwishlist:item=1823308496&perks=243981275,2077819806
+dimwishlist:item=1823308496&perks=243981275,1089671869
+dimwishlist:item=1823308496&perks=243981275,1618208178
+dimwishlist:item=1823308496&perks=243981275,496047945
+dimwishlist:item=1823308496&perks=4132187021,2077819806
+dimwishlist:item=1823308496&perks=4132187021,1089671869
+dimwishlist:item=1823308496&perks=4132187021,1618208178
+dimwishlist:item=1823308496&perks=4132187021,496047945
+dimwishlist:item=1823308496&perks=4085959009,2077819806
+dimwishlist:item=1823308496&perks=4085959009,1089671869
+dimwishlist:item=1823308496&perks=4085959009,1618208178
+dimwishlist:item=1823308496&perks=4085959009,496047945
+dimwishlist:item=1823308496&perks=984655331,2077819806
+dimwishlist:item=1823308496&perks=984655331,1089671869
+dimwishlist:item=1823308496&perks=984655331,1618208178
+dimwishlist:item=1823308496&perks=984655331,496047945
+dimwishlist:item=1823308496&perks=2581144697,2077819806
+dimwishlist:item=1823308496&perks=2581144697,1089671869
+dimwishlist:item=1823308496&perks=2581144697,1618208178
+dimwishlist:item=1823308496&perks=2581144697,496047945
+
+
+// Synanceia - PVE - DPS (pve)
+//notes: DPS - MW:Impact - Synanceia is one of the most complete Swords in PvE when it comes to its main perk slots. Starting with Honed Edge for added Impact, and Swordmaster’s Guard to help its defensive capabilities when blocking, these lay the foundations for a powerful weapon to add to your Guardian’s loadout. For the god roll, the best option to start with is Relentless Strikes, which grants Sword ammo after three light attack hits in quick succession. This helps keep ammo up out of battle to feed the Eager Edge perk, but also for utilising the wave from the heavy attack. Eager Edge is one of the most popular perks in Destiny 2 for its ability to launch players forward, not only for closing the gap in battle, but for traversal purposes to get from A to B faster. If you want to tap into the high damage potential of Synanceia, the combination of Sharp Harvest or Relentless Strikes with Elemental Honing works well together for great effect. Surrounded gives an instant 35% damage buff in the thick of battle when three enemies or more enemies are in proximity, so there are combinations here to suit various playstyles effectively. tags:pve
+dimwishlist:item=1823308496&perks=4132187021,1089671869
+dimwishlist:item=1823308496&perks=4132187021,496047945
+dimwishlist:item=1823308496&perks=2581144697,1089671869
+dimwishlist:item=1823308496&perks=2581144697,496047945
+
+
 // Albedo Wing - PVE (god-pve)
 //notes: Albedo Wing has a solid god roll for PvE and this can work well with ability-focused Guardian builds. Start off with Auxiliary Reserves which gives a big boosts to Shield Duration and Charge Time. This helps close the gap to your enemies safely or provide much needed protection in a tight spot. Appended Mag adds an extra projectile shot to Albedo Wing which helps pump out more damage at a distance when needed. Grave Robber then takes advantage of Albedo Wing’s most powerful tool, its melee attack. Melee kills refill the Magazine from reserves so promotes some great blast and stab playstyles which work great in game modes such as Gambit and lower tier Nightfalls. Finish off with Demolitionist which rewards any kill from Albedo Wing with 10 percent grenade energy. It also refills the Magazine when throwing a grenade so with a build focused around grenades, it can easily be built towards a never ending loop of a full Magazine, a powerful projectile blast, melees, and a grenade almost always up and ready to throw. tags:god-pve
 dimwishlist:item=1845372864&perks=580685494,1087426260,1631667848,3523296417,1607056502
