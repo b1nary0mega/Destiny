@@ -2538,6 +2538,94 @@ dimwishlist:item=1123433952&perks=1771736209,124408337,2839173408
 dimwishlist:item=1123433952&perks=1771736209,1171887445,2839173408
 
 
+// Hushed Whisper - PVE (god-pve,pve)
+//notes: MW: Accuracy. Hushed Whisper is only really good when you’re utilising Tear, and so we want to play into that as much as possible. For the Barrel and Magazine, we’ve gone for Polymer String and Compact Arrow Shaft to boost Accuracy and Draw Time respectively, so you can keep Tear up easily. In the first perk column, Tear is the main option here. Otherwise, there’s not really much here that feels important enough for PvE, at least to warrant using it over other PvE bows. In the second column, Explosive Head is the go-to. For a Strand bow, Hatchling seems like it would be the first pick, but Threadlings are still underwhelming (even with their buffs). For pure damage Aggregate Charge is decent but requires setup, whereas Explosive Head is just going to help you in your clearing and make the bow pack a bit more of a punch. tags:god-pve,pve
+dimwishlist:item=1175295126&perks=852209214,16392701,960997401,831391274,1050127423
+dimwishlist:item=1175295126&perks=852209214,16392701,960997401,831391274,501821599
+dimwishlist:item=1175295126&perks=852209214,16392701,960997401,102912326,1050127423
+dimwishlist:item=1175295126&perks=852209214,16392701,960997401,102912326,501821599
+dimwishlist:item=1175295126&perks=852209214,16392701,960997401,3365897133,1050127423
+dimwishlist:item=1175295126&perks=852209214,16392701,960997401,3365897133,501821599
+dimwishlist:item=1175295126&perks=852209214,16392701,960997401,1551736345,1050127423
+dimwishlist:item=1175295126&perks=852209214,16392701,960997401,1551736345,501821599
+dimwishlist:item=1175295126&perks=852209214,16392701,3244229373,831391274,1050127423
+dimwishlist:item=1175295126&perks=852209214,16392701,3244229373,831391274,501821599
+dimwishlist:item=1175295126&perks=852209214,16392701,3244229373,102912326,1050127423
+dimwishlist:item=1175295126&perks=852209214,16392701,3244229373,102912326,501821599
+dimwishlist:item=1175295126&perks=852209214,16392701,3244229373,3365897133,1050127423
+dimwishlist:item=1175295126&perks=852209214,16392701,3244229373,3365897133,501821599
+dimwishlist:item=1175295126&perks=852209214,16392701,3244229373,1551736345,1050127423
+dimwishlist:item=1175295126&perks=852209214,16392701,3244229373,1551736345,501821599
+dimwishlist:item=1175295126&perks=852209214,2732340361,960997401,831391274,1050127423
+dimwishlist:item=1175295126&perks=852209214,2732340361,960997401,831391274,501821599
+dimwishlist:item=1175295126&perks=852209214,2732340361,960997401,102912326,1050127423
+dimwishlist:item=1175295126&perks=852209214,2732340361,960997401,102912326,501821599
+dimwishlist:item=1175295126&perks=852209214,2732340361,960997401,3365897133,1050127423
+dimwishlist:item=1175295126&perks=852209214,2732340361,960997401,3365897133,501821599
+dimwishlist:item=1175295126&perks=852209214,2732340361,960997401,1551736345,1050127423
+dimwishlist:item=1175295126&perks=852209214,2732340361,960997401,1551736345,501821599
+dimwishlist:item=1175295126&perks=852209214,2732340361,3244229373,831391274,1050127423
+dimwishlist:item=1175295126&perks=852209214,2732340361,3244229373,831391274,501821599
+dimwishlist:item=1175295126&perks=852209214,2732340361,3244229373,102912326,1050127423
+dimwishlist:item=1175295126&perks=852209214,2732340361,3244229373,102912326,501821599
+dimwishlist:item=1175295126&perks=852209214,2732340361,3244229373,3365897133,1050127423
+dimwishlist:item=1175295126&perks=852209214,2732340361,3244229373,3365897133,501821599
+dimwishlist:item=1175295126&perks=852209214,2732340361,3244229373,1551736345,1050127423
+dimwishlist:item=1175295126&perks=852209214,2732340361,3244229373,1551736345,501821599
+dimwishlist:item=1175295126&perks=3837163218,16392701,960997401,831391274,1050127423
+dimwishlist:item=1175295126&perks=3837163218,16392701,960997401,831391274,501821599
+dimwishlist:item=1175295126&perks=3837163218,16392701,960997401,102912326,1050127423
+dimwishlist:item=1175295126&perks=3837163218,16392701,960997401,102912326,501821599
+dimwishlist:item=1175295126&perks=3837163218,16392701,960997401,3365897133,1050127423
+dimwishlist:item=1175295126&perks=3837163218,16392701,960997401,3365897133,501821599
+dimwishlist:item=1175295126&perks=3837163218,16392701,960997401,1551736345,1050127423
+dimwishlist:item=1175295126&perks=3837163218,16392701,960997401,1551736345,501821599
+dimwishlist:item=1175295126&perks=3837163218,16392701,3244229373,831391274,1050127423
+dimwishlist:item=1175295126&perks=3837163218,16392701,3244229373,831391274,501821599
+dimwishlist:item=1175295126&perks=3837163218,16392701,3244229373,102912326,1050127423
+dimwishlist:item=1175295126&perks=3837163218,16392701,3244229373,102912326,501821599
+dimwishlist:item=1175295126&perks=3837163218,16392701,3244229373,3365897133,1050127423
+dimwishlist:item=1175295126&perks=3837163218,16392701,3244229373,3365897133,501821599
+dimwishlist:item=1175295126&perks=3837163218,16392701,3244229373,1551736345,1050127423
+dimwishlist:item=1175295126&perks=3837163218,16392701,3244229373,1551736345,501821599
+dimwishlist:item=1175295126&perks=3837163218,2732340361,960997401,831391274,1050127423
+dimwishlist:item=1175295126&perks=3837163218,2732340361,960997401,831391274,501821599
+dimwishlist:item=1175295126&perks=3837163218,2732340361,960997401,102912326,1050127423
+dimwishlist:item=1175295126&perks=3837163218,2732340361,960997401,102912326,501821599
+dimwishlist:item=1175295126&perks=3837163218,2732340361,960997401,3365897133,1050127423
+dimwishlist:item=1175295126&perks=3837163218,2732340361,960997401,3365897133,501821599
+dimwishlist:item=1175295126&perks=3837163218,2732340361,960997401,1551736345,1050127423
+dimwishlist:item=1175295126&perks=3837163218,2732340361,960997401,1551736345,501821599
+dimwishlist:item=1175295126&perks=3837163218,2732340361,3244229373,831391274,1050127423
+dimwishlist:item=1175295126&perks=3837163218,2732340361,3244229373,831391274,501821599
+dimwishlist:item=1175295126&perks=3837163218,2732340361,3244229373,102912326,1050127423
+dimwishlist:item=1175295126&perks=3837163218,2732340361,3244229373,102912326,501821599
+dimwishlist:item=1175295126&perks=3837163218,2732340361,3244229373,3365897133,1050127423
+dimwishlist:item=1175295126&perks=3837163218,2732340361,3244229373,3365897133,501821599
+dimwishlist:item=1175295126&perks=3837163218,2732340361,3244229373,1551736345,1050127423
+dimwishlist:item=1175295126&perks=3837163218,2732340361,3244229373,1551736345,501821599
+
+
+// Hushed Whisper - PVE (pve)
+//notes: MW: Accuracy. Hushed Whisper is only really good when you’re utilising Tear, and so we want to play into that as much as possible. For the Barrel and Magazine, we’ve gone for Polymer String and Compact Arrow Shaft to boost Accuracy and Draw Time respectively, so you can keep Tear up easily. In the first perk column, Tear is the main option here. Otherwise, there’s not really much here that feels important enough for PvE, at least to warrant using it over other PvE bows. In the second column, Explosive Head is the go-to. For a Strand bow, Hatchling seems like it would be the first pick, but Threadlings are still underwhelming (even with their buffs). For pure damage Aggregate Charge is decent but requires setup, whereas Explosive Head is just going to help you in your clearing and make the bow pack a bit more of a punch. tags:pve
+dimwishlist:item=1175295126&perks=960997401,831391274,1050127423
+dimwishlist:item=1175295126&perks=960997401,831391274,501821599
+dimwishlist:item=1175295126&perks=960997401,102912326,1050127423
+dimwishlist:item=1175295126&perks=960997401,102912326,501821599
+dimwishlist:item=1175295126&perks=960997401,3365897133,1050127423
+dimwishlist:item=1175295126&perks=960997401,3365897133,501821599
+dimwishlist:item=1175295126&perks=960997401,1551736345,1050127423
+dimwishlist:item=1175295126&perks=960997401,1551736345,501821599
+dimwishlist:item=1175295126&perks=3244229373,831391274,1050127423
+dimwishlist:item=1175295126&perks=3244229373,831391274,501821599
+dimwishlist:item=1175295126&perks=3244229373,102912326,1050127423
+dimwishlist:item=1175295126&perks=3244229373,102912326,501821599
+dimwishlist:item=1175295126&perks=3244229373,3365897133,1050127423
+dimwishlist:item=1175295126&perks=3244229373,3365897133,501821599
+dimwishlist:item=1175295126&perks=3244229373,1551736345,1050127423
+dimwishlist:item=1175295126&perks=3244229373,1551736345,501821599
+
+
 // Lost Signal - PVE (god-pve,pve)
 //notes: MW Handling; Quick Access Sling; Start this god roll off with Quick Launch, giving this Grenade Launcher boosts to key stats in Velocity, to ensure its grenades hit the target quickly, and Handling, which helps quickly swapping in and out to fire Lost Signal at enemies. Add High-Velocity Rounds to increase the speed the fired grenades get from barrel to target. The main perk combination is where Lost Signal shines and works perfectly for controlling areas causing big amounts of damage to enemies who run into its pools or from sticking a direct hit. The damage combination starts with the key perk, Auto-Loading Holster. Firing then stowing Lost Signal will reload after 2.5 seconds, the point here is to fire Lost Signal at the target then switch to another weapon to deal some damage then switch back. Due to how Lost Signal operates, the damage ticks away from its shots so it’s constantly doing damage while the Fireteam hits it with another weapon. Then when switching back, Lost Signal is ready to go again. Vorpal Weapon then comes in for this god roll for its 15 percent damage increase to higher-ranking combatants. This extra damage makes Lost Signal a great choice for taking on even the toughest challenges as it will consistently do tick damage when landing hits and then reload itself awaiting its next volley. tags:god-pve,pve
 dimwishlist:item=1197771438&perks=3525010810,2822142346,3300816228,4049631843
@@ -7875,6 +7963,34 @@ dimwishlist:item=3293524502&perks=3755250867,3955464425
 dimwishlist:item=3325463374&perks=1392496348,1968497646,1419069769,2779035018
 
 
+// Arcane Embrace - PVE (god-pve,pve)
+//notes: MW: Handling. To start off, Fluted Barrel combined with Tactical Mag is the ideal choice for our barrel and magazine perks. Fluted is standard for most PvE Special Weapons, and Tactical Mag will allow another four shots from Fourth Time’s The Charm. In perk slot one, we suggest Fourth Time’s The Charm, it is the only viable option in the first column and drastically improves the total damage of this weapon. For perk slot two, there is a bit of competition. Aggregate Charge is technically higher damage, but can be hard to activate on your own, so Precision Instrument is a strong alternative, but both are generally fine overall. tags:god-pve,pve
+dimwishlist:item=3328019216&perks=1840239774,106909392,1354429876,3764420437
+dimwishlist:item=3328019216&perks=1840239774,106909392,1354429876,3192447905
+dimwishlist:item=3328019216&perks=1840239774,106909392,848860060,3764420437
+dimwishlist:item=3328019216&perks=1840239774,106909392,848860060,3192447905
+dimwishlist:item=3328019216&perks=1840239774,1783397184,1354429876,3764420437
+dimwishlist:item=3328019216&perks=1840239774,1783397184,1354429876,3192447905
+dimwishlist:item=3328019216&perks=1840239774,1783397184,848860060,3764420437
+dimwishlist:item=3328019216&perks=1840239774,1783397184,848860060,3192447905
+dimwishlist:item=3328019216&perks=1124871858,106909392,1354429876,3764420437
+dimwishlist:item=3328019216&perks=1124871858,106909392,1354429876,3192447905
+dimwishlist:item=3328019216&perks=1124871858,106909392,848860060,3764420437
+dimwishlist:item=3328019216&perks=1124871858,106909392,848860060,3192447905
+dimwishlist:item=3328019216&perks=1124871858,1783397184,1354429876,3764420437
+dimwishlist:item=3328019216&perks=1124871858,1783397184,1354429876,3192447905
+dimwishlist:item=3328019216&perks=1124871858,1783397184,848860060,3764420437
+dimwishlist:item=3328019216&perks=1124871858,1783397184,848860060,3192447905
+
+
+// Arcane Embrace - PVE (pve)
+//notes: MW: Handling. To start off, Fluted Barrel combined with Tactical Mag is the ideal choice for our barrel and magazine perks. Fluted is standard for most PvE Special Weapons, and Tactical Mag will allow another four shots from Fourth Time’s The Charm. In perk slot one, we suggest Fourth Time’s The Charm, it is the only viable option in the first column and drastically improves the total damage of this weapon. For perk slot two, there is a bit of competition. Aggregate Charge is technically higher damage, but can be hard to activate on your own, so Precision Instrument is a strong alternative, but both are generally fine overall. tags:pve
+dimwishlist:item=3328019216&perks=1354429876,3764420437
+dimwishlist:item=3328019216&perks=1354429876,3192447905
+dimwishlist:item=3328019216&perks=848860060,3764420437
+dimwishlist:item=3328019216&perks=848860060,3192447905
+
+
 // The Eremite - DPS (god-pve)
 //notes: Good Solar option for secondary weapons during DPS. tags:god-pve
 dimwishlist:item=3347946548&perks=839105230,2680121939,968510818,2594592626
@@ -8056,6 +8172,142 @@ dimwishlist:item=3428407746&perks=3661387068,3142289711,3422796781,365154968
 dimwishlist:item=3428407746&perks=3661387068,3142289711,3422796781,1890422124
 dimwishlist:item=3428407746&perks=3661387068,3142289711,3422796781,1523649716
 dimwishlist:item=3428407746&perks=3661387068,3142289711,3422796781,2939589096
+
+
+// Gunburn - PVE (god-pve,pve)
+//notes: Coming out of the box with a good base to build from, adding Fluted Barrel for Handling and Flared Magwell for added Stability and Reload Speed gets this god roll off to the best start. The ‘run and gun’ aspect of this archetype is what makes them so fun, so this god roll leans into that aspect. A newer perk to the game in Lead from Light, paired up with Attrition Orbs, makes for good synergy in the gameplay loop, as sustained damage will produce an Orb of Power. Collecting this Orb then feeds Lead from Light, as well as any other Orb of Power picked up, to charge up the Special ammo meter to ensure your big damage dealers in your loadout stay well stocked on ammo. Kinetic Tremors is also a great choice in the final perk slot, being easy to activate due to the high rate of fire that Gunburn carries. tags:god-pve,pve
+dimwishlist:item=3431536253&perks=1840239774,3230963543,2289534249,3891536761,3988215619
+dimwishlist:item=3431536253&perks=1840239774,3230963543,2289534249,3891536761,54024075
+dimwishlist:item=3431536253&perks=1840239774,3230963543,2289534249,4049631843,3988215619
+dimwishlist:item=3431536253&perks=1840239774,3230963543,2289534249,4049631843,54024075
+dimwishlist:item=3431536253&perks=1840239774,3230963543,2289534249,1549370717,3988215619
+dimwishlist:item=3431536253&perks=1840239774,3230963543,2289534249,1549370717,54024075
+dimwishlist:item=3431536253&perks=1840239774,3230963543,2289534249,859780267,3988215619
+dimwishlist:item=3431536253&perks=1840239774,3230963543,2289534249,859780267,54024075
+dimwishlist:item=3431536253&perks=1840239774,3230963543,3914874605,3891536761,3988215619
+dimwishlist:item=3431536253&perks=1840239774,3230963543,3914874605,3891536761,54024075
+dimwishlist:item=3431536253&perks=1840239774,3230963543,3914874605,4049631843,3988215619
+dimwishlist:item=3431536253&perks=1840239774,3230963543,3914874605,4049631843,54024075
+dimwishlist:item=3431536253&perks=1840239774,3230963543,3914874605,1549370717,3988215619
+dimwishlist:item=3431536253&perks=1840239774,3230963543,3914874605,1549370717,54024075
+dimwishlist:item=3431536253&perks=1840239774,3230963543,3914874605,859780267,3988215619
+dimwishlist:item=3431536253&perks=1840239774,3230963543,3914874605,859780267,54024075
+dimwishlist:item=3431536253&perks=1840239774,1709045111,2289534249,3891536761,3988215619
+dimwishlist:item=3431536253&perks=1840239774,1709045111,2289534249,3891536761,54024075
+dimwishlist:item=3431536253&perks=1840239774,1709045111,2289534249,4049631843,3988215619
+dimwishlist:item=3431536253&perks=1840239774,1709045111,2289534249,4049631843,54024075
+dimwishlist:item=3431536253&perks=1840239774,1709045111,2289534249,1549370717,3988215619
+dimwishlist:item=3431536253&perks=1840239774,1709045111,2289534249,1549370717,54024075
+dimwishlist:item=3431536253&perks=1840239774,1709045111,2289534249,859780267,3988215619
+dimwishlist:item=3431536253&perks=1840239774,1709045111,2289534249,859780267,54024075
+dimwishlist:item=3431536253&perks=1840239774,1709045111,3914874605,3891536761,3988215619
+dimwishlist:item=3431536253&perks=1840239774,1709045111,3914874605,3891536761,54024075
+dimwishlist:item=3431536253&perks=1840239774,1709045111,3914874605,4049631843,3988215619
+dimwishlist:item=3431536253&perks=1840239774,1709045111,3914874605,4049631843,54024075
+dimwishlist:item=3431536253&perks=1840239774,1709045111,3914874605,1549370717,3988215619
+dimwishlist:item=3431536253&perks=1840239774,1709045111,3914874605,1549370717,54024075
+dimwishlist:item=3431536253&perks=1840239774,1709045111,3914874605,859780267,3988215619
+dimwishlist:item=3431536253&perks=1840239774,1709045111,3914874605,859780267,54024075
+dimwishlist:item=3431536253&perks=1124871858,3230963543,2289534249,3891536761,3988215619
+dimwishlist:item=3431536253&perks=1124871858,3230963543,2289534249,3891536761,54024075
+dimwishlist:item=3431536253&perks=1124871858,3230963543,2289534249,4049631843,3988215619
+dimwishlist:item=3431536253&perks=1124871858,3230963543,2289534249,4049631843,54024075
+dimwishlist:item=3431536253&perks=1124871858,3230963543,2289534249,1549370717,3988215619
+dimwishlist:item=3431536253&perks=1124871858,3230963543,2289534249,1549370717,54024075
+dimwishlist:item=3431536253&perks=1124871858,3230963543,2289534249,859780267,3988215619
+dimwishlist:item=3431536253&perks=1124871858,3230963543,2289534249,859780267,54024075
+dimwishlist:item=3431536253&perks=1124871858,3230963543,3914874605,3891536761,3988215619
+dimwishlist:item=3431536253&perks=1124871858,3230963543,3914874605,3891536761,54024075
+dimwishlist:item=3431536253&perks=1124871858,3230963543,3914874605,4049631843,3988215619
+dimwishlist:item=3431536253&perks=1124871858,3230963543,3914874605,4049631843,54024075
+dimwishlist:item=3431536253&perks=1124871858,3230963543,3914874605,1549370717,3988215619
+dimwishlist:item=3431536253&perks=1124871858,3230963543,3914874605,1549370717,54024075
+dimwishlist:item=3431536253&perks=1124871858,3230963543,3914874605,859780267,3988215619
+dimwishlist:item=3431536253&perks=1124871858,3230963543,3914874605,859780267,54024075
+dimwishlist:item=3431536253&perks=1124871858,1709045111,2289534249,3891536761,3988215619
+dimwishlist:item=3431536253&perks=1124871858,1709045111,2289534249,3891536761,54024075
+dimwishlist:item=3431536253&perks=1124871858,1709045111,2289534249,4049631843,3988215619
+dimwishlist:item=3431536253&perks=1124871858,1709045111,2289534249,4049631843,54024075
+dimwishlist:item=3431536253&perks=1124871858,1709045111,2289534249,1549370717,3988215619
+dimwishlist:item=3431536253&perks=1124871858,1709045111,2289534249,1549370717,54024075
+dimwishlist:item=3431536253&perks=1124871858,1709045111,2289534249,859780267,3988215619
+dimwishlist:item=3431536253&perks=1124871858,1709045111,2289534249,859780267,54024075
+dimwishlist:item=3431536253&perks=1124871858,1709045111,3914874605,3891536761,3988215619
+dimwishlist:item=3431536253&perks=1124871858,1709045111,3914874605,3891536761,54024075
+dimwishlist:item=3431536253&perks=1124871858,1709045111,3914874605,4049631843,3988215619
+dimwishlist:item=3431536253&perks=1124871858,1709045111,3914874605,4049631843,54024075
+dimwishlist:item=3431536253&perks=1124871858,1709045111,3914874605,1549370717,3988215619
+dimwishlist:item=3431536253&perks=1124871858,1709045111,3914874605,1549370717,54024075
+dimwishlist:item=3431536253&perks=1124871858,1709045111,3914874605,859780267,3988215619
+dimwishlist:item=3431536253&perks=1124871858,1709045111,3914874605,859780267,54024075
+
+
+// Gunburn - PVE (god-pve,pve)
+//notes: Coming out of the box with a good base to build from, adding Fluted Barrel for Handling and Flared Magwell for added Stability and Reload Speed gets this god roll off to the best start. The ‘run and gun’ aspect of this archetype is what makes them so fun, so this god roll leans into that aspect. A newer perk to the game in Lead from Light, paired up with Attrition Orbs, makes for good synergy in the gameplay loop, as sustained damage will produce an Orb of Power. Collecting this Orb then feeds Lead from Light, as well as any other Orb of Power picked up, to charge up the Special ammo meter to ensure your big damage dealers in your loadout stay well stocked on ammo. Kinetic Tremors is also a great choice in the final perk slot, being easy to activate due to the high rate of fire that Gunburn carries. tags:god-pve,pve
+dimwishlist:item=3431536253&perks=1840239774,3230963543,1570399071,243981275,3988215619
+dimwishlist:item=3431536253&perks=1840239774,3230963543,1570399071,243981275,54024075
+dimwishlist:item=3431536253&perks=1840239774,3230963543,1570399071,984655331,3988215619
+dimwishlist:item=3431536253&perks=1840239774,3230963543,1570399071,984655331,54024075
+dimwishlist:item=3431536253&perks=1840239774,3230963543,1661646271,243981275,3988215619
+dimwishlist:item=3431536253&perks=1840239774,3230963543,1661646271,243981275,54024075
+dimwishlist:item=3431536253&perks=1840239774,3230963543,1661646271,984655331,3988215619
+dimwishlist:item=3431536253&perks=1840239774,3230963543,1661646271,984655331,54024075
+dimwishlist:item=3431536253&perks=1840239774,1709045111,1570399071,243981275,3988215619
+dimwishlist:item=3431536253&perks=1840239774,1709045111,1570399071,243981275,54024075
+dimwishlist:item=3431536253&perks=1840239774,1709045111,1570399071,984655331,3988215619
+dimwishlist:item=3431536253&perks=1840239774,1709045111,1570399071,984655331,54024075
+dimwishlist:item=3431536253&perks=1840239774,1709045111,1661646271,243981275,3988215619
+dimwishlist:item=3431536253&perks=1840239774,1709045111,1661646271,243981275,54024075
+dimwishlist:item=3431536253&perks=1840239774,1709045111,1661646271,984655331,3988215619
+dimwishlist:item=3431536253&perks=1840239774,1709045111,1661646271,984655331,54024075
+dimwishlist:item=3431536253&perks=1124871858,3230963543,1570399071,243981275,3988215619
+dimwishlist:item=3431536253&perks=1124871858,3230963543,1570399071,243981275,54024075
+dimwishlist:item=3431536253&perks=1124871858,3230963543,1570399071,984655331,3988215619
+dimwishlist:item=3431536253&perks=1124871858,3230963543,1570399071,984655331,54024075
+dimwishlist:item=3431536253&perks=1124871858,3230963543,1661646271,243981275,3988215619
+dimwishlist:item=3431536253&perks=1124871858,3230963543,1661646271,243981275,54024075
+dimwishlist:item=3431536253&perks=1124871858,3230963543,1661646271,984655331,3988215619
+dimwishlist:item=3431536253&perks=1124871858,3230963543,1661646271,984655331,54024075
+dimwishlist:item=3431536253&perks=1124871858,1709045111,1570399071,243981275,3988215619
+dimwishlist:item=3431536253&perks=1124871858,1709045111,1570399071,243981275,54024075
+dimwishlist:item=3431536253&perks=1124871858,1709045111,1570399071,984655331,3988215619
+dimwishlist:item=3431536253&perks=1124871858,1709045111,1570399071,984655331,54024075
+dimwishlist:item=3431536253&perks=1124871858,1709045111,1661646271,243981275,3988215619
+dimwishlist:item=3431536253&perks=1124871858,1709045111,1661646271,243981275,54024075
+dimwishlist:item=3431536253&perks=1124871858,1709045111,1661646271,984655331,3988215619
+dimwishlist:item=3431536253&perks=1124871858,1709045111,1661646271,984655331,54024075
+
+
+// Gunburn - PVE (pve)
+//notes: Coming out of the box with a good base to build from, adding Fluted Barrel for Handling and Flared Magwell for added Stability and Reload Speed gets this god roll off to the best start. The ‘run and gun’ aspect of this archetype is what makes them so fun, so this god roll leans into that aspect. A newer perk to the game in Lead from Light, paired up with Attrition Orbs, makes for good synergy in the gameplay loop, as sustained damage will produce an Orb of Power. Collecting this Orb then feeds Lead from Light, as well as any other Orb of Power picked up, to charge up the Special ammo meter to ensure your big damage dealers in your loadout stay well stocked on ammo. Kinetic Tremors is also a great choice in the final perk slot, being easy to activate due to the high rate of fire that Gunburn carries. tags:pve
+dimwishlist:item=3431536253&perks=2289534249,3891536761,3988215619
+dimwishlist:item=3431536253&perks=2289534249,3891536761,54024075
+dimwishlist:item=3431536253&perks=2289534249,4049631843,3988215619
+dimwishlist:item=3431536253&perks=2289534249,4049631843,54024075
+dimwishlist:item=3431536253&perks=2289534249,1549370717,3988215619
+dimwishlist:item=3431536253&perks=2289534249,1549370717,54024075
+dimwishlist:item=3431536253&perks=2289534249,859780267,3988215619
+dimwishlist:item=3431536253&perks=2289534249,859780267,54024075
+dimwishlist:item=3431536253&perks=3914874605,3891536761,3988215619
+dimwishlist:item=3431536253&perks=3914874605,3891536761,54024075
+dimwishlist:item=3431536253&perks=3914874605,4049631843,3988215619
+dimwishlist:item=3431536253&perks=3914874605,4049631843,54024075
+dimwishlist:item=3431536253&perks=3914874605,1549370717,3988215619
+dimwishlist:item=3431536253&perks=3914874605,1549370717,54024075
+dimwishlist:item=3431536253&perks=3914874605,859780267,3988215619
+dimwishlist:item=3431536253&perks=3914874605,859780267,54024075
+
+
+// Gunburn - PVE (pve)
+//notes: Coming out of the box with a good base to build from, adding Fluted Barrel for Handling and Flared Magwell for added Stability and Reload Speed gets this god roll off to the best start. The ‘run and gun’ aspect of this archetype is what makes them so fun, so this god roll leans into that aspect. A newer perk to the game in Lead from Light, paired up with Attrition Orbs, makes for good synergy in the gameplay loop, as sustained damage will produce an Orb of Power. Collecting this Orb then feeds Lead from Light, as well as any other Orb of Power picked up, to charge up the Special ammo meter to ensure your big damage dealers in your loadout stay well stocked on ammo. Kinetic Tremors is also a great choice in the final perk slot, being easy to activate due to the high rate of fire that Gunburn carries. tags:pve
+dimwishlist:item=3431536253&perks=1570399071,243981275,3988215619
+dimwishlist:item=3431536253&perks=1570399071,243981275,54024075
+dimwishlist:item=3431536253&perks=1570399071,984655331,3988215619
+dimwishlist:item=3431536253&perks=1570399071,984655331,54024075
+dimwishlist:item=3431536253&perks=1661646271,243981275,3988215619
+dimwishlist:item=3431536253&perks=1661646271,243981275,54024075
+dimwishlist:item=3431536253&perks=1661646271,984655331,3988215619
+dimwishlist:item=3431536253&perks=1661646271,984655331,54024075
 
 
 // Gridskipper - PVE (god-pve)
