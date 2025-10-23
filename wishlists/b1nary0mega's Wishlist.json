@@ -15712,6 +15712,1319 @@
             "tags": [
                 "PVP"
             ]
+        },
+        {
+            "description": "While it might seem odd, Arrowhead Break is our best barrel option as Last Thursday thankfully has a good bit of stability already, so increasing our recoil control and handling at no cost to another stat is perfect. Flared Magwell is always the go-to for its reload speed and stability increases. A handling masterwork will round the stats out nicely. Perk 1 has a few good options, but with how strong our grenades can get now, Demolitionist is your best choice. However, Subsistence or Strategist will do you just as good with the utility they offer. For Perk 2, Dragonfly is going to pair nicely to get even more gains from Demo, especially with its buff. However, if you’re looking for more damage, Frenzy or Binary Orbit are available. Whichever damage perk you take, keep in mind that it will also enhance the damage of Exhaustive Research’s micro-missile!",
+            "hash": 3813721211,
+            "name": "PVE",
+            "plugs": [
+                [
+                    839105230,
+                    3048246338
+                ],
+                [
+                    3230963543,
+                    1709045111
+                ],
+                [
+                    3523296417,
+                    1820235745,
+                    880644845,
+                    4245865861,
+                    1906147653,
+                    3120212825
+                ],
+                [
+                    2848615171,
+                    4104185692,
+                    1546142478,
+                    169755979,
+                    3007133316,
+                    983853954
+                ]
+            ],
+            "tags": [
+                "GodPVE",
+                "PVE"
+            ]
+        },
+        {
+            "description": "While it might seem odd, Arrowhead Break is our best barrel option as Last Thursday thankfully has a good bit of stability already, so increasing our recoil control and handling at no cost to another stat is perfect. Flared Magwell is always the go-to for its reload speed and stability increases. A handling masterwork will round the stats out nicely. Perk 1 has a few good options, but with how strong our grenades can get now, Demolitionist is your best choice. However, Subsistence or Strategist will do you just as good with the utility they offer. For Perk 2, Dragonfly is going to pair nicely to get even more gains from Demo, especially with its buff. However, if you’re looking for more damage, Frenzy or Binary Orbit are available. Whichever damage perk you take, keep in mind that it will also enhance the damage of Exhaustive Research’s micro-missile!",
+            "hash": 3813721211,
+            "name": "PVE",
+            "plugs": [
+                [
+                    3523296417,
+                    1820235745,
+                    880644845,
+                    4245865861,
+                    1906147653,
+                    3120212825
+                ],
+                [
+                    2848615171,
+                    4104185692,
+                    1546142478,
+                    169755979,
+                    3007133316,
+                    983853954
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "Since Qua Nilus has decent base stats overall, there’s really not too much to improve, so Fluted Barrel and Appended Mag will do nicely. Extended Mag typically gives a bit more than Appended, but it’s only a single round here, so not worth the tradeoff. Perk 1 has only two real PvE options, Proximity Power or Slice. Proximity Power can really help you lean into a melee build as it directly increases the stat instead of refunding energy, meaning more melee damage! Pair it with Swashbuckler or Surrounded to really get the loop going. And for the Strand aficionados, pairing Slice with the Vanguard Determination origin trait can turn you into a tank. This is thanks to the trait giving you damage resistance on kills after using your class ability, and since Slice activates the same way, you’ll be reducing their damage as well!",
+            "hash": 190747610,
+            "name": "PVE",
+            "plugs": [
+                [
+                    1840239774,
+                    1124871858
+                ],
+                [
+                    1087426260,
+                    1065371964
+                ],
+                [
+                    923806249,
+                    4190679284,
+                    3422796781,
+                    820036316
+                ],
+                [
+                    2848615171,
+                    4082225868,
+                    3708227201,
+                    169755979,
+                    1161469972,
+                    781192741
+                ]
+            ],
+            "tags": [
+                "GodPVE",
+                "PVE"
+            ]
+        },
+        {
+            "description": "Since Qua Nilus has decent base stats overall, there’s really not too much to improve, so Fluted Barrel and Appended Mag will do nicely. Extended Mag typically gives a bit more than Appended, but it’s only a single round here, so not worth the tradeoff. Perk 1 has only two real PvE options, Proximity Power or Slice. Proximity Power can really help you lean into a melee build as it directly increases the stat instead of refunding energy, meaning more melee damage! Pair it with Swashbuckler or Surrounded to really get the loop going. And for the Strand aficionados, pairing Slice with the Vanguard Determination origin trait can turn you into a tank. This is thanks to the trait giving you damage resistance on kills after using your class ability, and since Slice activates the same way, you’ll be reducing their damage as well!",
+            "hash": 190747610,
+            "name": "PVE",
+            "plugs": [
+                [
+                    923806249,
+                    4190679284,
+                    3422796781,
+                    820036316
+                ],
+                [
+                    2848615171,
+                    4082225868,
+                    3708227201,
+                    169755979,
+                    1161469972,
+                    781192741
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "Fluted Barrel, Tactical Mag, and a reload speed masterwork grant us the most important stats here for PvE. Shoot to Loot and Explosive Payload are then our two picks for main perks, both of which help greatly in higher-difficulty PvE content. While this roll is by no means flashy, it does offer what experienced players look for when searching for a scout rifle.",
+            "hash": 1674692344,
+            "name": "PVE",
+            "plugs": [
+                [
+                    1840239774,
+                    1124871858
+                ],
+                [
+                    106909392,
+                    1783397184
+                ],
+                [
+                    3700496672,
+                    2840833776
+                ],
+                [
+                    3038247973,
+                    64866129
+                ]
+            ],
+            "tags": [
+                "GodPVE",
+                "PVE"
+            ]
+        },
+        {
+            "description": "If you’re looking for a more fun roll on this weapon (or maybe just enjoy how scout rifles feel in casual content), this roll is for you! Demolitionist and Voltshot make for a combination that works great with nearly any Arc build you can imagine, or even on their own. While veterans of Destiny 2 will likely urge you to find a hand cannon or submachine gun instead, this is by no means a bad roll to take into Solo and Fireteam Ops!",
+            "hash": 1674692344,
+            "name": "PVE - ARC",
+            "plugs": [
+                [
+                    1840239774,
+                    1124871858
+                ],
+                [
+                    106909392,
+                    1783397184
+                ],
+                [
+                    3523296417,
+                    1906147653
+                ],
+                [
+                    2173046394,
+                    1720528630
+                ]
+            ],
+            "tags": [
+                "GodPVE",
+                "PVE"
+            ]
+        },
+        {
+            "description": "Fluted Barrel, Tactical Mag, and a reload speed masterwork grant us the most important stats here for PvE. Shoot to Loot and Explosive Payload are then our two picks for main perks, both of which help greatly in higher-difficulty PvE content. While this roll is by no means flashy, it does offer what experienced players look for when searching for a scout rifle.",
+            "hash": 1674692344,
+            "name": "PVE",
+            "plugs": [
+                [
+                    3700496672,
+                    2840833776
+                ],
+                [
+                    3038247973,
+                    64866129
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "If you’re looking for a more fun roll on this weapon (or maybe just enjoy how scout rifles feel in casual content), this roll is for you! Demolitionist and Voltshot make for a combination that works great with nearly any Arc build you can imagine, or even on their own. While veterans of Destiny 2 will likely urge you to find a hand cannon or submachine gun instead, this is by no means a bad roll to take into Solo and Fireteam Ops!",
+            "hash": 1674692344,
+            "name": "PVE - ARC",
+            "plugs": [
+                [
+                    3523296417,
+                    1906147653
+                ],
+                [
+                    2173046394,
+                    1720528630
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "Since Precipial has pretty good base stats, there is not too much to buff here, so Corkscrew’s +5 to range, stability, and handling is a solid option. Assault Mag has always been great thanks to its fire rate increase, minimal as it may be, and a handling Masterwork helps you stay light on your feet when in combat. Like most shotguns that roll with it, One-Two Punch is our best choice for Perk 1, especially when paired with Vorpal Weapon. While not as effective in putting down larger targets, the Repulsor Brace + Destabilizing Rounds combo is a fun, niche roll if you have a Void build going. And yes, the micro-rocket can proc One-Two Punch.",
+            "hash": 367772693,
+            "name": "PVE",
+            "plugs": [
+                [
+                    4090651448,
+                    111235976
+                ],
+                [
+                    791862061,
+                    1488599449
+                ],
+                [
+                    2679249093,
+                    788178929
+                ],
+                [
+                    1546637391,
+                    3418165135
+                ]
+            ],
+            "tags": [
+                "GodPVE",
+                "PVE"
+            ]
+        },
+        {
+            "description": "Since Precipial has pretty good base stats, there is not too much to buff here, so Corkscrew’s +5 to range, stability, and handling is a solid option. Assault Mag has always been great thanks to its fire rate increase, minimal as it may be, and a handling Masterwork helps you stay light on your feet when in combat. Like most shotguns that roll with it, One-Two Punch is our best choice for Perk 1, especially when paired with Vorpal Weapon. While not as effective in putting down larger targets, the Repulsor Brace + Destabilizing Rounds combo is a fun, niche roll if you have a Void build going. And yes, the micro-rocket can proc One-Two Punch.",
+            "hash": 367772693,
+            "name": "PVE-VOID",
+            "plugs": [
+                [
+                    4090651448,
+                    111235976
+                ],
+                [
+                    791862061,
+                    1488599449
+                ],
+                [
+                    776531651,
+                    2541826827
+                ],
+                [
+                    2048641572,
+                    1926441324
+                ]
+            ],
+            "tags": [
+                "GodPVE",
+                "PVE"
+            ]
+        },
+        {
+            "description": "Since Precipial has pretty good base stats, there is not too much to buff here, so Corkscrew’s +5 to range, stability, and handling is a solid option. Assault Mag has always been great thanks to its fire rate increase, minimal as it may be, and a handling Masterwork helps you stay light on your feet when in combat. Like most shotguns that roll with it, One-Two Punch is our best choice for Perk 1, especially when paired with Vorpal Weapon. While not as effective in putting down larger targets, the Repulsor Brace + Destabilizing Rounds combo is a fun, niche roll if you have a Void build going. And yes, the micro-rocket can proc One-Two Punch.",
+            "hash": 367772693,
+            "name": "PVE",
+            "plugs": [
+                [
+                    2679249093,
+                    788178929
+                ],
+                [
+                    1546637391,
+                    3418165135
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "Since Precipial has pretty good base stats, there is not too much to buff here, so Corkscrew’s +5 to range, stability, and handling is a solid option. Assault Mag has always been great thanks to its fire rate increase, minimal as it may be, and a handling Masterwork helps you stay light on your feet when in combat. Like most shotguns that roll with it, One-Two Punch is our best choice for Perk 1, especially when paired with Vorpal Weapon. While not as effective in putting down larger targets, the Repulsor Brace + Destabilizing Rounds combo is a fun, niche roll if you have a Void build going. And yes, the micro-rocket can proc One-Two Punch.",
+            "hash": 367772693,
+            "name": "PVE-VOID",
+            "plugs": [
+                [
+                    776531651,
+                    2541826827
+                ],
+                [
+                    2048641572,
+                    1926441324
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "When it comes to the Barrel and Magazine, we recommend Fluted Barrel for the extra handling, and Flared Magwell for the extra reload speed; making it easier to reload for Heal Clip. In the first perk column, Heal Clip is the obvious pick. It’s great for survivability and provides an easy way to stay alive in almost any situation, which is great on such a close-range weapon. Attrition Orbs will give you 1-2 orbs per magazine with sustained damage but with the downside of less immediate survivability, especially as Recouperation isn’t as free as it used to be with the introduction of the Health stat. Moving on to the second perk column, Incandescent is our choice. This AoE perk is great for splash damage, and is the signature Solar ad-clear perk for a reason. Otherwise, if you want an option for sustained fire, Burning Ambition can inflict scorch in one magazine, which is great for passive damage over time and staggering combatants.",
+            "hash": 3946054154,
+            "name": "PVE",
+            "plugs": [
+                [
+                    1840239774,
+                    1124871858
+                ],
+                [
+                    3230963543,
+                    1709045111
+                ],
+                [
+                    3017780555,
+                    4223976499,
+                    984655331,
+                    243981275
+                ],
+                [
+                    4293542123,
+                    2675184851,
+                    3581929919,
+                    2890807135
+                ]
+            ],
+            "tags": [
+                "GodPVE",
+                "PVE"
+            ]
+        },
+        {
+            "description": "When it comes to the Barrel and Magazine, we recommend Fluted Barrel for the extra handling, and Flared Magwell for the extra reload speed; making it easier to reload for Heal Clip. In the first perk column, Heal Clip is the obvious pick. It’s great for survivability and provides an easy way to stay alive in almost any situation, which is great on such a close-range weapon. Attrition Orbs will give you 1-2 orbs per magazine with sustained damage but with the downside of less immediate survivability, especially as Recouperation isn’t as free as it used to be with the introduction of the Health stat. Moving on to the second perk column, Incandescent is our choice. This AoE perk is great for splash damage, and is the signature Solar ad-clear perk for a reason. Otherwise, if you want an option for sustained fire, Burning Ambition can inflict scorch in one magazine, which is great for passive damage over time and staggering combatants.",
+            "hash": 3946054154,
+            "name": "PVE",
+            "plugs": [
+                [
+                    3017780555,
+                    4223976499,
+                    984655331,
+                    243981275
+                ],
+                [
+                    4293542123,
+                    2675184851,
+                    3581929919,
+                    2890807135
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "Quick Launch, a handling masterwork, and Problem Solver provide us with some great utility through improved handling and reduced incoming boss damage. As for our magazine choice, Spike Grenades is always the go-to option, providing some extra free damage. In regards to our main perks, Envious Arsenal and Bait and Switch is the obvious combo. Not only are they extremely potent on their own, but they also synergize perfectly with one another, which is why it’s the cornerstone of both this weapon and VS Chill Inhibitor.",
+            "hash": 4146673634,
+            "name": "PVE",
+            "plugs": [
+                [
+                    3525010810,
+                    3250572790
+                ],
+                [
+                    3301904089,
+                    409713597
+                ],
+                [
+                    3987942396,
+                    2817499044
+                ],
+                [
+                    3078487919,
+                    3744057135
+                ],
+                [
+                    3454102905,
+                    2223800157
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Quick Launch, a handling masterwork, and Problem Solver provide us with some great utility through improved handling and reduced incoming boss damage. As for our magazine choice, Spike Grenades is always the go-to option, providing some extra free damage. In regards to our main perks, Envious Arsenal and Bait and Switch is the obvious combo. Not only are they extremely potent on their own, but they also synergize perfectly with one another, which is why it’s the cornerstone of both this weapon and VS Chill Inhibitor.",
+            "hash": 4146673634,
+            "name": "PVE",
+            "plugs": [
+                [
+                    3987942396,
+                    2817499044
+                ],
+                [
+                    3078487919,
+                    3744057135
+                ],
+                [
+                    3454102905,
+                    2223800157
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "As stated earlier, DPS is not this weapon’s strong suit, so we’ll go for Empowered Rail to up the Persistence stat. This stat governs how long bolts stay up before expiring, so having it as high as possible allows you more time to retrieve it. This is perfect as Charged Bolts deal damage over time while in a target, so the longer it is up, the better. For Perk 1, Impulse Amplifier or Bolt Collector are good general picks. Impulse will let you hit farther away more reliably, and Bolt Collector lets you use the crossbow in a more CQC setting. Perk 2 will be either Frenzy or Master of Arms for their easy and powerful damage buffs, which will also affect Charged Bolts’ damage as well. And if you want to try a DPS roll, Field Prep and Elemental Honing can make for a good swap build.",
+            "hash": 1553681400,
+            "name": "PVE",
+            "plugs": [
+                [
+                    4196967425,
+                    2398680997
+                ],
+                [
+                    2955427634,
+                    2783367502
+                ],
+                [
+                    951095735,
+                    4042220767,
+                    883665727,
+                    3878366039
+                ],
+                [
+                    4104185692,
+                    3081867624,
+                    2963273944,
+                    3007133316
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "As stated earlier, DPS is not this weapon’s strong suit, so we’ll go for Empowered Rail to up the Persistence stat. This stat governs how long bolts stay up before expiring, so having it as high as possible allows you more time to retrieve it. This is perfect as Charged Bolts deal damage over time while in a target, so the longer it is up, the better. For Perk 1, Impulse Amplifier or Bolt Collector are good general picks. Impulse will let you hit farther away more reliably, and Bolt Collector lets you use the crossbow in a more CQC setting. Perk 2 will be either Frenzy or Master of Arms for their easy and powerful damage buffs, which will also affect Charged Bolts’ damage as well. And if you want to try a DPS roll, Field Prep and Elemental Honing can make for a good swap build.",
+            "hash": 1553681400,
+            "name": "PVE",
+            "plugs": [
+                [
+                    951095735,
+                    4042220767,
+                    883665727,
+                    3878366039
+                ],
+                [
+                    4104185692,
+                    3081867624,
+                    2963273944,
+                    3007133316
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "The main thing you’re looking for on SMGs in The Crucible is range, so we’ll opt for Hammer-Forged Rifling, Ricochet Rounds, and either a range or stability masterwork. Frame of Reference, the weapon’s origin trait, provides even more range (among other things), making this a pretty great contender for PvP right out of the gate. Rangefinder is our pick for column three for the same reasons listed above (there also isn’t much else here, save for maybe Zen Moment). Our final perk selection is Target Lock, which makes for more consistent and shorter kills.",
+            "hash": 1435808083,
+            "name": "PVP",
+            "plugs": [
+                [
+                    3250034553,
+                    1147230557
+                ],
+                [
+                    1885400500,
+                    1968098204
+                ],
+                [
+                    2846385770,
+                    509594246
+                ],
+                [
+                    365154968,
+                    2939589096
+                ]
+            ],
+            "tags": [
+                "GodPVP",
+                "PVP"
+            ]
+        },
+        {
+            "description": "The main thing you’re looking for on SMGs in The Crucible is range, so we’ll opt for Hammer-Forged Rifling, Ricochet Rounds, and either a range or stability masterwork. Frame of Reference, the weapon’s origin trait, provides even more range (among other things), making this a pretty great contender for PvP right out of the gate. Rangefinder is our pick for column three for the same reasons listed above (there also isn’t much else here, save for maybe Zen Moment). Our final perk selection is Target Lock, which makes for more consistent and shorter kills.",
+            "hash": 1435808083,
+            "name": "PVP",
+            "plugs": [
+                [
+                    2846385770,
+                    509594246
+                ],
+                [
+                    365154968,
+                    2939589096
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "Fluted Barrel, Flared Magwell, and a handling masterwork are our choices for stat-boosting perks. While we’d typically opt for a reload speed masterwork here, it really isn’t worth it due to our other choices and the weapon’s origin trait. Rolling Storm in the third column is hard to pass up. Even though it’s slightly less popular than other subclass-synergistic perks due to how easy Bolt Charge is to build up, it’s an extremely strong perk for the third column, making it our top pick. If you’re not running an Arc build, however, Dragonfly could prove equally enticing. From there, you have a choice between Jolting Feedback and Frenzy; the former plays even more into Arc synergy, while the latter provides additional damage and reload speed bonuses on top of Antedate’s origin trait.",
+            "hash": 1435808083,
+            "name": "PVE",
+            "plugs": [
+                [
+                    1840239774,
+                    1124871858
+                ],
+                [
+                    3230963543,
+                    1709045111
+                ],
+                [
+                    2848615171,
+                    3218042543,
+                    2633604463,
+                    169755979
+                ],
+                [
+                    3966416502,
+                    4104185692,
+                    717070634,
+                    3007133316
+                ]
+            ],
+            "tags": [
+                "GodPVE",
+                "PVE"
+            ]
+        },
+        {
+            "description": "Fluted Barrel, Flared Magwell, and a handling masterwork are our choices for stat-boosting perks. While we’d typically opt for a reload speed masterwork here, it really isn’t worth it due to our other choices and the weapon’s origin trait. Rolling Storm in the third column is hard to pass up. Even though it’s slightly less popular than other subclass-synergistic perks due to how easy Bolt Charge is to build up, it’s an extremely strong perk for the third column, making it our top pick. If you’re not running an Arc build, however, Dragonfly could prove equally enticing. From there, you have a choice between Jolting Feedback and Frenzy; the former plays even more into Arc synergy, while the latter provides additional damage and reload speed bonuses on top of Antedate’s origin trait.",
+            "hash": 1435808083,
+            "name": "PVE",
+            "plugs": [
+                [
+                    2848615171,
+                    3218042543,
+                    2633604463,
+                    169755979
+                ],
+                [
+                    3966416502,
+                    4104185692,
+                    717070634,
+                    3007133316
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "Fluted Barrel and Tactical Mag will start us off with some much needed handling and stability boosts while also offering two extra rounds in the mag. Tack on a stability Masterwork to ensure you’re hitting as many crits as possible. Perk 1 has all the reload perks one could ask for, so it’s really up to you whether you want Rewind Rounds, Fourth Time’s the Charm, or Envious Arsenal. Fourth Time’s is arguably the best as it returns ammo from thin air, but the other two are good in their own right. For Perk 2, Bait and Switch is the best choice here, with Elemental Honing a good alternative. Both offer the same max damage buff, but Elemental Honing requires a bit more effort to activate, though the tradeoff is a much longer duration.",
+            "hash": 688593230,
+            "name": "PVE",
+            "plugs": [
+                [
+                    1840239774,
+                    1124871858
+                ],
+                [
+                    106909392,
+                    1783397184
+                ],
+                [
+                    1354429876,
+                    3418782618,
+                    1563455254,
+                    848860060
+                ],
+                [
+                    3078487919,
+                    1089671869,
+                    3744057135,
+                    496047945
+                ]
+            ],
+            "tags": [
+                "GodPVE",
+                "PVE"
+            ]
+        },
+        {
+            "description": "Fluted Barrel and Tactical Mag will start us off with some much needed handling and stability boosts while also offering two extra rounds in the mag. Tack on a stability Masterwork to ensure you’re hitting as many crits as possible. Perk 1 has all the reload perks one could ask for, so it’s really up to you whether you want Rewind Rounds, Fourth Time’s the Charm, or Envious Arsenal. Fourth Time’s is arguably the best as it returns ammo from thin air, but the other two are good in their own right. For Perk 2, Bait and Switch is the best choice here, with Elemental Honing a good alternative. Both offer the same max damage buff, but Elemental Honing requires a bit more effort to activate, though the tradeoff is a much longer duration.",
+            "hash": 688593230,
+            "name": "PVE",
+            "plugs": [
+                [
+                    1354429876,
+                    3418782618,
+                    1563455254,
+                    848860060
+                ],
+                [
+                    3078487919,
+                    1089671869,
+                    3744057135,
+                    496047945
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "The main perks focus on a team setup to get the most damage output, and that starts with the Auto-Loading Holster perk. Fire a rocket and immediately switch to your next big hitter weapon, while unloading, Haliaetus will refill its ammo while holstered, ready for its next rotation. Adding Aggregate Charge here is where the big damage comes from. Applying 3 debuffs gives this perk a 40% damage buff, and while it only lasts 3 seconds, it can easily be reapplied if someone on the team is using Tractor Cannon. You can also use other weapons and abilities to apply these debuffs solo, so Haliaetus does remain effective at all times. The ‘also good’ perk selection can also provide a lot of fun. Envious Assassin can push the magazine size up to 3 shots with Elemental Honing, bringing solid damage at 5 stacks.",
+            "hash": 2155534128,
+            "name": "PVE",
+            "plugs": [
+                [
+                    3525010810,
+                    3250572790
+                ],
+                [
+                    3796465595,
+                    274905539
+                ],
+                [
+                    3300816228,
+                    968510818,
+                    3528046508,
+                    424370782
+                ],
+                [
+                    3764420437,
+                    1089671869,
+                    3192447905,
+                    496047945
+                ]
+            ],
+            "tags": [
+                "GodPVE",
+                "PVE"
+            ]
+        },
+        {
+            "description": "The main perks focus on a team setup to get the most damage output, and that starts with the Auto-Loading Holster perk. Fire a rocket and immediately switch to your next big hitter weapon, while unloading, Haliaetus will refill its ammo while holstered, ready for its next rotation. Adding Aggregate Charge here is where the big damage comes from. Applying 3 debuffs gives this perk a 40% damage buff, and while it only lasts 3 seconds, it can easily be reapplied if someone on the team is using Tractor Cannon. You can also use other weapons and abilities to apply these debuffs solo, so Haliaetus does remain effective at all times. The ‘also good’ perk selection can also provide a lot of fun. Envious Assassin can push the magazine size up to 3 shots with Elemental Honing, bringing solid damage at 5 stacks.",
+            "hash": 2155534128,
+            "name": "PVE",
+            "plugs": [
+                [
+                    3300816228,
+                    968510818,
+                    3528046508,
+                    424370782
+                ],
+                [
+                    3764420437,
+                    1089671869,
+                    3192447905,
+                    496047945
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "The main perks focus on a team setup to get the most damage output, and that starts with the Auto-Loading Holster perk. Fire a rocket and immediately switch to your next big hitter weapon, while unloading, Haliaetus will refill its ammo while holstered, ready for its next rotation. Adding Aggregate Charge here is where the big damage comes from. Applying 3 debuffs gives this perk a 40% damage buff, and while it only lasts 3 seconds, it can easily be reapplied if someone on the team is using Tractor Cannon. You can also use other weapons and abilities to apply these debuffs solo, so Haliaetus does remain effective at all times. The ‘also good’ perk selection can also provide a lot of fun. Envious Assassin can push the magazine size up to 3 shots with Elemental Honing, bringing solid damage at 5 stacks.",
+            "hash": 2155534128,
+            "name": "PVE DPS",
+            "plugs": [
+                [
+                    3525010810,
+                    3250572790
+                ],
+                [
+                    3796465595,
+                    274905539
+                ],
+                [
+                    1275731761,
+                    2091001077
+                ],
+                [
+                    3764420437,
+                    3192447905,
+                    113508675,
+                    177189259
+                ]
+            ],
+            "tags": [
+                "GodPVE",
+                "PVE"
+            ]
+        },
+        {
+            "description": "The main perks focus on a team setup to get the most damage output, and that starts with the Auto-Loading Holster perk. Fire a rocket and immediately switch to your next big hitter weapon, while unloading, Haliaetus will refill its ammo while holstered, ready for its next rotation. Adding Aggregate Charge here is where the big damage comes from. Applying 3 debuffs gives this perk a 40% damage buff, and while it only lasts 3 seconds, it can easily be reapplied if someone on the team is using Tractor Cannon. You can also use other weapons and abilities to apply these debuffs solo, so Haliaetus does remain effective at all times. The ‘also good’ perk selection can also provide a lot of fun. Envious Assassin can push the magazine size up to 3 shots with Elemental Honing, bringing solid damage at 5 stacks.",
+            "hash": 2155534128,
+            "name": "PVE DPS",
+            "plugs": [
+                [
+                    1275731761,
+                    2091001077
+                ],
+                [
+                    3764420437,
+                    3192447905,
+                    113508675,
+                    177189259
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "Ahab Char has some stiff competition. Fan favorites Auto Rifles like Chroma Rush and Reckless Oracle got reprised last year, and Giver’s Blessing dropped right alongside it, all rolling with heavy-hitting perks. So what makes it special? Two things: being Solar and the Braytech Legacy Origin Trait. It might be hard to swallow, but our last new Solar Rapid Fire Auto was added in Beyond Light, and it wasn’t very good. Now we have one that can actually use the Solar-based perks, and with the origin trait activating off of damage, you’ll hardly ever see an ability cooldown. That’s not all. Stat for stat, Ahab is almost identical to Chroma Rush, a fan favorite PvP auto rifle, though the perk selections for Ahab aren’t quite at the same level of lethality. But as we all know, it’s the wielder, not the weapon, that makes the difference. Ahab Char is A-Tier for PvE and A-Tier for PvP.",
+            "hash": 1411560894,
+            "name": "PVE",
+            "plugs": [
+                [
+                    1840239774,
+                    1124871858
+                ],
+                [
+                    3230963543,
+                    1709045111
+                ],
+                [
+                    3017780555,
+                    1820235745,
+                    4245865861,
+                    4223976499
+                ],
+                [
+                    2890807135,
+                    3581929919
+                ]
+            ],
+            "tags": [
+                "GodPVE",
+                "PVE"
+            ]
+        },
+        {
+            "description": "Ahab Char has some stiff competition. Fan favorites Auto Rifles like Chroma Rush and Reckless Oracle got reprised last year, and Giver’s Blessing dropped right alongside it, all rolling with heavy-hitting perks. So what makes it special? Two things: being Solar and the Braytech Legacy Origin Trait. It might be hard to swallow, but our last new Solar Rapid Fire Auto was added in Beyond Light, and it wasn’t very good. Now we have one that can actually use the Solar-based perks, and with the origin trait activating off of damage, you’ll hardly ever see an ability cooldown. That’s not all. Stat for stat, Ahab is almost identical to Chroma Rush, a fan favorite PvP auto rifle, though the perk selections for Ahab aren’t quite at the same level of lethality. But as we all know, it’s the wielder, not the weapon, that makes the difference. Ahab Char is A-Tier for PvE and A-Tier for PvP.",
+            "hash": 1411560894,
+            "name": "PVE",
+            "plugs": [
+                [
+                    3017780555,
+                    1820235745,
+                    4245865861,
+                    4223976499
+                ],
+                [
+                    2890807135,
+                    3581929919
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "MW:Impact - Synanceia is one of the most complete Swords in PvE when it comes to its main perk slots. Starting with Honed Edge for added Impact, and Swordmaster’s Guard to help its defensive capabilities when blocking, these lay the foundations for a powerful weapon to add to your Guardian’s loadout. For the god roll, the best option to start with is Relentless Strikes, which grants Sword ammo after three light attack hits in quick succession. This helps keep ammo up out of battle to feed the Eager Edge perk, but also for utilising the wave from the heavy attack. Eager Edge is one of the most popular perks in Destiny 2 for its ability to launch players forward, not only for closing the gap in battle, but for traversal purposes to get from A to B faster. If you want to tap into the high damage potential of Synanceia, the combination of Sharp Harvest or Relentless Strikes with Elemental Honing works well together for great effect. Surrounded gives an instant 35% damage buff in the thick of battle when three enemies or more enemies are in proximity, so there are combinations here to suit various playstyles effectively.",
+            "hash": 1823308496,
+            "name": "PVE",
+            "plugs": [
+                [
+                    938542991,
+                    766579919
+                ],
+                [
+                    269888150,
+                    125241418
+                ],
+                [
+                    1749209109,
+                    243981275,
+                    4085959009,
+                    984655331
+                ],
+                [
+                    2077819806,
+                    1618208178,
+                    3708227201,
+                    781192741
+                ]
+            ],
+            "tags": [
+                "GodPVE",
+                "PVE"
+            ]
+        },
+        {
+            "description": "MW:Impact - Synanceia is one of the most complete Swords in PvE when it comes to its main perk slots. Starting with Honed Edge for added Impact, and Swordmaster’s Guard to help its defensive capabilities when blocking, these lay the foundations for a powerful weapon to add to your Guardian’s loadout. For the god roll, the best option to start with is Relentless Strikes, which grants Sword ammo after three light attack hits in quick succession. This helps keep ammo up out of battle to feed the Eager Edge perk, but also for utilising the wave from the heavy attack. Eager Edge is one of the most popular perks in Destiny 2 for its ability to launch players forward, not only for closing the gap in battle, but for traversal purposes to get from A to B faster. If you want to tap into the high damage potential of Synanceia, the combination of Sharp Harvest or Relentless Strikes with Elemental Honing works well together for great effect. Surrounded gives an instant 35% damage buff in the thick of battle when three enemies or more enemies are in proximity, so there are combinations here to suit various playstyles effectively.",
+            "hash": 1823308496,
+            "name": "PVE",
+            "plugs": [
+                [
+                    1749209109,
+                    243981275,
+                    4132187021,
+                    4085959009,
+                    984655331,
+                    2581144697
+                ],
+                [
+                    2077819806,
+                    1089671869,
+                    1618208178,
+                    496047945
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "DPS - MW:Impact - Synanceia is one of the most complete Swords in PvE when it comes to its main perk slots. Starting with Honed Edge for added Impact, and Swordmaster’s Guard to help its defensive capabilities when blocking, these lay the foundations for a powerful weapon to add to your Guardian’s loadout. For the god roll, the best option to start with is Relentless Strikes, which grants Sword ammo after three light attack hits in quick succession. This helps keep ammo up out of battle to feed the Eager Edge perk, but also for utilising the wave from the heavy attack. Eager Edge is one of the most popular perks in Destiny 2 for its ability to launch players forward, not only for closing the gap in battle, but for traversal purposes to get from A to B faster. If you want to tap into the high damage potential of Synanceia, the combination of Sharp Harvest or Relentless Strikes with Elemental Honing works well together for great effect. Surrounded gives an instant 35% damage buff in the thick of battle when three enemies or more enemies are in proximity, so there are combinations here to suit various playstyles effectively.",
+            "hash": 1823308496,
+            "name": "PVE - DPS",
+            "plugs": [
+                [
+                    938542991,
+                    766579919
+                ],
+                [
+                    269888150,
+                    125241418
+                ],
+                [
+                    4132187021,
+                    2581144697
+                ],
+                [
+                    1089671869,
+                    496047945
+                ]
+            ],
+            "tags": [
+                "GodPVE",
+                "PVE"
+            ]
+        },
+        {
+            "description": "DPS - MW:Impact - Synanceia is one of the most complete Swords in PvE when it comes to its main perk slots. Starting with Honed Edge for added Impact, and Swordmaster’s Guard to help its defensive capabilities when blocking, these lay the foundations for a powerful weapon to add to your Guardian’s loadout. For the god roll, the best option to start with is Relentless Strikes, which grants Sword ammo after three light attack hits in quick succession. This helps keep ammo up out of battle to feed the Eager Edge perk, but also for utilising the wave from the heavy attack. Eager Edge is one of the most popular perks in Destiny 2 for its ability to launch players forward, not only for closing the gap in battle, but for traversal purposes to get from A to B faster. If you want to tap into the high damage potential of Synanceia, the combination of Sharp Harvest or Relentless Strikes with Elemental Honing works well together for great effect. Surrounded gives an instant 35% damage buff in the thick of battle when three enemies or more enemies are in proximity, so there are combinations here to suit various playstyles effectively.",
+            "hash": 1823308496,
+            "name": "PVE - DPS",
+            "plugs": [
+                [
+                    4132187021,
+                    2581144697
+                ],
+                [
+                    1089671869,
+                    496047945
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "MW: Handling. While Fluted Barrel is the typical pick here, Arrowhead Break offers a similar boost to handling while also knocking our recoil direction to a perfect 100. Throwing on Assault Mag is always good as it ups your DPS ever so slightly. For Perk 1, it’s hard to deny that Rapid-Hit or Lead from Gold are your best choices. Rapid-Hit will massively increase your DPS potential, and Lead from Gold helps you stay topped off on ammo. Perk 2 has a few more choices, with Precision Instrument and Chill Clip taking the top spots. Precision Instrument goes hand in hand with Rapid-Hit thanks to the same proc condition, and Chill Clip on a shotgun of all things is surely to be a treat. Headstone is a good choice as well as you’ll primarily be aiming for the crit spots with this, and pairs well with Rimestealer.",
+            "hash": 3635232671,
+            "name": "PVE",
+            "plugs": [
+                [
+                    839105230,
+                    3048246338
+                ],
+                [
+                    791862061,
+                    1488599449
+                ],
+                [
+                    1556840489,
+                    1955165503,
+                    247725512,
+                    3442762221,
+                    2617553311,
+                    2938480696
+                ],
+                [
+                    124408337,
+                    555281244,
+                    2978966579,
+                    1171887445,
+                    332733060,
+                    344235611
+                ],
+                [
+                    3988215619,
+                    54024075
+                ]
+            ],
+            "tags": [
+                "GodPVE",
+                "PVE"
+            ]
+        },
+        {
+            "description": "MW: Handling. While Fluted Barrel is the typical pick here, Arrowhead Break offers a similar boost to handling while also knocking our recoil direction to a perfect 100. Throwing on Assault Mag is always good as it ups your DPS ever so slightly. For Perk 1, it’s hard to deny that Rapid-Hit or Lead from Gold are your best choices. Rapid-Hit will massively increase your DPS potential, and Lead from Gold helps you stay topped off on ammo. Perk 2 has a few more choices, with Precision Instrument and Chill Clip taking the top spots. Precision Instrument goes hand in hand with Rapid-Hit thanks to the same proc condition, and Chill Clip on a shotgun of all things is surely to be a treat. Headstone is a good choice as well as you’ll primarily be aiming for the crit spots with this, and pairs well with Rimestealer.",
+            "hash": 3635232671,
+            "name": "PVE",
+            "plugs": [
+                [
+                    1556840489,
+                    1955165503,
+                    247725512,
+                    3442762221,
+                    2617553311,
+                    2938480696
+                ],
+                [
+                    124408337,
+                    555281244,
+                    2978966579,
+                    1171887445,
+                    332733060,
+                    344235611
+                ],
+                [
+                    3988215619,
+                    54024075
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "MW: Range. Like all shotguns, slug shotguns heavily benefit from a range buff, so Hammer-Forged Rifling, Accurized Rounds, and a range Masterwork will be a great start. All together this gets us to a base of 70 range. Perk 1 has only two PvP options, but that’s not to say they are bad by any means. Killing Wind and Transcendent Moment both buff your range in addition to other stats, but the key difference is in how that is achieved. Killing Wind only activates on the weapon landing the final blow, whereas Transcendent Moment activates on any final blow. This means you can activate it through a primary or ability kill, then swap to it and already have the bonus range. This pairs very well with Binary Orbit, our Perk 2 choice. Since this is a Stasis weapon, you are guaranteed to have this active so long as you land a final blow with your primary before swapping, or an ability if you are using Light-aligned grenades/melees.",
+            "hash": 3635232671,
+            "name": "PVP",
+            "plugs": [
+                [
+                    3250034553,
+                    1147230557
+                ],
+                [
+                    3142289711,
+                    3267421167
+                ],
+                [
+                    2450788523,
+                    3731491409,
+                    680897173,
+                    4207509907
+                ],
+                [
+                    1546142478,
+                    983853954
+                ],
+                [
+                    3911709647,
+                    483923727
+                ]
+            ],
+            "tags": [
+                "GodPVP",
+                "PVP"
+            ]
+        },
+        {
+            "description": "MW: Range. Like all shotguns, slug shotguns heavily benefit from a range buff, so Hammer-Forged Rifling, Accurized Rounds, and a range Masterwork will be a great start. All together this gets us to a base of 70 range. Perk 1 has only two PvP options, but that’s not to say they are bad by any means. Killing Wind and Transcendent Moment both buff your range in addition to other stats, but the key difference is in how that is achieved. Killing Wind only activates on the weapon landing the final blow, whereas Transcendent Moment activates on any final blow. This means you can activate it through a primary or ability kill, then swap to it and already have the bonus range. This pairs very well with Binary Orbit, our Perk 2 choice. Since this is a Stasis weapon, you are guaranteed to have this active so long as you land a final blow with your primary before swapping, or an ability if you are using Light-aligned grenades/melees.",
+            "hash": 3635232671,
+            "name": "PVP",
+            "plugs": [
+                [
+                    2450788523,
+                    3731491409,
+                    680897173,
+                    4207509907
+                ],
+                [
+                    1546142478,
+                    983853954
+                ],
+                [
+                    3911709647,
+                    483923727
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "MW: Reload or Stability. Jurisprudent hits hard and can take advantage of its powerful Stasis perks. Arrowhead Brake and Steady Rounds start us off for Recoil control and a much-needed Stability boost to help keep shots on target.  The main perks complement each other perfectly alongside any Stasis-focused build. Rimestealer provides the effect of killing any frozen target, or Stasis crystal grants Frost Armor. This goes up to 5 stacks, giving a possible 22.5% damage reduction amount at 4.5% per stack. Headstone pairs perfectly here, as any precision final blow creates a Stasis crystal on the enemy’s body. Destroy this crystal with Jurisprudent to keep stacking more Frost armor.  Stasis builds or even Prismatic Stasis abilities, which freeze enemies, can all feed into Rimestealer and gain the benefits of this god roll. Jurisprudent can easily dispatch lower-tier mobs in one shot, meaning you can get this combination rolling with ease.",
+            "hash": 4090134063,
+            "name": "PVE",
+            "plugs": [
+                [
+                    839105230,
+                    3048246338
+                ],
+                [
+                    3177308360,
+                    1002206008
+                ],
+                [
+                    1955165503,
+                    2617553311,
+                    247725512,
+                    2938480696
+                ],
+                [
+                    124408337,
+                    1171887445,
+                    3038247973,
+                    64866129
+                ],
+                [
+                    4139916815,
+                    4232410959
+                ]
+            ],
+            "tags": [
+                "GodPVE",
+                "PVE"
+            ]
+        },
+        {
+            "description": "MW: Reload or Stability. Jurisprudent hits hard and can take advantage of its powerful Stasis perks. Arrowhead Brake and Steady Rounds start us off for Recoil control and a much-needed Stability boost to help keep shots on target.  The main perks complement each other perfectly alongside any Stasis-focused build. Rimestealer provides the effect of killing any frozen target, or Stasis crystal grants Frost Armor. This goes up to 5 stacks, giving a possible 22.5% damage reduction amount at 4.5% per stack. Headstone pairs perfectly here, as any precision final blow creates a Stasis crystal on the enemy’s body. Destroy this crystal with Jurisprudent to keep stacking more Frost armor.  Stasis builds or even Prismatic Stasis abilities, which freeze enemies, can all feed into Rimestealer and gain the benefits of this god roll. Jurisprudent can easily dispatch lower-tier mobs in one shot, meaning you can get this combination rolling with ease.",
+            "hash": 4090134063,
+            "name": "PVE",
+            "plugs": [
+                [
+                    1955165503,
+                    2617553311,
+                    247725512,
+                    2938480696
+                ],
+                [
+                    124408337,
+                    1171887445,
+                    3038247973,
+                    64866129
+                ],
+                [
+                    4139916815,
+                    4232410959
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "MW: Stability. High-Impact Frames are a workhorse weapon in PvP and can easily hold down areas and long sight lines, and this god roll gets the best out of Jurisprudent.  Start with Arrowhead Brake to get the best Recoil control when laying down fire and Accurized Rounds to keep Jurisprudent effective at longer distances. Rapid Hit rewards precision hits with Stability and Reload Speed, which helps keep shots on target and a fast Reload to get back into the fight. Finish off with Explosive Payload, which adds flinch and an added ‘flash’ when landing shots on opponents, making it difficult for an enemy to return fire. This is also a valuable perk, as it inflicts added damage on opponents; it can be the difference maker in a duel or finish off a kill when a foe is low and tries to escape into cover.",
+            "hash": 4090134063,
+            "name": "PVP",
+            "plugs": [
+                [
+                    839105230,
+                    3048246338
+                ],
+                [
+                    3142289711,
+                    3267421167
+                ],
+                [
+                    247725512,
+                    2579169598,
+                    2938480696,
+                    2073244114
+                ],
+                [
+                    3038247973,
+                    64866129
+                ],
+                [
+                    4139916815,
+                    4232410959
+                ]
+            ],
+            "tags": [
+                "GodPVP",
+                "PVP"
+            ]
+        },
+        {
+            "description": "MW: Stability. High-Impact Frames are a workhorse weapon in PvP and can easily hold down areas and long sight lines, and this god roll gets the best out of Jurisprudent.  Start with Arrowhead Brake to get the best Recoil control when laying down fire and Accurized Rounds to keep Jurisprudent effective at longer distances. Rapid Hit rewards precision hits with Stability and Reload Speed, which helps keep shots on target and a fast Reload to get back into the fight. Finish off with Explosive Payload, which adds flinch and an added ‘flash’ when landing shots on opponents, making it difficult for an enemy to return fire. This is also a valuable perk, as it inflicts added damage on opponents; it can be the difference maker in a duel or finish off a kill when a foe is low and tries to escape into cover.",
+            "hash": 4090134063,
+            "name": "PVP",
+            "plugs": [
+                [
+                    247725512,
+                    2579169598,
+                    2938480696,
+                    2073244114
+                ],
+                [
+                    3038247973,
+                    64866129
+                ],
+                [
+                    4139916815,
+                    4232410959
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "Coming out of the box with a good base to build from, adding Fluted Barrel for Handling and Flared Magwell for added Stability and Reload Speed gets this god roll off to the best start. The ‘run and gun’ aspect of this archetype is what makes them so fun, so this god roll leans into that aspect. A newer perk to the game in Lead from Light, paired up with Attrition Orbs, makes for good synergy in the gameplay loop, as sustained damage will produce an Orb of Power. Collecting this Orb then feeds Lead from Light, as well as any other Orb of Power picked up, to charge up the Special ammo meter to ensure your big damage dealers in your loadout stay well stocked on ammo. Kinetic Tremors is also a great choice in the final perk slot, being easy to activate due to the high rate of fire that Gunburn carries.",
+            "hash": 3431536253,
+            "name": "PVE",
+            "plugs": [
+                [
+                    1840239774,
+                    1124871858
+                ],
+                [
+                    3230963543,
+                    1709045111
+                ],
+                [
+                    2289534249,
+                    3914874605
+                ],
+                [
+                    3891536761,
+                    4049631843,
+                    1549370717,
+                    859780267
+                ],
+                [
+                    3988215619,
+                    54024075
+                ]
+            ],
+            "tags": [
+                "GodPVE",
+                "PVE"
+            ]
+        },
+        {
+            "description": "Coming out of the box with a good base to build from, adding Fluted Barrel for Handling and Flared Magwell for added Stability and Reload Speed gets this god roll off to the best start. The ‘run and gun’ aspect of this archetype is what makes them so fun, so this god roll leans into that aspect. A newer perk to the game in Lead from Light, paired up with Attrition Orbs, makes for good synergy in the gameplay loop, as sustained damage will produce an Orb of Power. Collecting this Orb then feeds Lead from Light, as well as any other Orb of Power picked up, to charge up the Special ammo meter to ensure your big damage dealers in your loadout stay well stocked on ammo. Kinetic Tremors is also a great choice in the final perk slot, being easy to activate due to the high rate of fire that Gunburn carries.",
+            "hash": 3431536253,
+            "name": "PVE",
+            "plugs": [
+                [
+                    1840239774,
+                    1124871858
+                ],
+                [
+                    3230963543,
+                    1709045111
+                ],
+                [
+                    1570399071,
+                    1661646271
+                ],
+                [
+                    243981275,
+                    984655331
+                ],
+                [
+                    3988215619,
+                    54024075
+                ]
+            ],
+            "tags": [
+                "GodPVE",
+                "PVE"
+            ]
+        },
+        {
+            "description": "Coming out of the box with a good base to build from, adding Fluted Barrel for Handling and Flared Magwell for added Stability and Reload Speed gets this god roll off to the best start. The ‘run and gun’ aspect of this archetype is what makes them so fun, so this god roll leans into that aspect. A newer perk to the game in Lead from Light, paired up with Attrition Orbs, makes for good synergy in the gameplay loop, as sustained damage will produce an Orb of Power. Collecting this Orb then feeds Lead from Light, as well as any other Orb of Power picked up, to charge up the Special ammo meter to ensure your big damage dealers in your loadout stay well stocked on ammo. Kinetic Tremors is also a great choice in the final perk slot, being easy to activate due to the high rate of fire that Gunburn carries.",
+            "hash": 3431536253,
+            "name": "PVE",
+            "plugs": [
+                [
+                    2289534249,
+                    3914874605
+                ],
+                [
+                    3891536761,
+                    4049631843,
+                    1549370717,
+                    859780267
+                ],
+                [
+                    3988215619,
+                    54024075
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "Coming out of the box with a good base to build from, adding Fluted Barrel for Handling and Flared Magwell for added Stability and Reload Speed gets this god roll off to the best start. The ‘run and gun’ aspect of this archetype is what makes them so fun, so this god roll leans into that aspect. A newer perk to the game in Lead from Light, paired up with Attrition Orbs, makes for good synergy in the gameplay loop, as sustained damage will produce an Orb of Power. Collecting this Orb then feeds Lead from Light, as well as any other Orb of Power picked up, to charge up the Special ammo meter to ensure your big damage dealers in your loadout stay well stocked on ammo. Kinetic Tremors is also a great choice in the final perk slot, being easy to activate due to the high rate of fire that Gunburn carries.",
+            "hash": 3431536253,
+            "name": "PVE",
+            "plugs": [
+                [
+                    1570399071,
+                    1661646271
+                ],
+                [
+                    243981275,
+                    984655331
+                ],
+                [
+                    3988215619,
+                    54024075
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "MW: Accuracy. Hushed Whisper is only really good when you’re utilising Tear, and so we want to play into that as much as possible. For the Barrel and Magazine, we’ve gone for Polymer String and Compact Arrow Shaft to boost Accuracy and Draw Time respectively, so you can keep Tear up easily. In the first perk column, Tear is the main option here. Otherwise, there’s not really much here that feels important enough for PvE, at least to warrant using it over other PvE bows. In the second column, Explosive Head is the go-to. For a Strand bow, Hatchling seems like it would be the first pick, but Threadlings are still underwhelming (even with their buffs). For pure damage Aggregate Charge is decent but requires setup, whereas Explosive Head is just going to help you in your clearing and make the bow pack a bit more of a punch.",
+            "hash": 1175295126,
+            "name": "PVE",
+            "plugs": [
+                [
+                    852209214,
+                    3837163218
+                ],
+                [
+                    16392701,
+                    2732340361
+                ],
+                [
+                    960997401,
+                    3244229373
+                ],
+                [
+                    831391274,
+                    102912326,
+                    3365897133,
+                    1551736345
+                ],
+                [
+                    1050127423,
+                    501821599
+                ]
+            ],
+            "tags": [
+                "GodPVE",
+                "PVE"
+            ]
+        },
+        {
+            "description": "MW: Accuracy. Hushed Whisper is only really good when you’re utilising Tear, and so we want to play into that as much as possible. For the Barrel and Magazine, we’ve gone for Polymer String and Compact Arrow Shaft to boost Accuracy and Draw Time respectively, so you can keep Tear up easily. In the first perk column, Tear is the main option here. Otherwise, there’s not really much here that feels important enough for PvE, at least to warrant using it over other PvE bows. In the second column, Explosive Head is the go-to. For a Strand bow, Hatchling seems like it would be the first pick, but Threadlings are still underwhelming (even with their buffs). For pure damage Aggregate Charge is decent but requires setup, whereas Explosive Head is just going to help you in your clearing and make the bow pack a bit more of a punch.",
+            "hash": 1175295126,
+            "name": "PVE",
+            "plugs": [
+                [
+                    960997401,
+                    3244229373
+                ],
+                [
+                    831391274,
+                    102912326,
+                    3365897133,
+                    1551736345
+                ],
+                [
+                    1050127423,
+                    501821599
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "MW: Handling. To start off, Fluted Barrel combined with Tactical Mag is the ideal choice for our barrel and magazine perks. Fluted is standard for most PvE Special Weapons, and Tactical Mag will allow another four shots from Fourth Time’s The Charm. In perk slot one, we suggest Fourth Time’s The Charm, it is the only viable option in the first column and drastically improves the total damage of this weapon. For perk slot two, there is a bit of competition. Aggregate Charge is technically higher damage, but can be hard to activate on your own, so Precision Instrument is a strong alternative, but both are generally fine overall.",
+            "hash": 3328019216,
+            "name": "PVE",
+            "plugs": [
+                [
+                    1840239774,
+                    1124871858
+                ],
+                [
+                    106909392,
+                    1783397184
+                ],
+                [
+                    1354429876,
+                    848860060
+                ],
+                [
+                    3764420437,
+                    3192447905
+                ]
+            ],
+            "tags": [
+                "GodPVE",
+                "PVE"
+            ]
+        },
+        {
+            "description": "MW: Handling. To start off, Fluted Barrel combined with Tactical Mag is the ideal choice for our barrel and magazine perks. Fluted is standard for most PvE Special Weapons, and Tactical Mag will allow another four shots from Fourth Time’s The Charm. In perk slot one, we suggest Fourth Time’s The Charm, it is the only viable option in the first column and drastically improves the total damage of this weapon. For perk slot two, there is a bit of competition. Aggregate Charge is technically higher damage, but can be hard to activate on your own, so Precision Instrument is a strong alternative, but both are generally fine overall.",
+            "hash": 3328019216,
+            "name": "PVE",
+            "plugs": [
+                [
+                    1354429876,
+                    848860060
+                ],
+                [
+                    3764420437,
+                    3192447905
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
         }
     ]
 }
