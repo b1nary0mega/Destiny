@@ -8376,6 +8376,62 @@ dimwishlist:item=3483485727&perks=3563868667,3744057135,3988215619
 dimwishlist:item=3487253372&perks=3666208348,599007201,2590710093,290014589
 
 
+// Submersion - PVE (god-pve,pve)
+//notes: With a good base velocity and very low base persistence, its clear Empowered Rail is our best choice out of the bunch. Higher persistence means you have more time to collect your bolts, which is a boon if you are being overwhelmed. Your bolt choice comes down to whether you are going for the freeze + pull combo, or want to have it as a DPS weapon that can lay down some DoT. For Perk 1, Bolt Scavenger or Ensemble are your best choices. Bolt Scavenger helps when running Chill Clip, allowing much faster re-procs of the perk, and Ensemble helps during DPS phases by shortening your reload. Perk 2 will either be Chill Clip for the very high uptime or Firing Line/Aggregate Charge if you want to lean more into a DPS roll. tags:god-pve,pve
+dimwishlist:item=3524386983&perks=4196967425,1069117426,4042220767,2978966579
+dimwishlist:item=3524386983&perks=4196967425,1069117426,4042220767,344235611
+dimwishlist:item=3524386983&perks=4196967425,1069117426,883665727,2978966579
+dimwishlist:item=3524386983&perks=4196967425,1069117426,883665727,344235611
+dimwishlist:item=3524386983&perks=4196967425,2552577806,4042220767,2978966579
+dimwishlist:item=3524386983&perks=4196967425,2552577806,4042220767,344235611
+dimwishlist:item=3524386983&perks=4196967425,2552577806,883665727,2978966579
+dimwishlist:item=3524386983&perks=4196967425,2552577806,883665727,344235611
+dimwishlist:item=3524386983&perks=2398680997,1069117426,4042220767,2978966579
+dimwishlist:item=3524386983&perks=2398680997,1069117426,4042220767,344235611
+dimwishlist:item=3524386983&perks=2398680997,1069117426,883665727,2978966579
+dimwishlist:item=3524386983&perks=2398680997,1069117426,883665727,344235611
+dimwishlist:item=3524386983&perks=2398680997,2552577806,4042220767,2978966579
+dimwishlist:item=3524386983&perks=2398680997,2552577806,4042220767,344235611
+dimwishlist:item=3524386983&perks=2398680997,2552577806,883665727,2978966579
+dimwishlist:item=3524386983&perks=2398680997,2552577806,883665727,344235611
+
+
+// Submersion - PVE-DPS (god-pve,pve)
+//notes: DPS. With a good base velocity and very low base persistence, its clear Empowered Rail is our best choice out of the bunch. Higher persistence means you have more time to collect your bolts, which is a boon if you are being overwhelmed. Your bolt choice comes down to whether you are going for the freeze + pull combo, or want to have it as a DPS weapon that can lay down some DoT. For Perk 1, Bolt Scavenger or Ensemble are your best choices. Bolt Scavenger helps when running Chill Clip, allowing much faster re-procs of the perk, and Ensemble helps during DPS phases by shortening your reload. Perk 2 will either be Chill Clip for the very high uptime or Firing Line/Aggregate Charge if you want to lean more into a DPS roll. tags:god-pve,pve
+dimwishlist:item=3524386983&perks=4196967425,2955427634,2621346526,1771339417
+dimwishlist:item=3524386983&perks=4196967425,2955427634,2621346526,395388285
+dimwishlist:item=3524386983&perks=4196967425,2955427634,2495011826,1771339417
+dimwishlist:item=3524386983&perks=4196967425,2955427634,2495011826,395388285
+dimwishlist:item=3524386983&perks=4196967425,2783367502,2621346526,1771339417
+dimwishlist:item=3524386983&perks=4196967425,2783367502,2621346526,395388285
+dimwishlist:item=3524386983&perks=4196967425,2783367502,2495011826,1771339417
+dimwishlist:item=3524386983&perks=4196967425,2783367502,2495011826,395388285
+dimwishlist:item=3524386983&perks=2398680997,2955427634,2621346526,1771339417
+dimwishlist:item=3524386983&perks=2398680997,2955427634,2621346526,395388285
+dimwishlist:item=3524386983&perks=2398680997,2955427634,2495011826,1771339417
+dimwishlist:item=3524386983&perks=2398680997,2955427634,2495011826,395388285
+dimwishlist:item=3524386983&perks=2398680997,2783367502,2621346526,1771339417
+dimwishlist:item=3524386983&perks=2398680997,2783367502,2621346526,395388285
+dimwishlist:item=3524386983&perks=2398680997,2783367502,2495011826,1771339417
+dimwishlist:item=3524386983&perks=2398680997,2783367502,2495011826,395388285
+
+
+// Submersion - PVE (pve)
+//notes: With a good base velocity and very low base persistence, its clear Empowered Rail is our best choice out of the bunch. Higher persistence means you have more time to collect your bolts, which is a boon if you are being overwhelmed. Your bolt choice comes down to whether you are going for the freeze + pull combo, or want to have it as a DPS weapon that can lay down some DoT. For Perk 1, Bolt Scavenger or Ensemble are your best choices. Bolt Scavenger helps when running Chill Clip, allowing much faster re-procs of the perk, and Ensemble helps during DPS phases by shortening your reload. Perk 2 will either be Chill Clip for the very high uptime or Firing Line/Aggregate Charge if you want to lean more into a DPS roll. tags:pve
+dimwishlist:item=3524386983&perks=4042220767,2978966579
+dimwishlist:item=3524386983&perks=4042220767,344235611
+dimwishlist:item=3524386983&perks=883665727,2978966579
+dimwishlist:item=3524386983&perks=883665727,344235611
+
+
+// Submersion - PVE-DPS (pve)
+//notes: DPS. With a good base velocity and very low base persistence, its clear Empowered Rail is our best choice out of the bunch. Higher persistence means you have more time to collect your bolts, which is a boon if you are being overwhelmed. Your bolt choice comes down to whether you are going for the freeze + pull combo, or want to have it as a DPS weapon that can lay down some DoT. For Perk 1, Bolt Scavenger or Ensemble are your best choices. Bolt Scavenger helps when running Chill Clip, allowing much faster re-procs of the perk, and Ensemble helps during DPS phases by shortening your reload. Perk 2 will either be Chill Clip for the very high uptime or Firing Line/Aggregate Charge if you want to lean more into a DPS roll. tags:pve
+dimwishlist:item=3524386983&perks=2621346526,1771339417
+dimwishlist:item=3524386983&perks=2621346526,395388285
+dimwishlist:item=3524386983&perks=2495011826,1771339417
+dimwishlist:item=3524386983&perks=2495011826,395388285
+
+
 // Legend of Acrius - DPS (god-pve)
 //notes: Get the catalyst or forget it. Also, make sure to utilize manual reload between shots. This is a more advanced weapon for DPS. Make sure you're getting your melee hit in between every 3 shots; Dexterity mods are good. tags:god-pve
 dimwishlist:item=3580904580&perks=202670084,3142289711,1650852150,4259401308
