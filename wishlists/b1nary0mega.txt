@@ -3938,6 +3938,34 @@ dimwishlist:item=1762785663&perks=183938251,3673922083
 dimwishlist:item=1762785663&perks=183938251,2889515627
 
 
+// A Distant Pull - PVE (god-pve,pve)
+//notes: tags:god-pve,pve
+dimwishlist:item=1769847435&perks=1840239774,106909392,3400784728,64866129,2053642371
+dimwishlist:item=1769847435&perks=1840239774,106909392,3400784728,3038247973,2053642371
+dimwishlist:item=1769847435&perks=1840239774,106909392,573122728,64866129,2053642371
+dimwishlist:item=1769847435&perks=1840239774,106909392,573122728,3038247973,2053642371
+dimwishlist:item=1769847435&perks=1840239774,1783397184,3400784728,64866129,2053642371
+dimwishlist:item=1769847435&perks=1840239774,1783397184,3400784728,3038247973,2053642371
+dimwishlist:item=1769847435&perks=1840239774,1783397184,573122728,64866129,2053642371
+dimwishlist:item=1769847435&perks=1840239774,1783397184,573122728,3038247973,2053642371
+dimwishlist:item=1769847435&perks=1124871858,106909392,3400784728,64866129,2053642371
+dimwishlist:item=1769847435&perks=1124871858,106909392,3400784728,3038247973,2053642371
+dimwishlist:item=1769847435&perks=1124871858,106909392,573122728,64866129,2053642371
+dimwishlist:item=1769847435&perks=1124871858,106909392,573122728,3038247973,2053642371
+dimwishlist:item=1769847435&perks=1124871858,1783397184,3400784728,64866129,2053642371
+dimwishlist:item=1769847435&perks=1124871858,1783397184,3400784728,3038247973,2053642371
+dimwishlist:item=1769847435&perks=1124871858,1783397184,573122728,64866129,2053642371
+dimwishlist:item=1769847435&perks=1124871858,1783397184,573122728,3038247973,2053642371
+
+
+// A Distant Pull - PVE (pve)
+//notes: tags:pve
+dimwishlist:item=1769847435&perks=3400784728,64866129
+dimwishlist:item=1769847435&perks=3400784728,3038247973
+dimwishlist:item=1769847435&perks=573122728,64866129
+dimwishlist:item=1769847435&perks=573122728,3038247973
+
+
 // No Hesitation - PVE (god-pve)
 //notes: PVE; MW: Reload or Range; Physic and Circle of Life are two unique perks that only appear on support frames and interact with the effects described above. The former ensures that you receive Restoration when you grant an ally Restoration, while the latter improves the support frame boost aspect, making it last far longer. Both are strong, but Physic stands out as the top choice in column three. The enhanced version of the perk, available on a crafted No Hesitation, will give Restoration x2, making you basically invulnerable to all but the heaviest sustained damage. Otherwise Demolitionist and Overflow are both useful just for ensuring you can keep firing as long as possible without stopping to reload. In the fourth column there is the aforementioned Circle of Life and also the reliably good Incandescent, which interacts well with Solar subclasses. There is also a surprising niche choice: Attrition Orbs. This generally bad perk creates orbs when damaging an enemy, which is nice, but they usually pop out of that enemy's head, which is bad as you don't really want to have to run over there and collect them. On a support frame, though, it also periodically creates orbs when healing allies, making the perk much more useful. tags:god-pve
 dimwishlist:item=1801007332&perks=1840239774,106909392,2980589453,2298656195
