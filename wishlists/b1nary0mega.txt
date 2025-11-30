@@ -6881,6 +6881,54 @@ dimwishlist:item=2715240478&perks=1428297954,1799762209
 dimwishlist:item=2715240478&perks=1428297954,438098033
 
 
+// Folded Root - PVE (god-pve,pve)
+//notes: MW: Reload. Folded Root is an Aggressive Void Rocket Launcher, which is generally the strongest kind of rocket for damage. While Folded Root may not be a traditional DPS option, having high damage is always a good thing. Folded Root is essentially the Void version of Braytech Osprey, offering similar perks like Cluster Bomb and Bipod, as well as other options such as Air Trigger, Chain Reaction, and Multikill Clip (which obviously is not good). While this rocket may be one of the best for clearing minors and elites, it suffers from not having any damage options, which is the primary use of Rocket Launchers right now. Considering how other Aggressive Rockets, like Hezen Vengeance, have both damage and ad-clear options, it’s hard to sincerely recommend Folded Root. Folded Root is B-Tier for PvE and D-tier for PvP. tags:god-pve,pve
+dimwishlist:item=2725894221&perks=3525010810,2985827016,1275731761,2396489472,3911709647
+dimwishlist:item=2725894221&perks=3525010810,2985827016,1275731761,2396489472,483923727
+dimwishlist:item=2725894221&perks=3525010810,2985827016,1275731761,598607952,3911709647
+dimwishlist:item=2725894221&perks=3525010810,2985827016,1275731761,598607952,483923727
+dimwishlist:item=2725894221&perks=3525010810,2985827016,2091001077,2396489472,3911709647
+dimwishlist:item=2725894221&perks=3525010810,2985827016,2091001077,2396489472,483923727
+dimwishlist:item=2725894221&perks=3525010810,2985827016,2091001077,598607952,3911709647
+dimwishlist:item=2725894221&perks=3525010810,2985827016,2091001077,598607952,483923727
+dimwishlist:item=2725894221&perks=3525010810,1439751480,1275731761,2396489472,3911709647
+dimwishlist:item=2725894221&perks=3525010810,1439751480,1275731761,2396489472,483923727
+dimwishlist:item=2725894221&perks=3525010810,1439751480,1275731761,598607952,3911709647
+dimwishlist:item=2725894221&perks=3525010810,1439751480,1275731761,598607952,483923727
+dimwishlist:item=2725894221&perks=3525010810,1439751480,2091001077,2396489472,3911709647
+dimwishlist:item=2725894221&perks=3525010810,1439751480,2091001077,2396489472,483923727
+dimwishlist:item=2725894221&perks=3525010810,1439751480,2091001077,598607952,3911709647
+dimwishlist:item=2725894221&perks=3525010810,1439751480,2091001077,598607952,483923727
+dimwishlist:item=2725894221&perks=3250572790,2985827016,1275731761,2396489472,3911709647
+dimwishlist:item=2725894221&perks=3250572790,2985827016,1275731761,2396489472,483923727
+dimwishlist:item=2725894221&perks=3250572790,2985827016,1275731761,598607952,3911709647
+dimwishlist:item=2725894221&perks=3250572790,2985827016,1275731761,598607952,483923727
+dimwishlist:item=2725894221&perks=3250572790,2985827016,2091001077,2396489472,3911709647
+dimwishlist:item=2725894221&perks=3250572790,2985827016,2091001077,2396489472,483923727
+dimwishlist:item=2725894221&perks=3250572790,2985827016,2091001077,598607952,3911709647
+dimwishlist:item=2725894221&perks=3250572790,2985827016,2091001077,598607952,483923727
+dimwishlist:item=2725894221&perks=3250572790,1439751480,1275731761,2396489472,3911709647
+dimwishlist:item=2725894221&perks=3250572790,1439751480,1275731761,2396489472,483923727
+dimwishlist:item=2725894221&perks=3250572790,1439751480,1275731761,598607952,3911709647
+dimwishlist:item=2725894221&perks=3250572790,1439751480,1275731761,598607952,483923727
+dimwishlist:item=2725894221&perks=3250572790,1439751480,2091001077,2396489472,3911709647
+dimwishlist:item=2725894221&perks=3250572790,1439751480,2091001077,2396489472,483923727
+dimwishlist:item=2725894221&perks=3250572790,1439751480,2091001077,598607952,3911709647
+dimwishlist:item=2725894221&perks=3250572790,1439751480,2091001077,598607952,483923727
+
+
+// Folded Root - PVE (pve)
+//notes: MW: Reload. Folded Root is an Aggressive Void Rocket Launcher, which is generally the strongest kind of rocket for damage. While Folded Root may not be a traditional DPS option, having high damage is always a good thing. Folded Root is essentially the Void version of Braytech Osprey, offering similar perks like Cluster Bomb and Bipod, as well as other options such as Air Trigger, Chain Reaction, and Multikill Clip (which obviously is not good). While this rocket may be one of the best for clearing minors and elites, it suffers from not having any damage options, which is the primary use of Rocket Launchers right now. Considering how other Aggressive Rockets, like Hezen Vengeance, have both damage and ad-clear options, it’s hard to sincerely recommend Folded Root. Folded Root is B-Tier for PvE and D-tier for PvP. tags:pve
+dimwishlist:item=2725894221&perks=1275731761,2396489472,3911709647
+dimwishlist:item=2725894221&perks=1275731761,2396489472,483923727
+dimwishlist:item=2725894221&perks=1275731761,598607952,3911709647
+dimwishlist:item=2725894221&perks=1275731761,598607952,483923727
+dimwishlist:item=2725894221&perks=2091001077,2396489472,3911709647
+dimwishlist:item=2725894221&perks=2091001077,2396489472,483923727
+dimwishlist:item=2725894221&perks=2091001077,598607952,3911709647
+dimwishlist:item=2725894221&perks=2091001077,598607952,483923727
+
+
 // Glacioclasm - PVE (god-pve)
 //notes: MW: Charge Time; Glacioclasm has so much going for it in PvE, to the point where there are around 5 or 6 excellent perk combinations you can go for.  Handling is the name of the game on Special Weapons inside of PvE. Having the fluidity to swap to your Fusion Rifle during a DPS phase or to burst down a tanky target quickly is crucial, so Fluted Barrel is our favorite. The battery doesn’t matter much, but Enhanced Battery simply bumps the magazine size up +1, which is always handy. Overflow and Controlled Burst provide incredible damage, as you’ll be able to dump a ton of ammo into the boss. Reservoir Burst can be paired with Overflow or Slideshot; both work excellently and allow you to get full value out of Reservoir Burst. However, Slideshot will require you to slide constantly to retain the damage bonus. tags:god-pve
 dimwishlist:item=2728851518&perks=1840239774,2680121939,3161816588,2594592626
@@ -8404,6 +8452,54 @@ dimwishlist:item=3483485727&perks=3563868667,3744057135,3988215619
 dimwishlist:item=3487253372&perks=3666208348,599007201,2590710093,290014589
 
 
+// Phoneutria Fera - PVE (god-pve,pve)
+//notes: MW: Handling. Phoneutria Fera is one of the most powerful primaries we have. The spread-shot nature, coupled with the hand cannon’s intrinsic high damage per shot, means this tears through all manner of foes with little resistance. And the perk pool really lets it excel in its niche, with things like Threat Detector helping its rather abysmal reload speed and Surrounded to really let it chunk. It also has an amazing origin trait in Tenacity. This increases damage when getting final blows while surrounded, and lasts until you perish, though exact numbers are to be confirmed. Phoneutria Fera is A-Tier for PvE and A-Tier for PvP. tags:god-pve,pve
+dimwishlist:item=3496887154&perks=1840239774,1087426260,4071163871,3708227201,3911709647
+dimwishlist:item=3496887154&perks=1840239774,1087426260,4071163871,3708227201,483923727
+dimwishlist:item=3496887154&perks=1840239774,1087426260,4071163871,781192741,3911709647
+dimwishlist:item=3496887154&perks=1840239774,1087426260,4071163871,781192741,483923727
+dimwishlist:item=3496887154&perks=1840239774,1087426260,2476672792,3708227201,3911709647
+dimwishlist:item=3496887154&perks=1840239774,1087426260,2476672792,3708227201,483923727
+dimwishlist:item=3496887154&perks=1840239774,1087426260,2476672792,781192741,3911709647
+dimwishlist:item=3496887154&perks=1840239774,1087426260,2476672792,781192741,483923727
+dimwishlist:item=3496887154&perks=1840239774,1065371964,4071163871,3708227201,3911709647
+dimwishlist:item=3496887154&perks=1840239774,1065371964,4071163871,3708227201,483923727
+dimwishlist:item=3496887154&perks=1840239774,1065371964,4071163871,781192741,3911709647
+dimwishlist:item=3496887154&perks=1840239774,1065371964,4071163871,781192741,483923727
+dimwishlist:item=3496887154&perks=1840239774,1065371964,2476672792,3708227201,3911709647
+dimwishlist:item=3496887154&perks=1840239774,1065371964,2476672792,3708227201,483923727
+dimwishlist:item=3496887154&perks=1840239774,1065371964,2476672792,781192741,3911709647
+dimwishlist:item=3496887154&perks=1840239774,1065371964,2476672792,781192741,483923727
+dimwishlist:item=3496887154&perks=1124871858,1087426260,4071163871,3708227201,3911709647
+dimwishlist:item=3496887154&perks=1124871858,1087426260,4071163871,3708227201,483923727
+dimwishlist:item=3496887154&perks=1124871858,1087426260,4071163871,781192741,3911709647
+dimwishlist:item=3496887154&perks=1124871858,1087426260,4071163871,781192741,483923727
+dimwishlist:item=3496887154&perks=1124871858,1087426260,2476672792,3708227201,3911709647
+dimwishlist:item=3496887154&perks=1124871858,1087426260,2476672792,3708227201,483923727
+dimwishlist:item=3496887154&perks=1124871858,1087426260,2476672792,781192741,3911709647
+dimwishlist:item=3496887154&perks=1124871858,1087426260,2476672792,781192741,483923727
+dimwishlist:item=3496887154&perks=1124871858,1065371964,4071163871,3708227201,3911709647
+dimwishlist:item=3496887154&perks=1124871858,1065371964,4071163871,3708227201,483923727
+dimwishlist:item=3496887154&perks=1124871858,1065371964,4071163871,781192741,3911709647
+dimwishlist:item=3496887154&perks=1124871858,1065371964,4071163871,781192741,483923727
+dimwishlist:item=3496887154&perks=1124871858,1065371964,2476672792,3708227201,3911709647
+dimwishlist:item=3496887154&perks=1124871858,1065371964,2476672792,3708227201,483923727
+dimwishlist:item=3496887154&perks=1124871858,1065371964,2476672792,781192741,3911709647
+dimwishlist:item=3496887154&perks=1124871858,1065371964,2476672792,781192741,483923727
+
+
+// Phoneutria Fera - PVE (god-pve,pve)
+//notes: MW: Handling. Phoneutria Fera is one of the most powerful primaries we have. The spread-shot nature, coupled with the hand cannon’s intrinsic high damage per shot, means this tears through all manner of foes with little resistance. And the perk pool really lets it excel in its niche, with things like Threat Detector helping its rather abysmal reload speed and Surrounded to really let it chunk. It also has an amazing origin trait in Tenacity. This increases damage when getting final blows while surrounded, and lasts until you perish, though exact numbers are to be confirmed. Phoneutria Fera is A-Tier for PvE and A-Tier for PvP. tags:god-pve,pve
+dimwishlist:item=3496887154&perks=4071163871,3708227201,3911709647
+dimwishlist:item=3496887154&perks=4071163871,3708227201,483923727
+dimwishlist:item=3496887154&perks=4071163871,781192741,3911709647
+dimwishlist:item=3496887154&perks=4071163871,781192741,483923727
+dimwishlist:item=3496887154&perks=2476672792,3708227201,3911709647
+dimwishlist:item=3496887154&perks=2476672792,3708227201,483923727
+dimwishlist:item=3496887154&perks=2476672792,781192741,3911709647
+dimwishlist:item=3496887154&perks=2476672792,781192741,483923727
+
+
 // Submersion - PVE (god-pve,pve)
 //notes: With a good base velocity and very low base persistence, its clear Empowered Rail is our best choice out of the bunch. Higher persistence means you have more time to collect your bolts, which is a boon if you are being overwhelmed. Your bolt choice comes down to whether you are going for the freeze + pull combo, or want to have it as a DPS weapon that can lay down some DoT. For Perk 1, Bolt Scavenger or Ensemble are your best choices. Bolt Scavenger helps when running Chill Clip, allowing much faster re-procs of the perk, and Ensemble helps during DPS phases by shortening your reload. Perk 2 will either be Chill Clip for the very high uptime or Firing Line/Aggregate Charge if you want to lean more into a DPS roll. tags:god-pve,pve
 dimwishlist:item=3524386983&perks=4196967425,1069117426,4042220767,2978966579
@@ -8458,6 +8554,94 @@ dimwishlist:item=3524386983&perks=2621346526,1771339417
 dimwishlist:item=3524386983&perks=2621346526,395388285
 dimwishlist:item=3524386983&perks=2495011826,1771339417
 dimwishlist:item=3524386983&perks=2495011826,395388285
+
+
+// Ribbontail - PVE (god-pve,pve)
+//notes: MW: Handling. Off first impressions, Ribbontail isn’t the strongest trace rifle we’ve gotten, even while solely looking at its competition in the kinetic slot. In PvE, trace rifles are typically used as a utility weapon in double special loadouts. Shoot to Loot is among one of the most popular perks here, and sadly, it’s something Ribbontail is sorely lacking. In reality, you’re fighting with an abysmal majority of perks here, making Ribbontail not worth farming. tags:god-pve,pve
+dimwishlist:item=3576134513&perks=1840239774,2749775325,1820235745,4198902903,3911709647
+dimwishlist:item=3576134513&perks=1840239774,2749775325,1820235745,4198902903,483923727
+dimwishlist:item=3576134513&perks=1840239774,2749775325,1820235745,557221067,3911709647
+dimwishlist:item=3576134513&perks=1840239774,2749775325,1820235745,557221067,483923727
+dimwishlist:item=3576134513&perks=1840239774,2749775325,1820235745,222783511,3911709647
+dimwishlist:item=3576134513&perks=1840239774,2749775325,1820235745,222783511,483923727
+dimwishlist:item=3576134513&perks=1840239774,2749775325,1820235745,2896748467,3911709647
+dimwishlist:item=3576134513&perks=1840239774,2749775325,1820235745,2896748467,483923727
+dimwishlist:item=3576134513&perks=1840239774,2749775325,4245865861,4198902903,3911709647
+dimwishlist:item=3576134513&perks=1840239774,2749775325,4245865861,4198902903,483923727
+dimwishlist:item=3576134513&perks=1840239774,2749775325,4245865861,557221067,3911709647
+dimwishlist:item=3576134513&perks=1840239774,2749775325,4245865861,557221067,483923727
+dimwishlist:item=3576134513&perks=1840239774,2749775325,4245865861,222783511,3911709647
+dimwishlist:item=3576134513&perks=1840239774,2749775325,4245865861,222783511,483923727
+dimwishlist:item=3576134513&perks=1840239774,2749775325,4245865861,2896748467,3911709647
+dimwishlist:item=3576134513&perks=1840239774,2749775325,4245865861,2896748467,483923727
+dimwishlist:item=3576134513&perks=1840239774,2073750249,1820235745,4198902903,3911709647
+dimwishlist:item=3576134513&perks=1840239774,2073750249,1820235745,4198902903,483923727
+dimwishlist:item=3576134513&perks=1840239774,2073750249,1820235745,557221067,3911709647
+dimwishlist:item=3576134513&perks=1840239774,2073750249,1820235745,557221067,483923727
+dimwishlist:item=3576134513&perks=1840239774,2073750249,1820235745,222783511,3911709647
+dimwishlist:item=3576134513&perks=1840239774,2073750249,1820235745,222783511,483923727
+dimwishlist:item=3576134513&perks=1840239774,2073750249,1820235745,2896748467,3911709647
+dimwishlist:item=3576134513&perks=1840239774,2073750249,1820235745,2896748467,483923727
+dimwishlist:item=3576134513&perks=1840239774,2073750249,4245865861,4198902903,3911709647
+dimwishlist:item=3576134513&perks=1840239774,2073750249,4245865861,4198902903,483923727
+dimwishlist:item=3576134513&perks=1840239774,2073750249,4245865861,557221067,3911709647
+dimwishlist:item=3576134513&perks=1840239774,2073750249,4245865861,557221067,483923727
+dimwishlist:item=3576134513&perks=1840239774,2073750249,4245865861,222783511,3911709647
+dimwishlist:item=3576134513&perks=1840239774,2073750249,4245865861,222783511,483923727
+dimwishlist:item=3576134513&perks=1840239774,2073750249,4245865861,2896748467,3911709647
+dimwishlist:item=3576134513&perks=1840239774,2073750249,4245865861,2896748467,483923727
+dimwishlist:item=3576134513&perks=1124871858,2749775325,1820235745,4198902903,3911709647
+dimwishlist:item=3576134513&perks=1124871858,2749775325,1820235745,4198902903,483923727
+dimwishlist:item=3576134513&perks=1124871858,2749775325,1820235745,557221067,3911709647
+dimwishlist:item=3576134513&perks=1124871858,2749775325,1820235745,557221067,483923727
+dimwishlist:item=3576134513&perks=1124871858,2749775325,1820235745,222783511,3911709647
+dimwishlist:item=3576134513&perks=1124871858,2749775325,1820235745,222783511,483923727
+dimwishlist:item=3576134513&perks=1124871858,2749775325,1820235745,2896748467,3911709647
+dimwishlist:item=3576134513&perks=1124871858,2749775325,1820235745,2896748467,483923727
+dimwishlist:item=3576134513&perks=1124871858,2749775325,4245865861,4198902903,3911709647
+dimwishlist:item=3576134513&perks=1124871858,2749775325,4245865861,4198902903,483923727
+dimwishlist:item=3576134513&perks=1124871858,2749775325,4245865861,557221067,3911709647
+dimwishlist:item=3576134513&perks=1124871858,2749775325,4245865861,557221067,483923727
+dimwishlist:item=3576134513&perks=1124871858,2749775325,4245865861,222783511,3911709647
+dimwishlist:item=3576134513&perks=1124871858,2749775325,4245865861,222783511,483923727
+dimwishlist:item=3576134513&perks=1124871858,2749775325,4245865861,2896748467,3911709647
+dimwishlist:item=3576134513&perks=1124871858,2749775325,4245865861,2896748467,483923727
+dimwishlist:item=3576134513&perks=1124871858,2073750249,1820235745,4198902903,3911709647
+dimwishlist:item=3576134513&perks=1124871858,2073750249,1820235745,4198902903,483923727
+dimwishlist:item=3576134513&perks=1124871858,2073750249,1820235745,557221067,3911709647
+dimwishlist:item=3576134513&perks=1124871858,2073750249,1820235745,557221067,483923727
+dimwishlist:item=3576134513&perks=1124871858,2073750249,1820235745,222783511,3911709647
+dimwishlist:item=3576134513&perks=1124871858,2073750249,1820235745,222783511,483923727
+dimwishlist:item=3576134513&perks=1124871858,2073750249,1820235745,2896748467,3911709647
+dimwishlist:item=3576134513&perks=1124871858,2073750249,1820235745,2896748467,483923727
+dimwishlist:item=3576134513&perks=1124871858,2073750249,4245865861,4198902903,3911709647
+dimwishlist:item=3576134513&perks=1124871858,2073750249,4245865861,4198902903,483923727
+dimwishlist:item=3576134513&perks=1124871858,2073750249,4245865861,557221067,3911709647
+dimwishlist:item=3576134513&perks=1124871858,2073750249,4245865861,557221067,483923727
+dimwishlist:item=3576134513&perks=1124871858,2073750249,4245865861,222783511,3911709647
+dimwishlist:item=3576134513&perks=1124871858,2073750249,4245865861,222783511,483923727
+dimwishlist:item=3576134513&perks=1124871858,2073750249,4245865861,2896748467,3911709647
+dimwishlist:item=3576134513&perks=1124871858,2073750249,4245865861,2896748467,483923727
+
+
+// Ribbontail - PVE (pve)
+//notes: MW: Handling. Off first impressions, Ribbontail isn’t the strongest trace rifle we’ve gotten, even while solely looking at its competition in the kinetic slot. In PvE, trace rifles are typically used as a utility weapon in double special loadouts. Shoot to Loot is among one of the most popular perks here, and sadly, it’s something Ribbontail is sorely lacking. In reality, you’re fighting with an abysmal majority of perks here, making Ribbontail not worth farming. tags:pve
+dimwishlist:item=3576134513&perks=1820235745,4198902903,3911709647
+dimwishlist:item=3576134513&perks=1820235745,4198902903,483923727
+dimwishlist:item=3576134513&perks=1820235745,557221067,3911709647
+dimwishlist:item=3576134513&perks=1820235745,557221067,483923727
+dimwishlist:item=3576134513&perks=1820235745,222783511,3911709647
+dimwishlist:item=3576134513&perks=1820235745,222783511,483923727
+dimwishlist:item=3576134513&perks=1820235745,2896748467,3911709647
+dimwishlist:item=3576134513&perks=1820235745,2896748467,483923727
+dimwishlist:item=3576134513&perks=4245865861,4198902903,3911709647
+dimwishlist:item=3576134513&perks=4245865861,4198902903,483923727
+dimwishlist:item=3576134513&perks=4245865861,557221067,3911709647
+dimwishlist:item=3576134513&perks=4245865861,557221067,483923727
+dimwishlist:item=3576134513&perks=4245865861,222783511,3911709647
+dimwishlist:item=3576134513&perks=4245865861,222783511,483923727
+dimwishlist:item=3576134513&perks=4245865861,2896748467,3911709647
+dimwishlist:item=3576134513&perks=4245865861,2896748467,483923727
 
 
 // Legend of Acrius - DPS (god-pve)
@@ -11071,6 +11255,102 @@ dimwishlist:item=4146673634&perks=2817499044,3078487919,3454102905
 dimwishlist:item=4146673634&perks=2817499044,3078487919,2223800157
 dimwishlist:item=4146673634&perks=2817499044,3744057135,3454102905
 dimwishlist:item=4146673634&perks=2817499044,3744057135,2223800157
+
+
+// Romantic Death - PVE-void (god-pve,pve)
+//notes: MW: ReloadThis god roll focuses on how to get the best out of its Void identity, but feeding into the ‘also good’ section of its perks will still produce fantastic results. Repulsor Brace and Destabilizing Rounds are the ultimate Void combo. Defeating targets causes a Void burst, which makes surrounding enemies Volatile. Defeating those enemies or any with a Void debuff will then grant an overshield to your Guardian. This gameplay loop and how powerful this weapon is will tear through enemies with ease, and if any manage to land a shot, the overshield will keep the user safe during a dangerous encounter. The combination of Stats for All and One for All also brings great benefits. Stats for All will push the Handling and Reload Speed to 100 with One for All, which brings a 35% damage buff; it can clear entire fields with just a few shots. tags:god-pve,pve
+dimwishlist:item=4169082039&perks=3525010810,2822142346,776531651,2048641572,3911709647
+dimwishlist:item=4169082039&perks=3525010810,2822142346,776531651,2048641572,483923727
+dimwishlist:item=4169082039&perks=3525010810,2822142346,776531651,1926441324,3911709647
+dimwishlist:item=4169082039&perks=3525010810,2822142346,776531651,1926441324,483923727
+dimwishlist:item=4169082039&perks=3525010810,2822142346,2541826827,2048641572,3911709647
+dimwishlist:item=4169082039&perks=3525010810,2822142346,2541826827,2048641572,483923727
+dimwishlist:item=4169082039&perks=3525010810,2822142346,2541826827,1926441324,3911709647
+dimwishlist:item=4169082039&perks=3525010810,2822142346,2541826827,1926441324,483923727
+dimwishlist:item=4169082039&perks=3525010810,2108812838,776531651,2048641572,3911709647
+dimwishlist:item=4169082039&perks=3525010810,2108812838,776531651,2048641572,483923727
+dimwishlist:item=4169082039&perks=3525010810,2108812838,776531651,1926441324,3911709647
+dimwishlist:item=4169082039&perks=3525010810,2108812838,776531651,1926441324,483923727
+dimwishlist:item=4169082039&perks=3525010810,2108812838,2541826827,2048641572,3911709647
+dimwishlist:item=4169082039&perks=3525010810,2108812838,2541826827,2048641572,483923727
+dimwishlist:item=4169082039&perks=3525010810,2108812838,2541826827,1926441324,3911709647
+dimwishlist:item=4169082039&perks=3525010810,2108812838,2541826827,1926441324,483923727
+dimwishlist:item=4169082039&perks=3250572790,2822142346,776531651,2048641572,3911709647
+dimwishlist:item=4169082039&perks=3250572790,2822142346,776531651,2048641572,483923727
+dimwishlist:item=4169082039&perks=3250572790,2822142346,776531651,1926441324,3911709647
+dimwishlist:item=4169082039&perks=3250572790,2822142346,776531651,1926441324,483923727
+dimwishlist:item=4169082039&perks=3250572790,2822142346,2541826827,2048641572,3911709647
+dimwishlist:item=4169082039&perks=3250572790,2822142346,2541826827,2048641572,483923727
+dimwishlist:item=4169082039&perks=3250572790,2822142346,2541826827,1926441324,3911709647
+dimwishlist:item=4169082039&perks=3250572790,2822142346,2541826827,1926441324,483923727
+dimwishlist:item=4169082039&perks=3250572790,2108812838,776531651,2048641572,3911709647
+dimwishlist:item=4169082039&perks=3250572790,2108812838,776531651,2048641572,483923727
+dimwishlist:item=4169082039&perks=3250572790,2108812838,776531651,1926441324,3911709647
+dimwishlist:item=4169082039&perks=3250572790,2108812838,776531651,1926441324,483923727
+dimwishlist:item=4169082039&perks=3250572790,2108812838,2541826827,2048641572,3911709647
+dimwishlist:item=4169082039&perks=3250572790,2108812838,2541826827,2048641572,483923727
+dimwishlist:item=4169082039&perks=3250572790,2108812838,2541826827,1926441324,3911709647
+dimwishlist:item=4169082039&perks=3250572790,2108812838,2541826827,1926441324,483923727
+
+
+// Romantic Death - PVE-3Hit (god-pve,pve)
+//notes: MW: ReloadThis god roll focuses on how to get the best out of its Void identity, but feeding into the ‘also good’ section of its perks will still produce fantastic results. Repulsor Brace and Destabilizing Rounds are the ultimate Void combo. Defeating targets causes a Void burst, which makes surrounding enemies Volatile. Defeating those enemies or any with a Void debuff will then grant an overshield to your Guardian. This gameplay loop and how powerful this weapon is will tear through enemies with ease, and if any manage to land a shot, the overshield will keep the user safe during a dangerous encounter. The combination of Stats for All and One for All also brings great benefits. Stats for All will push the Handling and Reload Speed to 100 with One for All, which brings a 35% damage buff; it can clear entire fields with just a few shots. tags:god-pve,pve
+dimwishlist:item=4169082039&perks=3525010810,2822142346,1583705720,4049631843,3911709647
+dimwishlist:item=4169082039&perks=3525010810,2822142346,1583705720,4049631843,483923727
+dimwishlist:item=4169082039&perks=3525010810,2822142346,1583705720,859780267,3911709647
+dimwishlist:item=4169082039&perks=3525010810,2822142346,1583705720,859780267,483923727
+dimwishlist:item=4169082039&perks=3525010810,2822142346,1409206216,4049631843,3911709647
+dimwishlist:item=4169082039&perks=3525010810,2822142346,1409206216,4049631843,483923727
+dimwishlist:item=4169082039&perks=3525010810,2822142346,1409206216,859780267,3911709647
+dimwishlist:item=4169082039&perks=3525010810,2822142346,1409206216,859780267,483923727
+dimwishlist:item=4169082039&perks=3525010810,2108812838,1583705720,4049631843,3911709647
+dimwishlist:item=4169082039&perks=3525010810,2108812838,1583705720,4049631843,483923727
+dimwishlist:item=4169082039&perks=3525010810,2108812838,1583705720,859780267,3911709647
+dimwishlist:item=4169082039&perks=3525010810,2108812838,1583705720,859780267,483923727
+dimwishlist:item=4169082039&perks=3525010810,2108812838,1409206216,4049631843,3911709647
+dimwishlist:item=4169082039&perks=3525010810,2108812838,1409206216,4049631843,483923727
+dimwishlist:item=4169082039&perks=3525010810,2108812838,1409206216,859780267,3911709647
+dimwishlist:item=4169082039&perks=3525010810,2108812838,1409206216,859780267,483923727
+dimwishlist:item=4169082039&perks=3250572790,2822142346,1583705720,4049631843,3911709647
+dimwishlist:item=4169082039&perks=3250572790,2822142346,1583705720,4049631843,483923727
+dimwishlist:item=4169082039&perks=3250572790,2822142346,1583705720,859780267,3911709647
+dimwishlist:item=4169082039&perks=3250572790,2822142346,1583705720,859780267,483923727
+dimwishlist:item=4169082039&perks=3250572790,2822142346,1409206216,4049631843,3911709647
+dimwishlist:item=4169082039&perks=3250572790,2822142346,1409206216,4049631843,483923727
+dimwishlist:item=4169082039&perks=3250572790,2822142346,1409206216,859780267,3911709647
+dimwishlist:item=4169082039&perks=3250572790,2822142346,1409206216,859780267,483923727
+dimwishlist:item=4169082039&perks=3250572790,2108812838,1583705720,4049631843,3911709647
+dimwishlist:item=4169082039&perks=3250572790,2108812838,1583705720,4049631843,483923727
+dimwishlist:item=4169082039&perks=3250572790,2108812838,1583705720,859780267,3911709647
+dimwishlist:item=4169082039&perks=3250572790,2108812838,1583705720,859780267,483923727
+dimwishlist:item=4169082039&perks=3250572790,2108812838,1409206216,4049631843,3911709647
+dimwishlist:item=4169082039&perks=3250572790,2108812838,1409206216,4049631843,483923727
+dimwishlist:item=4169082039&perks=3250572790,2108812838,1409206216,859780267,3911709647
+dimwishlist:item=4169082039&perks=3250572790,2108812838,1409206216,859780267,483923727
+
+
+// Romantic Death - PVE-void (pve)
+//notes: MW: ReloadThis god roll focuses on how to get the best out of its Void identity, but feeding into the ‘also good’ section of its perks will still produce fantastic results. Repulsor Brace and Destabilizing Rounds are the ultimate Void combo. Defeating targets causes a Void burst, which makes surrounding enemies Volatile. Defeating those enemies or any with a Void debuff will then grant an overshield to your Guardian. This gameplay loop and how powerful this weapon is will tear through enemies with ease, and if any manage to land a shot, the overshield will keep the user safe during a dangerous encounter. The combination of Stats for All and One for All also brings great benefits. Stats for All will push the Handling and Reload Speed to 100 with One for All, which brings a 35% damage buff; it can clear entire fields with just a few shots. tags:pve
+dimwishlist:item=4169082039&perks=776531651,2048641572,3911709647
+dimwishlist:item=4169082039&perks=776531651,2048641572,483923727
+dimwishlist:item=4169082039&perks=776531651,1926441324,3911709647
+dimwishlist:item=4169082039&perks=776531651,1926441324,483923727
+dimwishlist:item=4169082039&perks=2541826827,2048641572,3911709647
+dimwishlist:item=4169082039&perks=2541826827,2048641572,483923727
+dimwishlist:item=4169082039&perks=2541826827,1926441324,3911709647
+dimwishlist:item=4169082039&perks=2541826827,1926441324,483923727
+
+
+// Romantic Death - PVE-3Hit (pve)
+//notes: MW: ReloadThis god roll focuses on how to get the best out of its Void identity, but feeding into the ‘also good’ section of its perks will still produce fantastic results. Repulsor Brace and Destabilizing Rounds are the ultimate Void combo. Defeating targets causes a Void burst, which makes surrounding enemies Volatile. Defeating those enemies or any with a Void debuff will then grant an overshield to your Guardian. This gameplay loop and how powerful this weapon is will tear through enemies with ease, and if any manage to land a shot, the overshield will keep the user safe during a dangerous encounter. The combination of Stats for All and One for All also brings great benefits. Stats for All will push the Handling and Reload Speed to 100 with One for All, which brings a 35% damage buff; it can clear entire fields with just a few shots. tags:pve
+dimwishlist:item=4169082039&perks=1583705720,4049631843,3911709647
+dimwishlist:item=4169082039&perks=1583705720,4049631843,483923727
+dimwishlist:item=4169082039&perks=1583705720,859780267,3911709647
+dimwishlist:item=4169082039&perks=1583705720,859780267,483923727
+dimwishlist:item=4169082039&perks=1409206216,4049631843,3911709647
+dimwishlist:item=4169082039&perks=1409206216,4049631843,483923727
+dimwishlist:item=4169082039&perks=1409206216,859780267,3911709647
+dimwishlist:item=4169082039&perks=1409206216,859780267,483923727
 
 
 // Compass Rose - PVP (god-pvp)
