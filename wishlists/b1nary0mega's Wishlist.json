@@ -1,5 +1,5 @@
 {
-    "description": "Personally curated lists of [Demi]God rolls and game staples. Mostly sourced from Blueberries, meta, and game testing.",
+    "description": "personally curated list of god rolls",
     "name": "b1nary0mega's Wishlist",
     "data": [
         {
@@ -17023,6 +17023,414 @@
                 ]
             ],
             "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "With a good base velocity and very low base persistence, its clear Empowered Rail is our best choice out of the bunch. Higher persistence means you have more time to collect your bolts, which is a boon if you are being overwhelmed. Your bolt choice comes down to whether you are going for the freeze + pull combo, or want to have it as a DPS weapon that can lay down some DoT. For Perk 1, Bolt Scavenger or Ensemble are your best choices. Bolt Scavenger helps when running Chill Clip, allowing much faster re-procs of the perk, and Ensemble helps during DPS phases by shortening your reload. Perk 2 will either be Chill Clip for the very high uptime or Firing Line/Aggregate Charge if you want to lean more into a DPS roll.",
+            "hash": 3524386983,
+            "name": "PVE",
+            "plugs": [
+                [
+                    4196967425,
+                    2398680997
+                ],
+                [
+                    1069117426,
+                    2552577806
+                ],
+                [
+                    4042220767,
+                    883665727
+                ],
+                [
+                    2978966579,
+                    344235611
+                ]
+            ],
+            "tags": [
+                "GodPVE",
+                "PVE"
+            ]
+        },
+        {
+            "description": "DPS. With a good base velocity and very low base persistence, its clear Empowered Rail is our best choice out of the bunch. Higher persistence means you have more time to collect your bolts, which is a boon if you are being overwhelmed. Your bolt choice comes down to whether you are going for the freeze + pull combo, or want to have it as a DPS weapon that can lay down some DoT. For Perk 1, Bolt Scavenger or Ensemble are your best choices. Bolt Scavenger helps when running Chill Clip, allowing much faster re-procs of the perk, and Ensemble helps during DPS phases by shortening your reload. Perk 2 will either be Chill Clip for the very high uptime or Firing Line/Aggregate Charge if you want to lean more into a DPS roll.",
+            "hash": 3524386983,
+            "name": "PVE-DPS",
+            "plugs": [
+                [
+                    4196967425,
+                    2398680997
+                ],
+                [
+                    2955427634,
+                    2783367502
+                ],
+                [
+                    2621346526,
+                    2495011826
+                ],
+                [
+                    1771339417,
+                    395388285
+                ]
+            ],
+            "tags": [
+                "GodPVE",
+                "PVE"
+            ]
+        },
+        {
+            "description": "With a good base velocity and very low base persistence, its clear Empowered Rail is our best choice out of the bunch. Higher persistence means you have more time to collect your bolts, which is a boon if you are being overwhelmed. Your bolt choice comes down to whether you are going for the freeze + pull combo, or want to have it as a DPS weapon that can lay down some DoT. For Perk 1, Bolt Scavenger or Ensemble are your best choices. Bolt Scavenger helps when running Chill Clip, allowing much faster re-procs of the perk, and Ensemble helps during DPS phases by shortening your reload. Perk 2 will either be Chill Clip for the very high uptime or Firing Line/Aggregate Charge if you want to lean more into a DPS roll.",
+            "hash": 3524386983,
+            "name": "PVE",
+            "plugs": [
+                [
+                    4042220767,
+                    883665727
+                ],
+                [
+                    2978966579,
+                    344235611
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "DPS. With a good base velocity and very low base persistence, its clear Empowered Rail is our best choice out of the bunch. Higher persistence means you have more time to collect your bolts, which is a boon if you are being overwhelmed. Your bolt choice comes down to whether you are going for the freeze + pull combo, or want to have it as a DPS weapon that can lay down some DoT. For Perk 1, Bolt Scavenger or Ensemble are your best choices. Bolt Scavenger helps when running Chill Clip, allowing much faster re-procs of the perk, and Ensemble helps during DPS phases by shortening your reload. Perk 2 will either be Chill Clip for the very high uptime or Firing Line/Aggregate Charge if you want to lean more into a DPS roll.",
+            "hash": 3524386983,
+            "name": "PVE-DPS",
+            "plugs": [
+                [
+                    2621346526,
+                    2495011826
+                ],
+                [
+                    1771339417,
+                    395388285
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 1769847435,
+            "name": "PVE",
+            "plugs": [
+                [
+                    1840239774,
+                    1124871858
+                ],
+                [
+                    106909392,
+                    1783397184
+                ],
+                [
+                    3400784728,
+                    573122728
+                ],
+                [
+                    64866129,
+                    3038247973
+                ],
+                [
+                    2053642371
+                ]
+            ],
+            "tags": [
+                "GodPVE",
+                "PVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 1769847435,
+            "name": "PVE",
+            "plugs": [
+                [
+                    3400784728,
+                    573122728
+                ],
+                [
+                    64866129,
+                    3038247973
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "MW: ReloadThis god roll focuses on how to get the best out of its Void identity, but feeding into the ‘also good’ section of its perks will still produce fantastic results. Repulsor Brace and Destabilizing Rounds are the ultimate Void combo. Defeating targets causes a Void burst, which makes surrounding enemies Volatile. Defeating those enemies or any with a Void debuff will then grant an overshield to your Guardian. This gameplay loop and how powerful this weapon is will tear through enemies with ease, and if any manage to land a shot, the overshield will keep the user safe during a dangerous encounter. The combination of Stats for All and One for All also brings great benefits. Stats for All will push the Handling and Reload Speed to 100 with One for All, which brings a 35% damage buff; it can clear entire fields with just a few shots.",
+            "hash": 4169082039,
+            "name": "PVE-void",
+            "plugs": [
+                [
+                    3525010810,
+                    3250572790
+                ],
+                [
+                    2822142346,
+                    2108812838
+                ],
+                [
+                    776531651,
+                    2541826827
+                ],
+                [
+                    2048641572,
+                    1926441324
+                ],
+                [
+                    3911709647,
+                    483923727
+                ]
+            ],
+            "tags": [
+                "GodPVE",
+                "PVE"
+            ]
+        },
+        {
+            "description": "MW: ReloadThis god roll focuses on how to get the best out of its Void identity, but feeding into the ‘also good’ section of its perks will still produce fantastic results. Repulsor Brace and Destabilizing Rounds are the ultimate Void combo. Defeating targets causes a Void burst, which makes surrounding enemies Volatile. Defeating those enemies or any with a Void debuff will then grant an overshield to your Guardian. This gameplay loop and how powerful this weapon is will tear through enemies with ease, and if any manage to land a shot, the overshield will keep the user safe during a dangerous encounter. The combination of Stats for All and One for All also brings great benefits. Stats for All will push the Handling and Reload Speed to 100 with One for All, which brings a 35% damage buff; it can clear entire fields with just a few shots.",
+            "hash": 4169082039,
+            "name": "PVE-void",
+            "plugs": [
+                [
+                    776531651,
+                    2541826827
+                ],
+                [
+                    2048641572,
+                    1926441324
+                ],
+                [
+                    3911709647,
+                    483923727
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "MW: ReloadThis god roll focuses on how to get the best out of its Void identity, but feeding into the ‘also good’ section of its perks will still produce fantastic results. Repulsor Brace and Destabilizing Rounds are the ultimate Void combo. Defeating targets causes a Void burst, which makes surrounding enemies Volatile. Defeating those enemies or any with a Void debuff will then grant an overshield to your Guardian. This gameplay loop and how powerful this weapon is will tear through enemies with ease, and if any manage to land a shot, the overshield will keep the user safe during a dangerous encounter. The combination of Stats for All and One for All also brings great benefits. Stats for All will push the Handling and Reload Speed to 100 with One for All, which brings a 35% damage buff; it can clear entire fields with just a few shots.",
+            "hash": 4169082039,
+            "name": "PVE-3Hit",
+            "plugs": [
+                [
+                    3525010810,
+                    3250572790
+                ],
+                [
+                    2822142346,
+                    2108812838
+                ],
+                [
+                    1583705720,
+                    1409206216
+                ],
+                [
+                    4049631843,
+                    859780267
+                ],
+                [
+                    3911709647,
+                    483923727
+                ]
+            ],
+            "tags": [
+                "GodPVE",
+                "PVE"
+            ]
+        },
+        {
+            "description": "MW: ReloadThis god roll focuses on how to get the best out of its Void identity, but feeding into the ‘also good’ section of its perks will still produce fantastic results. Repulsor Brace and Destabilizing Rounds are the ultimate Void combo. Defeating targets causes a Void burst, which makes surrounding enemies Volatile. Defeating those enemies or any with a Void debuff will then grant an overshield to your Guardian. This gameplay loop and how powerful this weapon is will tear through enemies with ease, and if any manage to land a shot, the overshield will keep the user safe during a dangerous encounter. The combination of Stats for All and One for All also brings great benefits. Stats for All will push the Handling and Reload Speed to 100 with One for All, which brings a 35% damage buff; it can clear entire fields with just a few shots.",
+            "hash": 4169082039,
+            "name": "PVE-3Hit",
+            "plugs": [
+                [
+                    1583705720,
+                    1409206216
+                ],
+                [
+                    4049631843,
+                    859780267
+                ],
+                [
+                    3911709647,
+                    483923727
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "MW: Handling. Off first impressions, Ribbontail isn’t the strongest trace rifle we’ve gotten, even while solely looking at its competition in the kinetic slot. In PvE, trace rifles are typically used as a utility weapon in double special loadouts. Shoot to Loot is among one of the most popular perks here, and sadly, it’s something Ribbontail is sorely lacking. In reality, you’re fighting with an abysmal majority of perks here, making Ribbontail not worth farming.",
+            "hash": 3576134513,
+            "name": "PVE",
+            "plugs": [
+                [
+                    1840239774,
+                    1124871858
+                ],
+                [
+                    2749775325,
+                    2073750249
+                ],
+                [
+                    1820235745,
+                    4245865861
+                ],
+                [
+                    4198902903,
+                    557221067,
+                    222783511,
+                    2896748467
+                ],
+                [
+                    3911709647,
+                    483923727
+                ]
+            ],
+            "tags": [
+                "GodPVE",
+                "PVE"
+            ]
+        },
+        {
+            "description": "MW: Handling. Off first impressions, Ribbontail isn’t the strongest trace rifle we’ve gotten, even while solely looking at its competition in the kinetic slot. In PvE, trace rifles are typically used as a utility weapon in double special loadouts. Shoot to Loot is among one of the most popular perks here, and sadly, it’s something Ribbontail is sorely lacking. In reality, you’re fighting with an abysmal majority of perks here, making Ribbontail not worth farming.",
+            "hash": 3576134513,
+            "name": "PVE",
+            "plugs": [
+                [
+                    1820235745,
+                    4245865861
+                ],
+                [
+                    4198902903,
+                    557221067,
+                    222783511,
+                    2896748467
+                ],
+                [
+                    3911709647,
+                    483923727
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "MW: Reload. Folded Root is an Aggressive Void Rocket Launcher, which is generally the strongest kind of rocket for damage. While Folded Root may not be a traditional DPS option, having high damage is always a good thing. Folded Root is essentially the Void version of Braytech Osprey, offering similar perks like Cluster Bomb and Bipod, as well as other options such as Air Trigger, Chain Reaction, and Multikill Clip (which obviously is not good). While this rocket may be one of the best for clearing minors and elites, it suffers from not having any damage options, which is the primary use of Rocket Launchers right now. Considering how other Aggressive Rockets, like Hezen Vengeance, have both damage and ad-clear options, it’s hard to sincerely recommend Folded Root. Folded Root is B-Tier for PvE and D-tier for PvP.",
+            "hash": 2725894221,
+            "name": "PVE",
+            "plugs": [
+                [
+                    3525010810,
+                    3250572790
+                ],
+                [
+                    2985827016,
+                    1439751480
+                ],
+                [
+                    1275731761,
+                    2091001077
+                ],
+                [
+                    2396489472,
+                    598607952
+                ],
+                [
+                    3911709647,
+                    483923727
+                ]
+            ],
+            "tags": [
+                "GodPVE",
+                "PVE"
+            ]
+        },
+        {
+            "description": "MW: Reload. Folded Root is an Aggressive Void Rocket Launcher, which is generally the strongest kind of rocket for damage. While Folded Root may not be a traditional DPS option, having high damage is always a good thing. Folded Root is essentially the Void version of Braytech Osprey, offering similar perks like Cluster Bomb and Bipod, as well as other options such as Air Trigger, Chain Reaction, and Multikill Clip (which obviously is not good). While this rocket may be one of the best for clearing minors and elites, it suffers from not having any damage options, which is the primary use of Rocket Launchers right now. Considering how other Aggressive Rockets, like Hezen Vengeance, have both damage and ad-clear options, it’s hard to sincerely recommend Folded Root. Folded Root is B-Tier for PvE and D-tier for PvP.",
+            "hash": 2725894221,
+            "name": "PVE",
+            "plugs": [
+                [
+                    1275731761,
+                    2091001077
+                ],
+                [
+                    2396489472,
+                    598607952
+                ],
+                [
+                    3911709647,
+                    483923727
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "MW: Handling. Phoneutria Fera is one of the most powerful primaries we have. The spread-shot nature, coupled with the hand cannon’s intrinsic high damage per shot, means this tears through all manner of foes with little resistance. And the perk pool really lets it excel in its niche, with things like Threat Detector helping its rather abysmal reload speed and Surrounded to really let it chunk. It also has an amazing origin trait in Tenacity. This increases damage when getting final blows while surrounded, and lasts until you perish, though exact numbers are to be confirmed. Phoneutria Fera is A-Tier for PvE and A-Tier for PvP.",
+            "hash": 3496887154,
+            "name": "PVE",
+            "plugs": [
+                [
+                    1840239774,
+                    1124871858
+                ],
+                [
+                    1087426260,
+                    1065371964
+                ],
+                [
+                    4071163871,
+                    2476672792
+                ],
+                [
+                    3708227201,
+                    781192741
+                ],
+                [
+                    3911709647,
+                    483923727
+                ]
+            ],
+            "tags": [
+                "GodPVE",
+                "PVE"
+            ]
+        },
+        {
+            "description": "MW: Handling. Phoneutria Fera is one of the most powerful primaries we have. The spread-shot nature, coupled with the hand cannon’s intrinsic high damage per shot, means this tears through all manner of foes with little resistance. And the perk pool really lets it excel in its niche, with things like Threat Detector helping its rather abysmal reload speed and Surrounded to really let it chunk. It also has an amazing origin trait in Tenacity. This increases damage when getting final blows while surrounded, and lasts until you perish, though exact numbers are to be confirmed. Phoneutria Fera is A-Tier for PvE and A-Tier for PvP.",
+            "hash": 3496887154,
+            "name": "PVE",
+            "plugs": [
+                [
+                    4071163871,
+                    2476672792
+                ],
+                [
+                    3708227201,
+                    781192741
+                ],
+                [
+                    3911709647,
+                    483923727
+                ]
+            ],
+            "tags": [
+                "GodPVE",
                 "PVE"
             ]
         }
