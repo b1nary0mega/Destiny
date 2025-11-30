@@ -10686,6 +10686,54 @@ dimwishlist:item=4028298892&perks=3797647183,3218042543
 dimwishlist:item=4028298892&perks=3797647183,2633604463
 
 
+// Returned Memory - PVE (god-pve,pve)
+//notes: MW: Handling. Returned Memory has pretty much everything a weapon needs to be meta: a strong frame, outstanding perks, and an easy way to obtain it. In PvE, Returned Memory functions almost identically to Aberrant Action, a top-tier Solar rocket sidearm from Episode: Echoes. You’re mainly looking for Heal Clip and Incandescent here, which both function great on their own but can be pushed even further with a potent Solar build. As for The Crucible, Returned Memory is slightly below average, which is where most other rocket sidearms land. You’re typically better off running a sniper rifle, fusion rifle, or shotgun in nearly every scenario. Returned Memory is S-Tier for PvE and C-Tier for PvP. tags:god-pve,pve
+dimwishlist:item=4049127142&perks=3525010810,3230963543,4223976499,4293542123,3911709647
+dimwishlist:item=4049127142&perks=3525010810,3230963543,4223976499,4293542123,483923727
+dimwishlist:item=4049127142&perks=3525010810,3230963543,4223976499,2675184851,3911709647
+dimwishlist:item=4049127142&perks=3525010810,3230963543,4223976499,2675184851,483923727
+dimwishlist:item=4049127142&perks=3525010810,3230963543,3017780555,4293542123,3911709647
+dimwishlist:item=4049127142&perks=3525010810,3230963543,3017780555,4293542123,483923727
+dimwishlist:item=4049127142&perks=3525010810,3230963543,3017780555,2675184851,3911709647
+dimwishlist:item=4049127142&perks=3525010810,3230963543,3017780555,2675184851,483923727
+dimwishlist:item=4049127142&perks=3525010810,1709045111,4223976499,4293542123,3911709647
+dimwishlist:item=4049127142&perks=3525010810,1709045111,4223976499,4293542123,483923727
+dimwishlist:item=4049127142&perks=3525010810,1709045111,4223976499,2675184851,3911709647
+dimwishlist:item=4049127142&perks=3525010810,1709045111,4223976499,2675184851,483923727
+dimwishlist:item=4049127142&perks=3525010810,1709045111,3017780555,4293542123,3911709647
+dimwishlist:item=4049127142&perks=3525010810,1709045111,3017780555,4293542123,483923727
+dimwishlist:item=4049127142&perks=3525010810,1709045111,3017780555,2675184851,3911709647
+dimwishlist:item=4049127142&perks=3525010810,1709045111,3017780555,2675184851,483923727
+dimwishlist:item=4049127142&perks=3250572790,3230963543,4223976499,4293542123,3911709647
+dimwishlist:item=4049127142&perks=3250572790,3230963543,4223976499,4293542123,483923727
+dimwishlist:item=4049127142&perks=3250572790,3230963543,4223976499,2675184851,3911709647
+dimwishlist:item=4049127142&perks=3250572790,3230963543,4223976499,2675184851,483923727
+dimwishlist:item=4049127142&perks=3250572790,3230963543,3017780555,4293542123,3911709647
+dimwishlist:item=4049127142&perks=3250572790,3230963543,3017780555,4293542123,483923727
+dimwishlist:item=4049127142&perks=3250572790,3230963543,3017780555,2675184851,3911709647
+dimwishlist:item=4049127142&perks=3250572790,3230963543,3017780555,2675184851,483923727
+dimwishlist:item=4049127142&perks=3250572790,1709045111,4223976499,4293542123,3911709647
+dimwishlist:item=4049127142&perks=3250572790,1709045111,4223976499,4293542123,483923727
+dimwishlist:item=4049127142&perks=3250572790,1709045111,4223976499,2675184851,3911709647
+dimwishlist:item=4049127142&perks=3250572790,1709045111,4223976499,2675184851,483923727
+dimwishlist:item=4049127142&perks=3250572790,1709045111,3017780555,4293542123,3911709647
+dimwishlist:item=4049127142&perks=3250572790,1709045111,3017780555,4293542123,483923727
+dimwishlist:item=4049127142&perks=3250572790,1709045111,3017780555,2675184851,3911709647
+dimwishlist:item=4049127142&perks=3250572790,1709045111,3017780555,2675184851,483923727
+
+
+// Returned Memory - PVE (pve)
+//notes: MW: Handling. Returned Memory has pretty much everything a weapon needs to be meta: a strong frame, outstanding perks, and an easy way to obtain it. In PvE, Returned Memory functions almost identically to Aberrant Action, a top-tier Solar rocket sidearm from Episode: Echoes. You’re mainly looking for Heal Clip and Incandescent here, which both function great on their own but can be pushed even further with a potent Solar build. As for The Crucible, Returned Memory is slightly below average, which is where most other rocket sidearms land. You’re typically better off running a sniper rifle, fusion rifle, or shotgun in nearly every scenario. Returned Memory is S-Tier for PvE and C-Tier for PvP. tags:pve
+dimwishlist:item=4049127142&perks=4223976499,4293542123,3911709647
+dimwishlist:item=4049127142&perks=4223976499,4293542123,483923727
+dimwishlist:item=4049127142&perks=4223976499,2675184851,3911709647
+dimwishlist:item=4049127142&perks=4223976499,2675184851,483923727
+dimwishlist:item=4049127142&perks=3017780555,4293542123,3911709647
+dimwishlist:item=4049127142&perks=3017780555,4293542123,483923727
+dimwishlist:item=4049127142&perks=3017780555,2675184851,3911709647
+dimwishlist:item=4049127142&perks=3017780555,2675184851,483923727
+
+
 // Hezen Vengeance - PVE (god-pve)
 //notes: MW: Handling; DPS;  tags:god-pve
 dimwishlist:item=4050645223&perks=981914802,3796465595,3643424744,1275731761
